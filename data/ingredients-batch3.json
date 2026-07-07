@@ -1,273 +1,5 @@
 [
   {
-    "id": "lactobacillus-rhamnosus-hn001",
-    "name": "鼠李糖乳杆菌HN001",
-    "nameEn": "Lactobacillus rhamnosus HN001",
-    "category": "益生菌",
-    "categoryId": "probiotics",
-    "popularity": 3,
-    "summary": "新西兰乳业研究所分离的益生菌菌株，对婴幼儿湿疹预防、呼吸道感染及免疫调节有充分临床证据，Danisco/IFF旗下核心菌株之一。",
-    "chemicalStructure": {
-      "smiles": "N/A(微生物菌株)",
-      "molecularFormula": "N/A(细胞成分)",
-      "molecularWeight": "N/A",
-      "casNumber": "N/A(生物菌株)"
-    },
-    "dosage": {
-      "minEffective": "10亿",
-      "recommended": "50-100亿",
-      "safeUpperLimit": "500亿",
-      "unit": "CFU/天",
-      "note": "孕妇及哺乳期服用可降低婴幼儿湿疹风险。建议孕期及婴幼儿期持续服用。"
-    },
-    "forms": [
-      {
-        "name": "冻干菌粉胶囊",
-        "description": "冻干菌粉硬胶囊",
-        "bioavailability": "中-高",
-        "advantages": [
-          "剂量准确",
-          "常温稳定"
-        ],
-        "disadvantages": [
-          "对胃酸敏感者存活率下降"
-        ]
-      },
-      {
-        "name": "冲饮粉",
-        "description": "与益生元复配冲饮粉",
-        "bioavailability": "中-高",
-        "advantages": [
-          "可复配低聚糖",
-          "适合儿童"
-        ],
-        "disadvantages": [
-          "需冲调"
-        ]
-      },
-      {
-        "name": "滴剂/油剂",
-        "description": "菌粉悬浮于植物油",
-        "bioavailability": "高",
-        "advantages": [
-          "适合婴幼儿",
-          "剂量灵活"
-        ],
-        "disadvantages": [
-          "成本较高"
-        ]
-      },
-      {
-        "name": "发酵乳",
-        "description": "添加于酸奶或发酵乳",
-        "bioavailability": "高",
-        "advantages": [
-          "存活率高",
-          "口感好"
-        ],
-        "disadvantages": [
-          "冷链要求"
-        ]
-      }
-    ],
-    "suppliers": [
-      {
-        "name": "Danisco (IFF)",
-        "country": "美国",
-        "website": "",
-        "purity": "≥1000亿CFU/g",
-        "features": "HN001™商标持有者，HOWARU®系列菌株"
-      },
-      {
-        "name": "Lallemand",
-        "country": "加拿大",
-        "website": "",
-        "purity": "≥500亿CFU/g",
-        "features": "HN001定制发酵服务"
-      }
-    ],
-    "dosageForms": [
-      {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "硬胶囊菌粉",
-        "advantages": [
-          "剂量准确",
-          "成本低"
-        ]
-      },
-      {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "袋装粉剂",
-        "advantages": [
-          "可复配益生元",
-          "适合儿童"
-        ]
-      },
-      {
-        "name": "滴剂",
-        "category": "新型剂型",
-        "description": "油性滴剂",
-        "advantages": [
-          "婴幼儿首选",
-          "剂量灵活"
-        ]
-      },
-      {
-        "name": "发酵乳",
-        "category": "传统剂型",
-        "description": "酸奶或发酵乳",
-        "advantages": [
-          "口感佳",
-          "存活率高"
-        ]
-      },
-      {
-        "name": "软糖",
-        "category": "前沿剂型",
-        "description": "益生菌软糖",
-        "advantages": [
-          "儿童依从性高"
-        ]
-      }
-    ],
-    "compliance": [
-      {
-        "region": "CN",
-        "regionName": "中国",
-        "status": "approved",
-        "description": "鼠李糖乳杆菌列入《可用于食品的菌种名单》及《可用于婴幼儿食品的菌种名单》",
-        "maxDosage": "无明确上限",
-        "usageNote": "婴幼儿配方食品需单独申报"
-      },
-      {
-        "region": "US",
-        "regionName": "美国",
-        "status": "approved",
-        "description": "FDA GRAS认定，可作为膳食补充剂",
-        "maxDosage": "无明确上限",
-        "usageNote": "产品需标注CFU数"
-      },
-      {
-        "region": "EU",
-        "regionName": "欧盟",
-        "status": "approved",
-        "description": "EFSA QPS认定(鼠李糖乳杆菌)",
-        "maxDosage": "无明确上限",
-        "usageNote": "健康声称需个案审批"
-      },
-      {
-        "region": "JP",
-        "regionName": "日本",
-        "status": "approved",
-        "description": "可作为食品原料使用",
-        "maxDosage": "无明确上限",
-        "usageNote": "特定保健用食品需个别审批"
-      },
-      {
-        "region": "AU",
-        "regionName": "澳大利亚",
-        "status": "approved",
-        "description": "TGA Listed Medicine允许使用",
-        "maxDosage": "无明确上限",
-        "usageNote": "治疗类声称需登记"
-      }
-    ],
-    "efficacy": "临床证实孕期及婴幼儿早期服用HN001可显著降低儿童湿疹发生率(2岁时降低约44%)，缩短呼吸道感染持续时间，增强NK细胞活性，改善老年人免疫功能。",
-    "mechanism": {
-      "overview": "HN001通过调节Th1/Th2免疫平衡、增强黏膜sIgA、激活NK细胞及调节Treg分化，发挥免疫调节及抗过敏作用。",
-      "steps": [
-        {
-          "title": "肠道定植",
-          "description": "菌体黏附素与肠上皮细胞受体结合，短暂定植1-2周"
-        },
-        {
-          "title": "免疫信号调节",
-          "description": "通过TLR-2/TLR-9信号激活树突状细胞，促进IL-12分泌，增强Th1应答"
-        },
-        {
-          "title": "Treg诱导",
-          "description": "诱导调节性T细胞分化，增加IL-10和TGF-β分泌，抑制过度Th2应答"
-        },
-        {
-          "title": "黏膜免疫增强",
-          "description": "刺激B细胞产生sIgA，增强呼吸道及肠道黏膜屏障免疫"
-        },
-        {
-          "title": "NK细胞激活",
-          "description": "激活自然杀伤细胞活性，提升抗病毒及抗肿瘤免疫能力"
-        }
-      ],
-      "scientificReferences": [
-        "Wickens K et al. (2008) Clin Exp Allergy 38(7):1135-1142",
-        "Wickens K et al. (2013) Clin Exp Allergy 43(9):1048-1057",
-        "Gill HS et al. (2001) Br J Nutr 86(6):777-784"
-      ]
-    },
-    "productCases": [
-      {
-        "name": "Life Space Life-Space Probiotic Pregnancy",
-        "brand": "Life Space",
-        "url": "https://www.lifespaceprobiotics.com",
-        "price": "¥200/瓶(60粒)",
-        "sales": "澳洲孕妇益生菌热销",
-        "otherIngredients": [
-          "低聚果糖",
-          "麦芽糊精"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "益佰生益生菌粉(儿童款)",
-        "brand": "益佰生",
-        "url": "",
-        "price": "¥158/盒(30袋)",
-        "sales": "国内儿童HN001益生菌",
-        "otherIngredients": [
-          "低聚半乳糖",
-          "麦芽糊精"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "Swisse Kids Probiotic",
-        "brand": "Swisse",
-        "url": "https://www.swisse.com",
-        "price": "¥180/瓶(30袋)",
-        "sales": "澳洲儿童益生菌",
-        "otherIngredients": [
-          "菊粉",
-          "天然果味剂"
-        ],
-        "dosageForm": "冲饮粉"
-      }
-    ],
-    "costs": {
-      "rawMaterial": "HN001冻干菌粉约¥8000-13000/kg(≥1000亿CFU/g)",
-      "dosageFormCost": [
-        {
-          "form": "胶囊(100亿CFU/粒)",
-          "cost": "¥0.4-0.8/粒"
-        },
-        {
-          "form": "冲饮粉(50亿CFU/袋)",
-          "cost": "¥0.3-0.6/袋"
-        },
-        {
-          "form": "滴剂(50亿CFU/5滴)",
-          "cost": "¥1.5-3/ml"
-        },
-        {
-          "form": "软糖(50亿CFU/粒)",
-          "cost": "¥0.8-1.5/粒"
-        }
-      ],
-      "packagingCost": "¥1-3/瓶(30-60粒)，铝箔袋¥0.3-0.8/袋",
-      "totalEstimate": "终端产品成本约¥30-100/瓶"
-    }
-  },
-  {
     "id": "bifidobacterium-lactis-hn019",
     "name": "乳双歧杆菌HN019",
     "nameEn": "Bifidobacterium animalis subsp. lactis HN019",
@@ -3553,7 +3285,10 @@
       ],
       "packagingCost": "¥1-3/瓶(30-60粒)，铝箔袋¥0.5-1/袋，滴剂瓶¥3-6/瓶",
       "totalEstimate": "终端产品成本约¥40-150/瓶，高端婴幼儿产品溢价较高"
-    }
+    },
+    "secondaryCategoryIds": [
+      "gut"
+    ]
   },
   {
     "id": "akkermansia-muciniphila",
@@ -14530,6 +14265,227 @@
       ],
       "packagingCost": "软胶囊/硬胶囊¥4-10/瓶(60粒)",
       "totalEstimate": "终端产品成本¥40-130/瓶,零售价通常¥200-450/瓶"
+    }
+  },
+  {
+    "id": "cassia-seed",
+    "name": "决明子提取物",
+    "nameEn": "Cassia Seed Extract (Semen Cassiae)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "eye",
+      "liver"
+    ],
+    "popularity": 4,
+    "summary": "经典药食同源明目原料，含大黄酚、决明素等蒽醌类活性成分，具有清肝明目、润肠通便功效。现代研究表明其具有降血脂、保肝、改善视力疲劳等作用，广泛用于护眼和护肝类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=CC=C3O",
+      "molecularFormula": "C15H10O4（大黄酚）",
+      "molecularWeight": "254.24 g/mol（大黄酚）",
+      "casNumber": "481-74-3（大黄酚）/ 135-43-5（决明素）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化提取物）",
+      "note": "标准化含≥2%总蒽醌。生决明子润肠通便力强，炒决明子寒性减弱更适合长期服用。脾胃虚寒者慎用，孕妇禁用。建议连续服用4-8周评估视力改善效果。"
+    },
+    "forms": [
+      {
+        "name": "炒决明子水提物（标准化≥2%总蒽醌）",
+        "description": "决明子炒制后水提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "炒制减寒性更适合长期服用",
+          "标准化含量可控",
+          "明目功效显著"
+        ],
+        "disadvantages": [
+          "润肠作用较强",
+          "脾胃虚寒者慎用"
+        ]
+      },
+      {
+        "name": "决明子醇提物（富集蒽醌）",
+        "description": "乙醇提取富集大黄酚、决明素等蒽醌类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "蒽醌含量高",
+          "降脂保肝活性强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "醇溶性杂质多"
+        ]
+      },
+      {
+        "name": "决明子全粉",
+        "description": "炒决明子研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "成本最低",
+          "可泡茶饮用"
+        ],
+        "disadvantages": [
+          "活性低需高剂量",
+          "溶出差"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物技术有限公司",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "总蒽醌≥2%",
+        "features": "专注植物提取物10余年"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "大黄酚≥1%",
+        "features": "供应欧美市场"
+      },
+      {
+        "name": "西安源森生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.yoursunherb.com",
+        "purity": "总蒽醌≥3%",
+        "features": "GMP认证工厂"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "清肝明目，润肠通便。决明子中的蒽醌类化合物具有显著的保肝降脂、改善视力疲劳作用。临床研究表明，连续服用决明子提取物8周可降低总胆固醇5-15%，改善干眼症和视疲劳症状。",
+    "mechanism": {
+      "overview": "决明子的明目和保肝作用主要通过蒽醌类活性成分实现。大黄酚和决明素能清除肝脏自由基、抑制脂质过氧化，保护肝细胞；同时通过激活视网膜微循环、改善眼部供血来缓解视疲劳。蒽醌类成分还能刺激肠道蠕动，发挥润肠通便作用。",
+      "steps": [
+        {
+          "title": "清除肝脏自由基",
+          "description": "蒽醌类成分清除肝细胞内ROS和自由基，抑制脂质过氧化，保护肝细胞膜完整性"
+        },
+        {
+          "title": "改善视网膜微循环",
+          "description": "活性成分促进眼部血管扩张，改善视网膜和黄斑区血液供应，缓解视疲劳"
+        },
+        {
+          "title": "调节脂质代谢",
+          "description": "大黄酚抑制HMG-CoA还原酶活性，减少胆固醇合成，降低血清总胆固醇和LDL-C"
+        },
+        {
+          "title": "促进肠道蠕动",
+          "description": "蒽醌类成分刺激大肠黏膜，增加肠道蠕动，发挥润肠通便作用"
+        }
+      ],
+      "scientificReferences": [
+        "Zhao J et al. Cassia seed extract improves lipid metabolism in hyperlipidemic rats. J Ethnopharmacol. 2019;242:112056.",
+        "Wang L et al. Neuroprotective effects of cassia seed extract on retinal ganglion cells. Phytother Res. 2020;34(8):2015-2025.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 决明子."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "汤臣倍健决明子菊花茶",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com",
+        "price": "¥39/盒(20包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "菊花",
+          "枸杞子",
+          "绿茶"
+        ],
+        "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂决明子软胶囊",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥89/瓶(60粒)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "枸杞提取物",
+          "叶黄素"
+        ],
+        "dosageForm": "软胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-150/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "片剂",
+          "cost": "¥0.06-0.12/片"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.30/包"
+        }
+      ],
+      "packagingCost": "¥0.50-2.00/单位",
+      "totalEstimate": "硬胶囊：¥0.6-1.5/粒（含原料+制粒+填充+包装）；月成本约¥36-90/人（每日2粒）"
     }
   }
 ]

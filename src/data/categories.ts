@@ -97,6 +97,6 @@ export const categories: Category[] = [
     "name": "药食同源",
     "icon": "leaf",
     "description": "国家卫健委公布的药食同源物质，兼具食品与药用价值，可合法用于保健食品",
-    "ingredientCount": 107
+    "ingredientCount": 30
   }
 ];
