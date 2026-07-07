@@ -1,0 +1,353 @@
+import { useParams, useNavigate } from 'react-router-dom';
+import { ingredients } from '@/data/index';
+import { ComplianceBadge } from '@/components/ComplianceBadge';
+import { PopularityBadge } from '@/components/PopularityBadge';
+import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink } from 'lucide-react';
+
+export function IngredientDetailPage() {
+  const { ingredientId } = useParams<{ ingredientId: string }>();
+  const navigate = useNavigate();
+
+  const ing = ingredients.find((i) => i.id === ingredientId);
+
+  if (!ing) {
+    return (
+      <div className="text-center py-20">
+        <p className="text-gray-400 text-lg">原料未找到</p>
+        <button onClick={() => navigate('/')} className="mt-4 text-teal-600 hover:underline">返回首页</button>
+      </div>
+    );
+  }
+
+  return (
+    <div className="space-y-6 animate-fade-in">
+      {/* 导航 */}
+      <div className="flex flex-wrap items-center gap-2 text-sm text-gray-500">
+        <button onClick={() => navigate('/')} className="hover:text-teal-600 transition-colors">首页</button>
+        <span>/</span>
+        <button onClick={() => navigate(`/category/${ing.categoryId}`)} className="hover:text-teal-600 transition-colors">{ing.category}</button>
+        <span>/</span>
+        <span className="text-gray-800 font-medium">{ing.name}</span>
+      </div>
+
+      {/* 标题区 */}
+      <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <div className="flex flex-wrap items-center gap-2 mb-1">
+          <span className="text-xs font-medium text-teal-600 bg-teal-50 px-2.5 py-1 rounded-full">{ing.category}</span>
+          <PopularityBadge popularity={ing.popularity} />
+        </div>
+        <h1 className="text-2xl md:text-3xl font-bold text-gray-800 mt-3">{ing.name}</h1>
+        <p className="text-sm text-teal-600 font-mono mt-1">{ing.nameEn}</p>
+        <p className="text-gray-600 mt-3 leading-relaxed">{ing.summary}</p>
+        {/* 化学信息 */}
+        <div className="flex flex-wrap gap-3 mt-4 text-sm">
+          <div className="bg-gray-50 px-3 py-1.5 rounded-lg">
+            <span className="text-gray-400">分子式 </span>
+            <span className="font-mono text-gray-700">{ing.chemicalStructure.molecularFormula}</span>
+          </div>
+          <div className="bg-gray-50 px-3 py-1.5 rounded-lg">
+            <span className="text-gray-400">分子量 </span>
+            <span className="font-mono text-gray-700">{ing.chemicalStructure.molecularWeight}</span>
+          </div>
+          <div className="bg-gray-50 px-3 py-1.5 rounded-lg">
+            <span className="text-gray-400">CAS号 </span>
+            <span className="font-mono text-gray-700">{ing.chemicalStructure.casNumber}</span>
+          </div>
+        </div>
+      </div>
+
+      {/* 起效剂量 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-amber-100 flex items-center justify-center">
+            <Pill className="w-5 h-5 text-amber-600" strokeWidth={1.8} />
+          </div>
+          起效剂量
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
+          <div className="bg-amber-50 rounded-xl p-4">
+            <p className="text-xs text-amber-600 font-medium mb-1">最低起效剂量</p>
+            <p className="text-2xl font-bold text-amber-700">{ing.dosage.minEffective}<span className="text-sm font-normal ml-1">{ing.dosage.unit}</span></p>
+          </div>
+          <div className="bg-teal-50 rounded-xl p-4">
+            <p className="text-xs text-teal-600 font-medium mb-1">推荐剂量</p>
+            <p className="text-2xl font-bold text-teal-700">{ing.dosage.recommended}<span className="text-sm font-normal ml-1">{ing.dosage.unit}</span></p>
+          </div>
+          <div className="bg-red-50 rounded-xl p-4">
+            <p className="text-xs text-red-600 font-medium mb-1">安全上限</p>
+            <p className="text-2xl font-bold text-red-700">{ing.dosage.safeUpperLimit}<span className="text-sm font-normal ml-1">{ing.dosage.unit}</span></p>
+          </div>
+        </div>
+        <p className="mt-4 text-sm text-gray-500 bg-gray-50 rounded-lg p-3">{ing.dosage.note}</p>
+      </section>
+
+      {/* 常见存在形式 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-teal-100 flex items-center justify-center">
+            <Beaker className="w-5 h-5 text-teal-600" strokeWidth={1.8} />
+          </div>
+          常见存在形式
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+          {ing.forms.map((form, idx) => (
+            <div key={idx} className="border border-gray-200 rounded-xl p-4 hover:border-teal-200 transition-colors">
+              <h3 className="font-semibold text-gray-800 mb-1">{form.name}</h3>
+              <p className="text-xs text-gray-500 mb-2">{form.description}</p>
+              <div className="mb-2">
+                <span className="text-xs text-gray-400">生物利用度：</span>
+                <span className="text-xs font-medium text-teal-600">{form.bioavailability}</span>
+              </div>
+              <div className="flex flex-wrap gap-1 mb-2">
+                {form.advantages.slice(0, 2).map((a, i) => (
+                  <span key={i} className="text-xs bg-teal-50 text-teal-700 px-2 py-0.5 rounded-full">✓ {a}</span>
+                ))}
+              </div>
+              {form.disadvantages.length > 0 && (
+                <div className="flex flex-wrap gap-1">
+                  {form.disadvantages.slice(0, 1).map((d, i) => (
+                    <span key={i} className="text-xs bg-red-50 text-red-600 px-2 py-0.5 rounded-full">✗ {d}</span>
+                  ))}
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 供应商 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-cyan-100 flex items-center justify-center">
+            <Factory className="w-5 h-5 text-cyan-600" strokeWidth={1.8} />
+          </div>
+          国内外知名原料供应商
+        </h2>
+        <div className="overflow-x-auto">
+          {ing.suppliers.filter((sup) => sup.website).length > 0 ? (
+          <table className="w-full text-sm">
+            <thead>
+              <tr className="border-b border-gray-200">
+                <th className="text-left py-3 px-3 font-medium text-gray-500">供应商</th>
+                <th className="text-left py-3 px-3 font-medium text-gray-500">国家</th>
+                <th className="text-left py-3 px-3 font-medium text-gray-500">纯度/标准</th>
+                <th className="text-left py-3 px-3 font-medium text-gray-500">特点</th>
+                <th className="text-left py-3 px-3 font-medium text-gray-500">官网</th>
+              </tr>
+            </thead>
+            <tbody>
+              {ing.suppliers.filter((sup) => sup.website).map((sup, idx) => (
+                <tr key={idx} className="border-b border-gray-100 hover:bg-teal-50/30">
+                  <td className="py-3 px-3 font-medium text-gray-800">{sup.name}</td>
+                  <td className="py-3 px-3 text-gray-500">{sup.country}</td>
+                  <td className="py-3 px-3">
+                    <span className="text-xs bg-blue-50 text-blue-700 px-2 py-1 rounded-full">{sup.purity}</span>
+                  </td>
+                  <td className="py-3 px-3 text-gray-500 text-xs max-w-xs">{sup.features || '-'}</td>
+                  <td className="py-3 px-3">
+                    <a href={sup.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-teal-600 hover:text-teal-700 hover:underline text-xs transition-colors">
+                      {(() => {
+                        try { return new URL(sup.website).hostname.replace('www.', ''); }
+                        catch { return sup.website; }
+                      })()}
+                      <ExternalLink className="w-3 h-3" />
+                    </a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+          ) : (
+            <p className="text-gray-400 text-sm py-4 text-center">暂无可用供应商链接，信息持续更新中</p>
+          )}
+        </div>
+      </section>
+
+      {/* 制剂类型 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-violet-100 flex items-center justify-center">
+            <Pill className="w-5 h-5 text-violet-600" strokeWidth={1.8} />
+          </div>
+          可制备剂型
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {ing.dosageForms.map((df, idx) => (
+            <div key={idx} className="border border-gray-200 rounded-xl p-4">
+              <div className="flex items-center gap-2 mb-2">
+                <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${
+                  df.category === '前沿剂型' ? 'bg-purple-50 text-purple-600' :
+                  df.category === '新型剂型' ? 'bg-blue-50 text-blue-600' :
+                  'bg-gray-100 text-gray-600'
+                }`}>{df.category}</span>
+                <h3 className="font-semibold text-gray-800">{df.name}</h3>
+              </div>
+              <p className="text-sm text-gray-500 mb-2">{df.description}</p>
+              <div className="flex flex-wrap gap-1">
+                {df.advantages.map((a, i) => (
+                  <span key={i} className="text-xs bg-teal-50 text-teal-700 px-2 py-0.5 rounded-full">{a}</span>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 全球合规性 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-blue-100 flex items-center justify-center">
+            <Globe className="w-5 h-5 text-blue-600" strokeWidth={1.8} />
+          </div>
+          全球合规性
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {ing.compliance.map((comp, idx) => (
+            <div key={idx} className="border border-gray-200 rounded-xl p-4">
+              <div className="flex items-center justify-between mb-2">
+                <span className="font-semibold text-gray-800">{comp.regionName} ({comp.region})</span>
+                <ComplianceBadge status={comp.status} />
+              </div>
+              <p className="text-sm text-gray-500">{comp.description}</p>
+              {comp.maxDosage && (
+                <p className="text-xs text-amber-600 mt-1">限量：{comp.maxDosage}</p>
+              )}
+              {comp.usageNote && (
+                <p className="text-xs text-red-500 mt-1">⚠ {comp.usageNote}</p>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 功效说明 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-red-100 flex items-center justify-center">
+            <Target className="w-5 h-5 text-red-600" strokeWidth={1.8} />
+          </div>
+          核心功效
+        </h2>
+        <p className="text-gray-700 leading-relaxed">{ing.efficacy}</p>
+      </section>
+
+      {/* 作用机理 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-teal-100 flex items-center justify-center">
+            <Microscope className="w-5 h-5 text-teal-600" strokeWidth={1.8} />
+          </div>
+          作用机理
+        </h2>
+        <p className="text-gray-700 mb-6 leading-relaxed">{ing.mechanism.overview}</p>
+        <div className="space-y-4">
+          {ing.mechanism.steps.map((step, idx) => (
+            <div key={idx} className="flex gap-4">
+              <div className="shrink-0 w-8 h-8 rounded-full bg-teal-100 text-teal-600 flex items-center justify-center font-bold text-sm">
+                {idx + 1}
+              </div>
+              <div className="flex-1 bg-gray-50 rounded-xl p-4">
+                <h4 className="font-semibold text-gray-800 mb-1">{step.title}</h4>
+                <p className="text-sm text-gray-600">{step.description}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+        {ing.mechanism.scientificReferences.length > 0 && (
+          <div className="mt-6 pt-4 border-t border-gray-100">
+            <h4 className="text-sm font-medium text-gray-500 mb-2 flex items-center gap-1.5">
+              <BookOpen className="w-4 h-4 text-gray-400" />
+              科学参考文献
+            </h4>
+            <ul className="space-y-1">
+              {ing.mechanism.scientificReferences.map((ref, idx) => (
+                <li key={idx} className="text-xs text-gray-400 font-mono">{ref}</li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </section>
+
+      {/* 成功产品案例 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-amber-100 flex items-center justify-center">
+            <Trophy className="w-5 h-5 text-amber-600" strokeWidth={1.8} />
+          </div>
+          成功产品案例
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {ing.productCases.map((pc, idx) => (
+            <div key={idx} className="border border-gray-200 rounded-xl p-5 hover:border-teal-200 transition-colors">
+              <div className="flex items-start justify-between mb-2">
+                <div>
+                  <h3 className="font-semibold text-gray-800">{pc.name}</h3>
+                  <p className="text-xs text-teal-600">{pc.brand}</p>
+                </div>
+                <span className="text-xs bg-gray-100 text-gray-500 px-2 py-1 rounded-full">{pc.dosageForm}</span>
+              </div>
+              <div className="grid grid-cols-2 gap-2 text-sm mb-3">
+                <div>
+                  <span className="text-xs text-gray-400">价格</span>
+                  <p className="text-gray-700 font-medium">{pc.price}</p>
+                </div>
+                <div>
+                  <span className="text-xs text-gray-400">销量</span>
+                  <p className="text-gray-700 font-medium">{pc.sales}</p>
+                </div>
+              </div>
+              <div>
+                <span className="text-xs text-gray-400">其他成分：</span>
+                <div className="flex flex-wrap gap-1 mt-1">
+                  {pc.otherIngredients.map((oi, i) => (
+                    <span key={i} className="text-xs bg-gray-50 text-gray-600 px-2 py-0.5 rounded-full">{oi}</span>
+                  ))}
+                </div>
+              </div>
+              {pc.url && (
+                <a href={pc.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-xs text-teal-600 hover:text-teal-700 hover:underline mt-2 transition-colors">
+                  访问官网 <ExternalLink className="w-3 h-3" />
+                </a>
+              )}
+            </div>
+          ))}
+        </div>
+      </section>
+
+      {/* 成本评估 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-teal-100 flex items-center justify-center">
+            <DollarSign className="w-5 h-5 text-teal-600" strokeWidth={1.8} />
+          </div>
+          成本评估
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          <div className="bg-gray-50 rounded-xl p-4">
+            <h4 className="text-sm font-semibold text-gray-700 mb-2">原料成本</h4>
+            <p className="text-sm text-gray-600">{ing.costs.rawMaterial}</p>
+          </div>
+          <div className="bg-gray-50 rounded-xl p-4">
+            <h4 className="text-sm font-semibold text-gray-700 mb-2">包装成本</h4>
+            <p className="text-sm text-gray-600">{ing.costs.packagingCost}</p>
+          </div>
+        </div>
+        <div className="mt-4">
+          <h4 className="text-sm font-semibold text-gray-700 mb-2">剂型制备成本</h4>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+            {ing.costs.dosageFormCost.map((dfc, idx) => (
+              <div key={idx} className="bg-gray-50 rounded-lg p-3">
+                <span className="text-xs text-gray-500">{dfc.form}</span>
+                <p className="text-sm font-medium text-gray-700">{dfc.cost}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+        <div className="mt-4 bg-teal-50 rounded-xl p-4">
+          <h4 className="text-sm font-semibold text-teal-700 mb-1">终端成本预估</h4>
+          <p className="text-sm text-teal-800 font-medium">{ing.costs.totalEstimate}</p>
+        </div>
+      </section>
+    </div>
+  );
+}

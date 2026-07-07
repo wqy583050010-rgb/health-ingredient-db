@@ -1,0 +1,22 @@
+{
+  "exportTime": "2026-07-07T01:35:04.271Z",
+  "totalCategories": 14,
+  "totalFactories": 35,
+  "totalIngredients": 174,
+  "ingredientsByCategory": {
+    "immune": 20,
+    "antioxidant": 17,
+    "sleep": 17,
+    "weight": 13,
+    "liver": 13,
+    "gut": 16,
+    "cardiovascular": 14,
+    "bone": 12,
+    "beauty": 11,
+    "eye": 13,
+    "energy": 14,
+    "bloodsugar": 9,
+    "probiotics": 18,
+    "herb-food": 29
+  }
+}

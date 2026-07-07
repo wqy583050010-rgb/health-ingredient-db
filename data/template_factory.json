@@ -1,0 +1,30 @@
+{
+  "id": "new-factory-id",
+  "name": "工厂中文名",
+  "nameEn": "Factory English Name Co., Ltd.",
+  "region": "domestic",
+  "location": "省市",
+  "address": "详细地址",
+  "phone": "联系电话",
+  "email": "邮箱地址",
+  "founded": "成立年份",
+  "employees": "员工规模",
+  "revenue": "营收规模",
+  "stockCode": "股票代码（可选，没有则删除此行）",
+  "factories": "生产基地情况",
+  "moq": "最小起订量",
+  "priceRange": "价格范围",
+  "dosageForms": ["剂型1", "剂型2", "剂型3"],
+  "patents": "专利情况",
+  "certifications": ["认证1", "认证2", "认证3"],
+  "clients": "客户情况",
+  "successCases": [
+    {
+      "name": "成功案例名称",
+      "url": "https://案例链接"
+    }
+  ],
+  "website": "https://官网地址",
+  "intro": "公司简介",
+  "highlights": ["亮点1", "亮点2", "亮点3"]
+}

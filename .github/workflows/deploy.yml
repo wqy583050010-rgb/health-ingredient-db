@@ -1,0 +1,48 @@
+name: Deploy Site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate TS from JSON
+        run: python scripts/build_from_json.py
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Build main site
+        run: npm run build
+
+      - name: Build admin panel
+        run: npm run admin:build
+
+      - name: Publish to Pages (main root)
+        run: |
+          cp dist/index.html ./index.html
+          cp admin-dist/index.html ./admin.html
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html admin.html
+          git commit -m "deploy: $(date +%Y%m%d-%H%M)" || echo "no changes"
+          git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main

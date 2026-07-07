@@ -1,0 +1,95 @@
+{
+  "id": "新原料ID（英文小写+连字符，如 new-ingredient）",
+  "name": "原料中文名",
+  "nameEn": "Ingredient English Name",
+  "category": "分类中文名（如：增强免疫力）",
+  "categoryId": "分类ID（如：immune）",
+  "secondaryCategoryIds": ["herb-food"],
+  "popularity": 3,
+  "summary": "一句话概述该原料的核心功效和特点",
+  "chemicalStructure": {
+    "smiles": "SMILES分子结构式",
+    "molecularFormula": "分子式（如 C₂₇H₄₄O）",
+    "molecularWeight": "分子量（如 384.64 g/mol）",
+    "casNumber": "CAS号（如 67-97-0）"
+  },
+  "dosage": {
+    "minEffective": "最低起效剂量（如 400）",
+    "recommended": "推荐剂量（如 1000-2000）",
+    "safeUpperLimit": "安全上限（如 4000）",
+    "unit": "单位（如 IU/天 或 mg/天）",
+    "note": "使用注意事项"
+  },
+  "forms": [
+    {
+      "name": "存在形式名称",
+      "description": "形式描述",
+      "bioavailability": "生物利用度说明",
+      "advantages": ["优点1", "优点2"],
+      "disadvantages": ["缺点1", "缺点2"]
+    }
+  ],
+  "suppliers": [
+    {
+      "name": "供应商名称",
+      "country": "国家",
+      "website": "https://供应商网址",
+      "purity": "纯度（如 ≥99.5%）",
+      "features": "特点说明"
+    }
+  ],
+  "dosageForms": [
+    {
+      "name": "剂型名称",
+      "category": "传统剂型 | 新型剂型 | 前沿剂型",
+      "description": "剂型描述",
+      "advantages": ["优势1", "优势2"]
+    }
+  ],
+  "compliance": [
+    {
+      "region": "CN",
+      "regionName": "中国",
+      "status": "approved | restricted | prohibited | pending",
+      "description": "合规说明",
+      "maxDosage": "最大剂量（可选）",
+      "usageNote": "使用备注（可选）"
+    }
+  ],
+  "efficacy": "详细功效说明",
+  "mechanism": {
+    "overview": "作用机理概述",
+    "steps": [
+      {
+        "title": "步骤标题",
+        "description": "步骤描述"
+      }
+    ],
+    "scientificReferences": [
+      "参考文献1",
+      "参考文献2"
+    ]
+  },
+  "productCases": [
+    {
+      "name": "产品名称",
+      "brand": "品牌",
+      "url": "https://产品网址",
+      "price": "价格",
+      "sales": "销量",
+      "otherIngredients": ["其他成分1", "其他成分2"],
+      "dosageForm": "剂型"
+    }
+  ],
+  "costs": {
+    "rawMaterial": "原料成本/kg",
+    "dosageFormCost": [
+      {
+        "form": "剂型",
+        "cost": "制备成本"
+      }
+    ],
+    "packagingCost": "包装成本/unit",
+    "totalEstimate": "总体成本评估"
+  }
+}
