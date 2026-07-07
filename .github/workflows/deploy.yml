@@ -15,6 +15,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # 关键：恢复正确的源码入口 index.html（deploy 末尾会把构建产物写回 index.html，
+      # 若不恢复，下一次构建会拿“已构建的单文件 HTML”当入口，导致数据被旧产物覆盖）
+      - name: Restore source entry
+        run: cp index.src.html index.html
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -26,7 +31,7 @@ jobs:
           node-version: '20'
 
       - name: Generate TS from JSON
-        run: python scripts/build_from_json.py
+        run: python scripts/build_from_json.py --no-build
 
       - name: Install dependencies
         run: npm ci || npm install

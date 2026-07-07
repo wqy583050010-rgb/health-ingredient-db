@@ -3,5 +3,6 @@ dist/
 admin/admin-dist/
 admin.html
 index.html
-data/ingredients-batch*.json
+# 单一大文件超 MCP/API 1MB 限制，不入库；数据以分批文件入库，构建时自动拼接
+data/all_ingredients.json
 .git/

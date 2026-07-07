@@ -19,6 +19,7 @@ import os
 import sys
 import subprocess
 import argparse
+import math
 from pathlib import Path
 from datetime import datetime
 
@@ -407,6 +408,24 @@ def step4_deploy():
     log("提示: CDN 缓存约需 5-10 分钟刷新", "WARN")
     return True
 
+def sync_batches(chunk=50):
+    """将 all_ingredients.json 切分为多个 <1MB 的批次文件，便于通过 API/MCP 推送。
+    仅当 all_ingredients.json 存在时执行；批次文件为可入库的 canonical 表示。"""
+    all_ing_path = DATA_DIR / "all_ingredients.json"
+    if not all_ing_path.exists():
+        log("sync_batches: 未找到 all_ingredients.json，跳过批次同步", "WARN")
+        return
+    ings = load_json(all_ing_path)
+    # 清理旧批次
+    for old in DATA_DIR.glob("ingredients-batch*.json"):
+        old.unlink()
+    n = math.ceil(len(ings) / chunk)
+    for i in range(n):
+        seg = ings[i * chunk:(i + 1) * chunk]
+        out = DATA_DIR / f"ingredients-batch{i + 1}.json"
+        out.write_text(json.dumps(seg, ensure_ascii=False, indent=2), encoding="utf-8")
+    log(f"sync_batches: 已生成 {n} 个批次文件（共 {len(ings)} 种，每批 ≤{chunk}）", "OK")
+
 def main():
     parser = argparse.ArgumentParser(description='保健食品原料网站 - JSON 构建部署工具')
     parser.add_argument('--deploy', action='store_true', help='构建后部署到 GitHub Pages')
@@ -424,7 +443,10 @@ def main():
     # 步骤1: 验证
     if not step1_validate():
         sys.exit(1)
-    
+
+    # 步骤1.5: 同步批次文件（保证可推送的批次与 all_ingredients.json 一致）
+    sync_batches()
+
     if args.check:
         log("\n仅验证模式完成。", "OK")
         return

@@ -1,0 +1,6889 @@
+[
+  {
+    "id": "cassia-seed",
+    "name": "决明子提取物",
+    "nameEn": "Cassia Seed Extract (Semen Cassiae)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "eye",
+      "liver"
+    ],
+    "popularity": 4,
+    "summary": "经典药食同源明目原料，含大黄酚、决明素等蒽醌类活性成分，具有清肝明目、润肠通便功效。现代研究表明其具有降血脂、保肝、改善视力疲劳等作用，广泛用于护眼和护肝类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C1=CC2=C(C=C1O)C(=O)C3=C(C2=O)C=CC=C3O",
+      "molecularFormula": "C15H10O4（大黄酚）",
+      "molecularWeight": "254.24 g/mol（大黄酚）",
+      "casNumber": "481-74-3（大黄酚）/ 135-43-5（决明素）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化提取物）",
+      "note": "标准化含≥2%总蒽醌。生决明子润肠通便力强，炒决明子寒性减弱更适合长期服用。脾胃虚寒者慎用，孕妇禁用。建议连续服用4-8周评估视力改善效果。"
+    },
+    "forms": [
+      {
+        "name": "炒决明子水提物（标准化≥2%总蒽醌）",
+        "description": "决明子炒制后水提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "炒制减寒性更适合长期服用",
+          "标准化含量可控",
+          "明目功效显著"
+        ],
+        "disadvantages": [
+          "润肠作用较强",
+          "脾胃虚寒者慎用"
+        ]
+      },
+      {
+        "name": "决明子醇提物（富集蒽醌）",
+        "description": "乙醇提取富集大黄酚、决明素等蒽醌类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "蒽醌含量高",
+          "降脂保肝活性强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "醇溶性杂质多"
+        ]
+      },
+      {
+        "name": "决明子全粉",
+        "description": "炒决明子研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "成本最低",
+          "可泡茶饮用"
+        ],
+        "disadvantages": [
+          "活性低需高剂量",
+          "溶出差"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物技术有限公司",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "总蒽醌≥2%",
+        "features": "专注植物提取物10余年"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "大黄酚≥1%",
+        "features": "供应欧美市场"
+      },
+      {
+        "name": "西安源森生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.yoursunherb.com",
+        "purity": "总蒽醌≥3%",
+        "features": "GMP认证工厂"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "清肝明目，润肠通便。决明子中的蒽醌类化合物具有显著的保肝降脂、改善视力疲劳作用。临床研究表明，连续服用决明子提取物8周可降低总胆固醇5-15%，改善干眼症和视疲劳症状。",
+    "mechanism": {
+      "overview": "决明子的明目和保肝作用主要通过蒽醌类活性成分实现。大黄酚和决明素能清除肝脏自由基、抑制脂质过氧化，保护肝细胞；同时通过激活视网膜微循环、改善眼部供血来缓解视疲劳。蒽醌类成分还能刺激肠道蠕动，发挥润肠通便作用。",
+      "steps": [
+        {
+          "title": "清除肝脏自由基",
+          "description": "蒽醌类成分清除肝细胞内ROS和自由基，抑制脂质过氧化，保护肝细胞膜完整性"
+        },
+        {
+          "title": "改善视网膜微循环",
+          "description": "活性成分促进眼部血管扩张，改善视网膜和黄斑区血液供应，缓解视疲劳"
+        },
+        {
+          "title": "调节脂质代谢",
+          "description": "大黄酚抑制HMG-CoA还原酶活性，减少胆固醇合成，降低血清总胆固醇和LDL-C"
+        },
+        {
+          "title": "促进肠道蠕动",
+          "description": "蒽醌类成分刺激大肠黏膜，增加肠道蠕动，发挥润肠通便作用"
+        }
+      ],
+      "scientificReferences": [
+        "Zhao J et al. Cassia seed extract improves lipid metabolism in hyperlipidemic rats. J Ethnopharmacol. 2019;242:112056.",
+        "Wang L et al. Neuroprotective effects of cassia seed extract on retinal ganglion cells. Phytother Res. 2020;34(8):2015-2025.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 决明子."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "汤臣倍健决明子菊花茶",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com",
+        "price": "¥39/盒(20包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "菊花",
+          "枸杞子",
+          "绿茶"
+        ],
+        "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂决明子软胶囊",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥89/瓶(60粒)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "枸杞提取物",
+          "叶黄素"
+        ],
+        "dosageForm": "软胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-150/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "片剂",
+          "cost": "¥0.06-0.12/片"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.30/包"
+        }
+      ],
+      "packagingCost": "¥0.50-2.00/单位",
+      "totalEstimate": "硬胶囊：¥0.6-1.5/粒（含原料+制粒+填充+包装）；月成本约¥36-90/人（每日2粒）"
+    }
+  },
+  {
+    "id": "chinese-yam",
+    "name": "山药提取物",
+    "nameEn": "Chinese Yam Extract (Dioscorea opposita)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "gut",
+      "immune"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源补脾养胃原料，含薯蓣皂苷、山药多糖、尿囊素等活性成分，具有补脾养胃、生津益肺、补肾涩精功效。现代研究表明山药多糖可调节肠道菌群、增强免疫功能，尿囊素具有促进黏膜修复作用。",
+    "chemicalStructure": {
+      "smiles": "C1[C@@H]2[C@](CC[C@@]3(C)C(CC[C@@H]4[C@@]3(CC[C@H](C4)O)C)[C@@H]5[C@](CC[C@]6(C)C(CC[C@@H]7[C@@]6(CC[C@@H](C7)O)C)C)(O)C[C@H]2[C@@H](O)[C@@H]1C)C",
+      "molecularFormula": "C45H72O16（薯蓣皂苷）",
+      "molecularWeight": "869.07 g/mol（薯蓣皂苷）",
+      "casNumber": "19057-60-4（薯蓣皂苷）/ 97-59-6（尿囊素）"
+    },
+    "dosage": {
+      "minEffective": "500",
+      "recommended": "1000-3000",
+      "safeUpperLimit": "6000",
+      "unit": "mg/天（山药多糖提取物）",
+      "note": "标准化含≥10%山药多糖。麸炒山药健脾作用更强。山药药性平和，适合长期服用。糖尿病患者注意山药淀粉含量，建议选用去淀粉提取物。"
+    },
+    "forms": [
+      {
+        "name": "山药多糖标准化提取物（≥10%多糖）",
+        "description": "山药水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "免疫调节作用明确",
+          "胃肠友好"
+        ],
+        "disadvantages": [
+          "淀粉含量需控制",
+          "吸湿性强"
+        ]
+      },
+      {
+        "name": "山药全粉（冻干）",
+        "description": "新鲜山药切片冷冻干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱营养成分",
+          "食品级安全性高",
+          "可冲泡饮用"
+        ],
+        "disadvantages": [
+          "多糖含量低",
+          "有效剂量大"
+        ]
+      },
+      {
+        "name": "山药精提物（富集薯蓣皂苷）",
+        "description": "醇提富集薯蓣皂苷类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "皂苷含量高",
+          "调节内分泌作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "醇提工艺复杂"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "河南宛西制药股份有限公司",
+        "country": "中国",
+        "website": "https://www.wanxi.com.cn",
+        "purity": "山药多糖≥10%",
+        "features": "道地药材产地"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "多糖≥15%",
+        "features": "专注山药提取物"
+      },
+      {
+        "name": "南京泽朗生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.zelong.com",
+        "purity": "薯蓣皂苷≥5%",
+        "features": "出口标准"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补脾养胃，生津益肺，补肾涩精。山药多糖通过调节肠道菌群组成、促进有益菌增殖改善消化功能；尿囊素促进胃黏膜上皮细胞修复，对慢性胃炎有辅助改善作用。山药还能增强巨噬细胞活性，提升机体免疫力。",
+    "mechanism": {
+      "overview": "山药的药理作用主要来自多糖和尿囊素两大类活性成分。山药多糖作为益生元，促进双歧杆菌和乳酸菌增殖，改善肠道微生态；同时激活肠道相关淋巴组织(GALT)，增强黏膜免疫。尿囊素直接促进上皮细胞增殖和修复，加速胃黏膜损伤愈合。薯蓣皂苷具有类激素样作用，可调节内分泌平衡。",
+      "steps": [
+        {
+          "title": "调节肠道菌群",
+          "description": "山药多糖作为益生元被肠道有益菌利用，促进双歧杆菌和乳酸菌增殖，抑制有害菌生长"
+        },
+        {
+          "title": "促进黏膜修复",
+          "description": "尿囊素刺激胃黏膜上皮细胞增殖和黏液分泌，加速黏膜损伤修复，改善慢性胃炎"
+        },
+        {
+          "title": "增强黏膜免疫",
+          "description": "多糖激活肠道相关淋巴组织(GALT)，促进sIgA分泌，增强肠道黏膜免疫屏障"
+        },
+        {
+          "title": "调节内分泌",
+          "description": "薯蓣皂苷作为甾体皂苷前体，参与体内甾体激素合成调节，改善更年期症状"
+        }
+      ],
+      "scientificReferences": [
+        "Zhou Y et al. Chinese yam polysaccharide promotes gut microbiota health. Int J Biol Macromol. 2021;183:2135-2144.",
+        "Li M et al. Allantoin accelerates gastric mucosal repair via cell proliferation. Life Sci. 2020;253:117728.",
+        "国家卫健委. 药食同源目录(2023版). 山药."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "江中山药健胃消食片",
+        "brand": "江中药业",
+        "url": "https://www.jzjy.com",
+        "price": "¥25/盒(48片)",
+        "sales": "月销10000+",
+        "otherIngredients": [
+          "山楂",
+          "陈皮",
+          "麦芽"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "宛西制药六味地黄丸(含山药)",
+        "brand": "宛西制药",
+        "url": "https://www.wanxi.com.cn",
+        "price": "¥45/盒(360丸)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "熟地黄",
+          "山茱萸",
+          "茯苓"
+        ],
+        "dosageForm": "浓缩丸"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥60-120/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "片剂",
+          "cost": "¥0.05-0.10/片"
+        },
+        {
+          "form": "粉剂(冲剂)",
+          "cost": "¥0.10-0.20/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "片剂：¥0.4-0.8/片（含原料+制粒+压片+包装）；月成本约¥24-48/人（每日3片）"
+    }
+  },
+  {
+    "id": "coix-seed",
+    "name": "薏苡仁提取物",
+    "nameEn": "Coix Seed Extract (Coix lacryma-jobi)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "weight",
+      "beauty"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源健脾利湿原料，含薏苡素、薏苡仁油、薏苡多糖等活性成分，具有健脾渗湿、除痹止泻、清热排脓功效。薏苡仁油中的薏苡仁酯具有抗肿瘤活性，薏苡素具有降血糖、抗炎作用，广泛用于体重管理和美容类保健食品。",
+    "chemicalStructure": {
+      "smiles": "COC1=NC2=CC=CC=C2O1",
+      "molecularFormula": "C8H7NO3（薏苡素）",
+      "molecularWeight": "165.15 g/mol（薏苡素）",
+      "casNumber": "532-91-2（薏苡素）/ 531-27-1（薏苡仁酯）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（薏苡仁提取物）",
+      "note": "标准化含≥0.5%薏苡素。生薏苡仁偏寒清热，炒薏苡仁偏温健脾。孕妇慎用。薏苡仁油注射剂曾用于肝癌辅助治疗(康莱特注射液)，口服剂型主要用于健脾利湿。"
+    },
+    "forms": [
+      {
+        "name": "薏苡仁水提物（标准化≥0.5%薏苡素）",
+        "description": "薏苡仁水提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "标准化含量可控",
+          "健脾利湿作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "薏苡素含量低",
+          "需高剂量"
+        ]
+      },
+      {
+        "name": "薏苡仁油（CO₂超临界提取）",
+        "description": "超临界CO₂提取薏苡仁油",
+        "bioavailability": "高",
+        "advantages": [
+          "活性成分富集",
+          "抗肿瘤和降脂活性强",
+          "生物利用度高"
+        ],
+        "disadvantages": [
+          "成本高",
+          "易氧化需稳定化处理"
+        ]
+      },
+      {
+        "name": "薏苡仁全粉（炒制）",
+        "description": "炒薏苡仁研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "传统食品形式",
+          "安全性高",
+          "可煮粥冲泡"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量服用"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "浙江康莱特药业有限公司",
+        "country": "中国",
+        "website": "https://www.klt.com.cn",
+        "purity": "薏苡仁油≥98%",
+        "features": "康莱特注射液原研企业"
+      },
+      {
+        "name": "陕西斯诺特生物技术有限公司",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "薏苡素≥0.5%",
+        "features": "专注植物提取物"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "薏苡仁酯≥50%",
+        "features": "出口级标准"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "健脾渗湿，除痹止泻，清热排脓。薏苡仁油中的薏苡仁酯具有显著的抗肿瘤和免疫调节作用；薏苡素能降低血糖、抑制炎症因子释放。临床研究表明，薏苡仁提取物配合低热量饮食可显著降低体脂率和腰围，同时改善皮肤油脂分泌和痤疮症状。",
+    "mechanism": {
+      "overview": "薏苡仁的药理作用主要来自薏苡仁油(含薏苡仁酯)和薏苡素。薏苡仁酯通过抑制肿瘤细胞脂肪酸合成、诱导凋亡发挥抗肿瘤作用；薏苡素通过抑制α-葡萄糖苷酶活性降低餐后血糖，同时抑制NF-κB通路减少炎症因子释放。薏苡多糖作为益生元改善肠道菌群，促进脂质代谢。",
+      "steps": [
+        {
+          "title": "抑制脂肪合成",
+          "description": "薏苡仁酯抑制脂肪酸合成酶(FAS)活性，减少脂肪堆积，辅助体重管理"
+        },
+        {
+          "title": "降低血糖",
+          "description": "薏苡素抑制α-葡萄糖苷酶活性，延缓碳水化合物吸收，降低餐后血糖峰值"
+        },
+        {
+          "title": "抗炎作用",
+          "description": "薏苡素抑制NF-κB信号通路，减少TNF-α、IL-6等炎症因子释放，改善皮肤炎症"
+        },
+        {
+          "title": "调节皮脂分泌",
+          "description": "薏苡仁油调节皮脂腺功能，减少皮肤油脂过度分泌，改善痤疮"
+        }
+      ],
+      "scientificReferences": [
+        "Woo JH et al. Coix seed extract suppresses adipogenesis. J Med Food. 2019;22(8):815-823.",
+        "Chen H et al. Coixenolide induces apoptosis in cancer cells. Cancer Lett. 2020;485:45-55.",
+        "国家卫健委. 药食同源目录. 薏苡仁."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "百年扁氏薏苡仁茶",
+        "brand": "百年扁氏",
+        "url": "https://www.bnbs.com",
+        "price": "¥29/盒(30包)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "芡实",
+          "赤小豆",
+          "茯苓"
+        ],
+        "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "仁和薏苡仁祛湿胶囊",
+        "brand": "仁和药业",
+        "url": "https://www.renhe.com",
+        "price": "¥59/瓶(60粒)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "茯苓",
+          "山药",
+          "莲子"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥50-100/kg（水提物）/ ¥500-1000/kg（薏苡仁油）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.12-0.25/包"
+        },
+        {
+          "form": "粉剂",
+          "cost": "¥0.08-0.15/包"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "tangerine-peel",
+    "name": "陈皮提取物",
+    "nameEn": "Tangerine Peel Extract (Citrus reticulata, Chenpi)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "gut"
+    ],
+    "popularity": 5,
+    "summary": "经典药食同源理气健脾原料，含橙皮苷、川陈皮素、橘皮挥发油等活性成分，具有理气健脾、燥湿化痰功效。橙皮苷具有抗炎、抗氧化、调节肠道平滑肌运动等作用，广泛用于消化不良和胃肠道保健食品。",
+    "chemicalStructure": {
+      "smiles": "COC1=C(C=C2C(=C1)C(=O)C(=C(O2)C3C(C(C(C(O3)CO)O)O)O)C4=CC=C(C=C4)OC)O",
+      "molecularFormula": "C28H34O15（橙皮苷）",
+      "molecularWeight": "610.56 g/mol（橙皮苷）",
+      "casNumber": "520-26-3（橙皮苷）/ 465-43-2（川陈皮素）"
+    },
+    "dosage": {
+      "minEffective": "250",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化橙皮苷提取物）",
+      "note": "标准化含≥20%橙皮苷。广陈皮(新会陈皮)品质最佳，陈化3年以上效果更好。陈皮性温，燥湿力强，阴虚燥咳者不宜。与维生素C复配可提高橙皮苷吸收率。"
+    },
+    "forms": [
+      {
+        "name": "陈皮标准化提取物（≥20%橙皮苷）",
+        "description": "陈皮醇提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "橙皮苷含量标准化",
+          "理气健脾作用明确",
+          "适合多种剂型"
+        ],
+        "disadvantages": [
+          "口感略苦",
+          "需矫味处理"
+        ]
+      },
+      {
+        "name": "陈皮挥发油",
+        "description": "水蒸气蒸馏提取陈皮精油",
+        "bioavailability": "高",
+        "advantages": [
+          "芳香理气作用强",
+          "抗菌消炎",
+          "可做肠溶剂型"
+        ],
+        "disadvantages": [
+          "易挥发需包合",
+          "成本较高"
+        ]
+      },
+      {
+        "name": "陈皮全粉",
+        "description": "陈皮研磨成细粉",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "传统用法",
+          "可泡茶煮汤"
+        ],
+        "disadvantages": [
+          "橙皮苷溶出低",
+          "需高剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "江中药业股份有限公司",
+        "country": "中国",
+        "website": "https://www.jzjy.com",
+        "purity": "橙皮苷≥20%",
+        "features": "陈皮消食片原研企业"
+      },
+      {
+        "name": "新宝堂陈皮有限公司",
+        "country": "中国",
+        "website": "https://www.xinbaotang.com",
+        "purity": "广陈皮道地药材",
+        "features": "新会陈皮非遗传承"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "橙皮苷≥95%",
+        "features": "高纯度橙皮苷供应商"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "理气健脾，燥湿化痰。橙皮苷通过调节胃肠道平滑肌运动、促进胃排空和肠道蠕动改善消化功能；同时抑制炎症因子释放，对慢性胃炎和肠易激综合征有辅助改善作用。陈皮挥发油具有广谱抗菌作用，可抑制幽门螺杆菌生长。",
+    "mechanism": {
+      "overview": "陈皮的药理作用主要来自橙皮苷(黄酮类)和挥发油(含D-柠檬烯等)。橙皮苷通过调节胃肠道平滑肌细胞钙离子通道，促进胃排空和肠道蠕动；同时抑制COX-2和iNOS表达，减少炎症介质释放。挥发油中的D-柠檬烯具有驱风、抗菌作用，直接抑制幽门螺杆菌。",
+      "steps": [
+        {
+          "title": "调节胃肠动力",
+          "description": "橙皮苷调节胃肠道平滑肌细胞钙离子通道，促进胃排空和肠道蠕动，改善腹胀和消化不良"
+        },
+        {
+          "title": "抗炎保护黏膜",
+          "description": "橙皮苷抑制COX-2和iNOS表达，减少PGE2和NO等炎症介质释放，保护胃黏膜"
+        },
+        {
+          "title": "抑制幽门螺杆菌",
+          "description": "陈皮挥发油中D-柠檬烯直接抑制幽门螺杆菌生长，辅助胃炎治疗"
+        },
+        {
+          "title": "化痰止咳",
+          "description": "挥发油促进呼吸道黏膜纤毛运动，稀释痰液，发挥燥湿化痰作用"
+        }
+      ],
+      "scientificReferences": [
+        "Li Y et al. Hesperidin ameliorates gastrointestinal motility disorder. Phytomedicine. 2019;58:152868.",
+        "Liu X et al. Chenpi essential oil inhibits Helicobacter pylori. J Ethnopharmacol. 2020;254:112692.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 陈皮."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "江中健胃消食片(含陈皮)",
+        "brand": "江中药业",
+        "url": "https://www.jzjy.com",
+        "price": "¥25/盒(48片)",
+        "sales": "月销10000+",
+        "otherIngredients": [
+          "山楂",
+          "山药",
+          "麦芽"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "京都念慈菴蜜炼陈皮膏",
+        "brand": "京都念慈菴",
+        "url": "https://www.ninjiam.com",
+        "price": "¥68/瓶(300ml)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "蜂蜜",
+          "川贝母"
+        ],
+        "dosageForm": "膏剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥40-80/kg（标准化提取物）/ ¥200-500/kg（广陈皮粉）",
+      "dosageFormCost": [
+        {
+          "form": "片剂",
+          "cost": "¥0.05-0.10/片"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.50-1.00/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "片剂：¥0.3-0.6/片（含原料+制粒+压片+包装）；月成本约¥18-36/人（每日3片）"
+    }
+  },
+  {
+    "id": "chrysanthemum",
+    "name": "菊花提取物",
+    "nameEn": "Chrysanthemum Extract (Chrysanthemum morifolium)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "eye",
+      "liver"
+    ],
+    "popularity": 5,
+    "summary": "经典药食同源清肝明目原料，含木犀草素、绿原酸、菊花黄酮等活性成分，具有疏散风热、平肝明目、清热解毒功效。杭白菊和胎菊品质最佳，现代研究表明菊花提取物具有抗氧化、保肝、抗炎、改善视疲劳等作用。",
+    "chemicalStructure": {
+      "smiles": "C1=CC(=C(C=C1C2=CC(=O)C(=CC2=O)O)O)O",
+      "molecularFormula": "C15H10O6（木犀草素）",
+      "molecularWeight": "286.24 g/mol（木犀草素）",
+      "casNumber": "491-70-3（木犀草素）/ 327-97-9（绿原酸）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化菊花黄酮提取物）",
+      "note": "标准化含≥3%木犀草素或≥5%绿原酸。杭白菊偏清肝明目，贡菊偏清热解毒，胎菊有效成分含量最高。菊花性微寒，脾胃虚寒者不宜大量饮用。与枸杞子复配有协同明目效果。"
+    },
+    "forms": [
+      {
+        "name": "菊花黄酮标准化提取物（≥3%木犀草素）",
+        "description": "菊花水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "黄酮含量标准化",
+          "清肝明目作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "口感略苦",
+          "需矫味"
+        ]
+      },
+      {
+        "name": "菊花精油（超临界CO₂提取）",
+        "description": "超临界CO₂提取菊花挥发油",
+        "bioavailability": "高",
+        "advantages": [
+          "芳香清热作用强",
+          "抗菌消炎",
+          "可做外用"
+        ],
+        "disadvantages": [
+          "易挥发",
+          "成本较高"
+        ]
+      },
+      {
+        "name": "菊花全粉（冻干胎菊）",
+        "description": "胎菊冷冻干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "可泡茶饮用",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "黄酮含量低",
+          "需高剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "浙江桐乡杭白菊产业协会",
+        "country": "中国",
+        "website": "https://www.hbhj.com",
+        "purity": "杭白菊道地药材",
+        "features": "国家地理标志产品"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "木犀草素≥3%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "西安绿天生物技术有限公司",
+        "country": "中国",
+        "website": "https://www.greenskybio.com",
+        "purity": "绿原酸≥5%",
+        "features": "GMP认证工厂"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "疏散风热，平肝明目，清热解毒。菊花中的木犀草素和绿原酸具有显著的抗氧化和保肝作用，能清除肝脏自由基、抑制肝细胞脂质过氧化。临床研究表明，菊花提取物配合枸杞子可显著改善干眼症、视疲劳和飞蚊症，连续服用8周有效率超过75%。",
+    "mechanism": {
+      "overview": "菊花的药理作用主要来自黄酮类(木犀草素)和酚酸类(绿原酸)成分。木犀草素通过激活Nrf2/HO-1通路增强肝脏抗氧化酶活性，保护肝细胞；同时抑制COX-2减少炎症反应。绿原酸通过抑制磷酸二酯酶改善视网膜微循环。菊花还含β-胡萝卜素前体，对视网膜有营养保护作用。",
+      "steps": [
+        {
+          "title": "抗氧化保肝",
+          "description": "木犀草素激活Nrf2/HO-1信号通路，增强肝脏SOD、GSH-Px等抗氧化酶活性，清除自由基"
+        },
+        {
+          "title": "改善视网膜微循环",
+          "description": "绿原酸抑制磷酸二酯酶活性，增加cAMP水平，扩张视网膜血管，改善眼部供血"
+        },
+        {
+          "title": "抗炎作用",
+          "description": "木犀草素抑制COX-2和NF-κB通路，减少TNF-α、IL-1β等炎症因子释放"
+        },
+        {
+          "title": "视网膜保护",
+          "description": "菊花中的叶黄素和玉米黄质前体物质过滤蓝光，保护黄斑区感光细胞"
+        }
+      ],
+      "scientificReferences": [
+        "Zhang X et al. Luteolin protects against liver injury via Nrf2 pathway. J Nutr Biochem. 2020;79:108371.",
+        "Liu B et al. Chrysanthemum extract improves dry eye syndrome. Phytother Res. 2019;33(10):2734-2742.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 菊花."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "同仁堂菊花枸杞茶",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥29/盒(20包)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "枸杞子",
+          "决明子"
+        ],
+        "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "康师傅菊花茶",
+        "brand": "康师傅",
+        "url": "https://www.masterkong.com.cn",
+        "price": "¥3/瓶(500ml)",
+        "sales": "月销50000+",
+        "otherIngredients": [
+          "冰糖"
+        ],
+        "dosageForm": "即饮茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥50-100/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.10-0.25/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.50-1.00/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "袋泡茶：¥0.4-0.8/包（含原料+分装+包装）；月成本约¥24-48/人（每日2包）"
+    }
+  },
+  {
+    "id": "honeysuckle",
+    "name": "金银花提取物",
+    "nameEn": "Honeysuckle Extract (Lonicera japonica, Jinyinhua)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "immune"
+    ],
+    "popularity": 5,
+    "summary": "经典药食同源清热解毒原料，含绿原酸、木犀草苷、忍冬苷等活性成分，具有清热解毒、凉散风热功效。绿原酸是金银花的主要活性成分，具有广谱抗菌、抗病毒、抗炎、免疫调节等作用，被誉为\"中药抗生素\"，广泛用于免疫增强和抗感染类保健食品。",
+    "chemicalStructure": {
+      "smiles": "OC1=CC=C(C=C1C(=O)OC2C(C(C(C(O2)CO)O)O)O)O",
+      "molecularFormula": "C16H18O9（绿原酸）",
+      "molecularWeight": "354.31 g/mol（绿原酸）",
+      "casNumber": "327-97-9（绿原酸）/ 5373-11-5（木犀草苷）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化绿原酸提取物）",
+      "note": "标准化含≥5%绿原酸。山东平邑为金银花道地产区。金银花性寒，脾胃虚寒者不宜长期大量服用。流感季节可短期加大剂量。绿原酸遇热不稳定，建议低温提取或冲泡。"
+    },
+    "forms": [
+      {
+        "name": "金银花标准化提取物（≥5%绿原酸）",
+        "description": "金银花水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "绿原酸含量标准化",
+          "清热解毒作用明确",
+          "广谱抗菌"
+        ],
+        "disadvantages": [
+          "口感苦涩",
+          "绿原酸遇热不稳定"
+        ]
+      },
+      {
+        "name": "金银花绿原酸高纯度提取物（≥20%）",
+        "description": "大孔树脂纯化富集绿原酸",
+        "bioavailability": "高",
+        "advantages": [
+          "绿原酸含量高",
+          "免疫调节作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ]
+      },
+      {
+        "name": "金银花精油",
+        "description": "水蒸气蒸馏提取",
+        "bioavailability": "高",
+        "advantages": [
+          "芳香清热",
+          "抗病毒作用强",
+          "可外用"
+        ],
+        "disadvantages": [
+          "产量低",
+          "成本高"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "山东平邑金银花产业集团",
+        "country": "中国",
+        "website": "https://www.pyjyh.com",
+        "purity": "绿原酸≥5%",
+        "features": "道地药材产区"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "绿原酸≥20%",
+        "features": "高纯度提取物"
+      },
+      {
+        "name": "南京泽朗生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.zelong.com",
+        "purity": "绿原酸≥10%",
+        "features": "GMP认证"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "清热解毒，凉散风热。金银花中的绿原酸具有广谱抗菌和抗病毒作用，对金黄色葡萄球菌、链球菌、流感病毒等均有抑制作用。临床研究表明，金银花提取物能显著降低上呼吸道感染发生率，缩短感冒病程，同时增强机体非特异性免疫功能。",
+    "mechanism": {
+      "overview": "金银花的药理作用主要来自绿原酸和黄酮苷类成分。绿原酸通过抑制细菌细胞壁合成和病毒核酸复制发挥广谱抗微生物作用；同时激活巨噬细胞和中性粒细胞吞噬功能，增强非特异性免疫。绿原酸还通过抑制NF-κB通路减少炎症因子过度释放，减轻炎症反应对组织的损伤。",
+      "steps": [
+        {
+          "title": "广谱抗菌",
+          "description": "绿原酸抑制细菌DNA回旋酶和细胞壁合成，对革兰氏阳性和阴性菌均有抑制作用"
+        },
+        {
+          "title": "抗病毒作用",
+          "description": "绿原酸抑制病毒神经氨酸酶活性，阻止病毒复制和释放，对流感病毒有效"
+        },
+        {
+          "title": "免疫增强",
+          "description": "绿原酸激活巨噬细胞和中性粒细胞吞噬功能，增强非特异性免疫屏障"
+        },
+        {
+          "title": "抗炎保护",
+          "description": "绿原酸抑制NF-κB通路，减少TNF-α、IL-6等促炎因子过度释放，减轻炎症损伤"
+        }
+      ],
+      "scientificReferences": [
+        "Wang J et al. Chlorogenic acid has broad-spectrum antibacterial activity. Front Microbiol. 2020;11:580310.",
+        "Li Y et al. Lonicera japonica extract enhances immune function. J Ethnopharmacol. 2019;244:112137.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 金银花."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "王老吉金银花凉茶",
+        "brand": "王老吉",
+        "url": "https://www.wlj.com.cn",
+        "price": "¥4/罐(310ml)",
+        "sales": "月销100000+",
+        "otherIngredients": [
+          "菊花",
+          "甘草",
+          "夏枯草"
+        ],
+        "dosageForm": "即饮凉茶"
+      },
+      {
+        "name": "三九金银花颗粒",
+        "brand": "三九医药",
+        "url": "https://www.999.com.cn",
+        "price": "¥20/盒(20包)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "连翘",
+          "黄芩"
+        ],
+        "dosageForm": "颗粒剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥60-120/kg（标准化提取物）/ ¥300-600/kg（高纯度绿原酸）",
+      "dosageFormCost": [
+        {
+          "form": "颗粒剂",
+          "cost": "¥0.15-0.30/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.50-1.00/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "颗粒剂：¥0.5-1.0/包（含原料+制粒+分装+包装）；月成本约¥30-60/人（每日2包）"
+    }
+  },
+  {
+    "id": "lotus-leaf",
+    "name": "荷叶提取物",
+    "nameEn": "Lotus Leaf Extract (Nelumbo nucifera)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "weight"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源降脂减肥原料，含荷叶碱、荷叶黄酮、荷叶多糖等活性成分，具有清热解暑、升发清阳、散瘀止血功效。荷叶碱能抑制脂肪酶活性、减少脂肪吸收，荷叶黄酮具有抗氧化和降血脂作用，广泛用于体重管理类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C[C@@H]1CC2=CC(=C(C=C2C3=C1C=CC4=C3OCO4)OC)N",
+      "molecularFormula": "C19H21NO2（荷叶碱）",
+      "molecularWeight": "295.38 g/mol（荷叶碱）",
+      "casNumber": "475-83-2（荷叶碱）/ 528-53-0（槲皮素）"
+    },
+    "dosage": {
+      "minEffective": "500",
+      "recommended": "1000-3000",
+      "safeUpperLimit": "5000",
+      "unit": "mg/天（标准化荷叶碱提取物）",
+      "note": "标准化含≥2%荷叶碱。夏季采摘的荷叶生物碱含量最高。荷叶性平偏凉，脾胃虚寒者不宜大量服用。建议餐前30分钟服用以抑制脂肪吸收。连续服用8-12周评估减重效果。"
+    },
+    "forms": [
+      {
+        "name": "荷叶碱标准化提取物（≥2%荷叶碱）",
+        "description": "荷叶醇提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "荷叶碱含量标准化",
+          "降脂减肥作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "口感苦",
+          "需矫味"
+        ]
+      },
+      {
+        "name": "荷叶黄酮提取物（≥10%总黄酮）",
+        "description": "荷叶水提醇沉富集黄酮类成分",
+        "bioavailability": "中等",
+        "advantages": [
+          "抗氧化作用强",
+          "降血脂效果显著",
+          "口感好于生物碱"
+        ],
+        "disadvantages": [
+          "荷叶碱含量低",
+          "需配合使用"
+        ]
+      },
+      {
+        "name": "荷叶全粉",
+        "description": "干燥荷叶研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "可泡茶饮用",
+          "成本最低"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "湖南广药集团",
+        "country": "中国",
+        "website": "https://www.gpc.com.cn",
+        "purity": "荷叶碱≥2%",
+        "features": "湖南洪湖荷叶基地"
+      },
+      {
+        "name": "陕西斯诺特生物技术有限公司",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "荷叶碱≥5%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "荷叶碱≥10%",
+        "features": "高纯度提取物"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "清热解暑，升发清阳，散瘀止血。荷叶碱通过抑制胰脂肪酶活性减少膳食脂肪吸收，同时激活AMPK通路促进脂肪酸β-氧化；荷叶黄酮降低血清总胆固醇和甘油三酯。临床研究表明，荷叶提取物配合低热量饮食8周可平均减重2-4kg，腰围减少3-5cm。",
+    "mechanism": {
+      "overview": "荷叶的降脂减肥作用主要来自荷叶碱(阿扑菲型生物碱)和黄酮类成分。荷叶碱通过抑制胰脂肪酶活性，阻断膳食甘油三酯在肠道内的水解和吸收；同时激活AMPK信号通路，促进骨骼肌和肝脏脂肪酸β-氧化。荷叶黄酮通过抑制HMG-CoA还原酶减少胆固醇合成，并清除自由基减少脂质过氧化。",
+      "steps": [
+        {
+          "title": "抑制脂肪吸收",
+          "description": "荷叶碱抑制胰脂肪酶活性，阻止膳食甘油三酯水解为游离脂肪酸，减少肠道脂肪吸收"
+        },
+        {
+          "title": "促进脂肪氧化",
+          "description": "荷叶碱激活AMPK信号通路，上调CPT-1表达，促进脂肪酸进入线粒体β-氧化"
+        },
+        {
+          "title": "降低血脂",
+          "description": "荷叶黄酮抑制HMG-CoA还原酶活性，减少肝脏胆固醇合成，降低血清TC和LDL-C"
+        },
+        {
+          "title": "抗氧化保护",
+          "description": "荷叶黄酮清除自由基，抑制LDL氧化，减少血管内皮损伤"
+        }
+      ],
+      "scientificReferences": [
+        "Wu T et al. Nuciferine inhibits adipogenesis and promotes fat oxidation. J Nutr Biochem. 2019;74:108229.",
+        "Zhang C et al. Lotus leaf flavonoids reduce serum lipids. Food Funct. 2020;11(5):4123-4132.",
+        "国家卫健委. 药食同源目录. 荷叶."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "碧生源常润茶(含荷叶)",
+        "brand": "碧生源",
+        "url": "https://www.biy.com.cn",
+        "price": "¥39/盒(20包)",
+        "sales": "月销20000+",
+        "otherIngredients": [
+          "决明子",
+          "绿茶",
+          "蜂蜜"
+        ],
+        "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "仁和荷叶碱减肥胶囊",
+        "brand": "仁和药业",
+        "url": "https://www.renhe.com",
+        "price": "¥69/瓶(60粒)",
+        "sales": "月销10000+",
+        "otherIngredients": [
+          "左旋肉碱",
+          "茶多酚"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥40-80/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.10-0.25/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "片剂",
+          "cost": "¥0.05-0.10/片"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "peppermint",
+    "name": "薄荷提取物",
+    "nameEn": "Peppermint Extract (Mentha haplocalyx)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "gut"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源疏散风热原料，含薄荷醇、薄荷酮、薄荷黄酮等活性成分，具有疏散风热、清利头目、利咽透疹功效。薄荷醇是薄荷的主要活性成分，具有解痉、镇痛、促消化、抗菌等作用，广泛用于消化不良和咽喉保健食品。",
+    "chemicalStructure": {
+      "smiles": "CC(C)C1CCC(C)C(C1)O",
+      "molecularFormula": "C10H20O（薄荷醇）",
+      "molecularWeight": "156.27 g/mol（薄荷醇）",
+      "casNumber": "2216-51-5（L-薄荷醇）/ 89-78-1（DL-薄荷醇）"
+    },
+    "dosage": {
+      "minEffective": "100",
+      "recommended": "200-600",
+      "safeUpperLimit": "1200",
+      "unit": "mg/天（薄荷油，含薄荷醇）",
+      "note": "薄荷油中L-薄荷醇含量应≥30%。薄荷性凉，体虚多汗者不宜。薄荷油高剂量可能引起中枢兴奋，婴幼儿不宜使用薄荷油。肠溶胶囊剂型可避免胃部不适，靶向肠道释放。"
+    },
+    "forms": [
+      {
+        "name": "薄荷油（水蒸气蒸馏）",
+        "description": "薄荷叶水蒸气蒸馏提取",
+        "bioavailability": "高",
+        "advantages": [
+          "薄荷醇含量高(≥30%)",
+          "解痉镇痛作用强",
+          "适合肠溶剂型"
+        ],
+        "disadvantages": [
+          "易挥发",
+          "需包合或微囊化"
+        ]
+      },
+      {
+        "name": "薄荷水提物",
+        "description": "薄荷叶水提浓缩干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "保留水溶性黄酮",
+          "口感清凉",
+          "适合口服液"
+        ],
+        "disadvantages": [
+          "薄荷醇含量低",
+          "需高剂量"
+        ]
+      },
+      {
+        "name": "薄荷醇晶体（纯化）",
+        "description": "薄荷油冷冻结晶分离",
+        "bioavailability": "极高",
+        "advantages": [
+          "纯度≥99%",
+          "活性最强",
+          "剂量精确"
+        ],
+        "disadvantages": [
+          "成本高",
+          "需微囊化防挥发"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "江苏南通薄荷厂有限公司",
+        "country": "中国",
+        "website": "https://www.ntbohe.com",
+        "purity": "L-薄荷醇≥30%",
+        "features": "中国薄荷之乡"
+      },
+      {
+        "name": "安徽徽生源生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.hsy.com",
+        "purity": "薄荷油≥99%",
+        "features": "GMP认证"
+      },
+      {
+        "name": "印度奇树药业(Synthite)",
+        "country": "印度",
+        "website": "https://www.synthite.com",
+        "purity": "L-薄荷醇≥99%",
+        "features": "全球最大薄荷油供应商之一"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "疏散风热，清利头目，利咽透疹。薄荷醇通过激活TRPM8冷感受受体发挥解痉、镇痛和促消化作用。临床研究表明，薄荷油肠溶胶囊对肠易激综合征(IBS)有效率达70-80%，能显著缓解腹痛、腹胀和排便异常。薄荷含片对咽喉炎有快速消炎止痛作用。",
+    "mechanism": {
+      "overview": "薄荷的药理作用主要来自薄荷醇(单萜类)。薄荷醇通过激活TRPM8冷感受受体，引起平滑肌松弛和血管收缩，发挥解痉和镇痛作用。在肠道，薄荷醇抑制钙离子内流，松弛肠道平滑肌，缓解IBS痉挛性腹痛。薄荷醇还通过激活GABA_A受体发挥轻度镇静作用，并通过抗菌作用抑制致病菌生长。",
+      "steps": [
+        {
+          "title": "松弛平滑肌",
+          "description": "薄荷醇激活TRPM8受体，抑制钙离子内流，松弛胃肠道和胆道平滑肌，缓解痉挛"
+        },
+        {
+          "title": "镇痛作用",
+          "description": "薄荷醇通过TRPM8和GABA_A受体双重通路发挥外周和中枢镇痛作用"
+        },
+        {
+          "title": "促消化",
+          "description": "薄荷醇促进胆汁分泌和胃肠道蠕动，改善消化功能，缓解餐后腹胀"
+        },
+        {
+          "title": "抗菌消炎",
+          "description": "薄荷油对金黄色葡萄球菌、大肠杆菌等有抑制作用，薄荷醇含片缓解咽喉炎症"
+        }
+      ],
+      "scientificReferences": [
+        "Khanna R et al. Peppermint oil for irritable bowel syndrome. BMJ. 2020;368:m2187.",
+        "Grigoleit HG et al. Menthol efficacy in functional dyspepsia. Phytomedicine. 2019;57:141-148.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 薄荷."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Pepsomatic薄荷含片",
+        "brand": "Pepsomatic",
+        "url": "https://www.pepsomatic.com",
+        "price": "¥15/盒(20片)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "蜂蜜",
+          "甘草"
+        ],
+        "dosageForm": "含片"
+      },
+      {
+        "name": "得舒特薄荷油肠溶胶囊",
+        "brand": "AbbVie",
+        "url": "https://www.abbvie.com",
+        "price": "¥85/盒(30粒)",
+        "sales": "月销5000+",
+        "otherIngredients": [],
+        "dosageForm": "肠溶胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥100-300/kg（薄荷油）/ ¥500-1000/kg（薄荷醇晶体）",
+      "dosageFormCost": [
+        {
+          "form": "肠溶胶囊",
+          "cost": "¥0.15-0.30/粒"
+        },
+        {
+          "form": "含片",
+          "cost": "¥0.05-0.10/片"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.30-0.60/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "肠溶胶囊：¥0.5-1.0/粒（含原料+微囊化+肠溶包衣+填充+包装）；月成本约¥30-60/人（每日2粒）"
+    }
+  },
+  {
+    "id": "longan",
+    "name": "龙眼肉提取物",
+    "nameEn": "Longan Extract (Dimocarpus longan)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "sleep"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源养血安神原料，含龙眼多糖、腺苷、胆碱等活性成分，具有补益心脾、养血安神功效。龙眼多糖具有镇静、抗氧化、增强免疫等作用，腺苷通过激活腺苷受体发挥中枢镇静作用，广泛用于改善睡眠类保健食品。",
+    "chemicalStructure": {
+      "smiles": "NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=NC=N1",
+      "molecularFormula": "C10H13N5O4（腺苷）",
+      "molecularWeight": "267.24 g/mol（腺苷）",
+      "casNumber": "58-61-7（腺苷）/ 223747-12-2（龙眼多糖）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（龙眼肉提取物）",
+      "note": "龙眼肉性温，味甘。适合心脾两虚型失眠（入睡困难伴心悸健忘）。痰火内盛者不宜。龙眼肉含糖量高，糖尿病患者选用去糖提取物。与酸枣仁、百合复配有协同安神效果。"
+    },
+    "forms": [
+      {
+        "name": "龙眼多糖提取物（≥10%多糖）",
+        "description": "龙眼肉水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "镇静安神作用明确",
+          "口感甘甜"
+        ],
+        "disadvantages": [
+          "含糖量高需控制",
+          "吸湿性强"
+        ]
+      },
+      {
+        "name": "龙眼肉冻干粉",
+        "description": "新鲜龙眼肉冷冻干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱营养成分",
+          "口感好",
+          "可直接食用"
+        ],
+        "disadvantages": [
+          "多糖含量低",
+          "需大剂量"
+        ]
+      },
+      {
+        "name": "龙眼肉浓缩汁",
+        "description": "龙眼肉榨汁浓缩",
+        "bioavailability": "中等",
+        "advantages": [
+          "口感极佳",
+          "适合口服液",
+          "传统用法"
+        ],
+        "disadvantages": [
+          "多糖含量不标准",
+          "含糖量高"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "福建莆田龙眼产业协会",
+        "country": "中国",
+        "website": "https://www.ptly.com",
+        "purity": "龙眼肉道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "龙眼多糖≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "广东康美药业股份有限公司",
+        "country": "中国",
+        "website": "https://www.km.com",
+        "purity": "龙眼肉饮片",
+        "features": "中药饮片龙头企业"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补益心脾，养血安神。龙眼多糖通过调节GABAergic神经递质系统发挥中枢镇静作用；腺苷激活A1和A2A腺苷受体，促进睡眠启动和维持。临床研究表明，龙眼肉提取物配合酸枣仁可显著改善入睡困难型失眠，缩短入睡时间15-30分钟，提高深睡眠比例。",
+    "mechanism": {
+      "overview": "龙眼肉的安神作用主要来自龙眼多糖和腺苷。龙眼多糖通过上调GABA_A受体表达和GABA水平，增强抑制性神经传递，发挥镇静催眠作用。腺苷是内源性睡眠促眠物质，通过激活A1受体抑制觉醒神经元、激活A2A受体促进睡眠启动。龙眼还含丰富的铁和维生素B族，有助于改善贫血相关的失眠。",
+      "steps": [
+        {
+          "title": "增强GABA能传递",
+          "description": "龙眼多糖上调GABA_A受体表达和GABA水平，增强抑制性神经传递，促进睡眠启动"
+        },
+        {
+          "title": "激活腺苷受体",
+          "description": "腺苷激活A1受体抑制胆碱能觉醒系统，激活A2A受体促进睡眠核团活动，缩短入睡时间"
+        },
+        {
+          "title": "补血养心",
+          "description": "龙眼肉含丰富铁、维生素B族和烟酸，促进血红蛋白合成，改善心血不足型失眠"
+        },
+        {
+          "title": "抗氧化保护",
+          "description": "龙眼多糖清除自由基，保护神经元免受氧化损伤，改善睡眠质量"
+        }
+      ],
+      "scientificReferences": [
+        "Chen Y et al. Longan polysaccharide has sedative-hypnotic effects. J Ethnopharmacol. 2019;244:112135.",
+        "Yang B et al. Adenosine from longan promotes sleep. Food Chem. 2020;328:127131.",
+        "国家卫健委. 药食同源目录. 龙眼肉(桂圆)."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "同仁堂龙眼肉干",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥35/袋(250g)",
+        "sales": "月销5000+",
+        "otherIngredients": [],
+        "dosageForm": "干果"
+      },
+      {
+        "name": "修正酸枣仁龙眼膏",
+        "brand": "修正药业",
+        "url": "https://www.xiuzheng.com",
+        "price": "¥68/瓶(300g)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "酸枣仁",
+          "百合",
+          "茯苓"
+        ],
+        "dosageForm": "膏剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥30-60/kg（龙眼肉干）/ ¥80-150/kg（多糖提取物）",
+      "dosageFormCost": [
+        {
+          "form": "膏剂",
+          "cost": "¥0.30-0.60/10g"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.50-1.00/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "膏剂：¥0.6-1.2/10g（含原料+浓缩+灌装+包装）；月成本约¥36-72/人（每日10g）"
+    }
+  },
+  {
+    "id": "jujube",
+    "name": "大枣提取物",
+    "nameEn": "Jujube Extract (Ziziphus jujuba)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "sleep",
+      "immune"
+    ],
+    "popularity": 5,
+    "summary": "传统药食同源补中益气原料，含环磷酸腺苷(cAMP)、大枣多糖、三萜酸等活性成分，具有补中益气、养血安神功效。cAMP是重要的细胞信号分子，参与多种生理调节；大枣多糖具有免疫增强、抗氧化、保肝等作用，广泛用于改善睡眠和增强免疫类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C1=NC2=C(C=N1)N(C=N2)[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3OP(=O)(O)O",
+      "molecularFormula": "C10H12N5O6P（环磷酸腺苷）",
+      "molecularWeight": "329.21 g/mol（cAMP）",
+      "casNumber": "60-92-4（cAMP）/ 55466-05-2（酸枣仁皂苷B）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（大枣提取物）",
+      "note": "大枣含丰富的cAMP(鲜枣含量约100-200nmol/g)，是植物中cAMP含量最高的之一。大枣性温，味甘。适合气血两虚型失眠和免疫力低下。含糖量高，糖尿病患者选用去糖提取物。新疆若羌枣和河北沧州金丝小枣品质最佳。"
+    },
+    "forms": [
+      {
+        "name": "大枣多糖提取物（≥10%多糖）",
+        "description": "大枣水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "免疫增强作用明确",
+          "口感甘甜"
+        ],
+        "disadvantages": [
+          "含糖量需控制",
+          "吸湿性强"
+        ]
+      },
+      {
+        "name": "大枣cAMP富集提取物",
+        "description": "大枣水提后大孔树脂纯化富集cAMP",
+        "bioavailability": "高",
+        "advantages": [
+          "cAMP含量高",
+          "细胞信号调节作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "工艺复杂",
+          "成本较高"
+        ]
+      },
+      {
+        "name": "大枣全粉（冻干）",
+        "description": "新鲜大枣冷冻干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱营养",
+          "口感好",
+          "可冲泡食用"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "新疆若羌红枣产业协会",
+        "country": "中国",
+        "website": "https://www.rqhz.com",
+        "purity": "大枣道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "大枣多糖≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "好想你健康食品股份有限公司",
+        "country": "中国",
+        "website": "https://www.haonin.com",
+        "purity": "红枣全粉",
+        "features": "红枣深加工龙头企业"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补中益气，养血安神。大枣中的cAMP作为第二信使参与细胞信号转导，调节神经递质释放和免疫功能；大枣多糖激活巨噬细胞和NK细胞，增强非特异性免疫。临床研究表明，大枣提取物配合酸枣仁和龙眼肉可显著改善失眠患者睡眠质量，提高免疫球蛋白水平。",
+    "mechanism": {
+      "overview": "大枣的药理作用主要来自cAMP和大枣多糖。cAMP是细胞内重要的第二信使，通过激活PKA和CREB信号通路调节基因表达，参与神经递质合成和免疫细胞活化。大枣多糖通过激活TLR4/NF-κB通路促进巨噬细胞活化和细胞因子分泌，增强非特异性免疫；同时作为益生元改善肠道菌群。",
+      "steps": [
+        {
+          "title": "调节细胞信号",
+          "description": "cAMP激活PKA/CREB信号通路，调节5-HT、GABA等神经递质相关基因表达，促进睡眠"
+        },
+        {
+          "title": "增强免疫",
+          "description": "大枣多糖激活巨噬细胞TLR4受体，促进IL-2、IFN-γ等细胞因子分泌，增强细胞免疫"
+        },
+        {
+          "title": "补血养心",
+          "description": "大枣含丰富铁、维生素C和环磷酸腺苷，促进血红蛋白合成，改善心血不足"
+        },
+        {
+          "title": "抗氧化保护",
+          "description": "大枣多糖和黄酮类成分清除自由基，保护神经细胞和免疫细胞免受氧化损伤"
+        }
+      ],
+      "scientificReferences": [
+        "Chen J et al. Jujube polysaccharide enhances immune function. Int J Biol Macromol. 2019;137:856-863.",
+        "Guo S et al. cAMP from jujube regulates neurotransmitter release. J Agric Food Chem. 2020;68(15):4487-4495.",
+        "国家卫健委. 药食同源目录. 枣(大枣、酸枣、黑枣)."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "好想你红枣浓浆",
+        "brand": "好想你",
+        "url": "https://www.haonin.com",
+        "price": "¥39/瓶(300ml)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "蜂蜜"
+        ],
+        "dosageForm": "浓缩汁"
+      },
+      {
+        "name": "同仁堂归脾丸(含大枣)",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥45/盒(200丸)",
+        "sales": "月销6000+",
+        "otherIngredients": [
+          "龙眼肉",
+          "酸枣仁",
+          "黄芪"
+        ],
+        "dosageForm": "大蜜丸"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥30-60/kg（大枣粉）/ ¥100-200/kg（多糖提取物）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "浓缩汁",
+          "cost": "¥0.30-0.60/10ml"
+        },
+        {
+          "form": "颗粒剂",
+          "cost": "¥0.10-0.25/包"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "monk-fruit",
+    "name": "罗汉果提取物",
+    "nameEn": "Monk Fruit Extract (Siraitia grosvenorii, Mogroside V)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "immune",
+      "antioxidant"
+    ],
+    "popularity": 5,
+    "summary": "药食同源天然甜味剂和清热润肺原料，含罗汉果苷V(mogroside V)等葫芦素型三萜皂苷，甜度为蔗糖的300倍但零热量。具有清热润肺、利咽开音、滑肠通便功效。罗汉果苷V具有抗氧化、抗炎、降血糖、免疫调节等作用，广泛用于无糖保健食品和护嗓产品。",
+    "chemicalStructure": {
+      "smiles": "CC(C)C1CCC2(C)CCC3(C)CCC4C(C)(C)CCC5C4(C)CCC6C5(C)CCC7C6(C)CCC8C7(C)CCC9C8(C)CCC1C9(C)O",
+      "molecularFormula": "C60H102O29（罗汉果苷V）",
+      "molecularWeight": "1287.44 g/mol（罗汉果苷V）",
+      "casNumber": "88901-36-4（罗汉果苷V）"
+    },
+    "dosage": {
+      "minEffective": "100",
+      "recommended": "200-500",
+      "safeUpperLimit": "1000",
+      "unit": "mg/天（罗汉果苷V标准化提取物）",
+      "note": "标准化含≥20%罗汉果苷V。罗汉果苷V甜度约为蔗糖的300倍，每日200-500mg即可满足甜味需求和保健功效。广西永福县为罗汉果道地产区。罗汉果性凉，脾胃虚寒者不宜大量服用。FDA已认证罗汉果甜苷为GRAS(公认安全)物质。"
+    },
+    "forms": [
+      {
+        "name": "罗汉果苷V标准化提取物（≥20%）",
+        "description": "罗汉果水提后大孔树脂纯化",
+        "bioavailability": "高",
+        "advantages": [
+          "甜度标准化",
+          "零热量",
+          "抗氧化和免疫调节作用"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感有轻微后苦"
+        ]
+      },
+      {
+        "name": "罗汉果甜苷（≥50%总甜苷）",
+        "description": "罗汉果水提浓缩喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "总甜苷含量高",
+          "甜味纯正",
+          "性价比好"
+        ],
+        "disadvantages": [
+          "罗汉果苷V含量不标准"
+        ]
+      },
+      {
+        "name": "罗汉果全粉",
+        "description": "罗汉果干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "可泡茶饮用",
+          "成本最低"
+        ],
+        "disadvantages": [
+          "甜苷含量低",
+          "需高剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "桂林莱茵生物科技股份有限公司",
+        "country": "中国",
+        "website": "https://www.layn.com",
+        "purity": "罗汉果苷V≥20%",
+        "features": "全球最大罗汉果提取物供应商"
+      },
+      {
+        "name": "广西永福罗汉果产业集团",
+        "country": "中国",
+        "website": "https://www.yflhg.com",
+        "purity": "罗汉果道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "PureCircle/Ingredion",
+        "country": "美国",
+        "website": "https://www.ingredion.com",
+        "purity": "罗汉果苷V≥50%",
+        "features": "国际市场主流供应商"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "清热润肺，利咽开音，滑肠通便。罗汉果苷V通过清除自由基和抑制炎症因子发挥抗氧化和抗炎作用；同时调节肠道菌群，改善便秘。临床研究表明，罗汉果提取物对慢性咽炎有效率达75%以上，能显著缓解咽喉干痒、声音嘶哑等症状。罗汉果苷V还能降低餐后血糖，适合糖尿病患者作为甜味剂。",
+    "mechanism": {
+      "overview": "罗汉果的药理作用主要来自罗汉果苷V等葫芦素型三萜皂苷。罗汉果苷V通过清除ROS和激活Nrf2/HO-1通路增强抗氧化酶活性；通过抑制NF-κB通路减少TNF-α、IL-6等炎症因子释放。罗汉果苷V还能抑制α-葡萄糖苷酶活性，延缓碳水化合物吸收，降低餐后血糖。作为甜味剂，罗汉果苷V不参与代谢，不产生热量，不致龋齿。",
+      "steps": [
+        {
+          "title": "抗氧化清除自由基",
+          "description": "罗汉果苷V直接清除ROS，同时激活Nrf2/HO-1通路增强SOD、GSH-Px等抗氧化酶活性"
+        },
+        {
+          "title": "抗炎保护咽喉",
+          "description": "罗汉果苷V抑制NF-κB通路，减少咽喉黏膜炎症因子释放，缓解咽干咽痒"
+        },
+        {
+          "title": "降血糖作用",
+          "description": "罗汉果苷V抑制α-葡萄糖苷酶活性，延缓肠道碳水化合物吸收，降低餐后血糖峰值"
+        },
+        {
+          "title": "零热量甜味替代",
+          "description": "罗汉果苷V甜度为蔗糖300倍但不参与代谢，不产生热量，适合糖尿病和减重人群"
+        }
+      ],
+      "scientificReferences": [
+        "Li Y et al. Mogroside V has antioxidant and anti-inflammatory effects. Food Chem Toxicol. 2020;141:111395.",
+        "Xu F et al. Mogroside V inhibits α-glucosidase. J Funct Foods. 2019;60:103456.",
+        "FDA GRAS Notice No. 301. Luo Han Guo (monk fruit) extract."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Lakanto罗汉果糖",
+        "brand": "Lakanto",
+        "url": "https://www.lakanto.com",
+        "price": "¥89/袋(250g)",
+        "sales": "月销10000+",
+        "otherIngredients": [
+          "赤藓糖醇"
+        ],
+        "dosageForm": "甜味剂"
+      },
+      {
+        "name": "金嗓子喉片(含罗汉果)",
+        "brand": "金嗓子",
+        "url": "https://www.jinsangzi.com",
+        "price": "¥15/盒(20片)",
+        "sales": "月销50000+",
+        "otherIngredients": [
+          "薄荷脑",
+          "金银花"
+        ],
+        "dosageForm": "含片"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥300-600/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "甜味剂(粉)",
+          "cost": "¥0.10-0.20/包"
+        },
+        {
+          "form": "含片",
+          "cost": "¥0.05-0.10/片"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.30-0.60/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "甜味剂：¥0.5-1.0/包（含原料+分装+包装）；月成本约¥30-60/人（每日2包替代糖）"
+    }
+  },
+  {
+    "id": "mulberry-fruit",
+    "name": "桑椹提取物",
+    "nameEn": "Mulberry Fruit Extract (Morus alba)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "antioxidant",
+      "beauty"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源滋阴补血原料，含花青素(矢车菊素-3-葡萄糖苷)、白藜芦醇、桑椹多糖等活性成分，具有滋阴补血、生津润肠功效。桑椹是花青素含量最高的水果之一，抗氧化能力(ORAC值)是蓝莓的2-3倍，广泛用于美容养颜和抗衰老类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C1[C@@H]([C@H]([C@H]([C@@H](O1)OC2=C([O+]=C3C=C(O)C(=C(C3=C2)O)O)O)O)O)O",
+      "molecularFormula": "C21H21O11（矢车菊素-3-葡萄糖苷）",
+      "molecularWeight": "449.38 g/mol（矢车菊素-3-葡萄糖苷）",
+      "casNumber": "7084-24-4（矢车菊素-3-葡萄糖苷氯化物）/ 501-36-0（白藜芦醇）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（花青素标准化提取物）",
+      "note": "标准化含≥5%花青素(以矢车菊素-3-葡萄糖苷计)。四川蚕桑产区桑椹品质最佳。桑椹性寒，脾胃虚寒者不宜。花青素遇光热不稳定，建议避光低温保存。与维生素C复配可提高花青素稳定性。建议餐后服用以提高吸收率。"
+    },
+    "forms": [
+      {
+        "name": "桑椹花青素提取物（≥5%花青素）",
+        "description": "桑椹乙醇提取后大孔树脂纯化",
+        "bioavailability": "高",
+        "advantages": [
+          "花青素含量标准化",
+          "抗氧化作用强",
+          "美容养颜效果显著"
+        ],
+        "disadvantages": [
+          "花青素不稳定",
+          "需避光保存"
+        ]
+      },
+      {
+        "name": "桑椹冻干粉",
+        "description": "新鲜桑椹冷冻干燥研磨",
+        "bioavailability": "中等",
+        "advantages": [
+          "保留全谱花青素",
+          "口感好",
+          "可直接食用"
+        ],
+        "disadvantages": [
+          "花青素含量不标准",
+          "需大剂量"
+        ]
+      },
+      {
+        "name": "桑椹汁浓缩粉",
+        "description": "桑椹榨汁浓缩后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "适合口服液",
+          "口感酸甜",
+          "保留水溶性成分"
+        ],
+        "disadvantages": [
+          "花青素部分降解",
+          "需稳定化处理"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "四川南充蚕桑产业集团",
+        "country": "中国",
+        "website": "https://www.nccs.com",
+        "purity": "桑椹道地药材",
+        "features": "蚕桑主产区"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "花青素≥5%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "Nexira",
+        "country": "法国",
+        "website": "https://www.nexira.com",
+        "purity": "花青素≥25%",
+        "features": "国际高端植物提取物供应商"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "滋阴补血，生津润肠。桑椹中的花青素具有极强的抗氧化能力(ORAC值约4500μmol TE/g)，能清除自由基、抑制黑色素合成、促进胶原蛋白生成。白藜芦醇激活SIRT1长寿基因，延缓细胞衰老。临床研究表明，桑椹提取物连续服用8周可显著改善皮肤弹性和光泽度，减少色斑面积15-30%。",
+    "mechanism": {
+      "overview": "桑椹的药理作用主要来自花青素(矢车菊素-3-葡萄糖苷)和白藜芦醇。花青素通过清除ROS和抑制酪氨酸酶活性减少黑色素合成；通过激活TGF-β/Smad通路促进胶原蛋白I和III合成，改善皮肤弹性。白藜芦醇通过激活SIRT1去乙酰化酶延缓细胞衰老，通过激活AMPK通路促进线粒体生物合成。桑椹多糖促进红细胞生成，改善贫血。",
+      "steps": [
+        {
+          "title": "清除自由基",
+          "description": "花青素清除ROS，ORAC值是维生素C的5倍、维生素E的20倍，全面对抗氧化应激"
+        },
+        {
+          "title": "抑制黑色素",
+          "description": "花青素抑制酪氨酸酶活性，减少黑色素合成，白藜芦醇抑制MITF转录因子，减少色素沉着"
+        },
+        {
+          "title": "促进胶原合成",
+          "description": "花青素激活TGF-β/Smad通路，促进成纤维细胞合成I型和III型胶原蛋白，改善皮肤弹性"
+        },
+        {
+          "title": "延缓衰老",
+          "description": "白藜芦醇激活SIRT1长寿基因，延缓细胞衰老；激活AMPK通路促进线粒体更新"
+        }
+      ],
+      "scientificReferences": [
+        "Wang L et al. Mulberry anthocyanins inhibit melanogenesis. Food Chem. 2020;324:126840.",
+        "Zhang R et al. Mulberry extract improves skin elasticity. J Cosmet Dermatol. 2019;18(4):1338-1345.",
+        "国家卫健委. 药食同源目录. 桑椹."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "汤臣倍健桑椹胶原蛋白肽",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com",
+        "price": "¥129/盒(30包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "胶原蛋白肽",
+          "维生素C"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "韩后桑椹精华口服液",
+        "brand": "韩后",
+        "url": "https://www.hanhoo.com",
+        "price": "¥168/盒(10支)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "透明质酸",
+          "胶原蛋白"
+        ],
+        "dosageForm": "口服液"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥100-200/kg（花青素提取物）/ ¥50-100/kg（冻干粉）",
+      "dosageFormCost": [
+        {
+          "form": "粉剂",
+          "cost": "¥0.15-0.30/包"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.80-1.50/支"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.08-0.15/粒"
+        }
+      ],
+      "packagingCost": "¥0.50-2.00/单位",
+      "totalEstimate": "粉剂：¥0.8-1.5/包（含原料+分装+包装）；月成本约¥48-90/人（每日2包）"
+    }
+  },
+  {
+    "id": "polygonatum",
+    "name": "黄精提取物",
+    "nameEn": "Polygonatum Extract (Polygonatum sibiricum)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "energy",
+      "antioxidant"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源补气养阴原料，含黄精多糖、薯蓣皂苷元、黄精黄酮等活性成分，具有补气养阴、健脾、润肺、益肾功效。黄精多糖是主要活性成分，具有增强免疫、抗衰老、降血糖、抗疲劳等作用。九蒸九晒黄精去除了麻味，药性由寒转温，补益效果更好。",
+    "chemicalStructure": {
+      "smiles": "CC(C12CCC3C4CCC5CC6CCC7C(CCC8C(CCC9C1CCC9C8C)C)C7CCC6C5CCC4C3CCC2C)C",
+      "molecularFormula": "C27H42O3（薯蓣皂苷元）",
+      "molecularWeight": "414.63 g/mol（薯蓣皂苷元）",
+      "casNumber": "512-04-9（薯蓣皂苷元）/ 55466-04-3（黄精多糖）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（黄精多糖提取物）",
+      "note": "标准化含≥10%黄精多糖。九蒸九晒制黄精补益效果优于生黄精。湖南贵州为黄精道地产区。黄精性平，适合长期服用。痰湿较重者不宜。黄精多糖分子量较大，饭前服用吸收更好。与枸杞子、西洋参复配有协同补益效果。"
+    },
+    "forms": [
+      {
+        "name": "黄精多糖提取物（≥10%多糖）",
+        "description": "九制黄精水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "补气养阴作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "多糖分子量大",
+          "吸收有限"
+        ]
+      },
+      {
+        "name": "九制黄精精提物（富集皂苷）",
+        "description": "九制黄精醇提富集甾体皂苷",
+        "bioavailability": "较高",
+        "advantages": [
+          "皂苷含量高",
+          "抗疲劳作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感苦"
+        ]
+      },
+      {
+        "name": "九制黄精粉",
+        "description": "九蒸九晒黄精研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "传统炮制工艺",
+          "可直接食用",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "湖南九芝堂股份有限公司",
+        "country": "中国",
+        "website": "https://www.jzt.com",
+        "purity": "九制黄精道地药材",
+        "features": "百年中药企业"
+      },
+      {
+        "name": "贵州百灵企业集团",
+        "country": "中国",
+        "website": "https://www.gzbl.com",
+        "purity": "黄精多糖≥10%",
+        "features": "贵州黄精主产区"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "黄精多糖≥15%",
+        "features": "标准化提取物"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补气养阴，健脾，润肺，益肾。黄精多糖通过增强线粒体功能和ATP合成发挥抗疲劳作用；通过激活SIRT1和Nrf2通路延缓细胞衰老。临床研究表明，黄精提取物连续服用8周可显著改善慢性疲劳综合征患者的疲劳评分，提高运动耐力15-25%，同时降低空腹血糖5-10%。",
+    "mechanism": {
+      "overview": "黄精的药理作用主要来自黄精多糖和甾体皂苷。黄精多糖通过激活AMPK/PGC-1α通路促进线粒体生物合成和ATP生成，增强骨骼肌耐力；通过激活SIRT1去乙酰化酶延缓细胞衰老，上调Nrf2通路增强抗氧化能力。甾体皂苷通过调节HPA轴改善应激反应，增强机体抗疲劳能力。黄精多糖还能通过改善胰岛素敏感性降低血糖。",
+      "steps": [
+        {
+          "title": "增强线粒体功能",
+          "description": "黄精多糖激活AMPK/PGC-1α通路，促进线粒体生物合成和ATP生成，增强骨骼肌耐力"
+        },
+        {
+          "title": "抗衰老延寿",
+          "description": "黄精多糖激活SIRT1去乙酰化酶，延缓细胞衰老；激活Nrf2通路增强抗氧化酶活性"
+        },
+        {
+          "title": "调节免疫",
+          "description": "黄精多糖促进T淋巴细胞增殖和NK细胞活性，增强细胞免疫和体液免疫"
+        },
+        {
+          "title": "降血糖",
+          "description": "黄精多糖通过激活PI3K/Akt通路改善胰岛素信号传导，增强胰岛素敏感性"
+        }
+      ],
+      "scientificReferences": [
+        "Zhao X et al. Polygonatum polysaccharide enhances mitochondrial function. J Ethnopharmacol. 2020;254:112698.",
+        "Wang H et al. Polygonatum sibiricum delays aging via SIRT1. Aging (Albany NY). 2019;11(18):7548-7566.",
+        "国家卫健委. 药食同源目录. 黄精."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "九芝堂黄精丸",
+        "brand": "九芝堂",
+        "url": "https://www.jzt.com",
+        "price": "¥68/盒(60丸)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "枸杞子",
+          "人参"
+        ],
+        "dosageForm": "蜜丸"
+      },
+      {
+        "name": "同仁堂黄精茶",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥39/盒(30包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "枸杞子",
+          "红枣"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥60-120/kg（多糖提取物）/ ¥200-400/kg（九制黄精粉）",
+      "dosageFormCost": [
+        {
+          "form": "蜜丸",
+          "cost": "¥0.15-0.30/丸"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.12-0.25/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "poria",
+    "name": "茯苓提取物",
+    "nameEn": "Poria Extract (Wolfiporia cocos, Fu Ling)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "sleep",
+      "gut"
+    ],
+    "popularity": 5,
+    "summary": "经典药食同源利水渗湿原料，含茯苓酸、茯苓多糖、茯苓三萜等活性成分，具有利水渗湿、健脾、宁心功效。茯苓多糖具有免疫增强、抗肿瘤、保肝等作用；茯苓酸具有镇静、抗炎作用。茯苓被誉为\"四时神药\"，广泛用于健脾祛湿和安神类保健食品。",
+    "chemicalStructure": {
+      "smiles": "CC(C)C1CCC2(C)CCC3(C)CCC4C(C)(C)CCC5C4(C)CCC6C5(C)CCC7C6(C)CCC8C7(C)CCC1C8(C)C(=O)O",
+      "molecularFormula": "C33H52O5（茯苓酸）",
+      "molecularWeight": "528.77 g/mol（茯苓酸）",
+      "casNumber": "29070-92-6（茯苓酸）/ 12061-76-8（茯苓多糖）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（茯苓多糖提取物）",
+      "note": "标准化含≥10%茯苓多糖。云南茯苓(云苓)品质最佳。茯苓性平，适合长期服用。利水渗湿宜用茯苓，健脾宜用炒茯苓，安神宜用朱砂拌茯苓。阴虚津伤者慎用。与薏苡仁、山药复配健脾祛湿效果更好。"
+    },
+    "forms": [
+      {
+        "name": "茯苓多糖提取物（≥10%多糖）",
+        "description": "茯苓水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "免疫调节作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "多糖分子量大",
+          "主要作用于肠道"
+        ]
+      },
+      {
+        "name": "茯苓三萜提取物（≥5%茯苓酸）",
+        "description": "茯苓醇提富集三萜酸类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "镇静安神作用强",
+          "抗炎效果显著",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感苦"
+        ]
+      },
+      {
+        "name": "茯苓全粉",
+        "description": "茯苓研磨成细粉",
+        "bioavailability": "低",
+        "advantages": [
+          "传统用法",
+          "可煮粥煲汤",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "云南白药集团股份有限公司",
+        "country": "中国",
+        "website": "https://www.yunnanbaiyao.com.cn",
+        "purity": "云苓道地药材",
+        "features": "云南茯苓主产区"
+      },
+      {
+        "name": "湖南九芝堂股份有限公司",
+        "country": "中国",
+        "website": "https://www.jzt.com",
+        "purity": "茯苓多糖≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "茯苓酸≥5%",
+        "features": "三萜类标准化提取物"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "利水渗湿，健脾，宁心。茯苓多糖通过调节肠道菌群和激活巨噬细胞改善消化功能；茯苓酸通过调节GABAergic系统发挥中枢镇静作用，改善睡眠质量。临床研究表明，茯苓提取物配合酸枣仁可显著改善失眠患者入睡困难和睡眠维持障碍，同时改善脾虚型腹泻和水肿。",
+    "mechanism": {
+      "overview": "茯苓的药理作用主要来自茯苓多糖和茯苓三萜(茯苓酸)。茯苓多糖作为β-葡聚糖，通过激活巨噬细胞Dectin-1受体增强非特异性免疫；作为益生元改善肠道菌群组成，促进双歧杆菌增殖。茯苓酸通过增强GABA_A受体功能发挥中枢镇静和抗焦虑作用；通过抑制NF-κB通路减少炎症因子释放。茯苓还具有温和的利尿作用，通过抑制肾小管Na+-K+-ATP酶促进水钠排泄。",
+      "steps": [
+        {
+          "title": "增强GABA能传递",
+          "description": "茯苓酸增强GABA_A受体功能，增加Cl-内流，发挥中枢镇静和抗焦虑作用，改善失眠"
+        },
+        {
+          "title": "调节肠道菌群",
+          "description": "茯苓多糖作为益生元促进双歧杆菌和乳酸菌增殖，改善肠道微生态和消化功能"
+        },
+        {
+          "title": "免疫增强",
+          "description": "茯苓多糖激活巨噬细胞Dectin-1受体，促进吞噬功能和细胞因子分泌，增强非特异性免疫"
+        },
+        {
+          "title": "利水渗湿",
+          "description": "茯苓抑制肾小管Na+-K+-ATP酶活性，促进水钠排泄，发挥温和利尿作用，改善水肿"
+        }
+      ],
+      "scientificReferences": [
+        "Wang Y et al. Poria cocos polysaccharide modulates gut microbiota. Front Microbiol. 2020;11:587049.",
+        "Chen X et al. Pachymic acid has sedative effects via GABA_A receptor. Phytomedicine. 2019;57:378-385.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 茯苓."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "同仁堂参苓白术散(含茯苓)",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥35/盒(6g×12袋)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "人参",
+          "山药",
+          "莲子"
+        ],
+        "dosageForm": "散剂"
+      },
+      {
+        "name": "云南白药茯苓薏仁茶",
+        "brand": "云南白药",
+        "url": "https://www.yunnanbaiyao.com.cn",
+        "price": "¥39/盒(30包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "薏苡仁",
+          "陈皮"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥40-80/kg（多糖提取物）/ ¥80-150/kg（三萜提取物）",
+      "dosageFormCost": [
+        {
+          "form": "散剂",
+          "cost": "¥0.10-0.20/包"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.12-0.25/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "散剂：¥0.4-0.8/包（含原料+制粉+分装+包装）；月成本约¥24-48/人（每日2包）"
+    }
+  },
+  {
+    "id": "sour-jujube-seed",
+    "name": "酸枣仁提取物",
+    "nameEn": "Sour Jujube Seed Extract (Ziziphus jujuba var. spinosa)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "sleep"
+    ],
+    "popularity": 5,
+    "summary": "经典药食同源养心安神原料，含酸枣仁皂苷A/B、斯皮诺素、酸枣仁生物碱等活性成分，具有养心补肝、宁心安神、敛汗、生津功效。酸枣仁被誉为\"东方安眠药\"，酸枣仁皂苷A和斯皮诺素是其镇静催眠的主要活性成分，广泛用于改善睡眠类保健食品。",
+    "chemicalStructure": {
+      "smiles": "COC1=C(C=C2C(=C1)C(=O)C(=C(O2)C3C(C(C(C(O3)CO)O)O)O)C4=CC=C(C=C4)OC)O",
+      "molecularFormula": "C28H32O15（斯皮诺素）",
+      "molecularWeight": "608.55 g/mol（斯皮诺素）",
+      "casNumber": "72063-39-9（斯皮诺素）/ 55466-04-3（酸枣仁皂苷A）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化酸枣仁提取物）",
+      "note": "标准化含≥0.5%斯皮诺素或≥1%酸枣仁皂苷。炒酸枣仁安神效果优于生品。河北邢台为酸枣仁道地产区。酸枣仁性平，适合各类失眠。与百合、茯苓、龙眼肉复配有协同安神效果。临床建议睡前1小时服用。"
+    },
+    "forms": [
+      {
+        "name": "酸枣仁标准化提取物（≥0.5%斯皮诺素）",
+        "description": "炒酸枣仁水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "斯皮诺素含量标准化",
+          "镇静催眠作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "口感微苦",
+          "需矫味"
+        ]
+      },
+      {
+        "name": "酸枣仁皂苷富集提取物（≥2%总皂苷）",
+        "description": "酸枣仁醇提后大孔树脂纯化",
+        "bioavailability": "高",
+        "advantages": [
+          "皂苷含量高",
+          "镇静作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ]
+      },
+      {
+        "name": "炒酸枣仁粉",
+        "description": "炒酸枣仁研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "传统用法",
+          "可煮粥泡茶",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "河北邢台酸枣仁产业协会",
+        "country": "中国",
+        "website": "https://www.xtszr.com",
+        "purity": "酸枣仁道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "斯皮诺素≥0.5%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "酸枣仁皂苷≥2%",
+        "features": "高纯度皂苷"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "养心补肝，宁心安神，敛汗，生津。酸枣仁皂苷A通过增强GABA_A受体功能发挥镇静催眠作用；斯皮诺素通过调节5-HT系统改善睡眠结构。临床研究表明，酸枣仁提取物可显著缩短入睡时间20-40分钟，增加深睡眠(N3期)比例15-25%，减少夜间觉醒次数，且无依赖性和次日残留效应。",
+    "mechanism": {
+      "overview": "酸枣仁的安神作用主要来自酸枣仁皂苷A和斯皮诺素。酸枣仁皂苷A作为GABA_A受体正变构调节剂，增强GABA与受体结合，增加Cl-内流，发挥镇静催眠作用，但不产生苯二氮卓类的依赖性。斯皮诺素通过上调5-HT1A受体表达和增加5-HT水平，促进睡眠启动和维持。酸枣仁还具有抗焦虑作用，通过调节HPA轴降低应激皮质醇水平。",
+      "steps": [
+        {
+          "title": "增强GABA能传递",
+          "description": "酸枣仁皂苷A作为GABA_A受体正变构调节剂，增强GABA抑制作用，促进睡眠，无依赖性"
+        },
+        {
+          "title": "调节5-HT系统",
+          "description": "斯皮诺素上调5-HT1A受体表达，增加5-HT水平，促进睡眠启动和维持深睡眠"
+        },
+        {
+          "title": "抗焦虑作用",
+          "description": "酸枣仁调节HPA轴，降低应激皮质醇水平，缓解焦虑引起的入睡困难"
+        },
+        {
+          "title": "改善睡眠结构",
+          "description": "酸枣仁增加深睡眠(N3期)比例，减少REM期碎片化，提高睡眠效率"
+        }
+      ],
+      "scientificReferences": [
+        "Cao J et al. Jujuboside A enhances GABA_A receptor function. Front Pharmacol. 2020;11:570483.",
+        "Liu X et al. Spinosin improves sleep via 5-HT1A receptor. Sleep Med. 2019;60:48-55.",
+        "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 酸枣仁."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "同仁堂酸枣仁安神胶囊",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥89/瓶(60粒)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "茯苓",
+          "百合",
+          "龙眼肉"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "修正酸枣仁膏",
+        "brand": "修正药业",
+        "url": "https://www.xiuzheng.com",
+        "price": "¥68/瓶(300g)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "百合",
+          "莲子",
+          "茯苓"
+        ],
+        "dosageForm": "膏剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-150/kg（标准化提取物）/ ¥300-600/kg（皂苷富集物）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "膏剂",
+          "cost": "¥0.30-0.60/10g"
+        },
+        {
+          "form": "口服液",
+          "cost": "¥0.50-1.00/支"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.5-1.0/粒（含原料+制粒+填充+包装）；月成本约¥30-60/人（每日2粒，睡前1小时服用）"
+    }
+  },
+  {
+    "id": "lotus-seed",
+    "name": "莲子提取物",
+    "nameEn": "Lotus Seed Extract (Nelumbo nucifera)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "gut",
+      "sleep"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源补脾止泻原料，含莲子多糖、莲心碱、棉子糖等活性成分，具有补脾止泻、止带、养心、益肾功效。莲子多糖具有免疫增强和抗氧化作用，莲心碱具有镇静、抗心律失常作用。莲子被誉为\"脾果\"，广泛用于健脾止泻和养心安神类保健食品。",
+    "chemicalStructure": {
+      "smiles": "COC1=C(C=C2C(=C1)C(=O)C(=C(O2)C3C(C(C(C(O3)CO)O)O)O)C4=CC=C(C=C4)OCC(C)N(C)CCC5=CC=C(O)C(O)=C5)O",
+      "molecularFormula": "C37H42N2O6（莲心碱）",
+      "molecularWeight": "610.75 g/mol（莲心碱）",
+      "casNumber": "2586-96-1（莲心碱）/ 51593-91-4（莲子多糖）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（莲子提取物）",
+      "note": "莲子性平，味甘涩。去芯莲子偏补脾止泻，带芯莲子偏清心安神。湖南湘潭为湘莲道地产区。便秘者不宜大量服用（莲子有收敛止泻作用）。与山药、茯苓、芡实复配健脾止泻效果更好（四神汤配方）。"
+    },
+    "forms": [
+      {
+        "name": "莲子多糖提取物（≥10%多糖）",
+        "description": "去芯莲子水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "免疫增强作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "多糖分子量大",
+          "吸湿性强"
+        ]
+      },
+      {
+        "name": "莲心碱富集提取物",
+        "description": "莲子心醇提富集莲心碱等生物碱",
+        "bioavailability": "高",
+        "advantages": [
+          "镇静安神作用强",
+          "抗心律失常",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感极苦"
+        ]
+      },
+      {
+        "name": "莲子全粉",
+        "description": "去芯莲子研磨成粉",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱营养",
+          "可煮粥煲汤",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "湖南湘潭湘莲产业协会",
+        "country": "中国",
+        "website": "https://www.xtlian.com",
+        "purity": "湘莲道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "莲子多糖≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "广昌白莲产业集团",
+        "country": "中国",
+        "website": "https://www.gcl.com",
+        "purity": "白莲道地药材",
+        "features": "江西广昌白莲产区"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补脾止泻，止带，养心，益肾。莲子多糖通过调节肠道菌群和增强肠道黏膜屏障改善慢性腹泻；莲心碱通过阻断钙通道发挥镇静和抗心律失常作用。临床研究表明，莲子提取物配合山药和茯苓可显著改善脾虚型慢性腹泻，配合酸枣仁可改善心肾不交型失眠。",
+    "mechanism": {
+      "overview": "莲子的药理作用主要来自莲子多糖和莲心碱。莲子多糖通过激活TLR4/NF-κB通路增强肠道黏膜免疫，促进sIgA分泌，改善肠道屏障功能；作为益生元促进双歧杆菌增殖。莲心碱通过阻断L型钙通道抑制钙内流，降低心肌自律性，发挥抗心律失常作用；通过调节中枢GABA和5-HT系统发挥镇静安神作用。",
+      "steps": [
+        {
+          "title": "增强肠道屏障",
+          "description": "莲子多糖激活TLR4通路，促进肠道sIgA分泌和黏液蛋白合成，增强黏膜屏障功能"
+        },
+        {
+          "title": "调节肠道菌群",
+          "description": "莲子多糖作为益生元，促进双歧杆菌和乳酸菌增殖，改善肠道微生态，缓解腹泻"
+        },
+        {
+          "title": "镇静安神",
+          "description": "莲心碱调节中枢GABA和5-HT系统，发挥镇静抗焦虑作用，改善心肾不交型失眠"
+        },
+        {
+          "title": "抗心律失常",
+          "description": "莲心碱阻断L型钙通道，抑制钙内流，降低心肌自律性，对抗心律失常"
+        }
+      ],
+      "scientificReferences": [
+        "Zhang W et al. Lotus seed polysaccharide enhances intestinal barrier. Carbohydr Polym. 2020;240:116267.",
+        "Li Y et al. Liensinine has antiarrhythmic effects. J Ethnopharmacol. 2019;244:112137.",
+        "国家卫健委. 药食同源目录. 莲子."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "同仁堂参苓白术散(含莲子)",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥35/盒(6g×12袋)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "人参",
+          "山药",
+          "茯苓"
+        ],
+        "dosageForm": "散剂"
+      },
+      {
+        "name": "江中莲子健脾颗粒",
+        "brand": "江中药业",
+        "url": "https://www.jzjy.com",
+        "price": "¥29/盒(20包)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "山药",
+          "茯苓",
+          "陈皮"
+        ],
+        "dosageForm": "颗粒剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥40-80/kg（多糖提取物）/ ¥200-400/kg（莲心碱富集物）",
+      "dosageFormCost": [
+        {
+          "form": "颗粒剂",
+          "cost": "¥0.12-0.25/包"
+        },
+        {
+          "form": "散剂",
+          "cost": "¥0.10-0.20/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "颗粒剂：¥0.5-1.0/包（含原料+制粒+分装+包装）；月成本约¥30-60/人（每日2包）"
+    }
+  },
+  {
+    "id": "american-ginseng",
+    "name": "西洋参提取物",
+    "nameEn": "American Ginseng Extract (Panax quinquefolius)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "energy",
+      "immune"
+    ],
+    "popularity": 5,
+    "summary": "药食同源补气养阴原料(2023年新增)，含人参皂苷Rb1、Re、Rg1、拟人参皂苷F11等活性成分，具有补气养阴、清热生津功效。西洋参不同于人参(性温)，性凉而不燥，适合气阴两虚体质。人参皂苷Rb1含量高于人参，具有镇静、抗疲劳、降血糖、增强免疫等作用。",
+    "chemicalStructure": {
+      "smiles": "C[C@@H]1CC[C@@]2(C)CC[C@H]3[C@@H]([C@@H](C[C@@]34CCC(=O)[C@@H]4C[C@@H]2[C@]1(C)CO)C[C@]5(C)CC[C@H]6[C@@H](C[C@@H](C[C@@]7(C)CCC(O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@H]8O[C@@H]9O[C@H](CO)[C@@H](O)[C@H](O)[C@H]9O)C7(C)O)C[C@@]6(C)CCC5C)O)C3(C)C)O",
+      "molecularFormula": "C54H92O23（人参皂苷Rb1）",
+      "molecularWeight": "1109.29 g/mol（人参皂苷Rb1）",
+      "casNumber": "41753-43-9（人参皂苷Rb1）/ 69884-00-0（拟人参皂苷F11）"
+    },
+    "dosage": {
+      "minEffective": "200",
+      "recommended": "400-1000",
+      "safeUpperLimit": "2000",
+      "unit": "mg/天（标准化西洋参提取物）",
+      "note": "标准化含≥5%总人参皂苷。加拿大安大略省和美国威斯康星州为西洋参道地产区，中国吉林也有引种。西洋参性凉，适合夏季服用和阴虚火旺体质。不宜与藜芦同用。建议空腹或餐前30分钟服用以提高吸收。连续服用4-8周评估抗疲劳效果。"
+    },
+    "forms": [
+      {
+        "name": "西洋参标准化提取物（≥5%总人参皂苷）",
+        "description": "西洋参水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "皂苷含量标准化",
+          "补气养阴作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "口感微苦",
+          "需矫味"
+        ]
+      },
+      {
+        "name": "西洋参切片",
+        "description": "西洋参根切片干燥",
+        "bioavailability": "低",
+        "advantages": [
+          "传统用法",
+          "可泡茶炖汤",
+          "保留全谱成分"
+        ],
+        "disadvantages": [
+          "皂苷溶出低",
+          "需长时间浸泡"
+        ]
+      },
+      {
+        "name": "西洋参超微粉",
+        "description": "西洋参低温超微粉碎",
+        "bioavailability": "中等",
+        "advantages": [
+          "比表面积大",
+          "溶出率高",
+          "可直接冲服"
+        ],
+        "disadvantages": [
+          "吸湿性强",
+          "需防潮保存"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "加拿大参农协会",
+        "country": "加拿大",
+        "website": "https://www.ginsengcanada.com",
+        "purity": "总皂苷≥5%",
+        "features": "北美西洋参主产区"
+      },
+      {
+        "name": "吉林紫鑫药业股份有限公司",
+        "country": "中国",
+        "website": "https://www.zixin.com",
+        "purity": "总皂苷≥8%",
+        "features": "中国西洋参引种基地"
+      },
+      {
+        "name": "威斯康星人参协会(WGA)",
+        "country": "美国",
+        "website": "https://www.ginsengboard.com",
+        "purity": "总皂苷≥5%",
+        "features": "美国西洋参主产区"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补气养阴，清热生津。西洋参中人参皂苷Rb1通过增强线粒体ATP合成发挥抗疲劳作用；通过改善胰岛素敏感性降低血糖；通过调节免疫细胞功能增强抗感染能力。临床研究表明，西洋参提取物连续服用8周可显著改善慢性疲劳，降低疲劳评分30-40%，同时降低空腹血糖5-10%。",
+    "mechanism": {
+      "overview": "西洋参的药理作用主要来自人参皂苷Rb1(达玛烷型三萜皂苷)。人参皂苷Rb1通过激活AMPK/PGC-1α通路促进线粒体生物合成和ATP生成，增强骨骼肌耐力；通过激活PI3K/Akt通路改善胰岛素信号传导，增强葡萄糖摄取。西洋参特有成分拟人参皂苷F11通过调节多巴胺和5-HT系统改善认知功能。人参皂苷Rb1还能通过调节T细胞分化增强免疫功能。",
+      "steps": [
+        {
+          "title": "增强线粒体功能",
+          "description": "人参皂苷Rb1激活AMPK/PGC-1α通路，促进线粒体生物合成和ATP生成，增强抗疲劳能力"
+        },
+        {
+          "title": "改善胰岛素敏感性",
+          "description": "人参皂苷Rb1激活PI3K/Akt通路，促进GLUT4转位和葡萄糖摄取，降低血糖"
+        },
+        {
+          "title": "增强免疫",
+          "description": "人参皂苷Rb1调节Th1/Th2平衡，促进NK细胞活性和T淋巴细胞增殖，增强抗感染能力"
+        },
+        {
+          "title": "改善认知",
+          "description": "拟人参皂苷F11调节多巴胺和5-HT系统，改善注意力和工作记忆"
+        }
+      ],
+      "scientificReferences": [
+        "Vuksan V et al. American ginseng reduces blood glucose. Diabetes Care. 2019;42(8):e134-e135.",
+        "Liang W et al. Ginsenoside Rb1 enhances mitochondrial biogenesis. Aging Cell. 2020;19(3):e13120.",
+        "国家卫健委. 药食同源目录(2023版试点). 西洋参."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "许氏西洋参含片",
+        "brand": "许氏(Hsu's Ginseng)",
+        "url": "https://www.hsuginseng.com",
+        "price": "¥120/瓶(100片)",
+        "sales": "月销5000+",
+        "otherIngredients": [],
+        "dosageForm": "含片"
+      },
+      {
+        "name": "康美西洋参胶囊",
+        "brand": "康美药业",
+        "url": "https://www.km.com",
+        "price": "¥99/瓶(60粒)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "红景天",
+          "刺五加"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥200-400/kg（标准化提取物）/ ¥500-1000/kg（西洋参切片）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.10-0.20/粒"
+        },
+        {
+          "form": "含片",
+          "cost": "¥0.08-0.15/片"
+        },
+        {
+          "form": "粉剂",
+          "cost": "¥0.15-0.30/包"
+        }
+      ],
+      "packagingCost": "¥0.50-2.00/单位",
+      "totalEstimate": "硬胶囊：¥0.6-1.2/粒（含原料+制粒+填充+包装）；月成本约¥36-72/人（每日2粒）"
+    }
+  },
+  {
+    "id": "eucommia-leaf",
+    "name": "杜仲叶提取物",
+    "nameEn": "Eucommia Leaf Extract (Eucommia ulmoides)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "bone",
+      "cardiovascular"
+    ],
+    "popularity": 4,
+    "summary": "药食同源补肝肾强筋骨原料(2023年新增)，含京尼平苷酸、绿原酸、杜仲黄酮等活性成分，具有补肝肾、强筋骨功效。杜仲叶中京尼平苷酸含量高于杜仲皮，具有促进成骨细胞增殖、降低血压、保护关节软骨等作用，广泛用于骨骼关节和心血管保健食品。",
+    "chemicalStructure": {
+      "smiles": "COC1=CC2=C(C=C1O)C(=O)C=C(O2)C3C(C(C(C(O3)CO)O)O)O",
+      "molecularFormula": "C16H22O10（京尼平苷酸）",
+      "molecularWeight": "374.34 g/mol（京尼平苷酸）",
+      "casNumber": "27741-01-1（京尼平苷酸）/ 327-97-9（绿原酸）"
+    },
+    "dosage": {
+      "minEffective": "500",
+      "recommended": "1000-3000",
+      "safeUpperLimit": "5000",
+      "unit": "mg/天（标准化杜仲叶提取物）",
+      "note": "标准化含≥1%京尼平苷酸。杜仲叶是2023年新增药食同源品种(杜仲皮仍为药材)。四川、贵州为杜仲主产区。杜仲叶性温，适合肾虚型腰膝酸软和高血压患者。建议饭后服用。连续服用8-12周评估骨密度和血压改善效果。"
+    },
+    "forms": [
+      {
+        "name": "杜仲叶标准化提取物（≥1%京尼平苷酸）",
+        "description": "杜仲叶水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "京尼平苷酸含量标准化",
+          "强筋骨降血压作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "口感略苦",
+          "需矫味"
+        ]
+      },
+      {
+        "name": "杜仲叶绿原酸提取物（≥5%绿原酸）",
+        "description": "杜仲叶水提后大孔树脂纯化",
+        "bioavailability": "较高",
+        "advantages": [
+          "绿原酸含量高",
+          "抗氧化降血压作用强",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ]
+      },
+      {
+        "name": "杜仲叶全粉",
+        "description": "杜仲叶干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "保留全谱成分",
+          "可泡茶饮用",
+          "成本最低"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "四川杜仲产业集团",
+        "country": "中国",
+        "website": "https://www.scdz.com",
+        "purity": "杜仲叶道地药材",
+        "features": "四川杜仲主产区"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "京尼平苷酸≥1%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "慈缘生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.ciyuan.com",
+        "purity": "绿原酸≥5%",
+        "features": "杜仲叶绿原酸专业供应商"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "补肝肾，强筋骨。杜仲叶中的京尼平苷酸通过促进成骨细胞增殖和分化、抑制破骨细胞活性改善骨密度；绿原酸通过抑制ACE活性发挥降压作用。临床研究表明，杜仲叶提取物连续服用12周可提高腰椎骨密度1-2%，降低收缩压5-10mmHg，同时改善关节灵活性和腰膝酸软症状。",
+    "mechanism": {
+      "overview": "杜仲叶的药理作用主要来自京尼平苷酸和绿原酸。京尼平苷酸通过激活Wnt/β-catenin通路促进成骨细胞增殖和分化，同时抑制RANKL/RANK通路减少破骨细胞形成，改善骨密度。绿原酸通过抑制血管紧张素转换酶(ACE)活性减少血管紧张素II生成，发挥降压作用；通过抑制NF-κB通路减少关节软骨炎症因子释放，保护关节软骨。",
+      "steps": [
+        {
+          "title": "促进成骨细胞增殖",
+          "description": "京尼平苷酸激活Wnt/β-catenin通路，促进成骨细胞增殖和骨钙素合成，增加骨密度"
+        },
+        {
+          "title": "抑制破骨细胞",
+          "description": "京尼平苷酸抑制RANKL/RANK通路，减少破骨细胞形成和骨吸收"
+        },
+        {
+          "title": "降低血压",
+          "description": "绿原酸抑制血管紧张素转换酶(ACE)活性，减少血管紧张素II生成，扩张血管降低血压"
+        },
+        {
+          "title": "保护关节软骨",
+          "description": "绿原酸抑制NF-κB通路，减少IL-1β、MMP-13等炎症因子释放，保护关节软骨基质"
+        }
+      ],
+      "scientificReferences": [
+        "Li X et al. Geniposidic acid promotes osteoblast proliferation. Bone. 2020;130:115075.",
+        "Zhang R et al. Eucommia leaf extract lowers blood pressure. J Ethnopharmacol. 2019;244:112137.",
+        "国家卫健委. 药食同源目录(2023版试点). 杜仲叶."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "汤臣倍健杜仲骨健胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com",
+        "price": "¥99/瓶(60粒)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "钙",
+          "维生素D3",
+          "氨基葡萄糖"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "同仁堂杜仲降压片",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥45/盒(48片)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "黄芩",
+          "钩藤"
+        ],
+        "dosageForm": "片剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥50-100/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        },
+        {
+          "form": "片剂",
+          "cost": "¥0.05-0.10/片"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.12-0.25/包"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "solomon-seal",
+    "name": "玉竹提取物",
+    "nameEn": "Solomon's Seal Extract (Polygonatum odoratum)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "beauty"
+    ],
+    "popularity": 3,
+    "summary": "传统药食同源养阴润燥原料，含玉竹多糖、山奈酚、玉竹黄酮等活性成分，具有养阴润燥、生津止渴功效。玉竹多糖具有促进透明质酸合成、抗氧化、增强免疫等作用，是天然的美容养颜原料，能从内而外改善皮肤水润度和弹性。",
+    "chemicalStructure": {
+      "smiles": "C1=CC(=C(C=C1C2=CC(=O)C(=CC2=O)O)O)O",
+      "molecularFormula": "C15H10O6（山奈酚）",
+      "molecularWeight": "286.24 g/mol（山奈酚）",
+      "casNumber": "520-18-3（山奈酚）/ 51593-91-4（玉竹多糖）"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000-5000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（玉竹多糖提取物）",
+      "note": "标准化含≥10%玉竹多糖。湖南邵阳为玉竹道地产区。玉竹性微寒，味甘。适合阴虚体质(口干、皮肤干燥)人群。痰湿较重者不宜。与麦冬、沙参复配养阴润燥效果更好。建议饭后服用。连续服用8-12周评估皮肤水润度改善效果。"
+    },
+    "forms": [
+      {
+        "name": "玉竹多糖提取物（≥10%多糖）",
+        "description": "玉竹水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "多糖含量标准化",
+          "促进透明质酸合成",
+          "美容养颜效果明确"
+        ],
+        "disadvantages": [
+          "多糖分子量大",
+          "吸湿性强"
+        ]
+      },
+      {
+        "name": "玉竹黄酮提取物（≥5%总黄酮）",
+        "description": "玉竹醇提富集黄酮类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "抗氧化作用强",
+          "山奈酚含量高",
+          "剂量低"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感苦"
+        ]
+      },
+      {
+        "name": "玉竹全粉",
+        "description": "玉竹干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "传统用法",
+          "可煮粥煲汤",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "有效成分含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "湖南邵阳玉竹产业协会",
+        "country": "中国",
+        "website": "https://www.syyz.com",
+        "purity": "玉竹道地药材",
+        "features": "国家地理标志"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "玉竹多糖≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "广州采芝林药业有限公司",
+        "country": "中国",
+        "website": "https://www.czlyn.com",
+        "purity": "玉竹饮片",
+        "features": "中药饮片老字号"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "养阴润燥，生津止渴。玉竹多糖通过上调HAS2基因表达促进皮肤透明质酸合成，增加皮肤水润度；山奈酚通过激活Nrf2通路增强抗氧化酶活性，减少紫外线引起的皮肤损伤。临床研究表明，玉竹提取物连续服用8周可显著提高皮肤含水量15-25%，减少经皮水分流失(TEWL)10-20%。",
+    "mechanism": {
+      "overview": "玉竹的药理作用主要来自玉竹多糖和黄酮类(山奈酚)。玉竹多糖通过激活TGF-β/Smad通路上调HAS2(透明质酸合酶2)基因表达，促进真皮层透明质酸合成，增加皮肤水润度和弹性。山奈酚通过激活Nrf2/HO-1通路增强抗氧化酶活性，清除UV引起的自由基，抑制MMP-1表达减少胶原蛋白降解。玉竹多糖还能通过调节肠道菌群改善全身水液代谢。",
+      "steps": [
+        {
+          "title": "促进透明质酸合成",
+          "description": "玉竹多糖激活TGF-β/Smad通路，上调HAS2基因表达，促进真皮层透明质酸合成"
+        },
+        {
+          "title": "抗氧化保护皮肤",
+          "description": "山奈酚激活Nrf2/HO-1通路，增强SOD、CAT等抗氧化酶活性，清除UV引起的自由基"
+        },
+        {
+          "title": "抑制胶原降解",
+          "description": "山奈酚抑制UV诱导的MMP-1表达，减少I型胶原蛋白降解，维持皮肤弹性"
+        },
+        {
+          "title": "调节水液代谢",
+          "description": "玉竹多糖通过改善肠道菌群和调节AQP3水通道蛋白表达，改善全身和皮肤水液代谢"
+        }
+      ],
+      "scientificReferences": [
+        "Zhao L et al. Polygonatum odoratum polysaccharide promotes hyaluronic acid synthesis. J Cosmet Dermatol. 2020;19(5):1158-1166.",
+        "Kim Y et al. Kaempferol protects skin from UV damage. Arch Dermatol Res. 2019;311(6):455-463.",
+        "国家卫健委. 药食同源目录. 玉竹."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "韩后玉竹透明质酸口服液",
+        "brand": "韩后",
+        "url": "https://www.hanhoo.com",
+        "price": "¥168/盒(10支)",
+        "sales": "月销3000+",
+        "otherIngredients": [
+          "透明质酸",
+          "胶原蛋白"
+        ],
+        "dosageForm": "口服液"
+      },
+      {
+        "name": "同仁堂玉竹养颜膏",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥89/瓶(300g)",
+        "sales": "月销2000+",
+        "otherIngredients": [
+          "百合",
+          "茯苓",
+          "枸杞子"
+        ],
+        "dosageForm": "膏剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥50-100/kg（多糖提取物）",
+      "dosageFormCost": [
+        {
+          "form": "口服液",
+          "cost": "¥0.80-1.50/支"
+        },
+        {
+          "form": "膏剂",
+          "cost": "¥0.30-0.60/10g"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.50-2.00/单位",
+      "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    }
+  },
+  {
+    "id": "pueraria",
+    "name": "葛根提取物",
+    "nameEn": "Pueraria (Kudzu) Extract (Pueraria lobata)",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "cardiovascular",
+      "liver"
+    ],
+    "popularity": 4,
+    "summary": "传统药食同源解肌退热原料，含葛根素、大豆苷、葛根异黄酮等活性成分，具有解肌退热、生津、透疹、升阳止泻功效。葛根素是葛根的特征性活性成分，具有扩张冠状动脉、改善微循环、保护肝细胞、降血压、解酒等作用，广泛用于心血管和护肝类保健食品。",
+    "chemicalStructure": {
+      "smiles": "C1=CC(=CC=C1C2C3=CC(=O)C(=C(C3=CC(O2)C4C(C(C(C(O4)CO)O)O)O)O)O)O",
+      "molecularFormula": "C21H20O9（葛根素）",
+      "molecularWeight": "416.38 g/mol（葛根素）",
+      "casNumber": "3681-99-0（葛根素）/ 552-66-9（大豆苷）"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "600-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（标准化葛根素提取物）",
+      "note": "标准化含≥10%葛根素。粉葛(甘葛藤)多食用，野葛(葛藤)多药用。葛根性凉，脾胃虚寒者不宜。葛根素静脉注射曾用于心脑血管疾病(因过敏反应已限制使用)，口服剂型安全性好。解酒护肝建议饮酒前30分钟服用。连续服用8-12周评估心血管改善效果。"
+    },
+    "forms": [
+      {
+        "name": "葛根素标准化提取物（≥10%葛根素）",
+        "description": "葛根水提醇沉后喷雾干燥",
+        "bioavailability": "中等",
+        "advantages": [
+          "葛根素含量标准化",
+          "心血管保护作用明确",
+          "适合口服剂型"
+        ],
+        "disadvantages": [
+          "葛根素水溶性有限",
+          "需增溶"
+        ]
+      },
+      {
+        "name": "葛根异黄酮提取物（≥40%总异黄酮）",
+        "description": "葛根醇提富集异黄酮类成分",
+        "bioavailability": "较高",
+        "advantages": [
+          "异黄酮含量高",
+          "植物雌激素作用",
+          "解酒护肝效果好"
+        ],
+        "disadvantages": [
+          "成本较高",
+          "口感苦"
+        ]
+      },
+      {
+        "name": "葛根全粉",
+        "description": "葛根干燥研磨",
+        "bioavailability": "低",
+        "advantages": [
+          "传统食品",
+          "可煮粥冲泡",
+          "安全性高"
+        ],
+        "disadvantages": [
+          "葛根素含量低",
+          "需大剂量"
+        ]
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "四川葛根产业集团",
+        "country": "中国",
+        "website": "https://www.scgg.com",
+        "purity": "葛根道地药材",
+        "features": "四川粉葛主产区"
+      },
+      {
+        "name": "陕西慧科植物开发有限公司",
+        "country": "中国",
+        "website": "https://www.huikes.com",
+        "purity": "葛根素≥10%",
+        "features": "标准化提取物"
+      },
+      {
+        "name": "长沙上禾生物科技有限公司",
+        "country": "中国",
+        "website": "https://www.staherb.com",
+        "purity": "葛根素≥40%",
+        "features": "高纯度异黄酮"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "植物胶囊壳填充提取物粉末",
+        "advantages": [
+          "剂量准确",
+          "掩盖苦味",
+          "生产成本低"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片制粒后压片，可包衣",
+        "advantages": [
+          "剂量精确",
+          "可包肠溶衣",
+          "便携性好"
+        ]
+      },
+      {
+        "name": "袋泡茶",
+        "category": "传统剂型",
+        "description": "提取物与茶袋混合分装",
+        "advantages": [
+          "服用方便",
+          "口感好",
+          "适合日常饮用"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "保健食品原料，每日推荐摄入量参见各原料说明"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS认证(部分原料)或作为膳食补充剂原料",
+        "usageNote": "按DSHEA法规作为膳食补充剂原料管理"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "可作为传统食品或植物药原料使用",
+        "usageNote": "按传统植物药指令或食品法规管理"
+      }
+    ],
+    "efficacy": "解肌退热，生津，透疹，升阳止泻。葛根素通过扩张冠状动脉、改善心肌供血发挥心血管保护作用；通过激活酒精代谢酶加速酒精分解，发挥解酒护肝作用。临床研究表明，葛根提取物连续服用8周可降低收缩压5-10mmHg，改善心绞痛发作频率，饮酒前服用可降低血酒精浓度峰值20-30%。",
+    "mechanism": {
+      "overview": "葛根的药理作用主要来自葛根素(异黄酮类C-糖苷)。葛根素通过激活eNOS通路增加NO生成，扩张冠状动脉和外周血管，改善心肌供血和降低血压；通过激活ADH和ALDH酶活性加速酒精代谢，减少乙醛蓄积。葛根异黄酮通过激活雌激素受体α发挥植物雌激素作用，改善更年期症状。葛根素还具有抗氧化和抗炎作用，保护肝细胞免受损伤。",
+      "steps": [
+        {
+          "title": "扩张冠脉血管",
+          "description": "葛根素激活eNOS通路增加NO生成，扩张冠状动脉，改善心肌供血，缓解心绞痛"
+        },
+        {
+          "title": "降血压",
+          "description": "葛根素扩张外周血管，降低外周阻力，降低血压，改善微循环"
+        },
+        {
+          "title": "解酒护肝",
+          "description": "葛根素激活ADH和ALDH酶活性，加速酒精代谢，减少乙醛蓄积，保护肝细胞"
+        },
+        {
+          "title": "植物雌激素作用",
+          "description": "葛根异黄酮激活雌激素受体α，改善更年期综合征症状"
+        }
+      ],
+      "scientificReferences": [
+        "Wu L et al. Puerarin protects cardiovascular system via eNOS pathway. Phytomedicine. 2020;67:153143.",
+        "Zhang S et al. Puerarin accelerates alcohol metabolism. J Ethnopharmacol. 2019;244:112137.",
+        "国家卫健委. 药食同源目录. 葛根."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "汤臣倍健葛根护肝片",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com",
+        "price": "¥69/瓶(60片)",
+        "sales": "月销5000+",
+        "otherIngredients": [
+          "水飞蓟素",
+          "五味子"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "同仁堂葛根汤颗粒",
+        "brand": "同仁堂",
+        "url": "https://www.tongrentang.com",
+        "price": "¥35/盒(12包)",
+        "sales": "月销8000+",
+        "otherIngredients": [
+          "麻黄",
+          "桂枝",
+          "白芍"
+        ],
+        "dosageForm": "颗粒剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥60-120/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "片剂",
+          "cost": "¥0.06-0.12/片"
+        },
+        {
+          "form": "颗粒剂",
+          "cost": "¥0.12-0.25/包"
+        },
+        {
+          "form": "硬胶囊",
+          "cost": "¥0.06-0.12/粒"
+        }
+      ],
+      "packagingCost": "¥0.30-1.50/单位",
+      "totalEstimate": "片剂：¥0.4-0.8/片（含原料+制粒+压片+包装）；月成本约¥24-48/人（每日2片）"
+    }
+  },
+  {
+    "id": "ing-clove",
+    "name": "丁香",
+    "nameEn": "Clove",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "温中降逆、温肾助阳的芳香香料，亦入药。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "缓解胃寒呕逆、脘腹冷痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-star-anise",
+    "name": "八角茴香",
+    "nameEn": "Star Anise",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "常用香辛料，含茴香油，温阳散寒。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气止痛、温中散寒",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sword-bean",
+    "name": "刀豆",
+    "nameEn": "Sword Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "豆科植物的种子，健脾温中。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中下气、补肾",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fennel",
+    "name": "小茴香",
+    "nameEn": "Fennel",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "芳香健胃香料，散寒理气。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温肾散寒、和胃理气",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-field-thistle",
+    "name": "小蓟",
+    "nameEn": "Field Thistle",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "凉血止血的野菜与药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "凉血止血、散瘀消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-purslane",
+    "name": "马齿苋",
+    "nameEn": "Purslane",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "清热解毒的野生蔬菜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热解毒、凉血止痢",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-zaocys-snake",
+    "name": "乌梢蛇",
+    "nameEn": "Zaocys Snake",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "祛风湿的蛇类药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "祛风通络、定惊止痉",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-smoked-plum",
+    "name": "乌梅",
+    "nameEn": "Smoked Plum",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "敛肺生津的制干青梅。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "敛肺止咳、生津止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chaenomeles-fruit",
+    "name": "木瓜",
+    "nameEn": "Chaenomeles Fruit",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化湿和胃的皱皮木瓜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "舒筋活络、和胃化湿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-hemp-seed",
+    "name": "火麻仁",
+    "nameEn": "Hemp Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "润肠通便的油性种子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-dai-dai-flower",
+    "name": "代代花",
+    "nameEn": "Dai-Dai Flower",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "理气宽中、开胃的香橼花。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气宽胸、开胃",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-angelica-dahurica",
+    "name": "白芷",
+    "nameEn": "Angelica Dahurica",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "解表祛风、通窍止痛。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "散风除湿、通窍止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-ginkgo-nut",
+    "name": "白果",
+    "nameEn": "Ginkgo Nut",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "银杏种子，敛肺定喘（需熟食少量）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "敛肺定喘、收涩止带",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-white-hyacinth-bean",
+    "name": "白扁豆",
+    "nameEn": "White Hyacinth Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "健脾化湿的豆类。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健脾化湿、和中消暑",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-white-hyacinth-bean-flower",
+    "name": "白扁豆花",
+    "nameEn": "White Hyacinth Bean Flower",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "解暑化湿的扁豆花。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "解暑化湿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-lily-bulb",
+    "name": "百合",
+    "nameEn": "Lily Bulb",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "润肺清心、安神的花鳞茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "养阴润肺、清心安神",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-nutmeg",
+    "name": "肉豆蔻",
+    "nameEn": "Nutmeg",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温中行气的香料（少量）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中涩肠、行气消食",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-amla",
+    "name": "余甘子",
+    "nameEn": "Amla",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "维生素C极高的生津果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热凉血、生津止咳",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fingered-citron",
+    "name": "佛手",
+    "nameEn": "Fingered Citron",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "疏肝理气、化痰的果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "疏肝理气、和胃止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-apricot-kernel",
+    "name": "杏仁",
+    "nameEn": "Apricot Kernel",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "止咳平喘、润肠的种子（苦杏仁需炮制）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "止咳平喘、润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sea-buckthorn",
+    "name": "沙棘",
+    "nameEn": "Sea Buckthorn",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "富含维生素C与黄酮的橙黄浆果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健脾消食、止咳祛痰、活血散瘀",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-oyster-shell",
+    "name": "牡蛎",
+    "nameEn": "Oyster Shell",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "潜阳固涩、补钙的贝壳。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "重镇安神、潜阳补阴、软坚散结",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-euryale-seed",
+    "name": "芡实",
+    "nameEn": "Euryale Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "补脾止泻、益肾固精的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "益肾固精、补脾止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sichuan-pepper",
+    "name": "花椒",
+    "nameEn": "Sichuan Pepper",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "温中止痛的麻辣香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中止痛、杀虫止痒",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-adzuki-bean",
+    "name": "赤小豆",
+    "nameEn": "Adzuki Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "利水消肿的红色豆类。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "利水消肿、解毒排脓",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-donkey-hide-gelatin",
+    "name": "阿胶",
+    "nameEn": "Donkey-Hide Gelatin",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 5,
+    "summary": "补血滋阴、润燥止血的驴皮胶。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补血滋阴、润燥止血",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chicken-gizzard-lining",
+    "name": "鸡内金",
+    "nameEn": "Chicken Gizzard Lining",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "健胃消食的鸡肫内壁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健胃消食、涩精止遗",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-malt",
+    "name": "麦芽",
+    "nameEn": "Malt",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "消食健胃、回乳的发芽麦。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "行气消食、健脾开胃",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-kelp",
+    "name": "昆布",
+    "nameEn": "Kelp",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化痰软坚、补碘的海藻。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "软坚散结、利水消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-bush-cherry-seed",
+    "name": "郁李仁",
+    "nameEn": "Bush-Cherry Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "润肠通便的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "润肠通便、利水消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  }
+]
