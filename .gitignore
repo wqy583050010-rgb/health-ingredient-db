@@ -1,4 +1,6 @@
 node_modules/
 dist/
 admin/admin-dist/
+admin.html
+index.html
 .git/
