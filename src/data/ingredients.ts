@@ -2724,7 +2724,10 @@ export const ingredients: Ingredient[] = [
       ],
       "packagingCost": "¥1-3/瓶（HDPE瓶+防潮盖）",
       "totalEstimate": "终端产品成本约¥30-80/瓶（普通姜黄素120粒），¥100-200/瓶（Meriva®/Theracurmin®60-120粒）"
-    }
+    },
+    "secondaryCategoryIds": [
+      "herb-food"
+    ]
   },
   {
     "id": "selenium",
@@ -14837,6 +14840,41 @@ export const ingredients: Ingredient[] = [
         "website": "https://www.bio-botanica.com",
         "purity": "≥25%花青素",
         "features": "纯植物提取，美国本土生产，定制化浓度"
+      },
+      {
+        "name": "Indena S.p.A.",
+        "country": "意大利",
+        "website": "https://www.indena.com",
+        "purity": "花青素≥36%",
+        "features": "Mirtoselect®专利越橘提取物,临床研究原料,全球护眼标杆"
+      },
+      {
+        "name": "Biosfered",
+        "country": "法国",
+        "website": "https://www.biosfered.com",
+        "purity": "花青素≥25%",
+        "features": "法国越橘及莓果花青素供应商"
+      },
+      {
+        "name": "Naturactive",
+        "country": "法国",
+        "website": "https://www.naturactive.fr",
+        "purity": "花青素≥25%",
+        "features": "法国植物提取物供应商,制药级"
+      },
+      {
+        "name": "浙江尖峰海洲药业",
+        "country": "中国",
+        "website": "https://www.indena.com",
+        "purity": "花青素≥25%",
+        "features": "国产越橘提取物供应商,出口欧美"
+      },
+      {
+        "name": "陕西森弗",
+        "country": "中国",
+        "website": "https://www.indena.com",
+        "purity": "花青素≥25%",
+        "features": "国产越橘花青素供应商,出口为主"
       }
     ],
     "dosageForms": [
@@ -19517,6 +19555,34 @@ export const ingredients: Ingredient[] = [
         "website": "https://www.dsm-firmenich.com",
         "purity": "≥98.0%",
         "features": "All-Q®品牌，化学合成与发酵并举，医药级原料"
+      },
+      {
+        "name": "Kaneka Corporation",
+        "country": "日本",
+        "website": "https://www.kaneka.com",
+        "purity": "≥99% 辅酶Q10",
+        "features": "全球辅酶Q10领先供应商，Ubiquinol®品牌专利持有者"
+      },
+      {
+        "name": "DSM (dsm-firmenich)",
+        "country": "荷兰",
+        "website": "https://www.dsm.com",
+        "purity": "≥99% 辅酶Q10",
+        "features": "提供高质量辅酶Q10原料"
+      },
+      {
+        "name": "Naturex (Givaudan)",
+        "country": "法国",
+        "website": "https://www.kaneka.co.jp",
+        "purity": "≥98% 辅酶Q10",
+        "features": "提供辅酶Q10原料及配方服务"
+      },
+      {
+        "name": "NHU Co., Ltd.",
+        "country": "中国",
+        "website": "https://www.nhu.com",
+        "purity": "≥99% 辅酶Q10",
+        "features": "中国辅酶Q10主要供应商，发酵法生产"
       }
     ],
     "dosageForms": [
@@ -19687,7 +19753,10 @@ export const ingredients: Ingredient[] = [
       ],
       "packagingCost": "约¥0.05-0.15/粒",
       "totalEstimate": "软胶囊成品成本约¥0.20-0.45/粒，零售价通常为成本5-10倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "antioxidant"
+    ]
   },
   {
     "id": "chromium-picolinate",
@@ -33453,307 +33522,6 @@ export const ingredients: Ingredient[] = [
     }
   },
   {
-    "id": "coenzyme-q10-antioxidant",
-    "name": "辅酶Q10",
-    "nameEn": "Coenzyme Q10 (Ubiquinone/Ubiquinol)",
-    "category": "抗氧化/延缓衰老",
-    "categoryId": "antioxidant",
-    "popularity": 3,
-    "summary": "辅酶Q10(CoQ10)是细胞线粒体内膜重要的电子传递载体及脂溶性抗氧化剂，参与ATP合成，心脏、肝脏等高能耗器官含量丰富，年龄增长体内合成下降，是心血管健康及抗衰老核心成分。",
-    "chemicalStructure": {
-      "smiles": "CC1=C(C(=O)C(=C(C1=O)OC)OC)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C",
-      "molecularFormula": "C59H90O4",
-      "molecularWeight": "863.36 g/mol",
-      "casNumber": "303-98-0"
-    },
-    "dosage": {
-      "minEffective": "50",
-      "recommended": "100-200",
-      "safeUpperLimit": "500",
-      "unit": "mg/天",
-      "note": "建议餐后服用(脂溶性)。还原型Ubiquinol生物利用度优于氧化型Ubiquinone(提升约2-3倍)。服用他汀类药物人群需补充。可能与华法林等抗凝血药相互作用，影响抗凝效果。"
-    },
-    "forms": [
-      {
-        "name": "氧化型辅酶Q10(Ubiquinone)",
-        "description": "化学合成或发酵来源的氧化型辅酶Q10粉末",
-        "bioavailability": "低-中(脂溶性，受食物影响大)",
-        "advantages": [
-          "成本低",
-          "剂型成熟",
-          "稳定性好"
-        ],
-        "disadvantages": [
-          "生物利用度低",
-          "需随油脂服用"
-        ]
-      },
-      {
-        "name": "还原型辅酶Q10(Ubiquinol)",
-        "description": "还原型辅酶Q10，活性形式，生物利用度高",
-        "bioavailability": "高(较氧化型提升约2-3倍)",
-        "advantages": [
-          "生物利用度高",
-          "活性强",
-          "适合老年人"
-        ],
-        "disadvantages": [
-          "成本高",
-          "稳定性差"
-        ]
-      },
-      {
-        "name": "水溶性辅酶Q10",
-        "description": "通过纳米分散或环糊精包合提升水溶性",
-        "bioavailability": "高(水溶性提升吸收)",
-        "advantages": [
-          "吸收好",
-          "水溶性好",
-          "便于剂型"
-        ],
-        "disadvantages": [
-          "成本高"
-        ]
-      },
-      {
-        "name": "脂质体辅酶Q10",
-        "description": "辅酶Q10包埋于脂质体提升口服吸收",
-        "bioavailability": "高(较普通提升约3-5倍)",
-        "advantages": [
-          "生物利用度显著提升",
-          "靶向递送"
-        ],
-        "disadvantages": [
-          "成本高",
-          "技术壁垒高"
-        ]
-      }
-    ],
-    "suppliers": [
-      {
-        "name": "Kaneka Corporation",
-        "country": "日本",
-        "website": "https://www.kaneka.com",
-        "purity": "≥99% 辅酶Q10",
-        "features": "全球辅酶Q10领先供应商，Ubiquinol®品牌专利持有者"
-      },
-      {
-        "name": "DSM (dsm-firmenich)",
-        "country": "荷兰",
-        "website": "https://www.dsm.com",
-        "purity": "≥99% 辅酶Q10",
-        "features": "提供高质量辅酶Q10原料"
-      },
-      {
-        "name": "Naturex (Givaudan)",
-        "country": "法国",
-        "website": "https://www.kaneka.co.jp",
-        "purity": "≥98% 辅酶Q10",
-        "features": "提供辅酶Q10原料及配方服务"
-      },
-      {
-        "name": "NHU Co., Ltd.",
-        "country": "中国",
-        "website": "https://www.nhu.com",
-        "purity": "≥99% 辅酶Q10",
-        "features": "中国辅酶Q10主要供应商，发酵法生产"
-      }
-    ],
-    "dosageForms": [
-      {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "辅酶Q10油剂灌装软胶囊",
-        "advantages": [
-          "油脂基质吸收好",
-          "剂型成熟",
-          "便于服用"
-        ]
-      },
-      {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "辅酶Q10粉末灌装硬胶囊",
-        "advantages": [
-          "成本较低",
-          "便携"
-        ]
-      },
-      {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "辅酶Q10压片",
-        "advantages": [
-          "便携",
-          "剂量准确",
-          "成本较低"
-        ]
-      },
-      {
-        "name": "咀嚼片",
-        "category": "新型剂型",
-        "description": "辅酶Q10咀嚼片，常加果汁味",
-        "advantages": [
-          "口感好",
-          "服用方便",
-          "适合老人儿童"
-        ]
-      },
-      {
-        "name": "脂质体口服液",
-        "category": "前沿剂型",
-        "description": "辅酶Q10脂质体包埋口服液",
-        "advantages": [
-          "生物利用度最高",
-          "靶向递送",
-          "吸收快"
-        ]
-      }
-    ],
-    "compliance": [
-      {
-        "region": "CN",
-        "regionName": "中国",
-        "status": "approved",
-        "description": "辅酶Q10作为保健食品原料申报使用，已批准多款产品用于增强免疫及抗氧化功能",
-        "maxDosage": "保健食品≤50mg/天",
-        "usageNote": "作为药品需处方，保健食品申报需批文"
-      },
-      {
-        "region": "US",
-        "regionName": "美国",
-        "status": "approved",
-        "description": "FDA GRAS认定，可作为膳食补充剂原料",
-        "maxDosage": "无明确上限",
-        "usageNote": "不得宣称治疗疾病"
-      },
-      {
-        "region": "EU",
-        "regionName": "欧盟",
-        "status": "approved",
-        "description": "可作为食品补充剂原料",
-        "maxDosage": "无明确上限",
-        "usageNote": "健康声称需个案审批"
-      },
-      {
-        "region": "JP",
-        "regionName": "日本",
-        "status": "approved",
-        "description": "可作为食品及特定保健用食品原料",
-        "maxDosage": "无明确上限",
-        "usageNote": "机能性表示食品需科学证据"
-      },
-      {
-        "region": "AU",
-        "regionName": "澳大利亚",
-        "status": "approved",
-        "description": "TGA Listed Medicine允许作为膳食补充剂成分",
-        "maxDosage": "无明确上限",
-        "usageNote": "需符合TGA质量标准"
-      }
-    ],
-    "efficacy": "临床研究证实辅酶Q10可改善心力衰竭患者症状(降低死亡率约40%)、降低收缩压约10-15mmHg、改善精子活力及卵子质量、缓解他汀类药物相关肌痛。对帕金森病、偏头痛预防有辅助作用。强抗氧化保护心血管及皮肤免受氧化损伤。",
-    "mechanism": {
-      "overview": "辅酶Q10在线粒体内膜作为电子传递载体参与ATP合成，同时作为脂溶性抗氧化剂保护细胞膜免受氧化损伤，并再生维生素E及维生素C，维持细胞能量代谢及抗氧化平衡。",
-      "steps": [
-        {
-          "title": "线粒体能量代谢",
-          "description": "辅酶Q10作为复合体I/II与III之间电子载体，参与线粒体呼吸链ATP合成，维持细胞能量供应"
-        },
-        {
-          "title": "强抗氧化",
-          "description": "还原型辅酶Q10(Ubiquinol)清除ROS及脂质过氧化自由基，保护细胞膜及线粒体膜"
-        },
-        {
-          "title": "再生维生素E",
-          "description": "Ubiquinol再生氧化型α-生育酚(维生素E)，维持维生素E抗氧化活性"
-        },
-        {
-          "title": "调节基因表达",
-          "description": "影响NF-κB、Nrf2等转录因子，调节炎症及抗氧化基因表达"
-        },
-        {
-          "title": "改善内皮功能",
-          "description": "提升血管内皮一氧化氮(NO)生物利用度，改善血管舒张功能"
-        }
-      ],
-      "scientificReferences": [
-        "Mortensen SA et al. (2014) JACC Heart Fail 2(1):64-72",
-        "Littarru GP et al. (2007) Biofactors 29(2-3):71-82",
-        "Hodgson JM et al. (2002) Eur J Clin Nutr 56(11):1137-1142",
-        "Salvador-Moysén J et al. (2017) Int J Biol Macromol 95:11-18",
-        "Suksomboon N et al. (2015) J Clin Pharm Ther 40(1):25-33"
-      ]
-    },
-    "productCases": [
-      {
-        "name": "NOW Foods CoQ10 200mg",
-        "brand": "NOW Foods",
-        "url": "",
-        "price": "¥220/瓶(60粒)",
-        "sales": "北美辅酶Q10类目销量领先",
-        "otherIngredients": [
-          "米糠油",
-          "明胶",
-          "甘油",
-          "蜂蜡"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Jarrow Formulas QH-Absorb 100mg",
-        "brand": "Jarrow Formulas",
-        "url": "https://www.jarrow.com",
-        "price": "¥280/瓶(60粒)",
-        "sales": "还原型高端款畅销",
-        "otherIngredients": [
-          "红花油",
-          "明胶",
-          "甘油",
-          "天然维生素E"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Life Extension Super Ubiquinol CoQ10 100mg",
-        "brand": "Life Extension",
-        "url": "https://www.lifeextension.com",
-        "price": "¥320/瓶(60粒)",
-        "sales": "高端抗衰品牌畅销",
-        "otherIngredients": [
-          "有机橄榄油",
-          "明胶",
-          "甘油",
-          "天然维生素E"
-        ],
-        "dosageForm": "软胶囊"
-      }
-    ],
-    "costs": {
-      "rawMaterial": "氧化型辅酶Q10(≥99%)约¥3000-6000/kg，还原型约¥10000-20000/kg",
-      "dosageFormCost": [
-        {
-          "form": "软胶囊(100mg/粒)",
-          "cost": "¥0.5-1/粒"
-        },
-        {
-          "form": "硬胶囊(100mg/粒)",
-          "cost": "¥0.4-0.8/粒"
-        },
-        {
-          "form": "片剂(100mg/片)",
-          "cost": "¥0.3-0.6/片"
-        },
-        {
-          "form": "脂质体口服液(50mg/ml)",
-          "cost": "¥3-6/ml"
-        }
-      ],
-      "packagingCost": "¥3-8/瓶(60粒软胶囊)",
-      "totalEstimate": "终端产品成本约¥80-150/瓶(60粒)，零售价通常¥200-350/瓶"
-    }
-  },
-  {
     "id": "silymarin",
     "name": "水飞蓟素",
     "nameEn": "Silymarin (Milk Thistle Extract)",
@@ -40095,314 +39863,6 @@ export const ingredients: Ingredient[] = [
     }
   },
   {
-    "id": "anthocyanin-bilberry",
-    "name": "花青素(越橘提取物)",
-    "nameEn": "Anthocyanin (Bilberry Extract)",
-    "category": "护眼明目",
-    "categoryId": "eye",
-    "popularity": 3,
-    "summary": "欧洲越橘(Vaccinium myrtillus)浆果提取物,含15种以上花青素(主要为矢车菊素-3-葡萄糖苷等),花青素含量达25-36%。二战起被发现可改善飞行员夜视力,临床证据支持改善暗适应、视疲劳及视网膜微循环。",
-    "chemicalStructure": {
-      "smiles": "O=C1OC2=CC(O)=C3C=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)C=C(O)C3=C2C=C1O (矢车菊素-3-葡萄糖苷,主要花青素)",
-      "molecularFormula": "C21H21O11+ (矢车菊素-3-葡萄糖苷,主要花青素)",
-      "molecularWeight": "449.39 g/mol",
-      "casNumber": "7084-24-4 (矢车菊素-3-葡萄糖苷氯化物); 84082-34-8 (越橘提取物)"
-    },
-    "dosage": {
-      "minEffective": "80",
-      "recommended": "120-480",
-      "safeUpperLimit": "600",
-      "unit": "mg/天(以花青素计)",
-      "note": "临床研究多采用120-480 mg/天(标准化含25-36%花青素);连续4-8周起效;餐后服用吸收佳;抗凝药使用者慎用(可能增强抗凝效果);孕妇及哺乳期安全性数据有限。"
-    },
-    "forms": [
-      {
-        "name": "越橘提取物(花青素25%)",
-        "description": "越橘浆果经乙醇水溶液提取、纯化、干燥,标准化含25%花青素",
-        "bioavailability": "中(口服生物利用度约1-5%)",
-        "advantages": [
-          "剂量标准化",
-          "临床证据丰富",
-          "便于复配"
-        ],
-        "disadvantages": [
-          "花青素对热光敏感",
-          "颜色深"
-        ]
-      },
-      {
-        "name": "越橘提取物(花青素36%,Indena Mirtoselect)",
-        "description": "意大利Indena专利高浓度提取物",
-        "bioavailability": "中",
-        "advantages": [
-          "临床研究原料",
-          "花青素含量高",
-          "批次稳定"
-        ],
-        "disadvantages": [
-          "价格较高",
-          "需专利授权"
-        ]
-      },
-      {
-        "name": "越橘全果粉",
-        "description": "越橘整果冷冻干燥制粉,保留天然配比",
-        "bioavailability": "中-低",
-        "advantages": [
-          "天然配比",
-          "工艺简单",
-          "成本低"
-        ],
-        "disadvantages": [
-          "花青素含量低",
-          "剂量大"
-        ]
-      },
-      {
-        "name": "花青素脂质体",
-        "description": "花青素包埋于磷脂脂质体",
-        "bioavailability": "高(较普通提取物提升约3-5倍)",
-        "advantages": [
-          "生物利用度显著提升",
-          "靶向递送"
-        ],
-        "disadvantages": [
-          "成本高",
-          "技术壁垒高"
-        ]
-      }
-    ],
-    "suppliers": [
-      {
-        "name": "Indena S.p.A.",
-        "country": "意大利",
-        "website": "https://www.indena.com",
-        "purity": "花青素≥36%",
-        "features": "Mirtoselect®专利越橘提取物,临床研究原料,全球护眼标杆"
-      },
-      {
-        "name": "Biosfered",
-        "country": "法国",
-        "website": "https://www.biosfered.com",
-        "purity": "花青素≥25%",
-        "features": "法国越橘及莓果花青素供应商"
-      },
-      {
-        "name": "Naturactive",
-        "country": "法国",
-        "website": "https://www.naturactive.fr",
-        "purity": "花青素≥25%",
-        "features": "法国植物提取物供应商,制药级"
-      },
-      {
-        "name": "浙江尖峰海洲药业",
-        "country": "中国",
-        "website": "https://www.indena.com",
-        "purity": "花青素≥25%",
-        "features": "国产越橘提取物供应商,出口欧美"
-      },
-      {
-        "name": "陕西森弗",
-        "country": "中国",
-        "website": "https://www.indena.com",
-        "purity": "花青素≥25%",
-        "features": "国产越橘花青素供应商,出口为主"
-      }
-    ],
-    "dosageForms": [
-      {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "越橘提取物粉末灌装硬胶囊",
-        "advantages": [
-          "剂量准确",
-          "成本低",
-          "剂型成熟"
-        ]
-      },
-      {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "与辅料压片",
-        "advantages": [
-          "成本低",
-          "便于规模化"
-        ]
-      },
-      {
-        "name": "复合护眼片(与叶黄素复配)",
-        "category": "新型剂型",
-        "description": "与叶黄素、玉米黄质、DHA等复配",
-        "advantages": [
-          "多成分协同",
-          "市场主流",
-          "临床证据支持"
-        ]
-      },
-      {
-        "name": "口服液",
-        "category": "新型剂型",
-        "description": "越橘提取物配制成即饮口服液",
-        "advantages": [
-          "吸收快",
-          "服用方便",
-          "口感好"
-        ]
-      },
-      {
-        "name": "脂质体口服液",
-        "category": "前沿剂型",
-        "description": "花青素脂质体包埋液体制剂",
-        "advantages": [
-          "生物利用度高",
-          "起效快"
-        ]
-      }
-    ],
-    "compliance": [
-      {
-        "region": "CN",
-        "regionName": "中国",
-        "status": "approved",
-        "description": "越橘(欧洲越橘)提取物为《新食品原料》目录品种,可作为普通食品原料",
-        "maxDosage": "无明确上限",
-        "usageNote": "婴幼儿及孕妇不宜;抗凝药使用者慎用"
-      },
-      {
-        "region": "US",
-        "regionName": "美国",
-        "status": "approved",
-        "description": "越橘提取物获FDA GRAS通报,可作为膳食补充剂原料",
-        "maxDosage": "无明确上限",
-        "usageNote": "产品宣称需符合DSHEA规范"
-      },
-      {
-        "region": "EU",
-        "regionName": "欧盟",
-        "status": "approved",
-        "description": "越橘为传统草药产品(THMP),可用于缓解视疲劳及微循环障碍",
-        "maxDosage": "每日120-480 mg标准化提取物",
-        "usageNote": "使用前需咨询医师"
-      },
-      {
-        "region": "JP",
-        "regionName": "日本",
-        "status": "approved",
-        "description": "越橘提取物为既存食品原料,可用于机能性表示食品",
-        "maxDosage": "无明确上限",
-        "usageNote": "机能性表示需科学证据支持"
-      },
-      {
-        "region": "AU",
-        "regionName": "澳大利亚",
-        "status": "approved",
-        "description": "TGA Listed Medicine允许作为传统草药成分",
-        "maxDosage": "无明确上限",
-        "usageNote": "视疲劳声称需登记"
-      }
-    ],
-    "efficacy": "多项RCT证实:每日120-480 mg越橘花青素连续4-8周,可改善暗适应能力(提升约20-40%),缓解视疲劳症状(降低约30-50%);对视网膜微循环改善率约25-40%;Mirtoselect临床研究显示可降低眼压约10-15%;同时有证据支持抗氧化及辅助降血压。",
-    "mechanism": {
-      "overview": "越橘花青素通过视紫红质再生、抗氧化、改善视网膜微循环及抗炎多途径发挥护眼作用,同时在视网膜微血管及结缔组织发挥多重保护。",
-      "steps": [
-        {
-          "title": "促进视紫红质再生",
-          "description": "花青素加速视紫红质(rhodopsin)再生速率,缩短暗适应时间,提升夜视力"
-        },
-        {
-          "title": "抗氧化保护",
-          "description": "花青素清除视网膜ROS及单线态氧,效率为维生素E的50倍,保护感光细胞"
-        },
-        {
-          "title": "改善视网膜微循环",
-          "description": "花青素强化毛细血管壁,改善视网膜微循环,减少微血管渗漏"
-        },
-        {
-          "title": "抑制炎症",
-          "description": "花青素抑制NF-κB通路,降低视网膜炎症因子表达"
-        },
-        {
-          "title": "调节眼压",
-          "description": "花青素促进房水排出,降低眼压,对青光眼辅助改善"
-        }
-      ],
-      "scientificReferences": [
-        "Muth ER et al. (2000) Altern Med Rev 5(2):164-173",
-        "Canter PH et al. (2004) Surv Ophthalmol 49(1):38-50",
-        "Kamiya K et al. (2014) J Nutr Health Aging 18(1):41-47",
-        "Lyu J et al. (2016) Contact Lens Anterior Eye 39(4):292-296",
-        "Milbury PE et al. (2007) J Agric Food Chem 55(23):9452-9457"
-      ]
-    },
-    "productCases": [
-      {
-        "name": "Doppelherz双心越橘护眼胶囊",
-        "brand": "Doppelherz (Queisser)",
-        "url": "https://www.doppelherz.com",
-        "price": "¥200/盒(30粒)",
-        "sales": "德国护眼类目畅销",
-        "otherIngredients": [
-          "叶黄素",
-          "玉米黄质",
-          "维生素A",
-          "维生素E",
-          "锌"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健越橘叶黄素片",
-        "brand": "汤臣倍健",
-        "url": "https://www.by-health.com",
-        "price": "¥199/瓶(60片)",
-        "sales": "中国护眼类目主流",
-        "otherIngredients": [
-          "叶黄素",
-          "玉米黄质",
-          "β-胡萝卜素",
-          "葡萄糖酸锌"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "Blackmores Bilberry Eyeworks",
-        "brand": "Blackmores",
-        "url": "https://www.blackmores.com.au",
-        "price": "¥260/瓶(30粒)",
-        "sales": "澳洲护眼类目主流",
-        "otherIngredients": [
-          "叶黄素",
-          "硒",
-          "葡萄籽"
-        ],
-        "dosageForm": "硬胶囊"
-      }
-    ],
-    "costs": {
-      "rawMaterial": "越橘提取物(花青素25%)约¥800-2000/kg,Mirtoselect(36%)约¥2500-5000/kg",
-      "dosageFormCost": [
-        {
-          "form": "硬胶囊(120mg/粒)",
-          "cost": "¥0.15-0.4/粒"
-        },
-        {
-          "form": "片剂(120mg/片)",
-          "cost": "¥0.12-0.35/片"
-        },
-        {
-          "form": "复合护眼片(120mg/片)",
-          "cost": "¥0.3-0.7/片"
-        },
-        {
-          "form": "口服液(120mg/瓶)",
-          "cost": "¥3-7/瓶"
-        }
-      ],
-      "packagingCost": "硬胶囊/片剂¥3-8/瓶(60粒),口服液¥3-6/瓶",
-      "totalEstimate": "终端产品成本¥30-100/瓶,零售价通常¥150-300/瓶"
-    }
-  },
-  {
     "id": "meso-zeaxanthin",
     "name": "meso-玉米黄质",
     "nameEn": "meso-Zeaxanthin",
@@ -45106,6 +44566,6397 @@ export const ingredients: Ingredient[] = [
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "片剂：¥0.4-0.8/片（含原料+制粒+压片+包装）；月成本约¥24-48/人（每日2片）"
+    }
+  },
+  {
+    "id": "ing-clove",
+    "name": "丁香",
+    "nameEn": "Clove",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "温中降逆、温肾助阳的芳香香料，亦入药。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "缓解胃寒呕逆、脘腹冷痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-star-anise",
+    "name": "八角茴香",
+    "nameEn": "Star Anise",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "常用香辛料，含茴香油，温阳散寒。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气止痛、温中散寒",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sword-bean",
+    "name": "刀豆",
+    "nameEn": "Sword Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "豆科植物的种子，健脾温中。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中下气、补肾",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fennel",
+    "name": "小茴香",
+    "nameEn": "Fennel",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "芳香健胃香料，散寒理气。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温肾散寒、和胃理气",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-field-thistle",
+    "name": "小蓟",
+    "nameEn": "Field Thistle",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "凉血止血的野菜与药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "凉血止血、散瘀消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-purslane",
+    "name": "马齿苋",
+    "nameEn": "Purslane",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "清热解毒的野生蔬菜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热解毒、凉血止痢",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-zaocys-snake",
+    "name": "乌梢蛇",
+    "nameEn": "Zaocys Snake",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "祛风湿的蛇类药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "祛风通络、定惊止痉",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-smoked-plum",
+    "name": "乌梅",
+    "nameEn": "Smoked Plum",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "敛肺生津的制干青梅。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "敛肺止咳、生津止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chaenomeles-fruit",
+    "name": "木瓜",
+    "nameEn": "Chaenomeles Fruit",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化湿和胃的皱皮木瓜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "舒筋活络、和胃化湿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-hemp-seed",
+    "name": "火麻仁",
+    "nameEn": "Hemp Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "润肠通便的油性种子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-dai-dai-flower",
+    "name": "代代花",
+    "nameEn": "Dai-Dai Flower",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "理气宽中、开胃的香橼花。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气宽胸、开胃",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-angelica-dahurica",
+    "name": "白芷",
+    "nameEn": "Angelica Dahurica",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "解表祛风、通窍止痛。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "散风除湿、通窍止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-ginkgo-nut",
+    "name": "白果",
+    "nameEn": "Ginkgo Nut",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "银杏种子，敛肺定喘（需熟食少量）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "敛肺定喘、收涩止带",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-white-hyacinth-bean",
+    "name": "白扁豆",
+    "nameEn": "White Hyacinth Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "健脾化湿的豆类。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健脾化湿、和中消暑",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-white-hyacinth-bean-flower",
+    "name": "白扁豆花",
+    "nameEn": "White Hyacinth Bean Flower",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "解暑化湿的扁豆花。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "解暑化湿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-lily-bulb",
+    "name": "百合",
+    "nameEn": "Lily Bulb",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "润肺清心、安神的花鳞茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "养阴润肺、清心安神",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-nutmeg",
+    "name": "肉豆蔻",
+    "nameEn": "Nutmeg",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温中行气的香料（少量）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中涩肠、行气消食",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-amla",
+    "name": "余甘子",
+    "nameEn": "Amla",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "维生素C极高的生津果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热凉血、生津止咳",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fingered-citron",
+    "name": "佛手",
+    "nameEn": "Fingered Citron",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "疏肝理气、化痰的果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "疏肝理气、和胃止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-apricot-kernel",
+    "name": "杏仁",
+    "nameEn": "Apricot Kernel",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "止咳平喘、润肠的种子（苦杏仁需炮制）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "止咳平喘、润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sea-buckthorn",
+    "name": "沙棘",
+    "nameEn": "Sea Buckthorn",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "富含维生素C与黄酮的橙黄浆果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健脾消食、止咳祛痰、活血散瘀",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-oyster-shell",
+    "name": "牡蛎",
+    "nameEn": "Oyster Shell",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "潜阳固涩、补钙的贝壳。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "重镇安神、潜阳补阴、软坚散结",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-euryale-seed",
+    "name": "芡实",
+    "nameEn": "Euryale Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "补脾止泻、益肾固精的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "益肾固精、补脾止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sichuan-pepper",
+    "name": "花椒",
+    "nameEn": "Sichuan Pepper",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "温中止痛的麻辣香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中止痛、杀虫止痒",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-adzuki-bean",
+    "name": "赤小豆",
+    "nameEn": "Adzuki Bean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "利水消肿的红色豆类。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "利水消肿、解毒排脓",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-donkey-hide-gelatin",
+    "name": "阿胶",
+    "nameEn": "Donkey-Hide Gelatin",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 5,
+    "summary": "补血滋阴、润燥止血的驴皮胶。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补血滋阴、润燥止血",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chicken-gizzard-lining",
+    "name": "鸡内金",
+    "nameEn": "Chicken Gizzard Lining",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "健胃消食的鸡肫内壁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健胃消食、涩精止遗",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-malt",
+    "name": "麦芽",
+    "nameEn": "Malt",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "消食健胃、回乳的发芽麦。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "行气消食、健脾开胃",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-kelp",
+    "name": "昆布",
+    "nameEn": "Kelp",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化痰软坚、补碘的海藻。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "软坚散结、利水消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-bush-cherry-seed",
+    "name": "郁李仁",
+    "nameEn": "Bush-Cherry Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "润肠通便的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "润肠通便、利水消肿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chinese-olive",
+    "name": "青果",
+    "nameEn": "Chinese Olive",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "清肺利咽的橄榄果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热解毒、利咽生津",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-houttuynia",
+    "name": "鱼腥草",
+    "nameEn": "Houttuynia",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "清热解毒、消痈排脓的野菜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热解毒、消痈排脓",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-ginger",
+    "name": "姜",
+    "nameEn": "Ginger",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 5,
+    "summary": "发汗解表、温中止呕的根茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "发汗解表、温中止呕、温肺止咳",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-raisin-tree-seed",
+    "name": "枳椇子",
+    "nameEn": "Raisin Tree Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "解酒毒、利二便的种子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "解酒毒、止渴除烦",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-gardenia-fruit",
+    "name": "栀子",
+    "nameEn": "Gardenia Fruit",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "泻火除烦、凉血利湿的果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "泻火除烦、清热利湿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-amomum",
+    "name": "砂仁",
+    "nameEn": "Amomum",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化湿开胃、温脾止泻的砂仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "化湿开胃、温脾止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sterculia-seed",
+    "name": "胖大海",
+    "nameEn": "Sterculia Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "清肺利咽、润肠的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热润肺、利咽开音",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-citron",
+    "name": "香橼",
+    "nameEn": "Citron",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "疏肝理气、宽中的果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "疏肝理气、宽中化痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-elsholtzia",
+    "name": "香薷",
+    "nameEn": "Elsholtzia",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "发汗解表、化湿和中的草。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "发汗解表、化湿和中",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-peach-kernel",
+    "name": "桃仁",
+    "nameEn": "Peach Kernel",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "活血祛瘀、润肠的种子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "活血祛瘀、润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-tangerine-peel-red",
+    "name": "桔红",
+    "nameEn": "Tangerine Peel Red",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "理气宽中、燥湿化痰的橙红皮。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气宽中、燥湿化痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-platycodon",
+    "name": "桔梗",
+    "nameEn": "Platycodon",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "宣肺利咽、祛痰的根。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "宣肺、利咽、祛痰、排脓",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-alpinia-oxyphylla",
+    "name": "益智仁",
+    "nameEn": "Alpinia Oxyphylla",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温脾止泻、固肾缩尿的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "暖肾固精、温脾止泻",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-radish-seed",
+    "name": "莱菔子",
+    "nameEn": "Radish Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "消食除胀、降气的种子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "消食除胀、降气化痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-lesser-galangal",
+    "name": "高良姜",
+    "nameEn": "Lesser Galangal",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温胃止呕、散寒止痛的根茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温胃止呕、散寒止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-lophatherum",
+    "name": "淡竹叶",
+    "nameEn": "Lophatherum",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "清热泻火、利尿的叶。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热泻火、除烦利尿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fermented-soybean",
+    "name": "淡豆豉",
+    "nameEn": "Fermented Soybean",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "解表除烦的发酵豆制品。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "解表、除烦、宣发郁热",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chicory",
+    "name": "菊苣",
+    "nameEn": "Chicory",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "清肝利胆、健胃的野菜。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清肝利胆、健胃消食",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-yellow-mustard-seed",
+    "name": "黄芥子",
+    "nameEn": "Yellow Mustard Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温肺豁痰、通络的芥菜子。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温肺豁痰利气、散结通络",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-perilla",
+    "name": "紫苏",
+    "nameEn": "Perilla",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "解表散寒、行气和胃的叶。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "解表散寒、行气和胃",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-perilla-seed",
+    "name": "紫苏籽",
+    "nameEn": "Perilla Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "降气化痰、润肠的籽。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "降气化痰、止咳平喘、润肠",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-black-sesame",
+    "name": "黑芝麻",
+    "nameEn": "Black Sesame",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "补肝肾、益精血、润肠的籽。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补肝肾、益精血、润肠燥",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-black-pepper",
+    "name": "黑胡椒",
+    "nameEn": "Black Pepper",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温中散寒的辛辣香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中散寒、下气消痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sophora-flower-bud",
+    "name": "槐米",
+    "nameEn": "Sophora Flower Bud",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "凉血止血的未开放花蕾（富含芦丁）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "凉血止血、清肝泻火",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-sophora-flower",
+    "name": "槐花",
+    "nameEn": "Sophora Flower",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "凉血止血、清肝的开放花。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "凉血止血、清肝泻火",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-honey",
+    "name": "蜂蜜",
+    "nameEn": "Honey",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "补中润燥、润肠解毒的天然甜味剂。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补中、润燥、止痛、解毒",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-torreya-seed",
+    "name": "榧子",
+    "nameEn": "Torreya Seed",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "杀虫消积、润肠的种仁。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "杀虫消积、润肺止咳、润肠",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fresh-imperata-root",
+    "name": "鲜白茅根",
+    "nameEn": "Fresh Imperata Root",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "凉血止血、清热利尿的鲜根。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "凉血止血、清热利尿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-fresh-reed-rhizome",
+    "name": "鲜芦根",
+    "nameEn": "Fresh Reed Rhizome",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "清热生津、止渴的鲜根茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热泻火、生津止渴、除烦",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-pit-viper",
+    "name": "蝮蛇",
+    "nameEn": "Pit Viper",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 1,
+    "summary": "祛风活络的蛇类药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "祛风、通络、止痉",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-chinese-chive",
+    "name": "薤白",
+    "nameEn": "Chinese Chive",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "通阳散结、行气导滞的鳞茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "通阳散结、行气导滞",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-raspberry",
+    "name": "覆盆子",
+    "nameEn": "Raspberry",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "益肾固精、缩尿的聚合果。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "益肾固精、缩尿",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-agastache",
+    "name": "藿香",
+    "nameEn": "Agastache",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "芳香化湿、解暑发表的草。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "芳香化湿、和中止呕、发表解暑",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-angelica-sinensis",
+    "name": "当归",
+    "nameEn": "Angelica Sinensis",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 5,
+    "summary": "补血活血、调经止痛的妇科要药。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补血活血、调经止痛、润肠",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-kaempferia",
+    "name": "山柰",
+    "nameEn": "Kaempferia",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温中化湿的沙姜香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "行气温中、消食止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-saffron",
+    "name": "西红花",
+    "nameEn": "Saffron",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "活血化瘀、凉血解郁的珍贵花蕊。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "活血化瘀、凉血解毒、解郁安神",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-tsao-ko",
+    "name": "草果",
+    "nameEn": "Tsao-Ko",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "燥湿温中、截疟的姜科香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "燥湿温中、截疟除痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-long-pepper",
+    "name": "荜茇",
+    "nameEn": "Long Pepper",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 2,
+    "summary": "温中散寒的胡椒科香料。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "温中散寒、下气止痛",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-codonopsis",
+    "name": "党参",
+    "nameEn": "Codonopsis",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "健脾益肺、养血生津的参类。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "健脾益肺、养血生津",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-cistanche",
+    "name": "肉苁蓉",
+    "nameEn": "Cistanche",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "补肾阳、益精血、润肠的沙漠药材。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补肾阳、益精血、润肠通便",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-dendrobium",
+    "name": "铁皮石斛",
+    "nameEn": "Dendrobium",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "益胃生津、滋阴清热的兰科茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "益胃生津、滋阴清热",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-cornus-fruit",
+    "name": "山茱萸",
+    "nameEn": "Cornus Fruit",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "补益肝肾、收涩固脱的果肉。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "补益肝肾、收涩固脱",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-gastrodia",
+    "name": "天麻",
+    "nameEn": "Gastrodia",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "平肝息风、止痉的块茎。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "平肝息风、止痉",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-rehmannia",
+    "name": "地黄",
+    "nameEn": "Rehmannia",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "清热凉血、养阴生津（生）或补血（熟）。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "清热凉血、养阴生津",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-ophiopogon",
+    "name": "麦冬",
+    "nameEn": "Ophiopogon",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 4,
+    "summary": "养阴生津、润肺清心的块根。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "养阴生津、润肺清心",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-asparagus-cochinchinensis",
+    "name": "天冬",
+    "nameEn": "Asparagus Cochinchinensis",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "养阴润燥、清肺生津的块根。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "养阴润燥、清肺生津",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
+    }
+  },
+  {
+    "id": "ing-exocarpium-citri-grandis",
+    "name": "化橘红",
+    "nameEn": "Exocarpium Citri Grandis",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [],
+    "popularity": 3,
+    "summary": "化痰止咳、理气宽中的化州柚皮。",
+    "chemicalStructure": {
+      "smiles": "",
+      "molecularFormula": "",
+      "molecularWeight": "",
+      "casNumber": ""
+    },
+    "dosage": {
+      "minEffective": "",
+      "recommended": "",
+      "safeUpperLimit": "",
+      "unit": "",
+      "note": ""
+    },
+    "forms": [
+      {
+        "name": "提取物",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      },
+      {
+        "name": "粉剂",
+        "description": "",
+        "bioavailability": "",
+        "advantages": [],
+        "disadvantages": []
+      }
+    ],
+    "suppliers": [],
+    "dosageForms": [
+      {
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      },
+      {
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": []
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "",
+        "maxDosage": "",
+        "usageNote": ""
+      }
+    ],
+    "efficacy": "理气宽中、燥湿化痰",
+    "mechanism": {
+      "overview": "",
+      "steps": [],
+      "scientificReferences": []
+    },
+    "productCases": [],
+    "costs": {
+      "rawMaterial": "",
+      "dosageFormCost": [],
+      "packagingCost": "",
+      "totalEstimate": ""
     }
   }
 ];

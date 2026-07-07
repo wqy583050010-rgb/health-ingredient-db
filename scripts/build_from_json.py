@@ -48,6 +48,14 @@ def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def _clean(obj):
+    """递归移除值为 None 的键/元素，使生成的 TS 中对应字段为 undefined（类型合法）"""
+    if isinstance(obj, dict):
+        return {k: _clean(v) for k, v in obj.items() if v is not None}
+    if isinstance(obj, list):
+        return [_clean(v) for v in obj if v is not None]
+    return obj
+
 def validate_ingredient(ing, idx):
     """验证原料数据格式"""
     errors = []
@@ -96,7 +104,7 @@ def generate_ingredients_ts(json_data):
     """生成原料 TS 文件内容（单一 canonical 数据源）"""
     ts_code = "import type { Ingredient } from '@/types/ingredient';\n\n"
     ts_code += "export const ingredients: Ingredient[] = "
-    ts_code += json.dumps(json_data, ensure_ascii=False, indent=2)
+    ts_code += json.dumps(_clean(json_data), ensure_ascii=False, indent=2)
     ts_code += ";\n"
     return ts_code
 
@@ -104,7 +112,7 @@ def generate_categories_ts(json_data):
     """生成分类 TS 文件内容"""
     ts_code = "import type { Category } from '@/types/ingredient';\n\n"
     ts_code += "export const categories: Category[] = "
-    ts_code += json.dumps(json_data, ensure_ascii=False, indent=2)
+    ts_code += json.dumps(_clean(json_data), ensure_ascii=False, indent=2)
     ts_code += ";\n"
     return ts_code
 
@@ -150,7 +158,7 @@ export interface IndustryRefRow {
 }
 
 export const oemFactories: OEMFactory[] = """
-    ts_code += json.dumps(json_data, ensure_ascii=False, indent=2)
+    ts_code += json.dumps(_clean(json_data), ensure_ascii=False, indent=2)
     ts_code += ";\n\n"
     
     # 附加行业参考数据表

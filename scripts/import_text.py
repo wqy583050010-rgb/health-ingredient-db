@@ -196,7 +196,7 @@ def build_ingredient(d, cats_by_name, cats_by_id, existing_ids, existing=None):
         'nameEn': nameEn,
         'category': cat_name,
         'categoryId': cat_id,
-        'secondaryCategoryIds': sec_ids or None,
+        'secondaryCategoryIds': sec_ids or [],
         'popularity': pop,
         'summary': d.get('简介', '').strip(),
         'chemicalStructure': {

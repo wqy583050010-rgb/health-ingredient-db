@@ -69,7 +69,7 @@ export const categories: Category[] = [
     "name": "护眼明目",
     "icon": "eye",
     "description": "保护视网膜健康，缓解视疲劳，预防眼部退行性病变",
-    "ingredientCount": 13
+    "ingredientCount": 12
   },
   {
     "id": "energy",
@@ -97,6 +97,6 @@ export const categories: Category[] = [
     "name": "药食同源",
     "icon": "leaf",
     "description": "国家卫健委公布的药食同源物质，兼具食品与药用价值，可合法用于保健食品",
-    "ingredientCount": 29
+    "ingredientCount": 107
   }
 ];
