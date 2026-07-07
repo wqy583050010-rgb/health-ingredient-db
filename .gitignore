@@ -3,4 +3,5 @@ dist/
 admin/admin-dist/
 admin.html
 index.html
+data/ingredients-batch*.json
 .git/

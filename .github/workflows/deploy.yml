@@ -40,9 +40,9 @@ jobs:
       - name: Publish to Pages (main root)
         run: |
           cp dist/index.html ./index.html
-          cp admin-dist/index.html ./admin.html
+          cp admin/admin-dist/index.html ./admin.html
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.html admin.html
-          git commit -m "deploy: $(date +%Y%m%d-%H%M)" || echo "no changes"
+          git add -f index.html admin.html
+          git commit -m "deploy: auto-build [skip ci]" || echo "no changes"
           git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
