@@ -39,15 +39,12 @@ jobs:
       - name: Build main site
         run: npm run build
 
-      - name: Build admin panel
-        run: npm run admin:build
-
+      # 管理面板已弃用，不再构建（避免阻塞主站部署）
       - name: Publish to Pages (main root)
         run: |
           cp dist/index.html ./index.html
-          cp admin/admin-dist/index.html ./admin.html
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f index.html admin.html
-          git commit -m "deploy: auto-build [skip ci]" || echo "no changes"
+          git add -f index.html
+          git commit -m "deploy: auto-build" || echo "no changes"
           git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
