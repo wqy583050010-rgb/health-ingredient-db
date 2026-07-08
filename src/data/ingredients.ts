@@ -43413,7 +43413,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "湖南湘潭湘莲产业协会",
         "country": "中国",
-        "website": "https://www.xtlian.com",
         "purity": "湘莲道地药材",
         "features": "国家地理标志"
       },
@@ -44085,7 +44084,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "广州采芝林药业有限公司",
         "country": "中国",
-        "website": "https://www.czlyn.com",
+        "website": "http://www.czlyy.com.cn/",
         "purity": "玉竹饮片",
         "features": "中药饮片老字号"
       }

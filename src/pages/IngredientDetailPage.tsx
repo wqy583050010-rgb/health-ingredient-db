@@ -151,7 +151,7 @@ export function IngredientDetailPage() {
           国内外知名原料供应商
         </h2>
         <div className="overflow-x-auto">
-          {ing.suppliers.filter((sup) => sup.website).length > 0 ? (
+          {ing.suppliers.length > 0 ? (
           <table className="w-full text-sm">
             <thead>
               <tr className="border-b border-gray-200">
@@ -163,7 +163,7 @@ export function IngredientDetailPage() {
               </tr>
             </thead>
             <tbody>
-              {ing.suppliers.filter((sup) => sup.website).map((sup, idx) => (
+              {ing.suppliers.map((sup, idx) => (
                 <tr key={idx} className="border-b border-gray-100 hover:bg-teal-50/30">
                   <td className="py-3 px-3 font-medium text-gray-800">{sup.name}</td>
                   <td className="py-3 px-3 text-gray-500">{sup.country}</td>
@@ -172,6 +172,7 @@ export function IngredientDetailPage() {
                   </td>
                   <td className="py-3 px-3 text-gray-500 text-xs max-w-xs">{sup.features || '-'}</td>
                   <td className="py-3 px-3">
+                    {sup.website ? (
                     <a href={sup.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-teal-600 hover:text-teal-700 hover:underline text-xs transition-colors">
                       {(() => {
                         try { return new URL(sup.website).hostname.replace('www.', ''); }
@@ -179,6 +180,9 @@ export function IngredientDetailPage() {
                       })()}
                       <ExternalLink className="w-3 h-3" />
                     </a>
+                    ) : (
+                      <span className="text-gray-300 text-xs">—</span>
+                    )}
                   </td>
                 </tr>
               ))}

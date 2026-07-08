@@ -14,7 +14,7 @@ export interface ComplianceStatus {
 export interface Supplier {
   name: string;
   country: string;
-  website: string;
+  website?: string;
   purity: string;
   features?: string;
 }
