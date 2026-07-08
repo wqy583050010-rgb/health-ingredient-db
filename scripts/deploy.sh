@@ -35,6 +35,7 @@ else
 fi
 
 echo "==> [5/5] 推送并触发 GitHub Pages 部署"
-GIT_TERMINAL_PROMPT=0 git -c credential.helper=manager push origin main
+# GCM_INTERACTIVE=never：禁用凭据管理器弹窗，避免后台无界面环境弹 GUI 挂死；凭据失效会立即报错而非卡住
+GIT_TERMINAL_PROMPT=0 GCM_INTERACTIVE=never git -c credential.helper=manager push origin main
 
 echo "==> 完成 ✅  GitHub Pages 通常十几秒内更新（如看不到请 Ctrl+F5 强刷）"
