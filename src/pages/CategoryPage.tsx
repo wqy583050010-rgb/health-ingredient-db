@@ -10,7 +10,7 @@ export function CategoryPage() {
   const { categoryId } = useParams<{ categoryId: string }>();
   const navigate = useNavigate();
   const [localSearch, setLocalSearch] = useState('');
-  const [sortBy, setSortBy] = useState<'name' | 'formula' | 'popularity'>('name');
+  const [sortBy, setSortBy] = useState<'name' | 'formula' | 'popularity'>('popularity');
 
   const category = categories.find((c) => c.id === categoryId);
   const categoryIngredients = useMemo(
@@ -31,11 +31,14 @@ export function CategoryPage() {
           ing.chemicalStructure.casNumber.toLowerCase().includes(q)
       );
     }
-    // 排序
+    // 排序：默认按热度降序，热度相同按名称兜底，保证稳定
     return [...list].sort((a, b) => {
+      if (sortBy === 'popularity') {
+        const diff = (b.popularity ?? 3) - (a.popularity ?? 3);
+        return diff !== 0 ? diff : a.name.localeCompare(b.name, 'zh');
+      }
       if (sortBy === 'name') return a.name.localeCompare(b.name, 'zh');
-      if (sortBy === 'formula') return a.chemicalStructure.molecularFormula.localeCompare(b.chemicalStructure.molecularFormula);
-      return (b.popularity ?? 3) - (a.popularity ?? 3); // 热度高→低
+      return a.chemicalStructure.molecularFormula.localeCompare(b.chemicalStructure.molecularFormula);
     });
   }, [categoryIngredients, localSearch, sortBy]);
 
@@ -84,6 +87,12 @@ export function CategoryPage() {
         <div className="flex items-center gap-2 text-sm">
           <ArrowUpDown className="w-4 h-4 text-gray-400" />
           <button
+            onClick={() => setSortBy('popularity')}
+            className={`px-3 py-1.5 rounded-lg transition-colors ${sortBy === 'popularity' ? 'bg-teal-100 text-teal-700 font-medium' : 'bg-white text-gray-500 border border-gray-200 hover:bg-gray-50'}`}
+          >
+            按热度
+          </button>
+          <button
             onClick={() => setSortBy('name')}
             className={`px-3 py-1.5 rounded-lg transition-colors ${sortBy === 'name' ? 'bg-teal-100 text-teal-700 font-medium' : 'bg-white text-gray-500 border border-gray-200 hover:bg-gray-50'}`}
           >
@@ -94,12 +103,6 @@ export function CategoryPage() {
             className={`px-3 py-1.5 rounded-lg transition-colors ${sortBy === 'formula' ? 'bg-teal-100 text-teal-700 font-medium' : 'bg-white text-gray-500 border border-gray-200 hover:bg-gray-50'}`}
           >
             按分子式
-          </button>
-          <button
-            onClick={() => setSortBy('popularity')}
-            className={`px-3 py-1.5 rounded-lg transition-colors ${sortBy === 'popularity' ? 'bg-teal-100 text-teal-700 font-medium' : 'bg-white text-gray-500 border border-gray-200 hover:bg-gray-50'}`}
-          >
-            按热度
           </button>
         </div>
         <span className="text-sm text-gray-400 ml-auto">显示 {filtered.length}/{categoryIngredients.length}</span>

@@ -226,6 +226,25 @@ function FactoryCard({ factory }: { factory: OEMFactory }) {
           </div>
         </div>
 
+        {/* 优势剂型 - 高亮展示 */}
+        {factory.advantageDosageForms && factory.advantageDosageForms.length > 0 && (
+          <div className="text-sm">
+            <div className="flex items-center gap-2 mb-1.5">
+              <span className="font-medium text-gray-800">
+                <Beaker className="w-4 h-4 inline-block" /> 优势剂型
+              </span>
+              <span className="text-xs bg-orange-100 text-orange-700 px-1.5 py-0.5 rounded-full">{factory.advantageDosageForms.length}种</span>
+            </div>
+            <div className="flex flex-wrap gap-1.5">
+              {factory.advantageDosageForms.map((form) => (
+                <span key={form} className="text-xs bg-orange-50 text-orange-700 px-2 py-0.5 rounded border border-orange-200 font-medium">
+                  {form}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Dosage Forms - Full List */}
         <div className="text-sm">
           <div className="flex items-center gap-2 mb-1.5">

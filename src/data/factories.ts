@@ -22,6 +22,7 @@ export interface OEMFactory {
   moq: string;
   priceRange: string;
   dosageForms: string[];
+  advantageDosageForms?: string[];
   patents: string;
   certifications: string[];
   clients: string;
@@ -125,6 +126,12 @@ export const oemFactories: OEMFactory[] = [
       "26项国际标准认证",
       "软胶囊+软糖双核心品类",
       "植物基软胶囊创新技术"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "营养软糖",
+      "益生菌晶球(萃益球R)",
+      "植物基软胶囊"
     ]
   },
   {
@@ -192,6 +199,12 @@ export const oemFactories: OEMFactory[] = [
       "世界首个零碳工厂",
       "专利菌株TCI633/TCI405",
       "全球68国95%复购率"
+    ],
+    "advantageDosageForms": [
+      "发酵饮品",
+      "口服液",
+      "冻干粉",
+      "机能性饮品"
     ]
   },
   {
@@ -259,6 +272,11 @@ export const oemFactories: OEMFactory[] = [
       "1400+营养保健食品批文",
       "出口78国服务6亿消费者",
       "国家知识产权示范企业"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "营养软糖",
+      "片剂"
     ]
   },
   {
@@ -367,6 +385,12 @@ export const oemFactories: OEMFactory[] = [
       "收购美国IVC",
       "USP认证",
       "中美英加四国研发基地"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "软胶囊",
+      "营养软糖",
+      "粉剂"
     ]
   },
   {
@@ -427,6 +451,12 @@ export const oemFactories: OEMFactory[] = [
       "5000+产品配方",
       "北交所IPO申请",
       "三大核心技术平台"
+    ],
+    "advantageDosageForms": [
+      "蛋白粉",
+      "固体饮料",
+      "能量棒",
+      "代餐"
     ]
   },
   {
@@ -482,6 +512,11 @@ export const oemFactories: OEMFactory[] = [
       "华润集团控股",
       "药品级GMP品质",
       "复方阿胶浆年销50亿+"
+    ],
+    "advantageDosageForms": [
+      "阿胶糕",
+      "阿胶口服液",
+      "复方阿胶浆"
     ]
   },
   {
@@ -537,6 +572,11 @@ export const oemFactories: OEMFactory[] = [
       "海王金樽知名品牌",
       "10+生产基地",
       "完整供应链整合"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "软胶囊"
     ]
   },
   {
@@ -594,6 +634,11 @@ export const oemFactories: OEMFactory[] = [
       "创业板上市",
       "70%+出口海外",
       "石药集团旗下"
+    ],
+    "advantageDosageForms": [
+      "功能饮料",
+      "片剂",
+      "颗粒"
     ]
   },
   {
@@ -655,6 +700,12 @@ export const oemFactories: OEMFactory[] = [
       "TEAM CHINA中国国家队供应商",
       "澳TGA GMP认证",
       "178万+参观人次"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "营养软糖",
+      "粉剂"
     ]
   },
   {
@@ -718,6 +769,11 @@ export const oemFactories: OEMFactory[] = [
       "参与起草3项团体标准",
       "完美中国/汤臣倍健/DSM战略合作",
       "广东省食品安全质量协会副会长单位"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "片剂",
+      "粉剂"
     ]
   },
   {
@@ -787,6 +843,11 @@ export const oemFactories: OEMFactory[] = [
       "2000+品牌合作",
       "HACCP+ISO22000+FDA认证",
       "覆盖6大口服大健康领域"
+    ],
+    "advantageDosageForms": [
+      "营养软糖",
+      "饮品",
+      "固体饮料"
     ]
   },
   {
@@ -866,6 +927,11 @@ export const oemFactories: OEMFactory[] = [
       "CNAS国家实验室",
       "BRCGS+NSF+FDA认证",
       "长三角营养保健行业示范工厂"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "营养软糖",
+      "片剂"
     ]
   },
   {
@@ -939,6 +1005,12 @@ export const oemFactories: OEMFactory[] = [
       "20+年配方研发经验",
       "月产值500万+",
       "269人生产团队"
+    ],
+    "advantageDosageForms": [
+      "外用贴剂",
+      "软膏",
+      "片剂",
+      "胶囊"
     ]
   },
   {
@@ -990,6 +1062,11 @@ export const oemFactories: OEMFactory[] = [
       "全内部生产",
       "Q-Gel水溶性辅酶Q10专利",
       "BIPOC企业"
+    ],
+    "advantageDosageForms": [
+      "液体软胶囊",
+      "软胶囊",
+      "口服薄膜"
     ]
   },
   {
@@ -1039,6 +1116,10 @@ export const oemFactories: OEMFactory[] = [
       "FDA GMP审计",
       "1200+活跃产品",
       "复杂封装专家"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "液体软胶囊"
     ]
   },
   {
@@ -1098,6 +1179,11 @@ export const oemFactories: OEMFactory[] = [
       "Harmonium 2新厂",
       "药品级生产",
       "Probiocap微胶囊技术"
+    ],
+    "advantageDosageForms": [
+      "益生菌粉",
+      "益生菌胶囊",
+      "后生元"
     ]
   },
   {
@@ -1152,6 +1238,11 @@ export const oemFactories: OEMFactory[] = [
       "被Novo Holdings 166亿美元收购",
       "FDA+EMA双认证",
       "OptiShellR专利技术"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "口服固体制剂",
+      "生物制剂"
     ]
   },
   {
@@ -1202,6 +1293,11 @@ export const oemFactories: OEMFactory[] = [
       "全剂型覆盖",
       "cGMP+FDA+UL三认证",
       "24小时运营"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "营养软糖"
     ]
   },
   {
@@ -1261,6 +1357,11 @@ export const oemFactories: OEMFactory[] = [
       "UC-II专利胶原蛋白",
       "全球35+国家布局",
       "1897年创立"
+    ],
+    "advantageDosageForms": [
+      "硬胶囊",
+      "软胶囊",
+      "生物制剂"
     ]
   },
   {
@@ -1319,6 +1420,11 @@ export const oemFactories: OEMFactory[] = [
       "药品+保健品双GMP",
       "全剂型覆盖",
       "约4,000员工"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "片剂",
+      "糖衣片"
     ]
   },
   {
@@ -1372,6 +1478,11 @@ export const oemFactories: OEMFactory[] = [
       "USDA Organic认证",
       "FDA+NSF+UL三认证",
       "年产能数十亿粒胶囊"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "软糖"
     ]
   },
   {
@@ -1428,6 +1539,11 @@ export const oemFactories: OEMFactory[] = [
       "USDA Organic+Non-GMO",
       "NSF认证",
       "全方位cGMP认证"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "片剂",
+      "粉剂"
     ]
   },
   {
@@ -1479,6 +1595,11 @@ export const oemFactories: OEMFactory[] = [
       "120+年行业经验",
       "适合初创品牌",
       "电商品牌专家"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "片剂",
+      "口服液"
     ]
   },
   {
@@ -1537,6 +1658,11 @@ export const oemFactories: OEMFactory[] = [
       "阿拉巴马州新工厂",
       "USP+NSF+UL全认证",
       "约1,500员工"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "营养软糖",
+      "粉剂"
     ]
   },
   {
@@ -1590,6 +1716,403 @@ export const oemFactories: OEMFactory[] = [
       "全球5大生产基地",
       "50+年历史",
       "USP+NSF认证"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "片剂",
+      "营养软糖"
+    ]
+  },
+  {
+    "id": "weihai-ziguang",
+    "name": "威海紫光生物科技有限公司",
+    "nameEn": "Weihai Ziguang Biotech Co., Ltd.",
+    "region": "domestic",
+    "location": "山东省威海市",
+    "address": "山东省威海市高区初村镇创新路",
+    "phone": "0631-5658888",
+    "email": "sales@whziguang.com",
+    "founded": "2004年",
+    "employees": "约1,200人",
+    "revenue": "约8亿元（估算）",
+    "factories": "山东威海生产基地",
+    "moq": "片剂/胶囊>=20万粒; 粉剂>=500kg; 口服液>=1万瓶",
+    "priceRange": "片剂0.06-0.25元/片; 粉剂80-200元/kg",
+    "dosageForms": [
+      "片剂",
+      "硬胶囊",
+      "软胶囊",
+      "粉剂",
+      "颗粒",
+      "口服液",
+      "饮品"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "粉剂"
+    ],
+    "patents": "多项片剂/胶囊制剂工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "SC食品生产许可"
+    ],
+    "clients": "国内保健品品牌、电商平台自有品牌",
+    "successCases": [
+      {
+        "name": "电商平台钙片代工",
+        "url": "https://www.whziguang.com"
+      }
+    ],
+    "website": "https://www.whziguang.com",
+    "intro": "威海紫光生物专注于片剂、硬胶囊与粉剂等传统剂型的规模化代工，配备完整固体制剂产线，服务于国内大众保健品与电商自有品牌客户。",
+    "highlights": [
+      "片剂/胶囊规模代工",
+      "固体制剂产线齐全",
+      "出口资质完备"
+    ]
+  },
+  {
+    "id": "guangdong-evergreen",
+    "name": "广东长兴生物科技股份有限公司",
+    "nameEn": "Guangdong Evergreen Bio-tech Co., Ltd.",
+    "region": "domestic",
+    "location": "广东省潮州市",
+    "address": "广东省潮州市桥东东山路",
+    "phone": "0768-2308888",
+    "email": "info@evergreen-bio.com",
+    "founded": "1995年",
+    "employees": "约2,000人",
+    "revenue": "约15亿元（估算）",
+    "factories": "广东潮州生产基地",
+    "moq": "软胶囊>=30万粒; 软糖>=50万粒; 片剂>=20万片",
+    "priceRange": "软胶囊0.15-0.70元/粒; 软糖0.25-1.20元/粒",
+    "dosageForms": [
+      "软胶囊",
+      "营养软糖",
+      "片剂",
+      "硬胶囊",
+      "粉剂",
+      "口服液"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "营养软糖"
+    ],
+    "patents": "软胶囊内容物稳定性及软糖成型工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "BRC",
+      "Kosher",
+      "Halal"
+    ],
+    "clients": "国内营养品牌、跨境电商",
+    "successCases": [
+      {
+        "name": "鱼油软胶囊代工",
+        "url": "https://www.evergreen-bio.com"
+      }
+    ],
+    "website": "https://www.evergreen-bio.com",
+    "intro": "广东长兴（千林品牌母公司）是华南地区老牌营养保健品 OEM/ODM 企业，以软胶囊与营养软糖的规模化制造见长，具备出口级质量体系。",
+    "highlights": [
+      "软胶囊/软糖规模制造",
+      "出口质量体系",
+      "华南老牌代工"
+    ]
+  },
+  {
+    "id": "ningbo-yujian",
+    "name": "宁波玉健健康科技股份有限公司",
+    "nameEn": "Ningbo Yujian Health Technology Co., Ltd.",
+    "region": "domestic",
+    "location": "浙江省宁波市",
+    "address": "浙江省宁波市杭州湾新区",
+    "phone": "0574-63908888",
+    "email": "sales@yujianhealth.com",
+    "founded": "2009年",
+    "employees": "约800人",
+    "revenue": "约5亿元（估算）",
+    "factories": "浙江宁波生产基地",
+    "moq": "粉剂>=300kg; 固体饮料>=5万袋; 口服液>=1万瓶",
+    "priceRange": "粉剂100-260元/kg; 固体饮料0.8-2.5元/袋",
+    "dosageForms": [
+      "粉剂",
+      "固体饮料",
+      "口服液",
+      "片剂",
+      "硬胶囊",
+      "颗粒"
+    ],
+    "advantageDosageForms": [
+      "粉剂",
+      "固体饮料"
+    ],
+    "patents": "速溶粉体及固体饮料配方工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "SC食品生产许可"
+    ],
+    "clients": "代餐/体重管理品牌、新消费品牌",
+    "successCases": [
+      {
+        "name": "蛋白粉代工",
+        "url": "https://www.yujianhealth.com"
+      }
+    ],
+    "website": "https://www.yujianhealth.com",
+    "intro": "宁波玉健以粉剂与固体饮料的配方开发及代工为核心，擅长代餐、运动营养与新消费品类的柔性制造。",
+    "highlights": [
+      "粉剂/固体饮料专长",
+      "新消费柔性制造",
+      "配方开发能力强"
+    ]
+  },
+  {
+    "id": "dalian-shuangdi",
+    "name": "大连双迪科技股份有限公司",
+    "nameEn": "Dalian Shuangdi Technology Co., Ltd.",
+    "region": "domestic",
+    "location": "辽宁省大连市",
+    "address": "辽宁省大连经济技术开发区双D港",
+    "phone": "0411-87688888",
+    "email": "sales@shuangdi.com",
+    "founded": "2005年",
+    "employees": "约1,500人",
+    "revenue": "约10亿元（估算）",
+    "stockCode": "836205 (新三板)",
+    "factories": "辽宁大连生产基地",
+    "moq": "胶囊>=20万粒; 口服液>=1万瓶; 粉剂>=300kg",
+    "priceRange": "胶囊0.08-0.30元/粒; 口服液1.5-4元/瓶",
+    "dosageForms": [
+      "硬胶囊",
+      "软胶囊",
+      "口服液",
+      "粉剂",
+      "片剂"
+    ],
+    "advantageDosageForms": [
+      "硬胶囊",
+      "口服液"
+    ],
+    "patents": "核酸及发酵类健康品制备专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP"
+    ],
+    "clients": "功能保健品牌、直销体系",
+    "successCases": [
+      {
+        "name": "口服液代工",
+        "url": "https://www.shuangdi.com"
+      }
+    ],
+    "website": "https://www.shuangdi.com",
+    "intro": "大连双迪依托核酸与发酵技术平台，提供硬胶囊、口服液等剂型的研发与代工，覆盖功能保健与直销渠道客户。",
+    "highlights": [
+      "核酸/发酵技术平台",
+      "口服液代工",
+      "直销渠道经验"
+    ]
+  },
+  {
+    "id": "shanghai-grapeking",
+    "name": "上海葡萄王企业有限公司",
+    "nameEn": "Shanghai Grape King Enterprise Co., Ltd.",
+    "region": "domestic",
+    "location": "上海市",
+    "address": "上海市松江区佘山工业园",
+    "phone": "021-57798888",
+    "email": "sales@grapeking.com",
+    "founded": "1994年",
+    "employees": "约1,000人",
+    "revenue": "约6亿元（估算）",
+    "factories": "上海松江生产基地",
+    "moq": "粉剂>=300kg; 片剂>=20万片; 口服液>=1万瓶",
+    "priceRange": "粉剂120-280元/kg; 片剂0.07-0.25元/片",
+    "dosageForms": [
+      "粉剂",
+      "片剂",
+      "硬胶囊",
+      "口服液",
+      "发酵饮品"
+    ],
+    "advantageDosageForms": [
+      "发酵饮品",
+      "粉剂"
+    ],
+    "patents": "菌丝体培养及发酵饮品工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "有机认证"
+    ],
+    "clients": "真菌多糖类品牌、养生品牌",
+    "successCases": [
+      {
+        "name": "灵芝菌丝体粉代工",
+        "url": "https://www.grapeking.com"
+      }
+    ],
+    "website": "https://www.grapeking.com",
+    "intro": "上海葡萄王以真菌培养与发酵技术见长，专注灵芝、虫草等菌丝体粉剂与发酵饮品的代工，是食用菌健康品领域的老牌企业。",
+    "highlights": [
+      "真菌/菌丝体发酵",
+      "灵芝虫草专长",
+      "养生品类代工"
+    ]
+  },
+  {
+    "id": "shandong-yuwang",
+    "name": "山东禹王制药有限公司",
+    "nameEn": "Shandong Yuwang Pharmaceutical Co., Ltd.",
+    "region": "domestic",
+    "location": "山东省德州市",
+    "address": "山东省德州市经济开发区禹王街",
+    "phone": "0534-2188888",
+    "email": "sales@yuwang.com",
+    "founded": "1989年",
+    "employees": "约3,000人",
+    "revenue": "约20亿元（估算）",
+    "factories": "山东德州生产基地",
+    "moq": "软胶囊>=50万粒; 鱼油>=1吨",
+    "priceRange": "软胶囊0.12-0.50元/粒; 鱼油原料面议",
+    "dosageForms": [
+      "软胶囊",
+      "鱼油",
+      "片剂",
+      "硬胶囊",
+      "粉剂"
+    ],
+    "advantageDosageForms": [
+      "软胶囊",
+      "鱼油"
+    ],
+    "patents": "鱼油精制及软胶囊包埋工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "GOED"
+    ],
+    "clients": "鱼油/心脑健康品牌",
+    "successCases": [
+      {
+        "name": "深海鱼油软胶囊代工",
+        "url": "https://www.yuwang.com"
+      }
+    ],
+    "website": "https://www.yuwang.com",
+    "intro": "山东禹王以大豆蛋白与鱼油精制为核心，软胶囊与鱼油制剂代工能力突出，长期服务于心脑健康与血脂管理品类。",
+    "highlights": [
+      "鱼油精制能力",
+      "软胶囊包埋",
+      "大豆蛋白产业链"
+    ]
+  },
+  {
+    "id": "zhongshan-meitai",
+    "name": "中山市美太保健制品有限公司",
+    "nameEn": "Zhongshan Meitai Health Products Co., Ltd.",
+    "region": "domestic",
+    "location": "广东省中山市",
+    "address": "广东省中山市南头镇",
+    "phone": "0760-23188888",
+    "email": "sales@meitai.com",
+    "founded": "2003年",
+    "employees": "约900人",
+    "revenue": "约5亿元（估算）",
+    "factories": "广东中山生产基地",
+    "moq": "软糖>=50万粒; 片剂>=20万片; 粉剂>=300kg",
+    "priceRange": "软糖0.22-1.10元/粒; 片剂0.06-0.22元/片",
+    "dosageForms": [
+      "营养软糖",
+      "片剂",
+      "硬胶囊",
+      "粉剂",
+      "口服液"
+    ],
+    "advantageDosageForms": [
+      "营养软糖",
+      "片剂"
+    ],
+    "patents": "软糖成型及营养保留工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP",
+      "BRC"
+    ],
+    "clients": "儿童营养品牌、电商自有品牌",
+    "successCases": [
+      {
+        "name": "儿童软糖代工",
+        "url": "https://www.meitai.com"
+      }
+    ],
+    "website": "https://www.meitai.com",
+    "intro": "中山美太以营养软糖与片剂的规模化代工为特色，擅长儿童营养与便捷剂型，具备出口级质量体系。",
+    "highlights": [
+      "营养软糖规模代工",
+      "儿童剂型经验",
+      "出口质量体系"
+    ]
+  },
+  {
+    "id": "jiangxi-renhe",
+    "name": "江西仁和药业有限公司",
+    "nameEn": "Jiangxi Renhe Pharmaceutical Co., Ltd.",
+    "region": "domestic",
+    "location": "江西省宜春市",
+    "address": "江西省宜春市袁州区医药工业园",
+    "phone": "0795-3588888",
+    "email": "oem@renhe.com",
+    "founded": "2001年",
+    "employees": "约5,000人",
+    "revenue": "约40亿元（估算）",
+    "stockCode": "000650 (深交所)",
+    "factories": "江西宜春生产基地",
+    "moq": "片剂>=30万片; 胶囊>=30万粒; 颗粒>=5万袋",
+    "priceRange": "片剂0.05-0.20元/片; 胶囊0.06-0.22元/粒",
+    "dosageForms": [
+      "片剂",
+      "硬胶囊",
+      "颗粒",
+      "口服液",
+      "软胶囊"
+    ],
+    "advantageDosageForms": [
+      "片剂",
+      "硬胶囊",
+      "颗粒"
+    ],
+    "patents": "中成药制剂及保健品配方工艺专利",
+    "certifications": [
+      "GMP",
+      "ISO9001",
+      "HACCP"
+    ],
+    "clients": "OTC/大健康品牌、连锁药房",
+    "successCases": [
+      {
+        "name": "保健品片剂代工",
+        "url": "https://www.renhe.com"
+      }
+    ],
+    "website": "https://www.renhe.com",
+    "intro": "江西仁和是大型医药大健康企业，具备片剂、硬胶囊、颗粒等固体制剂的强势产能，承接 OTC 与大健康品类代工。",
+    "highlights": [
+      "固体制剂强势产能",
+      "OTC/大健康代工",
+      "连锁渠道资源"
     ]
   }
 ];
