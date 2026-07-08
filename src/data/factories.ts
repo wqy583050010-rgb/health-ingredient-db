@@ -1782,7 +1782,7 @@ export const oemFactories: OEMFactory[] = [
     "location": "广东省潮州市",
     "address": "广东省潮州市桥东东山路",
     "phone": "0768-2308888",
-    "email": "info@evergreen-bio.com",
+    "email": "info@gd-caxin.com",
     "founded": "1995年",
     "employees": "约2,000人",
     "revenue": "约15亿元（估算）",
@@ -1814,7 +1814,7 @@ export const oemFactories: OEMFactory[] = [
     "successCases": [
       {
         "name": "鱼油软胶囊代工",
-        "url": "https://www.evergreen-bio.com"
+        "url": "https://www.gd-caxin.com"
       }
     ],
     "website": "https://www.gd-caxin.com/",
@@ -1833,7 +1833,7 @@ export const oemFactories: OEMFactory[] = [
     "location": "浙江省宁波市",
     "address": "浙江省宁波市杭州湾新区",
     "phone": "0574-63908888",
-    "email": "sales@yujianhealth.com",
+    "email": "sales@excarepharm.com",
     "founded": "2009年",
     "employees": "约800人",
     "revenue": "约5亿元（估算）",
@@ -1863,7 +1863,7 @@ export const oemFactories: OEMFactory[] = [
     "successCases": [
       {
         "name": "蛋白粉代工",
-        "url": "https://www.yujianhealth.com"
+        "url": "https://www.excarepharm.com"
       }
     ],
     "website": "https://www.excarepharm.com/",
@@ -1882,7 +1882,7 @@ export const oemFactories: OEMFactory[] = [
     "location": "辽宁省大连市",
     "address": "辽宁省大连经济技术开发区双D港",
     "phone": "0411-87688888",
-    "email": "sales@shuangdi.com",
+    "email": "sales@dl-dd.com",
     "founded": "2005年",
     "employees": "约1,500人",
     "revenue": "约10亿元（估算）",
@@ -1911,7 +1911,7 @@ export const oemFactories: OEMFactory[] = [
     "successCases": [
       {
         "name": "口服液代工",
-        "url": "https://www.shuangdi.com"
+        "url": "https://www.dl-dd.com"
       }
     ],
     "website": "https://www.dl-dd.com/",
