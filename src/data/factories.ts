@@ -1357,55 +1357,6 @@ export const oemFactories: OEMFactory[] = [
     ]
   },
   {
-    "id": "jiangxi-renhe",
-    "name": "江西仁和药业有限公司",
-    "nameEn": "Jiangxi Renhe Pharmaceutical Co., Ltd.",
-    "region": "domestic",
-    "location": "江西省宜春市",
-    "address": "江西省宜春市袁州区医药工业园",
-    "phone": "0795-3588888",
-    "email": "oem@renhe.com",
-    "founded": "2001年",
-    "employees": "约5,000人",
-    "revenue": "约40亿元（估算）",
-    "stockCode": "000650 (深交所)",
-    "factories": "江西宜春生产基地",
-    "moq": "片剂>=30万片; 胶囊>=30万粒; 颗粒>=5万袋",
-    "priceRange": "片剂0.05-0.20元/片; 胶囊0.06-0.22元/粒",
-    "dosageForms": [
-      "片剂",
-      "硬胶囊",
-      "颗粒",
-      "口服液",
-      "软胶囊"
-    ],
-    "advantageDosageForms": [
-      "片剂",
-      "硬胶囊",
-      "颗粒"
-    ],
-    "patents": "中成药制剂及保健品配方工艺专利",
-    "certifications": [
-      "GMP",
-      "ISO9001",
-      "HACCP"
-    ],
-    "clients": "OTC/大健康品牌、连锁药房",
-    "successCases": [
-      {
-        "name": "保健品片剂代工",
-        "url": "https://www.renhe.com"
-      }
-    ],
-    "website": "http://www.renhels.com/",
-    "intro": "江西仁和是大型医药大健康企业，具备片剂、硬胶囊、颗粒等固体制剂的强势产能，承接 OTC 与大健康品类代工。",
-    "highlights": [
-      "固体制剂强势产能",
-      "OTC/大健康代工",
-      "连锁渠道资源"
-    ]
-  },
-  {
     "id": "tishcon",
     "name": "Tishcon Corporation",
     "nameEn": "Tishcon Corporation",
