@@ -22,47 +22,47 @@
     },
     "forms": [
       {
-        "name": "胆钙化醇（D3，羊毛脂来源）",
-        "description": "从羊毛脂中提取的天然形式，人体皮肤经阳光照射后亦能合成",
-        "bioavailability": "高（脂溶性，与脂肪同服吸收率显著提升）",
+        "disadvantages": [
+          "非素食（动物来源）",
+          "需与脂肪同服"
+        ],
         "advantages": [
           "生物利用度优于D2",
           "半衰期长（约15天）",
           "天然来源"
         ],
-        "disadvantages": [
-          "非素食（动物来源）",
-          "需与脂肪同服"
-        ]
+        "name": "胆钙化醇（D3，羊毛脂来源）",
+        "description": "从羊毛脂中提取的天然形式，人体皮肤经阳光照射后亦能合成",
+        "bioavailability": "高（脂溶性，与脂肪同服吸收率显著提升）"
       },
       {
-        "name": "维生素D3（地衣来源，素食）",
-        "description": "从地衣中提取的纯素食D3，适合素食主义者",
-        "bioavailability": "高，与羊毛脂来源D3相当",
+        "disadvantages": [
+          "成本较高",
+          "供应商选择有限"
+        ],
         "advantages": [
           "纯素食",
           "无动物成分",
           "过敏性更低"
         ],
-        "disadvantages": [
-          "成本较高",
-          "供应商选择有限"
-        ]
+        "name": "维生素D3（地衣来源，素食）",
+        "description": "从地衣中提取的纯素食D3，适合素食主义者",
+        "bioavailability": "高，与羊毛脂来源D3相当"
       },
       {
-        "name": "骨化二醇（25-羟基维生素D3）",
-        "description": "活性代谢中间体，无需肝脏羟化，吸收更快",
-        "bioavailability": "极高，直接进入循环",
+        "disadvantages": [
+          "成本极高",
+          "需监控血钙水平",
+          "只限特定人群使用"
+        ],
         "advantages": [
           "起效更快",
           "无需肝脏代谢",
           "生物利用度最高"
         ],
-        "disadvantages": [
-          "成本极高",
-          "需监控血钙水平",
-          "只限特定人群使用"
-        ]
+        "name": "骨化二醇（25-羟基维生素D3）",
+        "description": "活性代谢中间体，无需肝脏羟化，吸收更快",
+        "bioavailability": "极高，直接进入循环"
       }
     ],
     "suppliers": [
@@ -90,54 +90,54 @@
     ],
     "dosageForms": [
       {
-        "name": "软胶囊（油溶液）",
-        "category": "传统剂型",
-        "description": "D3溶于植物油后封装于软胶囊，吸收率高",
         "advantages": [
           "吸收率好",
           "剂量精准",
           "稳定性好"
-        ]
+        ],
+        "name": "软胶囊（油溶液）",
+        "category": "传统剂型",
+        "description": "D3溶于植物油后封装于软胶囊，吸收率高"
       },
       {
-        "name": "片剂/咀嚼片",
-        "category": "传统剂型",
-        "description": "传统固体剂型，适合与其他营养素复配",
         "advantages": [
           "成本低",
           "易于复配",
           "方便携带"
-        ]
+        ],
+        "name": "片剂/咀嚼片",
+        "category": "传统剂型",
+        "description": "传统固体剂型，适合与其他营养素复配"
       },
       {
-        "name": "滴剂（液体）",
-        "category": "传统剂型",
-        "description": "适用于婴幼儿和吞咽困难者",
         "advantages": [
           "剂量灵活",
           "适合儿童",
           "吸收快"
-        ]
+        ],
+        "name": "滴剂（液体）",
+        "category": "传统剂型",
+        "description": "适用于婴幼儿和吞咽困难者"
       },
       {
-        "name": "脂质体D3",
-        "category": "新型剂型",
-        "description": "磷脂双分子层包裹D3，生物利用度更高",
         "advantages": [
           "吸收率极高",
           "无需脂肪同服",
           "适应素食人群（大豆磷脂）"
-        ]
+        ],
+        "name": "脂质体D3",
+        "category": "新型剂型",
+        "description": "磷脂双分子层包裹D3，生物利用度更高"
       },
       {
-        "name": "口溶膜(ODF)",
-        "category": "前沿剂型",
-        "description": "口腔速溶膜，通过口腔黏膜快速吸收",
         "advantages": [
           "无需吞咽",
           "快速吸收",
           "适合老年人"
-        ]
+        ],
+        "name": "口溶膜(ODF)",
+        "category": "前沿剂型",
+        "description": "口腔速溶膜，通过口腔黏膜快速吸收"
       }
     ],
     "compliance": [
@@ -263,7 +263,10 @@
       ],
       "packagingCost": "¥0.5-2.5/瓶（HDPE瓶+标签+内衬）",
       "totalEstimate": "终端产品成本约¥15-40/瓶（60-200粒），滴剂约¥25-40/瓶"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bone"
+    ]
   },
   {
     "id": "zinc-immune",
@@ -288,46 +291,46 @@
     },
     "forms": [
       {
-        "name": "葡萄糖酸锌",
-        "description": "最常见的锌补充形式，水溶性好，胃肠道耐受性好",
-        "bioavailability": "中等（吸收率约55-60%）",
+        "disadvantages": [
+          "元素锌含量低（14.3%）",
+          "吸收率一般"
+        ],
         "advantages": [
           "价格低廉",
           "胃刺激小",
           "水溶性好"
         ],
-        "disadvantages": [
-          "元素锌含量低（14.3%）",
-          "吸收率一般"
-        ]
+        "name": "葡萄糖酸锌",
+        "description": "最常见的锌补充形式，水溶性好，胃肠道耐受性好",
+        "bioavailability": "中等（吸收率约55-60%）"
       },
       {
-        "name": "吡啶甲酸锌",
-        "description": "锌与吡啶甲酸螯合的有机形式，细胞穿透能力强",
-        "bioavailability": "高（吸收率可达60-70%）",
+        "disadvantages": [
+          "价格较高",
+          "来源较少"
+        ],
         "advantages": [
           "吸收率最高",
           "不受植酸干扰",
           "组织保留时间更长"
         ],
-        "disadvantages": [
-          "价格较高",
-          "来源较少"
-        ]
+        "name": "吡啶甲酸锌",
+        "description": "锌与吡啶甲酸螯合的有机形式，细胞穿透能力强",
+        "bioavailability": "高（吸收率可达60-70%）"
       },
       {
-        "name": "柠檬酸锌",
-        "description": "柠檬酸盐形式，温和易吸收",
-        "bioavailability": "中高（吸收率约60%）",
+        "disadvantages": [
+          "含锌量较低",
+          "吸湿性强"
+        ],
         "advantages": [
           "温和不刺激",
           "口感好",
           "适合液体制剂"
         ],
-        "disadvantages": [
-          "含锌量较低",
-          "吸湿性强"
-        ]
+        "name": "柠檬酸锌",
+        "description": "柠檬酸盐形式，温和易吸收",
+        "bioavailability": "中高（吸收率约60%）"
       }
     ],
     "suppliers": [
@@ -355,54 +358,54 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂/含片",
-        "category": "传统剂型",
-        "description": "传统压片工艺，便于携带和分剂量",
         "advantages": [
           "成本低",
           "稳定性好",
           "易于复配"
-        ]
+        ],
+        "name": "片剂/含片",
+        "category": "传统剂型",
+        "description": "传统压片工艺，便于携带和分剂量"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "硬胶囊或软胶囊封装锌盐粉末",
         "advantages": [
           "掩味效果好",
           "剂量灵活",
           "保护胃黏膜"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "硬胶囊或软胶囊封装锌盐粉末"
       },
       {
-        "name": "口服液",
-        "category": "传统剂型",
-        "description": "葡萄糖酸锌糖浆剂/口服液，适合儿童",
         "advantages": [
           "吸收快",
           "口感好",
           "儿童顺应性高"
-        ]
+        ],
+        "name": "口服液",
+        "category": "传统剂型",
+        "description": "葡萄糖酸锌糖浆剂/口服液，适合儿童"
       },
       {
-        "name": "微囊化缓释颗粒",
-        "category": "新型剂型",
-        "description": "包衣微球技术实现锌缓释释放",
         "advantages": [
           "减少胃刺激",
           "平稳血药浓度",
           "提高生物利用度"
-        ]
+        ],
+        "name": "微囊化缓释颗粒",
+        "category": "新型剂型",
+        "description": "包衣微球技术实现锌缓释释放"
       },
       {
-        "name": "口腔崩解片(ODT)",
-        "category": "前沿剂型",
-        "description": "口腔中快速崩解无需饮水",
         "advantages": [
           "便捷服用",
           "快速吸收",
           "适合吞咽困难人群"
-        ]
+        ],
+        "name": "口腔崩解片(ODT)",
+        "category": "前沿剂型",
+        "description": "口腔中快速崩解无需饮水"
       }
     ],
     "compliance": [
@@ -530,7 +533,11 @@
       ],
       "packagingCost": "¥0.5-2/瓶（HDPE瓶/安瓿瓶）",
       "totalEstimate": "终端产品成本约¥10-30/瓶（60-100粒），口服液约¥15-25/盒（10支）"
-    }
+    },
+    "secondaryCategoryIds": [
+      "beauty",
+      "eye"
+    ]
   },
   {
     "id": "echinacea",
@@ -555,48 +562,48 @@
     },
     "forms": [
       {
-        "name": "紫锥菊干燥提取物（标准化4%多酚）",
-        "description": "水醇提取后喷雾干燥的标准化粉末，主要含有菊苣酸和紫锥菊苷等活性成分",
-        "bioavailability": "中等（口服后多酚类成分血浆浓度6-8小时达峰）",
+        "disadvantages": [
+          "水溶性一般",
+          "味道苦涩",
+          "光照敏感"
+        ],
         "advantages": [
           "标准化含量",
           "质量可控",
           "易于制成各类剂型"
         ],
-        "disadvantages": [
-          "水溶性一般",
-          "味道苦涩",
-          "光照敏感"
-        ]
+        "name": "紫锥菊干燥提取物（标准化4%多酚）",
+        "description": "水醇提取后喷雾干燥的标准化粉末，主要含有菊苣酸和紫锥菊苷等活性成分",
+        "bioavailability": "中等（口服后多酚类成分血浆浓度6-8小时达峰）"
       },
       {
-        "name": "紫锥菊鲜榨汁（Echinacin®）",
-        "description": "新鲜的紫锥菊地上部分压榨汁，保留全谱活性成分",
-        "bioavailability": "中等偏高（全谱成分协同）",
+        "disadvantages": [
+          "保质期短",
+          "需冷藏",
+          "酒精防腐"
+        ],
         "advantages": [
           "保留全谱活性成分",
           "起效快速",
           "临床研究最充分"
         ],
-        "disadvantages": [
-          "保质期短",
-          "需冷藏",
-          "酒精防腐"
-        ]
+        "name": "紫锥菊鲜榨汁（Echinacin®）",
+        "description": "新鲜的紫锥菊地上部分压榨汁，保留全谱活性成分",
+        "bioavailability": "中等偏高（全谱成分协同）"
       },
       {
-        "name": "紫锥菊醇提取物",
-        "description": "高浓度乙醇提取，富含烷基酰胺类脂溶性成分",
-        "bioavailability": "中等偏高（烷基酰胺吸收快）",
+        "disadvantages": [
+          "酒精提取残留",
+          "成本较高"
+        ],
         "advantages": [
           "脂溶性成分含量高",
           "稳定性好",
           "抗菌效果更强"
         ],
-        "disadvantages": [
-          "酒精提取残留",
-          "成本较高"
-        ]
+        "name": "紫锥菊醇提取物",
+        "description": "高浓度乙醇提取，富含烷基酰胺类脂溶性成分",
+        "bioavailability": "中等偏高（烷基酰胺吸收快）"
       }
     ],
     "suppliers": [
@@ -624,34 +631,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "填充干燥提取物粉末，方便携带和定量",
         "advantages": [
           "掩味效果好",
           "便于携带",
           "剂量精准"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "填充干燥提取物粉末，方便携带和定量"
       },
       {
-        "name": "滴剂/酊剂",
-        "category": "传统剂型",
-        "description": "液体醇提取物，可滴入水或果汁中服用",
         "advantages": [
           "吸收快",
           "剂量灵活",
           "使用方便"
-        ]
+        ],
+        "name": "滴剂/酊剂",
+        "category": "传统剂型",
+        "description": "液体醇提取物，可滴入水或果汁中服用"
       },
       {
-        "name": "泡腾片",
-        "category": "传统剂型",
-        "description": "溶解后饮用，起效快，口感好",
         "advantages": [
           "吸收快",
           "口感改良",
           "顺应性好"
-        ]
+        ],
+        "name": "泡腾片",
+        "category": "传统剂型",
+        "description": "溶解后饮用，起效快，口感好"
       }
     ],
     "compliance": [
@@ -774,7 +781,10 @@
       ],
       "packagingCost": "¥1-3/瓶（玻璃滴瓶/塑料瓶）",
       "totalEstimate": "终端产品成本约¥30-80/瓶（60-100粒），滴剂约¥40-90/瓶（50ml）"
-    }
+    },
+    "secondaryCategoryIds": [
+      "antioxidant"
+    ]
   },
   {
     "id": "astragalus",
@@ -783,6 +793,7 @@
     "category": "增强免疫力",
     "categoryId": "immune",
     "secondaryCategoryIds": [
+      "energy",
       "herb-food"
     ],
     "popularity": 3,
@@ -802,48 +813,48 @@
     },
     "forms": [
       {
-        "name": "黄芪标准化提取物（5:1浓缩）",
-        "description": "水提醇沉后喷雾干燥，标准化黄芪多糖含量≥5%或黄芪甲苷IV≥0.3%",
-        "bioavailability": "中等（黄芪多糖分子量较大，肠道吸收有限，主要作用于肠道免疫）",
+        "disadvantages": [
+          "分子量大影响吸收",
+          "批次间含量差异",
+          "需防潮保存"
+        ],
         "advantages": [
           "标准化含量可控",
           "适用剂型广泛",
           "成本适中"
         ],
-        "disadvantages": [
-          "分子量大影响吸收",
-          "批次间含量差异",
-          "需防潮保存"
-        ]
+        "name": "黄芪标准化提取物（5:1浓缩）",
+        "description": "水提醇沉后喷雾干燥，标准化黄芪多糖含量≥5%或黄芪甲苷IV≥0.3%",
+        "bioavailability": "中等（黄芪多糖分子量较大，肠道吸收有限，主要作用于肠道免疫）"
       },
       {
-        "name": "黄芪甲苷IV高纯度提取物",
-        "description": "纯化至≥95%的黄芪甲苷IV单体，免疫活性成分明确",
-        "bioavailability": "低（口服生物利用度约2-5%），但已通过盐键改造（如黄芪甲苷IV钠盐）大幅提升",
+        "disadvantages": [
+          "口服生物利用度低",
+          "成本极高",
+          "丧失协同效应"
+        ],
         "advantages": [
           "成分单一 含量精准",
           "药理机制清晰",
           "质量可控"
         ],
-        "disadvantages": [
-          "口服生物利用度低",
-          "成本极高",
-          "丧失协同效应"
-        ]
+        "name": "黄芪甲苷IV高纯度提取物",
+        "description": "纯化至≥95%的黄芪甲苷IV单体，免疫活性成分明确",
+        "bioavailability": "低（口服生物利用度约2-5%），但已通过盐键改造（如黄芪甲苷IV钠盐）大幅提升"
       },
       {
-        "name": "发酵黄芪提取物",
-        "description": "通过益生菌发酵降解大分子多糖，生成小分子寡糖和活性代谢物",
-        "bioavailability": "中高（发酵后分子量降低，吸收率提升）",
+        "disadvantages": [
+          "工艺复杂",
+          "标准化难度大"
+        ],
         "advantages": [
           "吸收率提升",
           "产生新活性代谢物",
           "益生元效应"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "标准化难度大"
-        ]
+        "name": "发酵黄芪提取物",
+        "description": "通过益生菌发酵降解大分子多糖，生成小分子寡糖和活性代谢物",
+        "bioavailability": "中高（发酵后分子量降低，吸收率提升）"
       }
     ],
     "suppliers": [
@@ -871,34 +882,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "干燥提取物粉末填充胶囊",
         "advantages": [
           "掩味效果好",
           "方便定量服用",
           "稳定性好"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "干燥提取物粉末填充胶囊"
       },
       {
-        "name": "颗粒冲剂",
-        "category": "传统剂型",
-        "description": "即溶颗粒，热水冲服",
         "advantages": [
           "符合中医药习惯",
           "吸收快",
           "口感可调"
-        ]
+        ],
+        "name": "颗粒冲剂",
+        "category": "传统剂型",
+        "description": "即溶颗粒，热水冲服"
       },
       {
-        "name": "口服液",
-        "category": "传统剂型",
-        "description": "液体单剂量包装，即开即饮",
         "advantages": [
           "吸收快",
           "方便服用",
           "高端形象"
-        ]
+        ],
+        "name": "口服液",
+        "category": "传统剂型",
+        "description": "液体单剂量包装，即开即饮"
       }
     ],
     "compliance": [
@@ -1051,46 +1062,46 @@
     },
     "forms": [
       {
-        "name": "蜂胶乙醇提取物（标准化≥6%黄酮）",
-        "description": "乙醇提取蜂胶原胶后脱蜡浓缩，喷雾干燥制成粉末或液体提取物",
-        "bioavailability": "中等（黄酮类成分口服吸收率约20-30%）",
+        "disadvantages": [
+          "可能含微量乙醇残留",
+          "味道强烈辛辣"
+        ],
         "advantages": [
           "活性成分浓度高",
           "质量可标准化",
           "保存期长"
         ],
-        "disadvantages": [
-          "可能含微量乙醇残留",
-          "味道强烈辛辣"
-        ]
+        "name": "蜂胶乙醇提取物（标准化≥6%黄酮）",
+        "description": "乙醇提取蜂胶原胶后脱蜡浓缩，喷雾干燥制成粉末或液体提取物",
+        "bioavailability": "中等（黄酮类成分口服吸收率约20-30%）"
       },
       {
-        "name": "蜂胶水提取物",
-        "description": "热水提取蜂胶中的水溶性多糖和酚类成分",
-        "bioavailability": "中等偏低",
+        "disadvantages": [
+          "脂溶性活性成分损失",
+          "抗菌活性较低"
+        ],
         "advantages": [
           "无酒精残留",
           "口感温和",
           "适合儿童和酒精禁忌人群"
         ],
-        "disadvantages": [
-          "脂溶性活性成分损失",
-          "抗菌活性较低"
-        ]
+        "name": "蜂胶水提取物",
+        "description": "热水提取蜂胶中的水溶性多糖和酚类成分",
+        "bioavailability": "中等偏低"
       },
       {
-        "name": "蜂胶超临界CO₂提取物",
-        "description": "绿色提取工艺，选择性提取非极性黄酮和萜烯类活性成分",
-        "bioavailability": "中等偏高",
+        "disadvantages": [
+          "成本较高",
+          "设备要求高"
+        ],
         "advantages": [
           "无溶剂残留",
           "活性成分保留全",
           "纯度高"
         ],
-        "disadvantages": [
-          "成本较高",
-          "设备要求高"
-        ]
+        "name": "蜂胶超临界CO₂提取物",
+        "description": "绿色提取工艺，选择性提取非极性黄酮和萜烯类活性成分",
+        "bioavailability": "中等偏高"
       }
     ],
     "suppliers": [
@@ -1118,44 +1129,44 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊（软胶囊/硬胶囊）",
-        "category": "传统剂型",
-        "description": "最常用剂型，便于携带和定量服用",
         "advantages": [
           "掩味效果好",
           "便于携带",
           "用量精准"
-        ]
+        ],
+        "name": "胶囊（软胶囊/硬胶囊）",
+        "category": "传统剂型",
+        "description": "最常用剂型，便于携带和定量服用"
       },
       {
-        "name": "滴剂（酊剂）",
-        "category": "传统剂型",
-        "description": "液体醇提取物，可滴入水中服用或外用",
         "advantages": [
           "使用灵活",
           "可外用抗菌",
           "吸收快"
-        ]
+        ],
+        "name": "滴剂（酊剂）",
+        "category": "传统剂型",
+        "description": "液体醇提取物，可滴入水中服用或外用"
       },
       {
-        "name": "喷雾剂",
-        "category": "传统剂型",
-        "description": "针对口腔和咽喉的局部免疫支持",
         "advantages": [
           "局部直接作用",
           "起效快速",
           "使用方便"
-        ]
+        ],
+        "name": "喷雾剂",
+        "category": "传统剂型",
+        "description": "针对口腔和咽喉的局部免疫支持"
       },
       {
-        "name": "蜂胶口腔膜",
-        "category": "新型剂型",
-        "description": "口腔黏膜贴膜，用于口腔溃疡等局部问题",
         "advantages": [
           "靶向口腔黏膜",
           "缓释效果",
           "定向给药"
-        ]
+        ],
+        "name": "蜂胶口腔膜",
+        "category": "新型剂型",
+        "description": "口腔黏膜贴膜，用于口腔溃疡等局部问题"
       }
     ],
     "compliance": [
@@ -1308,49 +1319,49 @@
     },
     "forms": [
       {
-        "name": "牛初乳粉（标准化IgG≥20%）",
-        "description": "收集后经巴氏消毒、脱脂、超滤浓缩后冷冻干燥/喷雾干燥制成",
-        "bioavailability": "中等（IgG在胃酸中部分降解，空肠吸收约10-20%完整抗体）",
+        "disadvantages": [
+          "热敏感性高",
+          "胃酸降解影响效果",
+          "口感和气味特殊"
+        ],
         "advantages": [
           "成本适中",
           "适用剂型广泛",
           "标准化含量"
         ],
-        "disadvantages": [
-          "热敏感性高",
-          "胃酸降解影响效果",
-          "口感和气味特殊"
-        ]
+        "name": "牛初乳粉（标准化IgG≥20%）",
+        "description": "收集后经巴氏消毒、脱脂、超滤浓缩后冷冻干燥/喷雾干燥制成",
+        "bioavailability": "中等（IgG在胃酸中部分降解，空肠吸收约10-20%完整抗体）"
       },
       {
-        "name": "脂质包被牛初乳（Proserum®技术）",
-        "description": "采用专利脂质包被技术保护IgG和其他蛋白质顺利通过胃酸环境",
-        "bioavailability": "高（IgG肠道到达率提升至60-80%）",
+        "disadvantages": [
+          "成本高",
+          "制备工艺复杂",
+          "供应商单一"
+        ],
         "advantages": [
           "IgG保护效果好",
           "生物利用度高",
           "临床效果显著提升"
         ],
-        "disadvantages": [
-          "成本高",
-          "制备工艺复杂",
-          "供应商单一"
-        ]
+        "name": "脂质包被牛初乳（Proserum®技术）",
+        "description": "采用专利脂质包被技术保护IgG和其他蛋白质顺利通过胃酸环境",
+        "bioavailability": "高（IgG肠道到达率提升至60-80%）"
       },
       {
-        "name": "牛初乳免疫球蛋白浓缩物（Hyperimmune Colostrum）",
-        "description": "超免疫牛初乳——对母牛进行特定病原体（如轮状病毒、大肠杆菌）免疫后收集的高特异性抗体初乳",
-        "bioavailability": "中等至高",
+        "disadvantages": [
+          "成本极高",
+          "仅适用特定适应症",
+          "生产门槛高"
+        ],
         "advantages": [
           "靶向特异性抗体",
           "临床效果更突出",
           "可用于被动免疫治疗"
         ],
-        "disadvantages": [
-          "成本极高",
-          "仅适用特定适应症",
-          "生产门槛高"
-        ]
+        "name": "牛初乳免疫球蛋白浓缩物（Hyperimmune Colostrum）",
+        "description": "超免疫牛初乳——对母牛进行特定病原体（如轮状病毒、大肠杆菌）免疫后收集的高特异性抗体初乳",
+        "bioavailability": "中等至高"
       }
     ],
     "suppliers": [
@@ -1378,44 +1389,44 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊/片剂",
-        "category": "传统剂型",
-        "description": "最常用剂型，方便定量和携带",
         "advantages": [
           "掩味效果好",
           "易于携带",
           "剂量标准化"
-        ]
+        ],
+        "name": "胶囊/片剂",
+        "category": "传统剂型",
+        "description": "最常用剂型，方便定量和携带"
       },
       {
-        "name": "粉剂/冲剂",
-        "category": "传统剂型",
-        "description": "可直接冲水或加入饮品中",
         "advantages": [
           "剂量灵活",
           "吸收快",
           "适合大剂量"
-        ]
+        ],
+        "name": "粉剂/冲剂",
+        "category": "传统剂型",
+        "description": "可直接冲水或加入饮品中"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味咀嚼片，适合儿童",
         "advantages": [
           "口感好",
           "顺应性高",
           "无须饮水"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味咀嚼片，适合儿童"
       },
       {
-        "name": "脂质包被微囊粉",
-        "category": "新型剂型",
-        "description": "脂质包裹微粒保护IgG过胃，在肠道pH变化时释放",
         "advantages": [
           "肠道到达率高",
           "生物利用度好",
           "耐胃酸"
-        ]
+        ],
+        "name": "脂质包被微囊粉",
+        "category": "新型剂型",
+        "description": "脂质包裹微粒保护IgG过胃，在肠道pH变化时释放"
       }
     ],
     "compliance": [
@@ -1558,34 +1569,34 @@
     },
     "forms": [
       {
-        "name": "穿心莲标准化提取物（≥10%穿心莲内酯）",
-        "description": "水醇提取后纯化至穿心莲内酯含量≥10%，喷雾干燥制成粉末",
-        "bioavailability": "低（穿心莲内酯口服生物利用度约2.67%，因水溶性差和首过效应强）",
+        "disadvantages": [
+          "生物利用度低",
+          "味道极苦",
+          "水溶性差"
+        ],
         "advantages": [
           "标准化含量可控",
           "成本适中",
           "临床证据丰富"
         ],
-        "disadvantages": [
-          "生物利用度低",
-          "味道极苦",
-          "水溶性差"
-        ]
+        "name": "穿心莲标准化提取物（≥10%穿心莲内酯）",
+        "description": "水醇提取后纯化至穿心莲内酯含量≥10%，喷雾干燥制成粉末",
+        "bioavailability": "低（穿心莲内酯口服生物利用度约2.67%，因水溶性差和首过效应强）"
       },
       {
-        "name": "穿心莲内酯磷脂复合物（APC）",
-        "description": "穿心莲内酯与磷脂酰胆碱形成分子复合物，显著改善脂溶性和肠道透过性",
-        "bioavailability": "高（磷脂复合后口服生物利用度提升至约15-25%）",
+        "disadvantages": [
+          "成本较高",
+          "制剂工艺复杂",
+          "临床数据有限"
+        ],
         "advantages": [
           "生物利用度大幅提升",
           "吸收更稳定",
           "肝靶向性增强"
         ],
-        "disadvantages": [
-          "成本较高",
-          "制剂工艺复杂",
-          "临床数据有限"
-        ]
+        "name": "穿心莲内酯磷脂复合物（APC）",
+        "description": "穿心莲内酯与磷脂酰胆碱形成分子复合物，显著改善脂溶性和肠道透过性",
+        "bioavailability": "高（磷脂复合后口服生物利用度提升至约15-25%）"
       }
     ],
     "suppliers": [
@@ -1613,24 +1624,24 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "最常用剂型，填充标准提取物粉末",
         "advantages": [
           "掩味效果极佳",
           "剂量精准",
           "便携"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "最常用剂型，填充标准提取物粉末"
       },
       {
-        "name": "片剂（包衣片）",
-        "category": "传统剂型",
-        "description": "薄膜包衣片掩盖极强的苦味",
         "advantages": [
           "成本更低",
           "稳定性好",
           "易于量产"
-        ]
+        ],
+        "name": "片剂（包衣片）",
+        "category": "传统剂型",
+        "description": "薄膜包衣片掩盖极强的苦味"
       }
     ],
     "compliance": [
@@ -1772,49 +1783,49 @@
     },
     "forms": [
       {
-        "name": "大蒜粉（标准化1.3%蒜氨酸）",
-        "description": "冻干或低温干燥后粉碎的纯大蒜粉末，保留天然蒜氨酸酶",
-        "bioavailability": "中等（需肠溶包衣保护酶活性）",
+        "disadvantages": [
+          "大蒜气味重",
+          "蒜氨酸酶胃酸易失活",
+          "大蒜素含量不稳定"
+        ],
         "advantages": [
           "接近天然",
           "保留全谱活性",
           "成本低"
         ],
-        "disadvantages": [
-          "大蒜气味重",
-          "蒜氨酸酶胃酸易失活",
-          "大蒜素含量不稳定"
-        ]
+        "name": "大蒜粉（标准化1.3%蒜氨酸）",
+        "description": "冻干或低温干燥后粉碎的纯大蒜粉末，保留天然蒜氨酸酶",
+        "bioavailability": "中等（需肠溶包衣保护酶活性）"
       },
       {
-        "name": "陈蒜提取物（AGE, Kyolic®）",
-        "description": "大蒜在20%乙醇水溶液中室温陈化20个月的专利提取物，主要活性成分转变为稳定的水溶性S-烯丙基半胱氨酸(SAC)",
-        "bioavailability": "高（SAC口服吸收率>90%，半衰期约10小时）",
+        "disadvantages": [
+          "陈化过程投入大(20个月)",
+          "价格较高",
+          "专利保护"
+        ],
         "advantages": [
           "无气味",
           "SAC稳定标准可控",
           "无胃刺激",
           "研究最充分（Kyolic®有800+研究）"
         ],
-        "disadvantages": [
-          "陈化过程投入大(20个月)",
-          "价格较高",
-          "专利保护"
-        ]
+        "name": "陈蒜提取物（AGE, Kyolic®）",
+        "description": "大蒜在20%乙醇水溶液中室温陈化20个月的专利提取物，主要活性成分转变为稳定的水溶性S-烯丙基半胱氨酸(SAC)",
+        "bioavailability": "高（SAC口服吸收率>90%，半衰期约10小时）"
       },
       {
-        "name": "大蒜油（蒸汽蒸馏）",
-        "description": "水蒸气蒸馏获得的大蒜精油，主要含二烯丙基二硫醚(DADS)和三硫醚(DATS)",
-        "bioavailability": "中等（高脂溶性利于细胞膜穿透）",
+        "disadvantages": [
+          "缺少水溶性SAC",
+          "蒸馏温度可能破坏热敏成分"
+        ],
         "advantages": [
           "气味适中",
           "脂溶性成分浓度高",
           "易于软胶囊封装"
         ],
-        "disadvantages": [
-          "缺少水溶性SAC",
-          "蒸馏温度可能破坏热敏成分"
-        ]
+        "name": "大蒜油（蒸汽蒸馏）",
+        "description": "水蒸气蒸馏获得的大蒜精油，主要含二烯丙基二硫醚(DADS)和三硫醚(DATS)",
+        "bioavailability": "中等（高脂溶性利于细胞膜穿透）"
       }
     ],
     "suppliers": [
@@ -1842,34 +1853,34 @@
     ],
     "dosageForms": [
       {
-        "name": "肠溶片/胶囊",
-        "category": "传统剂型",
-        "description": "肠溶包衣保护蒜氨酸酶通过胃酸，在肠道pH环境中释放激活",
         "advantages": [
           "成品活性高",
           "掩味效果好",
           "胃无刺激"
-        ]
+        ],
+        "name": "肠溶片/胶囊",
+        "category": "传统剂型",
+        "description": "肠溶包衣保护蒜氨酸酶通过胃酸，在肠道pH环境中释放激活"
       },
       {
-        "name": "软胶囊（大蒜油）",
-        "category": "传统剂型",
-        "description": "大蒜精油封装于软胶囊中，脂溶性成分吸收率高",
         "advantages": [
           "无明显气味",
           "吸收快",
           "密封性好"
-        ]
+        ],
+        "name": "软胶囊（大蒜油）",
+        "category": "传统剂型",
+        "description": "大蒜精油封装于软胶囊中，脂溶性成分吸收率高"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味后咀嚼服用，模拟新鲜大蒜的口腔释放",
         "advantages": [
           "接近天然",
           "口腔局部作用",
           "快速杀菌"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味后咀嚼服用，模拟新鲜大蒜的口腔释放"
       }
     ],
     "compliance": [
@@ -2000,7 +2011,8 @@
     "category": "增强免疫力",
     "categoryId": "immune",
     "secondaryCategoryIds": [
-      "herb-food"
+      "herb-food",
+      "sleep"
     ],
     "popularity": 3,
     "summary": "被誉为\"仙草\"的药用真菌，在中国传统医学中有2000+年使用历史。灵芝含有独特的三萜类化合物(灵芝酸)和β-葡聚糖多糖，经现代科学验证具有免疫调节、抗肿瘤辅助和抗疲劳等功能。",
@@ -2019,49 +2031,49 @@
     },
     "forms": [
       {
-        "name": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）",
-        "description": "热水提取灵芝子实体中水溶性多糖和三萜类成分后浓缩干燥",
-        "bioavailability": "中等（多糖通过肠道M细胞转运，三萜成分脂溶性吸收）",
+        "disadvantages": [
+          "生物利用度中等",
+          "分子量大影响多糖吸收",
+          "成本较高"
+        ],
         "advantages": [
           "双重标准化（多糖+三萜）",
           "临床研究充分",
           "来源天然"
         ],
-        "disadvantages": [
-          "生物利用度中等",
-          "分子量大影响多糖吸收",
-          "成本较高"
-        ]
+        "name": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）",
+        "description": "热水提取灵芝子实体中水溶性多糖和三萜类成分后浓缩干燥",
+        "bioavailability": "中等（多糖通过肠道M细胞转运，三萜成分脂溶性吸收）"
       },
       {
-        "name": "灵芝孢子粉（破壁）",
-        "description": "灵芝孢子经物理破壁后直接使用，保留全谱成分",
-        "bioavailability": "中低（除非深度破壁>95%）",
+        "disadvantages": [
+          "破壁率难以控制",
+          "成分标准化困难",
+          "重金属污染风险"
+        ],
         "advantages": [
           "保留全成分",
           "传统应用广泛",
           "消费者认知度高"
         ],
-        "disadvantages": [
-          "破壁率难以控制",
-          "成分标准化困难",
-          "重金属污染风险"
-        ]
+        "name": "灵芝孢子粉（破壁）",
+        "description": "灵芝孢子经物理破壁后直接使用，保留全谱成分",
+        "bioavailability": "中低（除非深度破壁>95%）"
       },
       {
-        "name": "灵芝菌丝体发酵提取物",
-        "description": "液体深层发酵培养灵芝菌丝体后提取，成分特征不同于子实体",
-        "bioavailability": "中等",
+        "disadvantages": [
+          "三萜含量低于子实体",
+          "活性谱与子实体不同",
+          "标准化方法不一致"
+        ],
         "advantages": [
           "产量高、成本可控",
           "批次一致性好",
           "可持续发展模式"
         ],
-        "disadvantages": [
-          "三萜含量低于子实体",
-          "活性谱与子实体不同",
-          "标准化方法不一致"
-        ]
+        "name": "灵芝菌丝体发酵提取物",
+        "description": "液体深层发酵培养灵芝菌丝体后提取，成分特征不同于子实体",
+        "bioavailability": "中等"
       }
     ],
     "suppliers": [
@@ -2089,34 +2101,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "最常用剂型，填充标准化提取物粉末",
         "advantages": [
           "掩味效果好",
           "剂量精准",
           "便于携带"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "最常用剂型，填充标准化提取物粉末"
       },
       {
-        "name": "颗粒冲剂",
-        "category": "传统剂型",
-        "description": "热水冲泡服用，类似传统煎煮方式",
         "advantages": [
           "符合传统习惯",
           "口感可调",
           "吸收快"
-        ]
+        ],
+        "name": "颗粒冲剂",
+        "category": "传统剂型",
+        "description": "热水冲泡服用，类似传统煎煮方式"
       },
       {
-        "name": "口服液",
-        "category": "传统剂型",
-        "description": "灵芝提取液单剂量包装",
         "advantages": [
           "吸收快",
           "方便服用",
           "高端形象"
-        ]
+        ],
+        "name": "口服液",
+        "category": "传统剂型",
+        "description": "灵芝提取液单剂量包装"
       }
     ],
     "compliance": [
@@ -2259,49 +2271,49 @@
     },
     "forms": [
       {
-        "name": "还原型谷胱甘肽(GSH)",
-        "description": "活性还原形式，直接参与抗氧化反应",
-        "bioavailability": "低（口服后大部分在肠道被γ-GT酶降解为氨基酸组分）",
+        "disadvantages": [
+          "口服生物利用度争议",
+          "在肠道被迅速降解",
+          "稳定性较差"
+        ],
         "advantages": [
           "直接抗氧化活性",
           "还原型是活性形式",
           "成本适中"
         ],
-        "disadvantages": [
-          "口服生物利用度争议",
-          "在肠道被迅速降解",
-          "稳定性较差"
-        ]
+        "name": "还原型谷胱甘肽(GSH)",
+        "description": "活性还原形式，直接参与抗氧化反应",
+        "bioavailability": "低（口服后大部分在肠道被γ-GT酶降解为氨基酸组分）"
       },
       {
-        "name": "脂质体谷胱甘肽",
-        "description": "磷脂双分子层包裹GSH保护通过肠道，肝脏直接摄取",
-        "bioavailability": "高（脂质体包裹后肝脏到达率提升10倍+）",
+        "disadvantages": [
+          "成本高",
+          "存储需冷藏",
+          "无统一质量标准"
+        ],
         "advantages": [
           "生物利用度大幅提升",
           "肝靶向性好",
           "保护GSH免于降解"
         ],
-        "disadvantages": [
-          "成本高",
-          "存储需冷藏",
-          "无统一质量标准"
-        ]
+        "name": "脂质体谷胱甘肽",
+        "description": "磷脂双分子层包裹GSH保护通过肠道，肝脏直接摄取",
+        "bioavailability": "高（脂质体包裹后肝脏到达率提升10倍+）"
       },
       {
-        "name": "S-乙酰谷胱甘肽(S-Acetyl-GSH)",
-        "description": "GSH半胱氨酸巯基经乙酰基保护，经肠道完整吸收后在细胞内脱乙酰释放活性GSH",
-        "bioavailability": "中等偏高（巯基保护提升肠道抗降解能力）",
+        "disadvantages": [
+          "价格高",
+          "市场选择少",
+          "临床证据有限"
+        ],
         "advantages": [
           "化学稳定性好",
           "可口服吸收",
           "细胞内靶向释放"
         ],
-        "disadvantages": [
-          "价格高",
-          "市场选择少",
-          "临床证据有限"
-        ]
+        "name": "S-乙酰谷胱甘肽(S-Acetyl-GSH)",
+        "description": "GSH半胱氨酸巯基经乙酰基保护，经肠道完整吸收后在细胞内脱乙酰释放活性GSH",
+        "bioavailability": "中等偏高（巯基保护提升肠道抗降解能力）"
       }
     ],
     "suppliers": [
@@ -2329,34 +2341,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊/片剂",
-        "category": "传统剂型",
-        "description": "最常用口服GSH剂型",
         "advantages": [
           "方便服用",
           "剂量标准化",
           "成本低"
-        ]
+        ],
+        "name": "胶囊/片剂",
+        "category": "传统剂型",
+        "description": "最常用口服GSH剂型"
       },
       {
-        "name": "脂质体口服液",
-        "category": "新型剂型",
-        "description": "脂质体包裹的液态GSH，生物利用度最高",
         "advantages": [
           "吸收率最高",
           "肝靶向性",
           "起效快"
-        ]
+        ],
+        "name": "脂质体口服液",
+        "category": "新型剂型",
+        "description": "脂质体包裹的液态GSH，生物利用度最高"
       },
       {
-        "name": "注射用冻干粉针",
-        "category": "传统剂型",
-        "description": "静脉注射用GSH（临床肝脏疾病治疗）",
         "advantages": [
           "100%生物利用度",
           "急救使用",
           "大剂量可行"
-        ]
+        ],
+        "name": "注射用冻干粉针",
+        "category": "传统剂型",
+        "description": "静脉注射用GSH（临床肝脏疾病治疗）"
       }
     ],
     "compliance": [
@@ -2474,7 +2486,10 @@
       ],
       "packagingCost": "¥1-5/瓶（HDPE瓶/玻璃滴瓶）",
       "totalEstimate": "终端产品成本约¥50-150/瓶（60粒），脂质体口服液约¥150-400/瓶"
-    }
+    },
+    "secondaryCategoryIds": [
+      "beauty"
+    ]
   },
   {
     "id": "curcumin-antioxidant",
@@ -2499,49 +2514,49 @@
     },
     "forms": [
       {
-        "name": "姜黄素95%（标准粉末）",
-        "description": "姜黄提取物标准化至姜黄素类化合物含量≥95%（姜黄素70-80%、去甲氧基姜黄素15-20%、双去甲氧基姜黄素2-5%）",
-        "bioavailability": "极低（口服<1%，首过效应大鼠清除率≈70ml/min/kg）",
+        "disadvantages": [
+          "口服吸收极差",
+          "肠道代谢迅速（葡萄糖醛酸化/硫酸化）",
+          "需要大剂量（克级/天）"
+        ],
         "advantages": [
           "成本低",
           "研究最充分",
           "标准化程度高"
         ],
-        "disadvantages": [
-          "口服吸收极差",
-          "肠道代谢迅速（葡萄糖醛酸化/硫酸化）",
-          "需要大剂量（克级/天）"
-        ]
+        "name": "姜黄素95%（标准粉末）",
+        "description": "姜黄提取物标准化至姜黄素类化合物含量≥95%（姜黄素70-80%、去甲氧基姜黄素15-20%、双去甲氧基姜黄素2-5%）",
+        "bioavailability": "极低（口服<1%，首过效应大鼠清除率≈70ml/min/kg）"
       },
       {
-        "name": "姜黄素磷脂复合物（Meriva®）",
-        "description": "姜黄素与磷脂酰胆碱以1:2摩尔比形成的分子复合物，显著改善脂溶性和肠道吸收",
-        "bioavailability": "高（人体AUC比标准姜黄素高29倍）",
+        "disadvantages": [
+          "姜黄素含量仅约20%",
+          "价格较高",
+          "需防潮保存"
+        ],
         "advantages": [
           "大幅提升吸收",
           "临床证据（30+人体研究）",
           "耐受性好"
         ],
-        "disadvantages": [
-          "姜黄素含量仅约20%",
-          "价格较高",
-          "需防潮保存"
-        ]
+        "name": "姜黄素磷脂复合物（Meriva®）",
+        "description": "姜黄素与磷脂酰胆碱以1:2摩尔比形成的分子复合物，显著改善脂溶性和肠道吸收",
+        "bioavailability": "高（人体AUC比标准姜黄素高29倍）"
       },
       {
-        "name": "纳米/胶体姜黄素（Theracurmin®/CurcuWIN®）",
-        "description": "采用胶体分散、固体分散或纳米乳化技术将姜黄素粒径减小至纳米级",
-        "bioavailability": "极高（AUC提升27-185倍）",
+        "disadvantages": [
+          "价格昂贵",
+          "技术壁垒高",
+          "标准化评价方法不一致"
+        ],
         "advantages": [
           "极高生物利用度",
           "小剂量可达成治疗血药浓度",
           "水分散性好"
         ],
-        "disadvantages": [
-          "价格昂贵",
-          "技术壁垒高",
-          "标准化评价方法不一致"
-        ]
+        "name": "纳米/胶体姜黄素（Theracurmin®/CurcuWIN®）",
+        "description": "采用胶体分散、固体分散或纳米乳化技术将姜黄素粒径减小至纳米级",
+        "bioavailability": "极高（AUC提升27-185倍）"
       }
     ],
     "suppliers": [
@@ -2569,34 +2584,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊（普通姜黄素95%）",
-        "category": "传统剂型",
-        "description": "最基础的姜黄素补充形式，需与黑胡椒碱或脂肪同服",
         "advantages": [
           "成本低",
           "易于获得",
           "单一成分"
-        ]
+        ],
+        "name": "胶囊（普通姜黄素95%）",
+        "category": "传统剂型",
+        "description": "最基础的姜黄素补充形式，需与黑胡椒碱或脂肪同服"
       },
       {
-        "name": "软胶囊（Meriva®磷脂复合物）",
-        "category": "新型剂型",
-        "description": "磷脂复合物封装于软胶囊中",
         "advantages": [
           "高吸收",
           "临床数据充分",
           "品牌信赖度高"
-        ]
+        ],
+        "name": "软胶囊（Meriva®磷脂复合物）",
+        "category": "新型剂型",
+        "description": "磷脂复合物封装于软胶囊中"
       },
       {
-        "name": "纳米乳液/胶体分散液",
-        "category": "前沿剂型",
-        "description": "纳米级别的姜黄素胶体体系，可直接与水混合",
         "advantages": [
           "极高吸收",
           "水溶性应用扩展",
           "功能性饮料适用"
-        ]
+        ],
+        "name": "纳米乳液/胶体分散液",
+        "category": "前沿剂型",
+        "description": "纳米级别的姜黄素胶体体系，可直接与水混合"
       }
     ],
     "compliance": [
@@ -2724,7 +2739,9 @@
       "totalEstimate": "终端产品成本约¥30-80/瓶（普通姜黄素120粒），¥100-200/瓶（Meriva®/Theracurmin®60-120粒）"
     },
     "secondaryCategoryIds": [
-      "herb-food"
+      "bone",
+      "herb-food",
+      "liver"
     ]
   },
   {
@@ -2750,51 +2767,51 @@
     },
     "forms": [
       {
-        "name": "L-硒代蛋氨酸（有机硒）",
-        "description": "硒替代蛋氨酸中的硫原子的有机硒形式，天然存在于谷物和巴西坚果中",
-        "bioavailability": "高（吸收率>90%，通过蛋氨酸转运系统主动吸收）",
+        "disadvantages": [
+          "成本高于无机硒",
+          "蓄积性（非特异性掺入）",
+          "组硒蛋白效率略低"
+        ],
         "advantages": [
           "吸收率最高",
           "组织保留时间长",
           "非特异性掺入蛋白（储库）"
         ],
-        "disadvantages": [
-          "成本高于无机硒",
-          "蓄积性（非特异性掺入）",
-          "组硒蛋白效率略低"
-        ]
+        "name": "L-硒代蛋氨酸（有机硒）",
+        "description": "硒替代蛋氨酸中的硫原子的有机硒形式，天然存在于谷物和巴西坚果中",
+        "bioavailability": "高（吸收率>90%，通过蛋氨酸转运系统主动吸收）"
       },
       {
-        "name": "富硒酵母（有机硒，主要为硒代蛋氨酸）",
-        "description": "通过在含硒培养基中培养酿酒酵母，酵母将无机硒转化为有机硒（主要是硒代蛋氨酸）",
-        "bioavailability": "高（与L-硒代蛋氨酸相当）",
+        "disadvantages": [
+          "硒含量批次波动",
+          "标准化难度大",
+          "含酵母过敏原"
+        ],
         "advantages": [
           "天然来源",
           "含多种硒形态",
           "消费者认知度高"
         ],
-        "disadvantages": [
-          "硒含量批次波动",
-          "标准化难度大",
-          "含酵母过敏原"
-        ]
+        "name": "富硒酵母（有机硒，主要为硒代蛋氨酸）",
+        "description": "通过在含硒培养基中培养酿酒酵母，酵母将无机硒转化为有机硒（主要是硒代蛋氨酸）",
+        "bioavailability": "高（与L-硒代蛋氨酸相当）"
       },
       {
-        "name": "亚硒酸钠（无机硒）",
-        "description": "硒的无机盐形式(SeO₃²⁻)，是早期硒补充剂的主要形式，也是全球硒强化标准",
-        "bioavailability": "中等（吸收率约50-70%，但硒蛋白合成效率高）",
+        "disadvantages": [
+          "刺激性强",
+          "毒性窗口窄",
+          "组织保留率低（快速排泄）",
+          "促氧化风险"
+        ],
         "advantages": [
           "成本极低",
           "化学纯度高",
           "直接供硒蛋白合成利用",
           "食品强化标准"
         ],
-        "disadvantages": [
-          "刺激性强",
-          "毒性窗口窄",
-          "组织保留率低（快速排泄）",
-          "促氧化风险"
-        ]
+        "name": "亚硒酸钠（无机硒）",
+        "description": "硒的无机盐形式(SeO₃²⁻)，是早期硒补充剂的主要形式，也是全球硒强化标准",
+        "bioavailability": "中等（吸收率约50-70%，但硒蛋白合成效率高）"
       }
     ],
     "suppliers": [
@@ -2822,24 +2839,24 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂/胶囊",
-        "category": "传统剂型",
-        "description": "最常用微量矿物质补充剂型",
         "advantages": [
           "成本低",
           "剂量精准",
           "稳定性好"
-        ]
+        ],
+        "name": "片剂/胶囊",
+        "category": "传统剂型",
+        "description": "最常用微量矿物质补充剂型"
       },
       {
-        "name": "复方多维矿物质片",
-        "category": "传统剂型",
-        "description": "作为多维矿物质复合配方的一部分",
         "advantages": [
           "全面营养",
           "依从性高",
           "性价比好"
-        ]
+        ],
+        "name": "复方多维矿物质片",
+        "category": "传统剂型",
+        "description": "作为多维矿物质复合配方的一部分"
       }
     ],
     "compliance": [
@@ -2954,7 +2971,10 @@
       ],
       "packagingCost": "¥0.5-2/瓶（HDPE瓶）",
       "totalEstimate": "终端产品成本约¥15-50/瓶（90-180粒），属于低成本微量矿物质"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "nad-plus",
@@ -2979,50 +2999,50 @@
     },
     "forms": [
       {
-        "name": "烟酰胺核苷(NR, Niagen®)",
-        "description": "维生素B3的一种新型形式，天然存在于牛奶中。经NRK1/2激酶两步磷酸化转化为NAD+",
-        "bioavailability": "高（口服后60-90%以NR和NAM形式吸收，肠道菌群可部分代谢）",
+        "disadvantages": [
+          "价格高",
+          "供应单一（ChromaDex授权）",
+          "部分NR被肠道菌群代谢为NAM"
+        ],
         "advantages": [
           "ChromaDex专利(Niagen®)",
           "GRAS和NDI均已获批",
           "临床研究最充分(50+人体研究或进行中)",
           "安全性数据4年以上"
         ],
-        "disadvantages": [
-          "价格高",
-          "供应单一（ChromaDex授权）",
-          "部分NR被肠道菌群代谢为NAM"
-        ]
+        "name": "烟酰胺核苷(NR, Niagen®)",
+        "description": "维生素B3的一种新型形式，天然存在于牛奶中。经NRK1/2激酶两步磷酸化转化为NAD+",
+        "bioavailability": "高（口服后60-90%以NR和NAM形式吸收，肠道菌群可部分代谢）"
       },
       {
-        "name": "β-烟酰胺单核苷酸(NMN)",
-        "description": "NR的下游代谢物，NR→NMN→NAD+生物合成途径的中间体，在日本和中国市场具有极高热度",
-        "bioavailability": "中等至高（NMN可经小肠Slc12a8转运体直接摄取或去磷酸化为NR后再吸收）",
+        "disadvantages": [
+          "美国FDA对NMN的法规地位有争议（药品\"研究\"vs补充剂）",
+          "稳定性问题（热和湿敏感）",
+          "缺乏长期安全性数据"
+        ],
         "advantages": [
           "口服NAD+提升显著",
           "亚洲市场认知度极高",
           "多供应商竞争"
         ],
-        "disadvantages": [
-          "美国FDA对NMN的法规地位有争议（药品\"研究\"vs补充剂）",
-          "稳定性问题（热和湿敏感）",
-          "缺乏长期安全性数据"
-        ]
+        "name": "β-烟酰胺单核苷酸(NMN)",
+        "description": "NR的下游代谢物，NR→NMN→NAD+生物合成途径的中间体，在日本和中国市场具有极高热度",
+        "bioavailability": "中等至高（NMN可经小肠Slc12a8转运体直接摄取或去磷酸化为NR后再吸收）"
       },
       {
-        "name": "烟酸/烟酰胺(NA/NAM)",
-        "description": "经典维生素B3形式，可通过Preiss-Handler途径或NAM挽救途径合成NAD+",
-        "bioavailability": "高（口服快速吸收，生物利用度>90%）",
+        "disadvantages": [
+          "烟酸潮红反应",
+          "NAM高剂量抑制sirtuins（反馈抑制NAM→NAD+）",
+          "NAD+提升效率不如NR/NMN"
+        ],
         "advantages": [
           "成本极低",
           "安全性数据极为充分",
           "广泛可用"
         ],
-        "disadvantages": [
-          "烟酸潮红反应",
-          "NAM高剂量抑制sirtuins（反馈抑制NAM→NAD+）",
-          "NAD+提升效率不如NR/NMN"
-        ]
+        "name": "烟酸/烟酰胺(NA/NAM)",
+        "description": "经典维生素B3形式，可通过Preiss-Handler途径或NAM挽救途径合成NAD+",
+        "bioavailability": "高（口服快速吸收，生物利用度>90%）"
       }
     ],
     "suppliers": [
@@ -3050,34 +3070,34 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "NR和NMN的最常见口服剂型",
         "advantages": [
           "方便服用",
           "掩味效果好",
           "保护吸湿性原料"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "NR和NMN的最常见口服剂型"
       },
       {
-        "name": "舌下含片/粉末",
-        "category": "新型剂型",
-        "description": "舌下黏膜直接吸收，绕过肠道菌群代谢和肝脏首过效应",
         "advantages": [
           "吸收快",
           "避开肠道代谢",
           "理论生物利用度更高"
-        ]
+        ],
+        "name": "舌下含片/粉末",
+        "category": "新型剂型",
+        "description": "舌下黏膜直接吸收，绕过肠道菌群代谢和肝脏首过效应"
       },
       {
-        "name": "脂质体口服液",
-        "category": "前沿剂型",
-        "description": "脂质体包裹保护NMN/NR通过胃肠道",
         "advantages": [
           "肝脏和脑靶向递送",
           "生物利用度提升",
           "稳定性改善"
-        ]
+        ],
+        "name": "脂质体口服液",
+        "category": "前沿剂型",
+        "description": "脂质体包裹保护NMN/NR通过胃肠道"
       }
     ],
     "compliance": [
@@ -3195,7 +3215,10 @@
       ],
       "packagingCost": "¥1-3/瓶（HDPE防潮瓶+干燥剂）",
       "totalEstimate": "终端产品成本约¥200-500/瓶（60-90粒 NR或NMN），属超高端抗衰老补充剂"
-    }
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
   },
   {
     "id": "pycnogenol",
@@ -3220,20 +3243,20 @@
     },
     "forms": [
       {
-        "name": "碧萝芷®标准提取物（OPC 65-75%）",
-        "description": "松树皮水提取物标准化至总原花青素65-75%并含酚酸复合物（咖啡酸、阿魏酸、没食子酸等）",
-        "bioavailability": "中等（OPC二聚体和三聚体吸收率5-15%，酚酸类代谢产物吸收率高延长体内抗氧化时长至12+小时）",
+        "disadvantages": [
+          "价格高",
+          "供应唯一（Horphag Research专利授权）",
+          "100mg中OPC含量仅65-75mg（低于葡萄籽提取物95%）"
+        ],
         "advantages": [
           "临床研究极充分(100+人体研究)",
           "品牌认知度全球最高",
           "含酚酸协同延长抗氧化",
           "成分多元协同优于单一OPC"
         ],
-        "disadvantages": [
-          "价格高",
-          "供应唯一（Horphag Research专利授权）",
-          "100mg中OPC含量仅65-75mg（低于葡萄籽提取物95%）"
-        ]
+        "name": "碧萝芷®标准提取物（OPC 65-75%）",
+        "description": "松树皮水提取物标准化至总原花青素65-75%并含酚酸复合物（咖啡酸、阿魏酸、没食子酸等）",
+        "bioavailability": "中等（OPC二聚体和三聚体吸收率5-15%，酚酸类代谢产物吸收率高延长体内抗氧化时长至12+小时）"
       }
     ],
     "suppliers": [
@@ -3247,24 +3270,24 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊/片剂",
-        "category": "传统剂型",
-        "description": "最常见的补充形式",
         "advantages": [
           "剂量精准",
           "方便服用",
           "便携"
-        ]
+        ],
+        "name": "胶囊/片剂",
+        "category": "传统剂型",
+        "description": "最常见的补充形式"
       },
       {
-        "name": "外用护肤/药膏",
-        "category": "传统剂型",
-        "description": "碧萝芷®外用制剂用于皮肤抗衰老和伤口愈合",
         "advantages": [
           "局部高浓度",
           "靶向皮肤",
           "胶原保护直接可见"
-        ]
+        ],
+        "name": "外用护肤/药膏",
+        "category": "传统剂型",
+        "description": "碧萝芷®外用制剂用于皮肤抗衰老和伤口愈合"
       }
     ],
     "compliance": [
@@ -3379,7 +3402,11 @@
       ],
       "packagingCost": "¥1-3/瓶（HDPE瓶）",
       "totalEstimate": "终端产品成本约¥80-200/瓶（30-60粒），Pycnogenol®为专利授权品牌定价恒定"
-    }
+    },
+    "secondaryCategoryIds": [
+      "beauty",
+      "cardiovascular"
+    ]
   },
   {
     "id": "rosemary-extract",
@@ -3404,34 +3431,34 @@
     },
     "forms": [
       {
-        "name": "迷迭香标准化提取物（鼠尾草酸≥6%）",
-        "description": "有机溶剂提取（丙酮或超临界CO₂）标准化鼠尾草酸含量，脂溶性抗氧化活性最强",
-        "bioavailability": "中等（鼠尾草酸高度脂溶性→需与脂肪同服提升吸收，血浆半衰期4-8小时）",
+        "disadvantages": [
+          "水溶性差",
+          "需脂肪同服",
+          "光和氧化敏感"
+        ],
         "advantages": [
           "线粒体靶向",
           "Nrf2激活强",
           "脂溶性抗氧化保护膜脂质"
         ],
-        "disadvantages": [
-          "水溶性差",
-          "需脂肪同服",
-          "光和氧化敏感"
-        ]
+        "name": "迷迭香标准化提取物（鼠尾草酸≥6%）",
+        "description": "有机溶剂提取（丙酮或超临界CO₂）标准化鼠尾草酸含量，脂溶性抗氧化活性最强",
+        "bioavailability": "中等（鼠尾草酸高度脂溶性→需与脂肪同服提升吸收，血浆半衰期4-8小时）"
       },
       {
-        "name": "迷迭香酸（水溶性高纯度）",
-        "description": "迷迭香中分离纯化的水溶性多酚，神经保护和抗炎活性突出",
-        "bioavailability": "低到中等（水溶性好但肠道吸收率仅约5-10%，主要经肠道菌群代谢为酚酸）",
+        "disadvantages": [
+          "口服吸收率低",
+          "迷迭香酸专门提取成本高",
+          "脂溶性膜保护弱"
+        ],
         "advantages": [
           "水溶性可广泛剂型应用",
           "强效抗炎+神经保护",
           "血脑屏障透过性好"
         ],
-        "disadvantages": [
-          "口服吸收率低",
-          "迷迭香酸专门提取成本高",
-          "脂溶性膜保护弱"
-        ]
+        "name": "迷迭香酸（水溶性高纯度）",
+        "description": "迷迭香中分离纯化的水溶性多酚，神经保护和抗炎活性突出",
+        "bioavailability": "低到中等（水溶性好但肠道吸收率仅约5-10%，主要经肠道菌群代谢为酚酸）"
       }
     ],
     "suppliers": [
@@ -3459,24 +3486,24 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊（含油/软胶囊）",
-        "category": "传统剂型",
-        "description": "鼠尾草酸脂溶性高，推荐与脂肪油一起封装",
         "advantages": [
           "吸收好",
           "保护活性成分",
           "与油共服方便"
-        ]
+        ],
+        "name": "胶囊（含油/软胶囊）",
+        "category": "传统剂型",
+        "description": "鼠尾草酸脂溶性高，推荐与脂肪油一起封装"
       },
       {
-        "name": "片剂/硬胶囊",
-        "category": "传统剂型",
-        "description": "适用于迷迭香酸和复方产品",
         "advantages": [
           "成本低",
           "稳定性可接受",
           "便携"
-        ]
+        ],
+        "name": "片剂/硬胶囊",
+        "category": "传统剂型",
+        "description": "适用于迷迭香酸和复方产品"
       }
     ],
     "compliance": [
@@ -3595,7 +3622,10 @@
       ],
       "packagingCost": "¥1-3/瓶（HDPE瓶+标签）",
       "totalEstimate": "终端产品成本约¥25-80/瓶（60-100粒），迷迭香提取物属于中等价位的抗氧化原料"
-    }
+    },
+    "secondaryCategoryIds": [
+      "liver"
+    ]
   },
   {
     "id": "green-tea-egcg-antioxidant",
@@ -3603,7 +3633,7 @@
     "nameEn": "Green Tea Extract (EGCG, Epigallocatechin-3-Gallate)",
     "category": "抗氧化/延缓衰老",
     "categoryId": "antioxidant",
-    "popularity": 3,
+    "popularity": 4,
     "summary": "绿茶(Camellia sinensis)中最丰富和最具生物活性的儿茶素类多酚，占茶叶干重的10-30%。EGCG是研究最深入的天然多酚之一，其抗氧化和抗炎活性以及近年发现的AMPK和自噬激活能力使其成为抗衰老研究的焦点分子。",
     "chemicalStructure": {
       "smiles": "Oc1cc(O)c2c(c1)O[C@@H]([C@H](O)C2)c1cc(O)c(O)c(O)c1Oc1cc(O)cc(O)c1",
@@ -3620,49 +3650,49 @@
     },
     "forms": [
       {
-        "name": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）",
-        "description": "热水提取绿茶后经乙酸乙酯萃取纯化和脱咖啡因（≤2%咖啡因），标准化至EGCG含量",
-        "bioavailability": "低（EGCG口服生物利用度约1-5%，主要被肠道COMT酶甲基化代谢，II相葡萄糖醛酸化/硫酸化迅速）",
-        "advantages": [
-          "成本适中",
-          "标准化含量可控",
-          "研究最充分"
-        ],
         "disadvantages": [
           "口服生物利用度极低",
           "高剂量胃刺激",
           "罕见肝毒性报告",
           "不稳定（氧化变褐）"
-        ]
+        ],
+        "advantages": [
+          "成本适中",
+          "标准化含量可控",
+          "研究最充分"
+        ],
+        "name": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）",
+        "description": "热水提取绿茶后经乙酸乙酯萃取纯化和脱咖啡因（≤2%咖啡因），标准化至EGCG含量",
+        "bioavailability": "低（EGCG口服生物利用度约1-5%，主要被肠道COMT酶甲基化代谢，II相葡萄糖醛酸化/硫酸化迅速）"
       },
       {
-        "name": "无咖啡因绿茶提取物",
-        "description": "经超临界CO₂或氯仿选择性脱咖啡因处理，保留儿茶素的同时咖啡因≤2%",
-        "bioavailability": "低（与标准提取物相同）",
+        "disadvantages": [
+          "脱咖啡因工艺可能损失部分儿茶素",
+          "价格略高"
+        ],
         "advantages": [
           "不影响睡眠",
           "适合咖啡因敏感人群",
           "安全窗口更宽"
         ],
-        "disadvantages": [
-          "脱咖啡因工艺可能损失部分儿茶素",
-          "价格略高"
-        ]
+        "name": "无咖啡因绿茶提取物",
+        "description": "经超临界CO₂或氯仿选择性脱咖啡因处理，保留儿茶素的同时咖啡因≤2%",
+        "bioavailability": "低（与标准提取物相同）"
       },
       {
-        "name": "EGCG硬脂酸酯/磷脂复合体",
-        "description": "通过酯化/磷脂复合提升EGCG脂溶性，改善肠道通透性",
-        "bioavailability": "中等（AUC提升2-4倍）",
+        "disadvantages": [
+          "天然程度降低",
+          "成本增加",
+          "需更多安全性数据"
+        ],
         "advantages": [
           "生物利用度改善",
           "脂溶性可跨膜",
           "化学稳定性增强"
         ],
-        "disadvantages": [
-          "天然程度降低",
-          "成本增加",
-          "需更多安全性数据"
-        ]
+        "name": "EGCG硬脂酸酯/磷脂复合体",
+        "description": "通过酯化/磷脂复合提升EGCG脂溶性，改善肠道通透性",
+        "bioavailability": "中等（AUC提升2-4倍）"
       }
     ],
     "suppliers": [
@@ -3690,24 +3720,24 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "最常见剂型，标准化提取物粉末填充胶囊",
         "advantages": [
           "掩味效果好（EGCG味苦）",
           "剂量精准",
           "稳定"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "最常见剂型，标准化提取物粉末填充胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "传统压片工艺，可能含肠溶包衣减轻胃刺激",
         "advantages": [
           "成本低",
           "可加肠溶保护",
           "便携"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "传统压片工艺，可能含肠溶包衣减轻胃刺激"
       }
     ],
     "compliance": [
@@ -3825,7 +3855,10 @@
       ],
       "packagingCost": "¥1-2.5/瓶（HDPE瓶+防潮盖+避光标签）",
       "totalEstimate": "终端产品成本约¥25-60/瓶（60-100粒），属于中低价位基础抗氧化原料"
-    }
+    },
+    "secondaryCategoryIds": [
+      "weight"
+    ]
   },
   {
     "id": "l-carnitine-weight",
@@ -3850,45 +3883,45 @@
     },
     "forms": [
       {
-        "name": "左旋肉碱酒石酸盐",
-        "description": "L-肉碱与酒石酸形成的盐，稳定性与吸收率优于游离碱",
-        "bioavailability": "高（约14-18%）",
+        "disadvantages": [
+          "成本略高于游离碱",
+          "仍有个体差异"
+        ],
         "advantages": [
           "生物利用度较高",
           "稳定性好",
           "不易吸潮"
         ],
-        "disadvantages": [
-          "成本略高于游离碱",
-          "仍有个体差异"
-        ]
+        "name": "左旋肉碱酒石酸盐",
+        "description": "L-肉碱与酒石酸形成的盐，稳定性与吸收率优于游离碱",
+        "bioavailability": "高（约14-18%）"
       },
       {
-        "name": "左旋肉碱（游离碱）",
-        "description": "纯游离肉碱形式，液态或粉末均可",
-        "bioavailability": "中（约10-15%）",
+        "disadvantages": [
+          "易吸潮",
+          "液态剂型保质期短"
+        ],
         "advantages": [
           "纯度高",
           "起效直接"
         ],
-        "disadvantages": [
-          "易吸潮",
-          "液态剂型保质期短"
-        ]
+        "name": "左旋肉碱（游离碱）",
+        "description": "纯游离肉碱形式，液态或粉末均可",
+        "bioavailability": "中（约10-15%）"
       },
       {
-        "name": "乙酰左旋肉碱（ALCAR）",
-        "description": "乙酰化形式，可穿越血脑屏障，兼具神经保护作用",
-        "bioavailability": "高，脑组织富集",
+        "disadvantages": [
+          "价格较高",
+          "减脂针对性弱于酒石酸盐"
+        ],
         "advantages": [
           "可入脑",
           "改善认知",
           "抗氧化"
         ],
-        "disadvantages": [
-          "价格较高",
-          "减脂针对性弱于酒石酸盐"
-        ]
+        "name": "乙酰左旋肉碱（ALCAR）",
+        "description": "乙酰化形式，可穿越血脑屏障，兼具神经保护作用",
+        "bioavailability": "高，脑组织富集"
       }
     ],
     "suppliers": [
@@ -3916,42 +3949,42 @@
     ],
     "dosageForms": [
       {
-        "name": "口服液",
-        "category": "传统剂型",
-        "description": "肉碱水溶液，常加调味剂改善口感",
         "advantages": [
           "吸收快",
           "剂量灵活",
           "适合儿童老人"
-        ]
+        ],
+        "name": "口服液",
+        "category": "传统剂型",
+        "description": "肉碱水溶液，常加调味剂改善口感"
       },
       {
-        "name": "片剂/胶囊",
-        "category": "传统剂型",
-        "description": "酒石酸盐压片或灌胶囊，便于携带",
         "advantages": [
           "剂量精准",
           "稳定性好",
           "成本低"
-        ]
+        ],
+        "name": "片剂/胶囊",
+        "category": "传统剂型",
+        "description": "酒石酸盐压片或灌胶囊，便于携带"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "缓释骨架延长血药浓度平台期",
         "advantages": [
           "血药浓度平稳",
           "减少服用次数"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "缓释骨架延长血药浓度平台期"
       },
       {
-        "name": "肠溶微囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣微囊避免胃酸破坏",
         "advantages": [
           "提高生物利用度",
           "减少胃部不适"
-        ]
+        ],
+        "name": "肠溶微囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣微囊避免胃酸破坏"
       }
     ],
     "compliance": [
@@ -4077,7 +4110,10 @@
       ],
       "packagingCost": "约¥0.3-0.8/单位",
       "totalEstimate": "原料成本可控，液态剂型终端成本较高，片剂/胶囊最具性价比"
-    }
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
   },
   {
     "id": "cla-weight",
@@ -4102,45 +4138,45 @@
     },
     "forms": [
       {
-        "name": "CLA甘油三酯型",
-        "description": "以甘油三酯形式存在的天然结构，稳定性好",
-        "bioavailability": "中（与膳食脂肪同服提高吸收）",
+        "disadvantages": [
+          "有效含量较低",
+          "需较大剂量"
+        ],
         "advantages": [
           "稳定性高",
           "氧化稳定性好",
           "适用剂型广"
         ],
-        "disadvantages": [
-          "有效含量较低",
-          "需较大剂量"
-        ]
+        "name": "CLA甘油三酯型",
+        "description": "以甘油三酯形式存在的天然结构，稳定性好",
+        "bioavailability": "中（与膳食脂肪同服提高吸收）"
       },
       {
-        "name": "CLA游离脂肪酸型",
-        "description": "游离脂肪酸形式，吸收更快",
-        "bioavailability": "较高",
-        "advantages": [
-          "起效快",
-          "有效浓度高"
-        ],
         "disadvantages": [
           "易氧化",
           "口感差",
           "刺激肠胃"
-        ]
+        ],
+        "advantages": [
+          "起效快",
+          "有效浓度高"
+        ],
+        "name": "CLA游离脂肪酸型",
+        "description": "游离脂肪酸形式，吸收更快",
+        "bioavailability": "较高"
       },
       {
-        "name": "CLA钾盐/钠盐",
-        "description": "水溶性盐形式，便于液体剂型",
-        "bioavailability": "高",
+        "disadvantages": [
+          "稳定性一般",
+          "口感偏咸"
+        ],
         "advantages": [
           "水溶性好",
           "适合饮料剂型"
         ],
-        "disadvantages": [
-          "稳定性一般",
-          "口感偏咸"
-        ]
+        "name": "CLA钾盐/钠盐",
+        "description": "水溶性盐形式，便于液体剂型",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -4168,32 +4204,32 @@
     ],
     "dosageForms": [
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "CLA油充填软胶囊，最常见剂型",
         "advantages": [
           "密封防氧化",
           "剂量精准",
           "口感好"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "CLA油充填软胶囊，最常见剂型"
       },
       {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "CLA粉末或油吸附粉末灌装",
         "advantages": [
           "成本低",
           "便于复配"
-        ]
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "CLA粉末或油吸附粉末灌装"
       },
       {
-        "name": "乳化液",
-        "category": "新型剂型",
-        "description": "微乳化CLA液体，提高分散与吸收",
         "advantages": [
           "吸收快",
           "可兑水饮"
-        ]
+        ],
+        "name": "乳化液",
+        "category": "新型剂型",
+        "description": "微乳化CLA液体，提高分散与吸收"
       }
     ],
     "compliance": [
@@ -4319,7 +4355,10 @@
       ],
       "packagingCost": "约¥0.3-0.6/单位",
       "totalEstimate": "原料便宜，软胶囊为性价比最高的主流剂型"
-    }
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
   },
   {
     "id": "white-kidney-bean-extract-weight",
@@ -4344,32 +4383,32 @@
     },
     "forms": [
       {
-        "name": "Phaseolamin标准提取物",
-        "description": "白芸豆水提或醇提物，标准化α-淀粉酶抑制活性",
-        "bioavailability": "中（肠道内发挥作用，无需吸收）",
+        "disadvantages": [
+          "蛋白易受胃酸破坏",
+          "需肠溶保护"
+        ],
         "advantages": [
           "作用直接",
           "成分明确",
           "成本可控"
         ],
-        "disadvantages": [
-          "蛋白易受胃酸破坏",
-          "需肠溶保护"
-        ]
+        "name": "Phaseolamin标准提取物",
+        "description": "白芸豆水提或醇提物，标准化α-淀粉酶抑制活性",
+        "bioavailability": "中（肠道内发挥作用，无需吸收）"
       },
       {
-        "name": "肠溶包衣Phaseolamin",
-        "description": "肠溶微囊或肠溶片保护蛋白免受胃酸降解",
-        "bioavailability": "高（肠道靶向释放）",
+        "disadvantages": [
+          "工艺成本增加",
+          "起效略晚"
+        ],
         "advantages": [
           "保护活性蛋白",
           "靶向小肠作用",
           "活性保留率高"
         ],
-        "disadvantages": [
-          "工艺成本增加",
-          "起效略晚"
-        ]
+        "name": "肠溶包衣Phaseolamin",
+        "description": "肠溶微囊或肠溶片保护蛋白免受胃酸降解",
+        "bioavailability": "高（肠道靶向释放）"
       }
     ],
     "suppliers": [
@@ -4397,42 +4436,42 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "直接压片，餐前服用",
         "advantages": [
           "成本低",
           "携带方便",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "直接压片，餐前服用"
       },
       {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "粉末灌装胶囊",
         "advantages": [
           "密封性好",
           "掩盖口感"
-        ]
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末灌装胶囊"
       },
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣胶囊保护蛋白活性",
         "advantages": [
           "保护活性",
           "靶向释放",
           "效果更优"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣胶囊保护蛋白活性"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味压片，餐前咀嚼",
         "advantages": [
           "服用方便",
           "起效快"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味压片，餐前咀嚼"
       }
     ],
     "compliance": [
@@ -4556,7 +4595,10 @@
       ],
       "packagingCost": "约¥0.3-0.6/单位",
       "totalEstimate": "原料成本中等，肠溶剂型溢价明显但效果更佳"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bloodsugar"
+    ]
   },
   {
     "id": "konjac-glucomannan-weight",
@@ -4581,46 +4623,46 @@
     },
     "forms": [
       {
-        "name": "魔芋粉(纯化葡甘聚糖)",
-        "description": "精制葡甘聚糖粉末，纯度≥85%",
-        "bioavailability": "N/A（在肠道内发挥作用，不被吸收）",
+        "disadvantages": [
+          "需足量水送服",
+          "口感粘稠"
+        ],
         "advantages": [
           "纯度高",
           "吸水性强",
           "应用灵活"
         ],
-        "disadvantages": [
-          "需足量水送服",
-          "口感粘稠"
-        ]
+        "name": "魔芋粉(纯化葡甘聚糖)",
+        "description": "精制葡甘聚糖粉末，纯度≥85%",
+        "bioavailability": "N/A（在肠道内发挥作用，不被吸收）"
       },
       {
-        "name": "葡甘聚糖胶囊",
-        "description": "定量灌装胶囊，便于携带服用",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "需大量水送服",
+          "起效受胃排空影响"
+        ],
         "advantages": [
           "剂量精准",
           "携带方便",
           "避免粘口"
         ],
-        "disadvantages": [
-          "需大量水送服",
-          "起效受胃排空影响"
-        ]
+        "name": "葡甘聚糖胶囊",
+        "description": "定量灌装胶囊，便于携带服用",
+        "bioavailability": "N/A（肠道作用）"
       },
       {
-        "name": "魔芋膳食纤维饮",
-        "description": "调味即饮型纤维饮品",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "单次含量有限",
+          "成本较高"
+        ],
         "advantages": [
           "口感好",
           "即饮方便",
           "适合日常补充"
         ],
-        "disadvantages": [
-          "单次含量有限",
-          "成本较高"
-        ]
+        "name": "魔芋膳食纤维饮",
+        "description": "调味即饮型纤维饮品",
+        "bioavailability": "N/A（肠道作用）"
       }
     ],
     "suppliers": [
@@ -4648,42 +4690,42 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "粉末定量灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "无粘口问题"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "粉末定量灌装胶囊"
       },
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮，加水搅拌后饮用",
         "advantages": [
           "剂量灵活",
           "易冲调"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮，加水搅拌后饮用"
       },
       {
-        "name": "果冻",
-        "category": "新型剂型",
-        "description": "魔芋凝胶果冻，即食方便",
         "advantages": [
           "口感好",
           "即食方便",
           "饱腹感强"
-        ]
+        ],
+        "name": "果冻",
+        "category": "新型剂型",
+        "description": "魔芋凝胶果冻，即食方便"
       },
       {
-        "name": "咀嚼片",
-        "category": "新型剂型",
-        "description": "调味压片，含纤维颗粒",
         "advantages": [
           "服用方便",
           "适合便携"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "新型剂型",
+        "description": "调味压片，含纤维颗粒"
       }
     ],
     "compliance": [
@@ -4808,7 +4850,10 @@
       ],
       "packagingCost": "约¥0.2-0.5/单位",
       "totalEstimate": "原料便宜，胶囊剂型最具性价比，果冻剂型溢价较高"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bloodsugar"
+    ]
   },
   {
     "id": "green-coffee-bean-extract-weight",
@@ -4833,32 +4878,32 @@
     },
     "forms": [
       {
-        "name": "标准化绿原酸提取物",
-        "description": "绿咖啡豆水提物，标准化绿原酸含量45-50%",
-        "bioavailability": "中（绿原酸吸收后经肠道菌群代谢）",
+        "disadvantages": [
+          "含咖啡因",
+          "口感苦涩"
+        ],
         "advantages": [
           "成分明确",
           "可标准化",
           "研究充分"
         ],
-        "disadvantages": [
-          "含咖啡因",
-          "口感苦涩"
-        ]
+        "name": "标准化绿原酸提取物",
+        "description": "绿咖啡豆水提物，标准化绿原酸含量45-50%",
+        "bioavailability": "中（绿原酸吸收后经肠道菌群代谢）"
       },
       {
-        "name": "脱咖啡因绿咖啡提取物",
-        "description": "脱除咖啡因保留绿原酸的提取物",
-        "bioavailability": "中",
+        "disadvantages": [
+          "成本增加",
+          "工艺复杂"
+        ],
         "advantages": [
           "不影响睡眠",
           "适合咖啡因敏感者",
           "安全性更高"
         ],
-        "disadvantages": [
-          "成本增加",
-          "工艺复杂"
-        ]
+        "name": "脱咖啡因绿咖啡提取物",
+        "description": "脱除咖啡因保留绿原酸的提取物",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -4886,41 +4931,41 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "标准化提取物灌装胶囊",
         "advantages": [
           "剂量精准",
           "掩盖苦味",
           "携带方便"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "标准化提取物灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣保护绿原酸",
         "advantages": [
           "提高稳定性",
           "靶向释放"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣保护绿原酸"
       },
       {
-        "name": "纳米乳化液",
-        "category": "前沿剂型",
-        "description": "纳米乳化提高绿原酸生物利用度",
         "advantages": [
           "吸收率高",
           "起效快"
-        ]
+        ],
+        "name": "纳米乳化液",
+        "category": "前沿剂型",
+        "description": "纳米乳化提高绿原酸生物利用度"
       }
     ],
     "compliance": [
@@ -5044,7 +5089,11 @@
       ],
       "packagingCost": "约¥0.3-0.6/单位",
       "totalEstimate": "原料成本中等，脱咖啡因及肠溶剂型有溢价空间"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bloodsugar",
+      "energy"
+    ]
   },
   {
     "id": "garcinia-cambogia-extract-weight",
@@ -5069,44 +5118,44 @@
     },
     "forms": [
       {
-        "name": "HCA钙盐",
-        "description": "羟基柠檬酸钙盐，稳定性及水溶性较好",
-        "bioavailability": "中（钙盐形式更稳定）",
+        "disadvantages": [
+          "钙含量需计入",
+          "高剂量胃肠不适"
+        ],
         "advantages": [
           "稳定性好",
           "水溶性佳",
           "工艺成熟"
         ],
-        "disadvantages": [
-          "钙含量需计入",
-          "高剂量胃肠不适"
-        ]
+        "name": "HCA钙盐",
+        "description": "羟基柠檬酸钙盐，稳定性及水溶性较好",
+        "bioavailability": "中（钙盐形式更稳定）"
       },
       {
-        "name": "HCA钾盐",
-        "description": "钾盐形式，吸收更佳且适合补钾",
-        "bioavailability": "较高",
+        "disadvantages": [
+          "成本略高",
+          "肾功能不全者慎用"
+        ],
         "advantages": [
           "生物利用度高",
           "适合复配"
         ],
-        "disadvantages": [
-          "成本略高",
-          "肾功能不全者慎用"
-        ]
+        "name": "HCA钾盐",
+        "description": "钾盐形式，吸收更佳且适合补钾",
+        "bioavailability": "较高"
       },
       {
-        "name": "HCA复合盐",
-        "description": "钙钾复合盐，兼顾稳定性与吸收",
-        "bioavailability": "较高",
+        "disadvantages": [
+          "配方复杂",
+          "成本较高"
+        ],
         "advantages": [
           "综合性能优",
           "吸收稳定"
         ],
-        "disadvantages": [
-          "配方复杂",
-          "成本较高"
-        ]
+        "name": "HCA复合盐",
+        "description": "钙钾复合盐，兼顾稳定性与吸收",
+        "bioavailability": "较高"
       }
     ],
     "suppliers": [
@@ -5134,41 +5183,41 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "HCA盐灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "掩盖酸味"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "HCA盐灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味咀嚼片",
         "advantages": [
           "服用方便",
           "口感可调"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味咀嚼片"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "缓释骨架延长作用时间",
         "advantages": [
           "血药浓度平稳",
           "减少服用次数"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "缓释骨架延长作用时间"
       }
     ],
     "compliance": [
@@ -5297,259 +5346,6 @@
     }
   },
   {
-    "id": "egcg-weight",
-    "name": "儿茶素(EGCG)",
-    "nameEn": "Epigallocatechin Gallate (EGCG)",
-    "category": "体重管理",
-    "categoryId": "weight",
-    "popularity": 3,
-    "summary": "绿茶中含量最高的儿茶素类多酚，具有抗氧化、促进脂肪氧化、抑制脂肪合成等多重代谢调节作用。是绿茶提取物的主要活性成分及减脂补充剂的核心原料。",
-    "chemicalStructure": {
-      "smiles": "O=C(O)OC1=CC(O)=C(O)C(O)=C1[C@H]2OC3=CC(O)=C(O)C(O)=C3C[C@@H]2O",
-      "molecularFormula": "C₂₂H₁₈O₁₁",
-      "molecularWeight": "458.37 g/mol",
-      "casNumber": "989-51-5"
-    },
-    "dosage": {
-      "minEffective": "300",
-      "recommended": "600-800",
-      "safeUpperLimit": "800",
-      "unit": "mg/天(以EGCG计)",
-      "note": "EFSA建议EGCG每日≤800mg。空腹服用提高吸收率但增加肝毒性风险，建议随餐服用。孕妇、哺乳期及肝功能异常者慎用。避免晚间服用影响睡眠(含咖啡因)。"
-    },
-    "forms": [
-      {
-        "name": "绿茶提取物(标准化EGCG)",
-        "description": "绿茶多酚提取物，标准化EGCG含量40-50%",
-        "bioavailability": "低-中（约0.1-1%，受肠道菌群代谢影响）",
-        "advantages": [
-          "成分明确",
-          "可标准化",
-          "研究充分"
-        ],
-        "disadvantages": [
-          "生物利用度低",
-          "含咖啡因",
-          "口感苦涩"
-        ]
-      },
-      {
-        "name": "高纯EGCG",
-        "description": "纯化EGCG单体，纯度≥94%",
-        "bioavailability": "低-中",
-        "advantages": [
-          "纯度高",
-          "剂量精准",
-          "适合临床研究"
-        ],
-        "disadvantages": [
-          "成本高",
-          "稳定性一般",
-          "易氧化降解"
-        ]
-      },
-      {
-        "name": "脂质体EGCG",
-        "description": "磷脂包裹EGCG，提高生物利用度",
-        "bioavailability": "高（较游离型提高2-5倍）",
-        "advantages": [
-          "生物利用度高",
-          "稳定性改善",
-          "靶向释放"
-        ],
-        "disadvantages": [
-          "成本高",
-          "工艺复杂",
-          "保质期需控制"
-        ]
-      }
-    ],
-    "suppliers": [
-      {
-        "name": "DSM (帝斯曼)",
-        "country": "荷兰",
-        "website": "https://www.dsm.com",
-        "purity": "EGCG≥45%",
-        "features": "Teavigo品牌，高纯度绿茶儿茶素，去咖啡因"
-      },
-      {
-        "name": "Taiyo International",
-        "country": "日本",
-        "website": "https://www.taiyointernational.com",
-        "purity": "EGCG≥45%",
-        "features": "Sunphenon品牌，标准化绿茶提取物"
-      },
-      {
-        "name": "天津尖峰天然产物",
-        "country": "中国",
-        "website": "",
-        "purity": "EGCG≥40%",
-        "features": "国内绿茶提取物主要生产商"
-      }
-    ],
-    "dosageForms": [
-      {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "绿茶提取物灌装胶囊",
-        "advantages": [
-          "剂量精准",
-          "掩盖苦味",
-          "携带方便"
-        ]
-      },
-      {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
-        "advantages": [
-          "成本低",
-          "可复配"
-        ]
-      },
-      {
-        "name": "软胶囊(油悬浮)",
-        "category": "新型剂型",
-        "description": "EGCG悬浮于植物油中提高稳定性",
-        "advantages": [
-          "稳定性好",
-          "吸收改善"
-        ]
-      },
-      {
-        "name": "脂质体口服液",
-        "category": "前沿剂型",
-        "description": "脂质体包裹液体剂型",
-        "advantages": [
-          "生物利用度极高",
-          "起效快"
-        ]
-      }
-    ],
-    "compliance": [
-      {
-        "region": "CN",
-        "regionName": "中国",
-        "status": "approved",
-        "description": "茶多酚(含EGCG)可用于保健食品",
-        "maxDosage": "EGCG≤300mg/天(保健食品)"
-      },
-      {
-        "region": "US",
-        "regionName": "美国",
-        "status": "approved",
-        "description": "FDA GRAS认定，膳食补充剂常用",
-        "usageNote": "建议EGCG≤800mg/天"
-      },
-      {
-        "region": "EU",
-        "regionName": "欧盟",
-        "status": "restricted",
-        "description": "EFSA建议EGCG≤800mg/天，需标注肝安全性警示",
-        "maxDosage": "EGCG≤800mg/天"
-      },
-      {
-        "region": "JP",
-        "regionName": "日本",
-        "status": "approved",
-        "description": "特定保健用食品认可茶儿茶素",
-        "usageNote": "建议随餐服用"
-      },
-      {
-        "region": "AU",
-        "regionName": "澳大利亚",
-        "status": "approved",
-        "description": "TGA Listed Medicine允许成分",
-        "maxDosage": "EGCG≤800mg/天"
-      }
-    ],
-    "efficacy": "激活AMPK促进脂肪β氧化；抑制脂肪酸合酶及脂肪酸转位酶减少脂肪合成与沉积；增加产热和能量消耗；与运动协同增强减脂效果；12周以上可降低体脂率及内脏脂肪；兼具抗氧化、心血管保护作用。",
-    "mechanism": {
-      "overview": "EGCG通过激活AMPK信号通路促进脂肪氧化、抑制脂肪合成酶活性，并通过抑制去甲肾上腺素降解增加产热，多途径调节能量代谢。",
-      "steps": [
-        {
-          "title": "AMPK激活",
-          "description": "EGCG通过上调CaMKKβ激活AMPK，下游抑制乙酰CoA羧化酶(ACC)并激活CPT-I，促进脂肪酸β氧化。"
-        },
-        {
-          "title": "脂肪合成抑制",
-          "description": "EGCG直接抑制脂肪酸合酶(FAS)活性，并下调SREBP-1c转录因子表达，减少脂肪从头合成。"
-        },
-        {
-          "title": "儿茶酚-O-甲基转移酶抑制",
-          "description": "EGCG抑制COMT酶活性，减少去甲肾上腺素降解，延长其刺激β-肾上腺素受体介导的产热作用。"
-        },
-        {
-          "title": "脂肪细胞分化抑制",
-          "description": "EGCG下调PPARγ和C/EBPα表达，抑制前脂肪细胞分化成熟，减少脂肪细胞数量与体积。"
-        }
-      ],
-      "scientificReferences": [
-        "Mielgo-Ayuso J, et al. J Am Coll Nutr. 2014;33(5):385-391.",
-        "Hursel R, et al. Am J Clin Nutr. 2009;89(1):73-81.",
-        "EFSA ANS Panel. EFSA Journal. 2018;16(1):5096.",
-        "Wolfram S, et al. Ann Nutr Metab. 2006;50(2):159-167."
-      ]
-    },
-    "productCases": [
-      {
-        "name": "NOW Foods EGCg 400mg",
-        "brand": "NOW Foods",
-        "url": "",
-        "price": "$20/180粒",
-        "sales": "Amazon月销1.5万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "California Gold Nutrition EGCg",
-        "brand": "California Gold Nutrition",
-        "url": "",
-        "price": "$18/120粒",
-        "sales": "iHerb月销1万+",
-        "otherIngredients": [
-          "纤维素",
-          "改性纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 绿茶提取物片",
-        "brand": "汤臣倍健",
-        "url": "https://www.by-health.com",
-        "price": "¥128/60片",
-        "sales": "天猫月销4000+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "片剂"
-      }
-    ],
-    "costs": {
-      "rawMaterial": "约¥400-800/kg（45% EGCG）；高纯EGCG约¥3000-6000/kg",
-      "dosageFormCost": [
-        {
-          "form": "胶囊",
-          "cost": "约¥0.12-0.20/粒（400mg）"
-        },
-        {
-          "form": "片剂",
-          "cost": "约¥0.10-0.18/片"
-        },
-        {
-          "form": "脂质体液",
-          "cost": "约¥3-5/瓶（30ml）"
-        }
-      ],
-      "packagingCost": "约¥0.3-0.8/单位",
-      "totalEstimate": "高纯及脂质体剂型溢价显著，传统胶囊性价比最高"
-    }
-  },
-  {
     "id": "capsaicin-weight",
     "name": "辣椒素",
     "nameEn": "Capsaicin",
@@ -5572,47 +5368,47 @@
     },
     "forms": [
       {
-        "name": "辣椒提取物(标准化辣椒素)",
-        "description": "辣椒果实提取物，标准化辣椒素含量",
-        "bioavailability": "低（首过效应明显，受胃排空影响）",
+        "disadvantages": [
+          "刺激性强",
+          "生物利用度低",
+          "口感辛辣"
+        ],
         "advantages": [
           "天然来源",
           "成分可标准化",
           "成本低"
         ],
-        "disadvantages": [
-          "刺激性强",
-          "生物利用度低",
-          "口感辛辣"
-        ]
+        "name": "辣椒提取物(标准化辣椒素)",
+        "description": "辣椒果实提取物，标准化辣椒素含量",
+        "bioavailability": "低（首过效应明显，受胃排空影响）"
       },
       {
-        "name": "二氢辣椒素酯(辣椒素酯类)",
-        "description": "辣椒素结构改造物，无辛辣感但保留产热作用",
-        "bioavailability": "中",
+        "disadvantages": [
+          "成本较高",
+          "供应商有限"
+        ],
         "advantages": [
           "无辛辣刺激",
           "耐受性好",
           "适合长期服用"
         ],
-        "disadvantages": [
-          "成本较高",
-          "供应商有限"
-        ]
+        "name": "二氢辣椒素酯(辣椒素酯类)",
+        "description": "辣椒素结构改造物，无辛辣感但保留产热作用",
+        "bioavailability": "中"
       },
       {
-        "name": "肠溶包衣辣椒素",
-        "description": "肠溶微囊避免胃部刺激",
-        "bioavailability": "中-高",
+        "disadvantages": [
+          "工艺成本增加",
+          "起效略晚"
+        ],
         "advantages": [
           "减少胃刺激",
           "靶向小肠吸收",
           "耐受性改善"
         ],
-        "disadvantages": [
-          "工艺成本增加",
-          "起效略晚"
-        ]
+        "name": "肠溶包衣辣椒素",
+        "description": "肠溶微囊避免胃部刺激",
+        "bioavailability": "中-高"
       }
     ],
     "suppliers": [
@@ -5640,41 +5436,41 @@
     ],
     "dosageForms": [
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣胶囊避免胃部刺激",
         "advantages": [
           "减少胃刺激",
           "靶向释放",
           "耐受性好"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣胶囊避免胃部刺激"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型，常加调味",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型，常加调味"
       },
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "辣椒油树脂充填软胶囊",
         "advantages": [
           "密封防刺激",
           "掩盖辣味"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "辣椒油树脂充填软胶囊"
       },
       {
-        "name": "缓释微囊",
-        "category": "前沿剂型",
-        "description": "缓释微囊延长作用时间",
         "advantages": [
           "血药浓度平稳",
           "减少刺激"
-        ]
+        ],
+        "name": "缓释微囊",
+        "category": "前沿剂型",
+        "description": "缓释微囊延长作用时间"
       }
     ],
     "compliance": [
@@ -5798,7 +5594,10 @@
       ],
       "packagingCost": "约¥0.3-0.6/单位",
       "totalEstimate": "原料便宜，肠溶及辣椒素酯剂型溢价空间大"
-    }
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
   },
   {
     "id": "african-mango-extract-weight",
@@ -5823,31 +5622,31 @@
     },
     "forms": [
       {
-        "name": "标准化种子提取物(IGOB131)",
-        "description": "非洲芒果种子标准化提取物，临床研究使用的规格",
-        "bioavailability": "中（含可溶性纤维，肠道内发挥作用）",
+        "disadvantages": [
+          "供应商有限",
+          "成本较高"
+        ],
         "advantages": [
           "研究支持充分",
           "成分标准化",
           "耐受性好"
         ],
-        "disadvantages": [
-          "供应商有限",
-          "成本较高"
-        ]
+        "name": "标准化种子提取物(IGOB131)",
+        "description": "非洲芒果种子标准化提取物，临床研究使用的规格",
+        "bioavailability": "中（含可溶性纤维，肠道内发挥作用）"
       },
       {
-        "name": "种子粉",
-        "description": "研磨种子粉末，未标准化",
-        "bioavailability": "低-中",
+        "disadvantages": [
+          "有效成分不确定",
+          "剂量需加大"
+        ],
         "advantages": [
           "成本低",
           "工艺简单"
         ],
-        "disadvantages": [
-          "有效成分不确定",
-          "剂量需加大"
-        ]
+        "name": "种子粉",
+        "description": "研磨种子粉末，未标准化",
+        "bioavailability": "低-中"
       }
     ],
     "suppliers": [
@@ -5875,32 +5674,32 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "种子提取物灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "掩盖口感"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "种子提取物灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "复方减脂胶囊",
-        "category": "新型剂型",
-        "description": "与其他减脂成分复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方减脂胶囊",
+        "category": "新型剂型",
+        "description": "与其他减脂成分复配"
       }
     ],
     "compliance": [
@@ -6050,47 +5849,47 @@
     },
     "forms": [
       {
-        "name": "褐藻提取物(标准化岩藻黄素)",
-        "description": "褐藻脂溶性提取物，标准化岩藻黄素含量",
-        "bioavailability": "低（脂溶性，需与脂肪同服）",
+        "disadvantages": [
+          "生物利用度低",
+          "易氧化降解",
+          "成本较高"
+        ],
         "advantages": [
           "天然来源",
           "可标准化",
           "研究支持"
         ],
-        "disadvantages": [
-          "生物利用度低",
-          "易氧化降解",
-          "成本较高"
-        ]
+        "name": "褐藻提取物(标准化岩藻黄素)",
+        "description": "褐藻脂溶性提取物，标准化岩藻黄素含量",
+        "bioavailability": "低（脂溶性，需与脂肪同服）"
       },
       {
-        "name": "岩藻黄素-磷脂复合物",
-        "description": "与磷脂形成复合物提高生物利用度",
-        "bioavailability": "中-高（较游离型提高2-3倍）",
+        "disadvantages": [
+          "工艺复杂",
+          "成本较高"
+        ],
         "advantages": [
           "生物利用度提升",
           "稳定性改善",
           "吸收更佳"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "成本较高"
-        ]
+        "name": "岩藻黄素-磷脂复合物",
+        "description": "与磷脂形成复合物提高生物利用度",
+        "bioavailability": "中-高（较游离型提高2-3倍）"
       },
       {
-        "name": "岩藻黄素纳米乳",
-        "description": "纳米乳化提高水溶性与吸收",
-        "bioavailability": "高",
+        "disadvantages": [
+          "工艺复杂",
+          "稳定性需控制"
+        ],
         "advantages": [
           "生物利用度高",
           "水溶性好",
           "起效快"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "稳定性需控制"
-        ]
+        "name": "岩藻黄素纳米乳",
+        "description": "纳米乳化提高水溶性与吸收",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -6118,41 +5917,41 @@
     ],
     "dosageForms": [
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "岩藻黄素油悬浮软胶囊",
         "advantages": [
           "密封防氧化",
           "吸收较好",
           "剂量精准"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "岩藻黄素油悬浮软胶囊"
       },
       {
-        "name": "硬胶囊(油吸附)",
-        "category": "传统剂型",
-        "description": "提取物吸附粉末灌装",
         "advantages": [
           "成本低",
           "便于复配"
-        ]
+        ],
+        "name": "硬胶囊(油吸附)",
+        "category": "传统剂型",
+        "description": "提取物吸附粉末灌装"
       },
       {
-        "name": "磷脂复合物胶囊",
-        "category": "新型剂型",
-        "description": "岩藻黄素磷脂复合物",
         "advantages": [
           "生物利用度高",
           "稳定性好"
-        ]
+        ],
+        "name": "磷脂复合物胶囊",
+        "category": "新型剂型",
+        "description": "岩藻黄素磷脂复合物"
       },
       {
-        "name": "纳米乳口服液",
-        "category": "前沿剂型",
-        "description": "纳米乳化液体剂型",
         "advantages": [
           "吸收率极高",
           "起效快"
-        ]
+        ],
+        "name": "纳米乳口服液",
+        "category": "前沿剂型",
+        "description": "纳米乳化液体剂型"
       }
     ],
     "compliance": [
@@ -6279,7 +6078,10 @@
       ],
       "packagingCost": "约¥0.4-0.8/单位",
       "totalEstimate": "高价值原料，软胶囊及磷脂复合剂型溢价空间大"
-    }
+    },
+    "secondaryCategoryIds": [
+      "antioxidant"
+    ]
   },
   {
     "id": "guar-gum-fiber-weight",
@@ -6304,47 +6106,47 @@
     },
     "forms": [
       {
-        "name": "部分水解瓜尔胶(PHGG)",
-        "description": "酶解降低分子量，溶解性显著改善",
-        "bioavailability": "N/A（肠道内发挥作用）",
+        "disadvantages": [
+          "成本略高于天然瓜尔胶"
+        ],
         "advantages": [
           "溶解性好",
           "无粘腻口感",
           "耐受性佳",
           "可发酵益生元"
         ],
-        "disadvantages": [
-          "成本略高于天然瓜尔胶"
-        ]
+        "name": "部分水解瓜尔胶(PHGG)",
+        "description": "酶解降低分子量，溶解性显著改善",
+        "bioavailability": "N/A（肠道内发挥作用）"
       },
       {
-        "name": "天然瓜尔胶粉",
-        "description": "未水解的瓜尔豆胶粉末",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "粘度高难冲调",
+          "易结块",
+          "口感差"
+        ],
         "advantages": [
           "成本低",
           "吸水性强",
           "饱腹感明显"
         ],
-        "disadvantages": [
-          "粘度高难冲调",
-          "易结块",
-          "口感差"
-        ]
+        "name": "天然瓜尔胶粉",
+        "description": "未水解的瓜尔豆胶粉末",
+        "bioavailability": "N/A（肠道作用）"
       },
       {
-        "name": "瓜尔胶纤维饮",
-        "description": "调味即饮纤维饮品",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "单次含量有限",
+          "成本较高"
+        ],
         "advantages": [
           "口感好",
           "即饮方便",
           "适合日常补充"
         ],
-        "disadvantages": [
-          "单次含量有限",
-          "成本较高"
-        ]
+        "name": "瓜尔胶纤维饮",
+        "description": "调味即饮纤维饮品",
+        "bioavailability": "N/A（肠道作用）"
       }
     ],
     "suppliers": [
@@ -6372,41 +6174,41 @@
     ],
     "dosageForms": [
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮，加水搅拌后饮用",
         "advantages": [
           "剂量灵活",
           "易冲调",
           "便携"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮，加水搅拌后饮用"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "粉末灌装胶囊",
         "advantages": [
           "剂量精准",
           "无粘口问题"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "粉末灌装胶囊"
       },
       {
-        "name": "即饮纤维饮",
-        "category": "新型剂型",
-        "description": "调味即饮液体纤维",
         "advantages": [
           "即饮方便",
           "口感好"
-        ]
+        ],
+        "name": "即饮纤维饮",
+        "category": "新型剂型",
+        "description": "调味即饮液体纤维"
       },
       {
-        "name": "果冻",
-        "category": "新型剂型",
-        "description": "瓜尔胶凝胶果冻",
         "advantages": [
           "即食方便",
           "饱腹感强"
-        ]
+        ],
+        "name": "果冻",
+        "category": "新型剂型",
+        "description": "瓜尔胶凝胶果冻"
       }
     ],
     "compliance": [
@@ -6527,7 +6329,10 @@
       ],
       "packagingCost": "约¥0.3-0.8/单位",
       "totalEstimate": "原料便宜，PHGG及即饮剂型溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bloodsugar"
+    ]
   },
   {
     "id": "thiamine-liver",
@@ -6552,59 +6357,59 @@
     },
     "forms": [
       {
-        "name": "盐酸硫胺素",
-        "description": "经典B1盐酸盐，水溶性好",
-        "bioavailability": "低-中（口服约3-7%，受肠道转运体饱和限制）",
+        "disadvantages": [
+          "生物利用度低",
+          "大剂量吸收受限",
+          "半衰期短"
+        ],
         "advantages": [
           "成本低",
           "水溶性好",
           "工艺成熟"
         ],
-        "disadvantages": [
-          "生物利用度低",
-          "大剂量吸收受限",
-          "半衰期短"
-        ]
+        "name": "盐酸硫胺素",
+        "description": "经典B1盐酸盐，水溶性好",
+        "bioavailability": "低-中（口服约3-7%，受肠道转运体饱和限制）"
       },
       {
-        "name": "硝酸硫胺素",
-        "description": "硝酸硫胺素，稳定性优于盐酸盐",
-        "bioavailability": "低-中",
+        "disadvantages": [
+          "生物利用度与盐酸盐相近"
+        ],
         "advantages": [
           "稳定性好",
           "不易吸潮"
         ],
-        "disadvantages": [
-          "生物利用度与盐酸盐相近"
-        ]
+        "name": "硝酸硫胺素",
+        "description": "硝酸硫胺素，稳定性优于盐酸盐",
+        "bioavailability": "低-中"
       },
       {
-        "name": "苯磷硫胺(Benfotiamine)",
-        "description": "脂溶性B1前体，生物利用度显著提升",
-        "bioavailability": "高（较盐酸盐提高3-5倍）",
+        "disadvantages": [
+          "成本较高",
+          "供应商有限"
+        ],
         "advantages": [
           "生物利用度高",
           "组织分布广",
           "半衰期长"
         ],
-        "disadvantages": [
-          "成本较高",
-          "供应商有限"
-        ]
+        "name": "苯磷硫胺(Benfotiamine)",
+        "description": "脂溶性B1前体，生物利用度显著提升",
+        "bioavailability": "高（较盐酸盐提高3-5倍）"
       },
       {
-        "name": "舒布硫胺(Sulbutiamine)",
-        "description": "脂溶性B1衍生物，可穿越血脑屏障",
-        "bioavailability": "高，脑组织富集",
+        "disadvantages": [
+          "成本高",
+          "适应症较窄"
+        ],
         "advantages": [
           "可入脑",
           "改善认知疲劳",
           "半衰期长"
         ],
-        "disadvantages": [
-          "成本高",
-          "适应症较窄"
-        ]
+        "name": "舒布硫胺(Sulbutiamine)",
+        "description": "脂溶性B1衍生物，可穿越血脑屏障",
+        "bioavailability": "高，脑组织富集"
       }
     ],
     "suppliers": [
@@ -6632,42 +6437,42 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "B1盐压片剂型",
         "advantages": [
           "成本低",
           "剂量精准",
           "便于复配"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "B1盐压片剂型"
       },
       {
-        "name": "复方B族片",
-        "category": "传统剂型",
-        "description": "与其他B族维生素复配",
         "advantages": [
           "协同增效",
           "综合补充",
           "服用方便"
-        ]
+        ],
+        "name": "复方B族片",
+        "category": "传统剂型",
+        "description": "与其他B族维生素复配"
       },
       {
-        "name": "苯磷硫胺胶囊",
-        "category": "新型剂型",
-        "description": "脂溶性B1前体胶囊",
         "advantages": [
           "生物利用度高",
           "起效快"
-        ]
+        ],
+        "name": "苯磷硫胺胶囊",
+        "category": "新型剂型",
+        "description": "脂溶性B1前体胶囊"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "缓释骨架延长作用",
         "advantages": [
           "血药浓度平稳",
           "减少服用次数"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "缓释骨架延长作用"
       }
     ],
     "compliance": [
@@ -6794,7 +6599,10 @@
       ],
       "packagingCost": "约¥0.2-0.5/单位",
       "totalEstimate": "基础原料便宜，脂溶性衍生物剂型溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
   },
   {
     "id": "dandelion-extract-liver",
@@ -6803,7 +6611,8 @@
     "category": "护肝养肝",
     "categoryId": "liver",
     "secondaryCategoryIds": [
-      "herb-food"
+      "herb-food",
+      "weight"
     ],
     "popularity": 3,
     "summary": "从蒲公英根或全草提取的植物原料，富含蒲公英甾醇、菊粉及黄酮类成分，传统用于利胆保肝及利尿，是中医及欧洲草药中的经典护肝植物。",
@@ -6822,30 +6631,30 @@
     },
     "forms": [
       {
-        "name": "蒲公英根提取物",
-        "description": "蒲公英根水/醇提物，富含蒲公英甾醇及菊粉",
-        "bioavailability": "中（多成分协同）",
+        "disadvantages": [
+          "有效成分复杂",
+          "需标准化"
+        ],
         "advantages": [
           "活性成分丰富",
           "利胆作用明显",
           "成本低"
         ],
-        "disadvantages": [
-          "有效成分复杂",
-          "需标准化"
-        ]
+        "name": "蒲公英根提取物",
+        "description": "蒲公英根水/醇提物，富含蒲公英甾醇及菊粉",
+        "bioavailability": "中（多成分协同）"
       },
       {
-        "name": "全草提取物",
-        "description": "全草提取物，含叶部黄酮",
-        "bioavailability": "中",
+        "disadvantages": [
+          "根特有利胆成分较低"
+        ],
         "advantages": [
           "成分更全面",
           "兼具抗氧化"
         ],
-        "disadvantages": [
-          "根特有利胆成分较低"
-        ]
+        "name": "全草提取物",
+        "description": "全草提取物，含叶部黄酮",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -6873,42 +6682,42 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "提取物灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "掩盖苦味"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "提取物灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "茶剂",
-        "category": "传统剂型",
-        "description": "蒲公英根茶包冲泡",
         "advantages": [
           "传统用法",
           "服用方便",
           "可日常饮用"
-        ]
+        ],
+        "name": "茶剂",
+        "category": "传统剂型",
+        "description": "蒲公英根茶包冲泡"
       },
       {
-        "name": "复方护肝胶囊",
-        "category": "新型剂型",
-        "description": "与其他护肝成分复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方护肝胶囊",
+        "category": "新型剂型",
+        "description": "与其他护肝成分复配"
       }
     ],
     "compliance": [
@@ -7057,45 +6866,45 @@
     },
     "forms": [
       {
-        "name": "标准化芝麻素提取物",
-        "description": "芝麻籽提取物，标准化芝麻素含量",
-        "bioavailability": "低-中（需肠道菌群代谢为肠内酯）",
+        "disadvantages": [
+          "生物利用度低",
+          "需肠道菌代谢",
+          "起效慢"
+        ],
         "advantages": [
           "天然来源",
           "可标准化",
           "安全性好"
         ],
-        "disadvantages": [
-          "生物利用度低",
-          "需肠道菌代谢",
-          "起效慢"
-        ]
+        "name": "标准化芝麻素提取物",
+        "description": "芝麻籽提取物，标准化芝麻素含量",
+        "bioavailability": "低-中（需肠道菌群代谢为肠内酯）"
       },
       {
-        "name": "高纯芝麻素",
-        "description": "纯化芝麻素单体，纯度≥90%",
-        "bioavailability": "低-中",
+        "disadvantages": [
+          "成本较高",
+          "仍需菌代谢"
+        ],
         "advantages": [
           "纯度高",
           "剂量精准",
           "适合临床"
         ],
-        "disadvantages": [
-          "成本较高",
-          "仍需菌代谢"
-        ]
+        "name": "高纯芝麻素",
+        "description": "纯化芝麻素单体，纯度≥90%",
+        "bioavailability": "低-中"
       },
       {
-        "name": "芝麻素+维生素E复方",
-        "description": "与维生素E联用协同抗氧化",
-        "bioavailability": "中",
+        "disadvantages": [
+          "需控制维生素E剂量"
+        ],
         "advantages": [
           "协同增效",
           "综合护肝"
         ],
-        "disadvantages": [
-          "需控制维生素E剂量"
-        ]
+        "name": "芝麻素+维生素E复方",
+        "description": "与维生素E联用协同抗氧化",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -7123,41 +6932,41 @@
     ],
     "dosageForms": [
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "芝麻素油悬浮软胶囊",
         "advantages": [
           "密封防氧化",
           "吸收较好",
           "剂量精准"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "芝麻素油悬浮软胶囊"
       },
       {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "粉末灌装胶囊",
         "advantages": [
           "成本低",
           "便于复配"
-        ]
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末灌装胶囊"
       },
       {
-        "name": "复方护肝软胶囊",
-        "category": "新型剂型",
-        "description": "与维生素E等复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方护肝软胶囊",
+        "category": "新型剂型",
+        "description": "与维生素E等复配"
       },
       {
-        "name": "磷脂复合物胶囊",
-        "category": "新型剂型",
-        "description": "磷脂复合提升吸收",
         "advantages": [
           "生物利用度提升",
           "起效快"
-        ]
+        ],
+        "name": "磷脂复合物胶囊",
+        "category": "新型剂型",
+        "description": "磷脂复合提升吸收"
       }
     ],
     "compliance": [
@@ -7284,7 +7093,11 @@
       ],
       "packagingCost": "约¥0.4-0.8/单位",
       "totalEstimate": "高价值原料，日本功能性食品市场溢价显著"
-    }
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular",
+      "weight"
+    ]
   },
   {
     "id": "matrine-liver",
@@ -7309,46 +7122,46 @@
     },
     "forms": [
       {
-        "name": "苦参总碱提取物",
-        "description": "苦参根提取的总生物碱，含苦参碱及氧化苦参碱",
-        "bioavailability": "中（吸收较快）",
+        "disadvantages": [
+          "有效成分波动",
+          "需标准化"
+        ],
         "advantages": [
           "多成分协同",
           "成本可控",
           "传统经验支持"
         ],
-        "disadvantages": [
-          "有效成分波动",
-          "需标准化"
-        ]
+        "name": "苦参总碱提取物",
+        "description": "苦参根提取的总生物碱，含苦参碱及氧化苦参碱",
+        "bioavailability": "中（吸收较快）"
       },
       {
-        "name": "苦参碱单体",
-        "description": "纯化苦参碱单体，纯度≥98%",
-        "bioavailability": "中-高",
+        "disadvantages": [
+          "成本较高",
+          "需控制剂量"
+        ],
         "advantages": [
           "纯度高",
           "剂量精准",
           "研究充分"
         ],
-        "disadvantages": [
-          "成本较高",
-          "需控制剂量"
-        ]
+        "name": "苦参碱单体",
+        "description": "纯化苦参碱单体，纯度≥98%",
+        "bioavailability": "中-高"
       },
       {
-        "name": "氧化苦参碱",
-        "description": "氧化型生物碱，水溶性更好",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ],
         "advantages": [
           "水溶性好",
           "吸收佳",
           "安全性较好"
         ],
-        "disadvantages": [
-          "成本较高",
-          "工艺复杂"
-        ]
+        "name": "氧化苦参碱",
+        "description": "氧化型生物碱，水溶性更好",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -7376,42 +7189,42 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "苦参碱灌装胶囊",
         "advantages": [
           "剂量精准",
           "掩盖苦味",
           "携带方便"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "苦参碱灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "注射液",
-        "category": "传统剂型",
-        "description": "医院制剂静脉给药",
         "advantages": [
           "起效快",
           "剂量精准",
           "适合急性"
-        ]
+        ],
+        "name": "注射液",
+        "category": "传统剂型",
+        "description": "医院制剂静脉给药"
       },
       {
-        "name": "复方护肝片",
-        "category": "新型剂型",
-        "description": "与其他护肝成分复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方护肝片",
+        "category": "新型剂型",
+        "description": "与其他护肝成分复配"
       }
     ],
     "compliance": [
@@ -7544,7 +7357,8 @@
     "category": "护肝养肝",
     "categoryId": "liver",
     "secondaryCategoryIds": [
-      "herb-food"
+      "herb-food",
+      "immune"
     ],
     "popularity": 3,
     "summary": "甘草根及根茎主要活性三萜皂苷，具有抗炎、抗病毒及保护肝细胞膜作用，临床用于慢性乙肝及药物性肝损伤治疗，是经典护肝药物甘草酸二铵的原料。",
@@ -7563,45 +7377,45 @@
     },
     "forms": [
       {
-        "name": "甘草酸单铵盐",
-        "description": "甘草酸单铵盐，溶解性改善",
-        "bioavailability": "中（经肠道菌群水解为甘草次酸吸收）",
+        "disadvantages": [
+          "需菌代谢激活",
+          "潜在伪醛固酮副作用"
+        ],
         "advantages": [
           "溶解性好",
           "成本可控",
           "研究充分"
         ],
-        "disadvantages": [
-          "需菌代谢激活",
-          "潜在伪醛固酮副作用"
-        ]
+        "name": "甘草酸单铵盐",
+        "description": "甘草酸单铵盐，溶解性改善",
+        "bioavailability": "中（经肠道菌群水解为甘草次酸吸收）"
       },
       {
-        "name": "甘草酸二铵",
-        "description": "甘草酸二铵盐，临床常用剂型",
-        "bioavailability": "中-高",
+        "disadvantages": [
+          "仍需监测血钾",
+          "成本较高"
+        ],
         "advantages": [
           "临床应用广泛",
           "安全性较好",
           "疗效确切"
         ],
-        "disadvantages": [
-          "仍需监测血钾",
-          "成本较高"
-        ]
+        "name": "甘草酸二铵",
+        "description": "甘草酸二铵盐，临床常用剂型",
+        "bioavailability": "中-高"
       },
       {
-        "name": "甘草酸钾/镁盐",
-        "description": "与钾镁结合减少低钾副作用",
-        "bioavailability": "中",
+        "disadvantages": [
+          "工艺复杂",
+          "成本较高"
+        ],
         "advantages": [
           "减少低钾风险",
           "安全性改善"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "成本较高"
-        ]
+        "name": "甘草酸钾/镁盐",
+        "description": "与钾镁结合减少低钾副作用",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -7629,42 +7443,42 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "甘草酸盐灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "掩盖苦味"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "甘草酸盐灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "注射液",
-        "category": "传统剂型",
-        "description": "甘草酸二铵注射液",
         "advantages": [
           "起效快",
           "剂量精准",
           "适合急性"
-        ]
+        ],
+        "name": "注射液",
+        "category": "传统剂型",
+        "description": "甘草酸二铵注射液"
       },
       {
-        "name": "复方护肝片",
-        "category": "新型剂型",
-        "description": "与其他护肝成分复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方护肝片",
+        "category": "新型剂型",
+        "description": "与其他护肝成分复配"
       }
     ],
     "compliance": [
@@ -7814,47 +7628,47 @@
     },
     "forms": [
       {
-        "name": "冻干菌粉",
-        "description": "冷冻干燥菌体粉末，可保持菌活性",
-        "bioavailability": "N/A（肠道定植发挥作用）",
+        "disadvantages": [
+          "受胃酸胆汁影响",
+          "需包埋保护"
+        ],
         "advantages": [
           "菌活性高",
           "便于复配",
           "保质期长"
         ],
-        "disadvantages": [
-          "受胃酸胆汁影响",
-          "需包埋保护"
-        ]
+        "name": "冻干菌粉",
+        "description": "冷冻干燥菌体粉末，可保持菌活性",
+        "bioavailability": "N/A（肠道定植发挥作用）"
       },
       {
-        "name": "肠溶微胶囊",
-        "description": "肠溶包埋保护菌株通过胃酸",
-        "bioavailability": "高（肠道靶向释放）",
+        "disadvantages": [
+          "工艺复杂",
+          "成本增加"
+        ],
         "advantages": [
           "抗胃酸胆汁",
           "靶向定植",
           "存活率高"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "成本增加"
-        ]
+        "name": "肠溶微胶囊",
+        "description": "肠溶包埋保护菌株通过胃酸",
+        "bioavailability": "高（肠道靶向释放）"
       },
       {
-        "name": "发酵乳/酸奶",
-        "description": "与传统发酵乳制品结合",
-        "bioavailability": "中（乳基质缓冲胃酸）",
+        "disadvantages": [
+          "保质期短",
+          "需冷链",
+          "含乳糖"
+        ],
         "advantages": [
           "口感好",
           "易接受",
           "传统食品形式"
         ],
-        "disadvantages": [
-          "保质期短",
-          "需冷链",
-          "含乳糖"
-        ]
+        "name": "发酵乳/酸奶",
+        "description": "与传统发酵乳制品结合",
+        "bioavailability": "中（乳基质缓冲胃酸）"
       }
     ],
     "suppliers": [
@@ -7882,44 +7696,44 @@
     ],
     "dosageForms": [
       {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "冻干菌粉灌装胶囊",
         "advantages": [
           "剂量精准",
           "常温稳定",
           "携带方便"
-        ]
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "冻干菌粉灌装胶囊"
       },
       {
-        "name": "粉剂/颗粒",
-        "category": "传统剂型",
-        "description": "单包冲饮菌粉",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "适合儿童"
-        ]
+        ],
+        "name": "粉剂/颗粒",
+        "category": "传统剂型",
+        "description": "单包冲饮菌粉"
       },
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣保护菌株",
         "advantages": [
           "抗胃酸",
           "靶向释放",
           "存活率高"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣保护菌株"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味压片",
         "advantages": [
           "服用方便",
           "适合儿童",
           "口感好"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味压片"
       }
     ],
     "compliance": [
@@ -8052,7 +7866,10 @@
       ],
       "packagingCost": "约¥0.4-0.8/单位",
       "totalEstimate": "高价值原料，肠溶及高活菌数剂型溢价显著"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "saccharomyces-boulardii-gut",
@@ -8077,45 +7894,45 @@
     },
     "forms": [
       {
-        "name": "冻干菌粉",
-        "description": "冷冻干燥布拉氏酵母菌体粉末",
-        "bioavailability": "N/A（肠道内发挥作用，不自粘附定植）",
+        "disadvantages": [
+          "不在肠道定植",
+          "需持续服用"
+        ],
         "advantages": [
           "菌活性高",
           "耐胃酸抗生素",
           "便于复配"
         ],
-        "disadvantages": [
-          "不在肠道定植",
-          "需持续服用"
-        ]
+        "name": "冻干菌粉",
+        "description": "冷冻干燥布拉氏酵母菌体粉末",
+        "bioavailability": "N/A（肠道内发挥作用，不自粘附定植）"
       },
       {
-        "name": "肠溶胶囊",
-        "description": "肠溶包衣保护酵母抵达肠道",
-        "bioavailability": "高（肠道靶向释放）",
+        "disadvantages": [
+          "工艺成本增加"
+        ],
         "advantages": [
           "抗胃酸",
           "靶向释放",
           "存活率高"
         ],
-        "disadvantages": [
-          "工艺成本增加"
-        ]
+        "name": "肠溶胶囊",
+        "description": "肠溶包衣保护酵母抵达肠道",
+        "bioavailability": "高（肠道靶向释放）"
       },
       {
-        "name": "即溶粉剂",
-        "description": "调味即溶粉剂，可冲水或直接口服",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "需即冲即饮",
+          "避免热水"
+        ],
         "advantages": [
           "服用方便",
           "适合儿童老人",
           "可冲水饮"
         ],
-        "disadvantages": [
-          "需即冲即饮",
-          "避免热水"
-        ]
+        "name": "即溶粉剂",
+        "description": "调味即溶粉剂，可冲水或直接口服",
+        "bioavailability": "N/A（肠道作用）"
       }
     ],
     "suppliers": [
@@ -8143,44 +7960,44 @@
     ],
     "dosageForms": [
       {
-        "name": "硬胶囊",
-        "category": "传统剂型",
-        "description": "冻干菌粉灌装胶囊",
         "advantages": [
           "剂量精准",
           "常温稳定",
           "携带方便"
-        ]
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "冻干菌粉灌装胶囊"
       },
       {
-        "name": "即溶粉剂",
-        "category": "传统剂型",
-        "description": "调味即溶粉包",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "适合儿童"
-        ]
+        ],
+        "name": "即溶粉剂",
+        "category": "传统剂型",
+        "description": "调味即溶粉包"
       },
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣保护酵母",
         "advantages": [
           "抗胃酸",
           "靶向释放",
           "存活率高"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣保护酵母"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味压片",
         "advantages": [
           "服用方便",
           "适合儿童",
           "口感好"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味压片"
       }
     ],
     "compliance": [
@@ -8311,7 +8128,10 @@
       ],
       "packagingCost": "约¥0.4-0.8/单位",
       "totalEstimate": "高价值原料，处方药及OTC剂型溢价显著"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "fos-gut",
@@ -8336,46 +8156,46 @@
     },
     "forms": [
       {
-        "name": "蔗果型低聚果糖",
-        "description": "由蔗糖转果糖基化制得，GF₂/GF₃/GF₄混合",
-        "bioavailability": "N/A（大肠发酵发挥作用）",
+        "disadvantages": [
+          "含少量蔗糖/葡萄糖",
+          "纯度有限"
+        ],
         "advantages": [
           "工艺成熟",
           "成本低",
           "甜味纯正"
         ],
-        "disadvantages": [
-          "含少量蔗糖/葡萄糖",
-          "纯度有限"
-        ]
+        "name": "蔗果型低聚果糖",
+        "description": "由蔗糖转果糖基化制得，GF₂/GF₃/GF₄混合",
+        "bioavailability": "N/A（大肠发酵发挥作用）"
       },
       {
-        "name": "菊粉型低聚果糖",
-        "description": "菊粉酶解制得，线性果聚糖",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "成本略高",
+          "工艺复杂"
+        ],
         "advantages": [
           "纯度高",
           "无单糖",
           "适合糖尿病人"
         ],
-        "disadvantages": [
-          "成本略高",
-          "工艺复杂"
-        ]
+        "name": "菊粉型低聚果糖",
+        "description": "菊粉酶解制得，线性果聚糖",
+        "bioavailability": "N/A（大肠发酵）"
       },
       {
-        "name": "高纯度低聚果糖糖浆",
-        "description": "纯度≥95%液体糖浆",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "液体保存",
+          "成本较高"
+        ],
         "advantages": [
           "纯度高",
           "易复配",
           "应用灵活"
         ],
-        "disadvantages": [
-          "液体保存",
-          "成本较高"
-        ]
+        "name": "高纯度低聚果糖糖浆",
+        "description": "纯度≥95%液体糖浆",
+        "bioavailability": "N/A（大肠发酵）"
       }
     ],
     "suppliers": [
@@ -8403,44 +8223,44 @@
     ],
     "dosageForms": [
       {
-        "name": "粉剂/冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "粉剂/冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "糖浆",
-        "category": "传统剂型",
-        "description": "液体糖浆，可拌酸奶",
         "advantages": [
           "应用灵活",
           "可调味",
           "即食方便"
-        ]
+        ],
+        "name": "糖浆",
+        "category": "传统剂型",
+        "description": "液体糖浆，可拌酸奶"
       },
       {
-        "name": "复方益生菌胶囊",
-        "category": "新型剂型",
-        "description": "与益生菌复配(合生元)",
         "advantages": [
           "协同增效",
           "靶向定植",
           "综合管理"
-        ]
+        ],
+        "name": "复方益生菌胶囊",
+        "category": "新型剂型",
+        "description": "与益生菌复配(合生元)"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味压片",
         "advantages": [
           "服用方便",
           "适合儿童",
           "口感好"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味压片"
       }
     ],
     "compliance": [
@@ -8571,7 +8391,10 @@
       ],
       "packagingCost": "约¥0.3-0.6/单位",
       "totalEstimate": "原料便宜，合生元复方剂型溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "gos-gut",
@@ -8596,46 +8419,46 @@
     },
     "forms": [
       {
-        "name": "GOS糖浆",
-        "description": "乳糖转糖基化制得液体糖浆，纯度约55-70%",
-        "bioavailability": "N/A（大肠发酵发挥作用）",
+        "disadvantages": [
+          "含少量乳糖",
+          "液体保存"
+        ],
         "advantages": [
           "工艺成熟",
           "成本可控",
           "易复配"
         ],
-        "disadvantages": [
-          "含少量乳糖",
-          "液体保存"
-        ]
+        "name": "GOS糖浆",
+        "description": "乳糖转糖基化制得液体糖浆，纯度约55-70%",
+        "bioavailability": "N/A（大肠发酵发挥作用）"
       },
       {
-        "name": "高纯度GOS粉末",
-        "description": "纯度≥90%喷雾干燥粉末",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ],
         "advantages": [
           "纯度高",
           "粉末便于复配",
           "乳糖含量低"
         ],
-        "disadvantages": [
-          "成本较高",
-          "工艺复杂"
-        ]
+        "name": "高纯度GOS粉末",
+        "description": "纯度≥90%喷雾干燥粉末",
+        "bioavailability": "N/A（大肠发酵）"
       },
       {
-        "name": "GOS+菊粉复合益生元",
-        "description": "与菊粉等复配的复合益生元",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "配方复杂",
+          "成本较高"
+        ],
         "advantages": [
           "多靶点协同",
           "菌群谱广",
           "综合管理"
         ],
-        "disadvantages": [
-          "配方复杂",
-          "成本较高"
-        ]
+        "name": "GOS+菊粉复合益生元",
+        "description": "与菊粉等复配的复合益生元",
+        "bioavailability": "N/A（大肠发酵）"
       }
     ],
     "suppliers": [
@@ -8663,44 +8486,44 @@
     ],
     "dosageForms": [
       {
-        "name": "粉剂/冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "粉剂/冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "糖浆",
-        "category": "传统剂型",
-        "description": "液体糖浆",
         "advantages": [
           "应用灵活",
           "可拌酸奶",
           "即食方便"
-        ]
+        ],
+        "name": "糖浆",
+        "category": "传统剂型",
+        "description": "液体糖浆"
       },
       {
-        "name": "婴幼儿配方奶粉",
-        "category": "传统剂型",
-        "description": "添加于婴幼儿配方奶粉",
         "advantages": [
           "结构接近母乳",
           "婴幼儿专用",
           "安全性好"
-        ]
+        ],
+        "name": "婴幼儿配方奶粉",
+        "category": "传统剂型",
+        "description": "添加于婴幼儿配方奶粉"
       },
       {
-        "name": "复方合生元胶囊",
-        "category": "新型剂型",
-        "description": "与益生菌复配",
         "advantages": [
           "协同增效",
           "靶向定植",
           "综合管理"
-        ]
+        ],
+        "name": "复方合生元胶囊",
+        "category": "新型剂型",
+        "description": "与益生菌复配"
       }
     ],
     "compliance": [
@@ -8829,7 +8652,10 @@
       ],
       "packagingCost": "约¥0.3-0.8/单位",
       "totalEstimate": "原料成本中等，婴幼儿配方及合生元剂型溢价显著"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "inulin-gut",
@@ -8854,46 +8680,46 @@
     },
     "forms": [
       {
-        "name": "菊苣菊粉(标准型)",
-        "description": "菊苣根提取的天然菊粉，聚合度2-60",
-        "bioavailability": "N/A（大肠发酵发挥作用）",
+        "disadvantages": [
+          "聚合度范围广",
+          "高剂量胃肠不适"
+        ],
         "advantages": [
           "天然来源",
           "成本低",
           "工艺成熟"
         ],
-        "disadvantages": [
-          "聚合度范围广",
-          "高剂量胃肠不适"
-        ]
+        "name": "菊苣菊粉(标准型)",
+        "description": "菊苣根提取的天然菊粉，聚合度2-60",
+        "bioavailability": "N/A（大肠发酵发挥作用）"
       },
       {
-        "name": "低聚果糖型菊粉(短链)",
-        "description": "酶解或精选低聚合度菊粉，发酵快",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "成本略高",
+          "甜味明显"
+        ],
         "advantages": [
           "发酵快",
           "选择性高",
           "耐受性好"
         ],
-        "disadvantages": [
-          "成本略高",
-          "甜味明显"
-        ]
+        "name": "低聚果糖型菊粉(短链)",
+        "description": "酶解或精选低聚合度菊粉，发酵快",
+        "bioavailability": "N/A（大肠发酵）"
       },
       {
-        "name": "高纯度长链菊粉",
-        "description": "高聚合度菊粉，发酵慢耐受好",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "发酵慢",
+          "成本较高"
+        ],
         "advantages": [
           "耐受性好",
           "可高剂量使用",
           "质地改善"
         ],
-        "disadvantages": [
-          "发酵慢",
-          "成本较高"
-        ]
+        "name": "高纯度长链菊粉",
+        "description": "高聚合度菊粉，发酵慢耐受好",
+        "bioavailability": "N/A（大肠发酵）"
       }
     ],
     "suppliers": [
@@ -8921,43 +8747,43 @@
     ],
     "dosageForms": [
       {
-        "name": "粉剂/冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "粉剂/冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "剂量精准",
           "携带方便"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "复方益生菌胶囊",
-        "category": "新型剂型",
-        "description": "与益生菌复配(合生元)",
         "advantages": [
           "协同增效",
           "靶向定植",
           "综合管理"
-        ]
+        ],
+        "name": "复方益生菌胶囊",
+        "category": "新型剂型",
+        "description": "与益生菌复配(合生元)"
       },
       {
-        "name": "代餐粉",
-        "category": "新型剂型",
-        "description": "与蛋白及纤维复配代餐",
         "advantages": [
           "综合营养",
           "饱腹感强",
           "多效合一"
-        ]
+        ],
+        "name": "代餐粉",
+        "category": "新型剂型",
+        "description": "与蛋白及纤维复配代餐"
       }
     ],
     "compliance": [
@@ -9083,7 +8909,10 @@
       ],
       "packagingCost": "约¥0.3-0.8/单位",
       "totalEstimate": "原料便宜，合生元及代餐剂型溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "resistant-dextrin-gut",
@@ -9108,45 +8937,45 @@
     },
     "forms": [
       {
-        "name": "玉米来源抗性糊精",
-        "description": "玉米淀粉热化学处理制得，最常见规格",
-        "bioavailability": "N/A（大肠发酵发挥作用）",
+        "disadvantages": [
+          "成本略高于菊粉",
+          "原料为玉米(过敏关注)"
+        ],
         "advantages": [
           "耐受性极佳",
           "溶解度高",
           "不影响口感"
         ],
-        "disadvantages": [
-          "成本略高于菊粉",
-          "原料为玉米(过敏关注)"
-        ]
+        "name": "玉米来源抗性糊精",
+        "description": "玉米淀粉热化学处理制得，最常见规格",
+        "bioavailability": "N/A（大肠发酵发挥作用）"
       },
       {
-        "name": "木薯来源抗性糊精",
-        "description": "木薯淀粉制得，无致敏原",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "成本较高",
+          "供应商有限"
+        ],
         "advantages": [
           "无常见致敏原",
           "耐受性好",
           "适合敏感人群"
         ],
-        "disadvantages": [
-          "成本较高",
-          "供应商有限"
-        ]
+        "name": "木薯来源抗性糊精",
+        "description": "木薯淀粉制得，无致敏原",
+        "bioavailability": "N/A（大肠发酵）"
       },
       {
-        "name": "小麦来源抗性糊精",
-        "description": "小麦淀粉制得",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "含麸质残留",
+          "乳糜泻患者禁用"
+        ],
         "advantages": [
           "成本低",
           "工艺成熟"
         ],
-        "disadvantages": [
-          "含麸质残留",
-          "乳糜泻患者禁用"
-        ]
+        "name": "小麦来源抗性糊精",
+        "description": "小麦淀粉制得",
+        "bioavailability": "N/A（大肠发酵）"
       }
     ],
     "suppliers": [
@@ -9174,42 +9003,42 @@
     ],
     "dosageForms": [
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "强化饮料",
-        "category": "新型剂型",
-        "description": "添加于饮料及乳制品",
         "advantages": [
           "即饮方便",
           "口感好",
           "日常补充"
-        ]
+        ],
+        "name": "强化饮料",
+        "category": "新型剂型",
+        "description": "添加于饮料及乳制品"
       },
       {
-        "name": "复方益生菌胶囊",
-        "category": "新型剂型",
-        "description": "与益生菌复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方益生菌胶囊",
+        "category": "新型剂型",
+        "description": "与益生菌复配"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "剂量精准",
           "携带方便"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       }
     ],
     "compliance": [
@@ -9363,32 +9192,32 @@
     },
     "forms": [
       {
-        "name": "聚葡萄糖粉末",
-        "description": "喷雾干燥粉末，纯度≥90%",
-        "bioavailability": "N/A（大肠发酵发挥作用）",
+        "disadvantages": [
+          "发酵性弱于菊粉",
+          "益生元效应较弱"
+        ],
         "advantages": [
           "溶解度高",
           "耐受性好",
           "应用灵活"
         ],
-        "disadvantages": [
-          "发酵性弱于菊粉",
-          "益生元效应较弱"
-        ]
+        "name": "聚葡萄糖粉末",
+        "description": "喷雾干燥粉末，纯度≥90%",
+        "bioavailability": "N/A（大肠发酵发挥作用）"
       },
       {
-        "name": "聚葡萄糖糖浆",
-        "description": "液体糖浆形式",
-        "bioavailability": "N/A（大肠发酵）",
+        "disadvantages": [
+          "液体保存",
+          "成本略高"
+        ],
         "advantages": [
           "易复配",
           "保湿性好",
           "适合饮料"
         ],
-        "disadvantages": [
-          "液体保存",
-          "成本略高"
-        ]
+        "name": "聚葡萄糖糖浆",
+        "description": "液体糖浆形式",
+        "bioavailability": "N/A（大肠发酵）"
       }
     ],
     "suppliers": [
@@ -9416,43 +9245,43 @@
     ],
     "dosageForms": [
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "低糖食品强化",
-        "category": "新型剂型",
-        "description": "添加于低糖低脂食品",
         "advantages": [
           "代糖代脂",
           "增强纤维",
           "口感改善"
-        ]
+        ],
+        "name": "低糖食品强化",
+        "category": "新型剂型",
+        "description": "添加于低糖低脂食品"
       },
       {
-        "name": "复方纤维胶囊",
-        "category": "新型剂型",
-        "description": "与多种纤维复配",
         "advantages": [
           "综合补充",
           "协同增效"
-        ]
+        ],
+        "name": "复方纤维胶囊",
+        "category": "新型剂型",
+        "description": "与多种纤维复配"
       },
       {
-        "name": "强化饮料",
-        "category": "新型剂型",
-        "description": "添加于功能饮料",
         "advantages": [
           "即饮方便",
           "口感好",
           "日常补充"
-        ]
+        ],
+        "name": "强化饮料",
+        "category": "新型剂型",
+        "description": "添加于功能饮料"
       }
     ],
     "compliance": [
@@ -9603,47 +9432,47 @@
     },
     "forms": [
       {
-        "name": "壳寡糖粉末",
-        "description": "壳聚糖酶解制得的低分子量寡糖粉末",
-        "bioavailability": "中-高（较低分子量壳聚糖显著提升）",
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ],
         "advantages": [
           "水溶性好",
           "生物利用度高",
           "无需胃酸溶解"
         ],
-        "disadvantages": [
-          "成本较高",
-          "工艺复杂"
-        ]
+        "name": "壳寡糖粉末",
+        "description": "壳聚糖酶解制得的低分子量寡糖粉末",
+        "bioavailability": "中-高（较低分子量壳聚糖显著提升）"
       },
       {
-        "name": "壳聚糖(高分子量)",
-        "description": "未降解的高分子量壳聚糖",
-        "bioavailability": "低（需胃酸溶解，吸收差）",
+        "disadvantages": [
+          "水溶性差",
+          "生物利用度低",
+          "需胃酸溶解"
+        ],
         "advantages": [
           "成本低",
           "工艺成熟",
           "结合脂肪能力强"
         ],
-        "disadvantages": [
-          "水溶性差",
-          "生物利用度低",
-          "需胃酸溶解"
-        ]
+        "name": "壳聚糖(高分子量)",
+        "description": "未降解的高分子量壳聚糖",
+        "bioavailability": "低（需胃酸溶解，吸收差）"
       },
       {
-        "name": "羧甲基壳聚糖",
-        "description": "改性水溶性壳聚糖",
-        "bioavailability": "中",
+        "disadvantages": [
+          "成本较高",
+          "改性工艺复杂"
+        ],
         "advantages": [
           "水溶性好",
           "稳定性改善",
           "适用pH广"
         ],
-        "disadvantages": [
-          "成本较高",
-          "改性工艺复杂"
-        ]
+        "name": "羧甲基壳聚糖",
+        "description": "改性水溶性壳聚糖",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -9671,42 +9500,42 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "壳寡糖粉末灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "掩盖口感"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "壳寡糖粉末灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "口服液",
-        "category": "新型剂型",
-        "description": "壳寡糖液体剂型",
         "advantages": [
           "吸收快",
           "起效快",
           "适合儿童老人"
-        ]
+        ],
+        "name": "口服液",
+        "category": "新型剂型",
+        "description": "壳寡糖液体剂型"
       },
       {
-        "name": "复方降脂胶囊",
-        "category": "新型剂型",
-        "description": "与其他降脂成分复配",
         "advantages": [
           "协同增效",
           "综合管理"
-        ]
+        ],
+        "name": "复方降脂胶囊",
+        "category": "新型剂型",
+        "description": "与其他降脂成分复配"
       }
     ],
     "compliance": [
@@ -9861,47 +9690,47 @@
     },
     "forms": [
       {
-        "name": "L-谷氨酰胺(游离型)",
-        "description": "纯游离型L-谷氨酰胺粉末",
-        "bioavailability": "高（口服约90%吸收）",
+        "disadvantages": [
+          "水溶液不稳定",
+          "易降解为焦谷氨酸",
+          "口感微咸"
+        ],
         "advantages": [
           "纯度高",
           "吸收好",
           "成本可控"
         ],
-        "disadvantages": [
-          "水溶液不稳定",
-          "易降解为焦谷氨酸",
-          "口感微咸"
-        ]
+        "name": "L-谷氨酰胺(游离型)",
+        "description": "纯游离型L-谷氨酰胺粉末",
+        "bioavailability": "高（口服约90%吸收）"
       },
       {
-        "name": "L-谷氨酰胺肽(麸酰胺酰胺肽)",
-        "description": "与小肽结合提高稳定性",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本较高",
+          "工艺复杂"
+        ],
         "advantages": [
           "稳定性好",
           "吸收改善",
           "水溶性好"
         ],
-        "disadvantages": [
-          "成本较高",
-          "工艺复杂"
-        ]
+        "name": "L-谷氨酰胺肽(麸酰胺酰胺肽)",
+        "description": "与小肽结合提高稳定性",
+        "bioavailability": "高"
       },
       {
-        "name": "丙氨酰谷氨酰胺二肽",
-        "description": "二肽形式，水溶液稳定性显著提升",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本高",
+          "主要用于临床营养"
+        ],
         "advantages": [
           "水溶液稳定",
           "适合肠外营养",
           "吸收佳"
         ],
-        "disadvantages": [
-          "成本高",
-          "主要用于临床营养"
-        ]
+        "name": "丙氨酰谷氨酰胺二肽",
+        "description": "二肽形式，水溶液稳定性显著提升",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -9929,41 +9758,41 @@
     ],
     "dosageForms": [
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "粉末灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "粉末灌装胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "压片剂型",
         "advantages": [
           "成本低",
           "剂量固定"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "压片剂型"
       },
       {
-        "name": "肠溶胶囊",
-        "category": "新型剂型",
-        "description": "肠溶包衣保护氨基酸",
         "advantages": [
           "提高稳定性",
           "靶向释放"
-        ]
+        ],
+        "name": "肠溶胶囊",
+        "category": "新型剂型",
+        "description": "肠溶包衣保护氨基酸"
       }
     ],
     "compliance": [
@@ -10115,47 +9944,47 @@
     },
     "forms": [
       {
-        "name": "洋车前子壳粉",
-        "description": "研磨种皮粉末，富含水溶性纤维",
-        "bioavailability": "N/A（肠道内发挥作用）",
+        "disadvantages": [
+          "需足量水送服",
+          "口感粗糙",
+          "易结块"
+        ],
         "advantages": [
           "纤维含量高",
           "吸水性强",
           "成本低"
         ],
-        "disadvantages": [
-          "需足量水送服",
-          "口感粗糙",
-          "易结块"
-        ]
+        "name": "洋车前子壳粉",
+        "description": "研磨种皮粉末，富含水溶性纤维",
+        "bioavailability": "N/A（肠道内发挥作用）"
       },
       {
-        "name": "精细洋车前子壳粉",
-        "description": "精细研磨提升溶解性及口感",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "成本略高",
+          "仍需足量水"
+        ],
         "advantages": [
           "溶解性好",
           "口感改善",
           "便于冲调"
         ],
-        "disadvantages": [
-          "成本略高",
-          "仍需足量水"
-        ]
+        "name": "精细洋车前子壳粉",
+        "description": "精细研磨提升溶解性及口感",
+        "bioavailability": "N/A（肠道作用）"
       },
       {
-        "name": "调味纤维饮",
-        "description": "调味即饮纤维饮品",
-        "bioavailability": "N/A（肠道作用）",
+        "disadvantages": [
+          "单次含量有限",
+          "成本较高"
+        ],
         "advantages": [
           "口感好",
           "即饮方便",
           "适合日常补充"
         ],
-        "disadvantages": [
-          "单次含量有限",
-          "成本较高"
-        ]
+        "name": "调味纤维饮",
+        "description": "调味即饮纤维饮品",
+        "bioavailability": "N/A（肠道作用）"
       }
     ],
     "suppliers": [
@@ -10183,43 +10012,43 @@
     ],
     "dosageForms": [
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "单包冲饮粉末",
         "advantages": [
           "剂量灵活",
           "可冲水饮",
           "便携"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "单包冲饮粉末"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "粉末灌装胶囊",
         "advantages": [
           "剂量精准",
           "携带方便",
           "无结块问题"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "粉末灌装胶囊"
       },
       {
-        "name": "饼干/威化",
-        "category": "新型剂型",
-        "description": "添加于饼干等食品",
         "advantages": [
           "即食方便",
           "口感好",
           "日常补充"
-        ]
+        ],
+        "name": "饼干/威化",
+        "category": "新型剂型",
+        "description": "添加于饼干等食品"
       },
       {
-        "name": "调味纤维饮",
-        "category": "新型剂型",
-        "description": "调味即饮液体",
         "advantages": [
           "即饮方便",
           "口感好"
-        ]
+        ],
+        "name": "调味纤维饮",
+        "category": "新型剂型",
+        "description": "调味即饮液体"
       }
     ],
     "compliance": [
@@ -10348,7 +10177,10 @@
       ],
       "packagingCost": "约¥0.3-0.8/单位",
       "totalEstimate": "原料便宜，胶囊及饼干剂型溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
   },
   {
     "id": "folic-acid-cardio",
@@ -10373,48 +10205,48 @@
     },
     "forms": [
       {
-        "name": "合成叶酸",
-        "description": "化学合成氧化型叶酸，需体内还原为活性形式",
-        "bioavailability": "中（需MTHFR酶转化）",
+        "disadvantages": [
+          "需体内活化",
+          "MTHFR突变者利用率低",
+          "未代谢叶酸蓄积"
+        ],
         "advantages": [
           "成本低",
           "稳定性好",
           "原料充足"
         ],
-        "disadvantages": [
-          "需体内活化",
-          "MTHFR突变者利用率低",
-          "未代谢叶酸蓄积"
-        ]
+        "name": "合成叶酸",
+        "description": "化学合成氧化型叶酸，需体内还原为活性形式",
+        "bioavailability": "中（需MTHFR酶转化）"
       },
       {
-        "name": "5-甲基四氢叶酸（5-MTHF）",
-        "description": "活性还原型叶酸，可直接利用，无需MTHFR转化",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本较高",
+          "稳定性略差",
+          "价格约5-10倍"
+        ],
         "advantages": [
           "直接活性形式",
           "适合MTHFR突变者",
           "无未代谢叶酸蓄积"
         ],
-        "disadvantages": [
-          "成本较高",
-          "稳定性略差",
-          "价格约5-10倍"
-        ]
+        "name": "5-甲基四氢叶酸（5-MTHF）",
+        "description": "活性还原型叶酸，可直接利用，无需MTHFR转化",
+        "bioavailability": "高"
       },
       {
-        "name": "L-甲基叶酸钙（Quatrefolic）",
-        "description": "第四代稳定型5-MTHF钙盐，生物利用度最高",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本最高",
+          "专利限制"
+        ],
         "advantages": [
           "稳定性好",
           "生物利用度高",
           "专利原料"
         ],
-        "disadvantages": [
-          "成本最高",
-          "专利限制"
-        ]
+        "name": "L-甲基叶酸钙（Quatrefolic）",
+        "description": "第四代稳定型5-MTHF钙盐，生物利用度最高",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -10449,42 +10281,42 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "小剂量片剂，最常见剂型",
         "advantages": [
           "剂量精准",
           "成本低",
           "稳定性好"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "小剂量片剂，最常见剂型"
       },
       {
-        "name": "复配B族片",
-        "category": "传统剂型",
-        "description": "与B6、B12复配协同降同型半胱氨酸",
         "advantages": [
           "协同增效",
           "方便服用",
           "综合补充"
-        ]
+        ],
+        "name": "复配B族片",
+        "category": "传统剂型",
+        "description": "与B6、B12复配协同降同型半胱氨酸"
       },
       {
-        "name": "舌下含片",
-        "category": "新型剂型",
-        "description": "舌下吸收避开胃肠降解",
         "advantages": [
           "吸收快",
           "适合胃肠功能差者"
-        ]
+        ],
+        "name": "舌下含片",
+        "category": "新型剂型",
+        "description": "舌下吸收避开胃肠降解"
       },
       {
-        "name": "微囊粉",
-        "category": "新型剂型",
-        "description": "微囊化可加入食品或冲饮",
         "advantages": [
           "可加入食品",
           "剂量灵活"
-        ]
+        ],
+        "name": "微囊粉",
+        "category": "新型剂型",
+        "description": "微囊化可加入食品或冲饮"
       }
     ],
     "compliance": [
@@ -10606,7 +10438,10 @@
       ],
       "packagingCost": "约¥0.3-0.5/瓶（60片装）",
       "totalEstimate": "合成叶酸成本极低，活性5-MTHF溢价5-10倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bloodsugar"
+    ]
   },
   {
     "id": "allicin",
@@ -10631,48 +10466,48 @@
     },
     "forms": [
       {
-        "name": "大蒜粉（蒜氨酸标准化）",
-        "description": "大蒜干燥粉碎，以蒜氨酸含量标准化（1-3%）",
-        "bioavailability": "中（需胃内蒜氨酸酶激活）",
+        "disadvantages": [
+          "需胃内酶激活",
+          "易被胃酸破坏",
+          "大蒜气味重"
+        ],
         "advantages": [
           "成本较低",
           "接近天然",
           "可标准化"
         ],
-        "disadvantages": [
-          "需胃内酶激活",
-          "易被胃酸破坏",
-          "大蒜气味重"
-        ]
+        "name": "大蒜粉（蒜氨酸标准化）",
+        "description": "大蒜干燥粉碎，以蒜氨酸含量标准化（1-3%）",
+        "bioavailability": "中（需胃内蒜氨酸酶激活）"
       },
       {
-        "name": "肠溶大蒜粉",
-        "description": "肠溶包衣保护蒜氨酸酶在肠道激活",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本较高",
+          "仍有大蒜味打嗝"
+        ],
         "advantages": [
           "保护酶活性",
           "肠道激活吸收好",
           "减少胃部不适"
         ],
-        "disadvantages": [
-          "成本较高",
-          "仍有大蒜味打嗝"
-        ]
+        "name": "肠溶大蒜粉",
+        "description": "肠溶包衣保护蒜氨酸酶在肠道激活",
+        "bioavailability": "高"
       },
       {
-        "name": "陈年大蒜提取物（AGE）",
-        "description": "陈化提取，富含S-烯丙基半胱氨酸（SAC），温和无刺激",
-        "bioavailability": "高",
+        "disadvantages": [
+          "大蒜素含量低",
+          "成本高",
+          "工艺时间长"
+        ],
         "advantages": [
           "无刺激气味",
           "抗氧化强",
           "SAC标准化"
         ],
-        "disadvantages": [
-          "大蒜素含量低",
-          "成本高",
-          "工艺时间长"
-        ]
+        "name": "陈年大蒜提取物（AGE）",
+        "description": "陈化提取，富含S-烯丙基半胱氨酸（SAC），温和无刺激",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -10700,34 +10535,34 @@
     ],
     "dosageForms": [
       {
-        "name": "肠溶片",
-        "category": "新型剂型",
-        "description": "肠溶包衣保护蒜氨酸酶在肠道激活",
         "advantages": [
           "保护酶活性",
           "减少胃刺激",
           "吸收好"
-        ]
+        ],
+        "name": "肠溶片",
+        "category": "新型剂型",
+        "description": "肠溶包衣保护蒜氨酸酶在肠道激活"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "大蒜粉填充胶囊",
         "advantages": [
           "剂量准确",
           "掩盖气味",
           "便于携带"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "大蒜粉填充胶囊"
       },
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "大蒜油填充软胶囊",
         "advantages": [
           "密封防气味",
           "浓度高",
           "稳定性好"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "大蒜油填充软胶囊"
       }
     ],
     "compliance": [
@@ -10846,7 +10681,10 @@
       ],
       "packagingCost": "约¥0.3-0.6/瓶（100粒装）",
       "totalEstimate": "原料成本低，AGE工艺型产品溢价显著"
-    }
+    },
+    "secondaryCategoryIds": [
+      "immune"
+    ]
   },
   {
     "id": "danshen-extract",
@@ -10871,49 +10709,49 @@
     },
     "forms": [
       {
-        "name": "丹参水提物",
-        "description": "以丹酚酸B为指标的水溶性提取物",
-        "bioavailability": "中",
+        "disadvantages": [
+          "丹参酮含量低",
+          "稳定性一般",
+          "易吸潮"
+        ],
         "advantages": [
           "丹酚酸B含量高",
           "抗氧化强",
           "水溶性好"
         ],
-        "disadvantages": [
-          "丹参酮含量低",
-          "稳定性一般",
-          "易吸潮"
-        ]
+        "name": "丹参水提物",
+        "description": "以丹酚酸B为指标的水溶性提取物",
+        "bioavailability": "中"
       },
       {
-        "name": "丹参醇提物",
-        "description": "以丹参酮IIA为指标的脂溶性提取物",
-        "bioavailability": "中（脂溶性）",
+        "disadvantages": [
+          "水溶性差",
+          "丹酚酸含量低",
+          "颜色深"
+        ],
         "advantages": [
           "丹参酮IIA含量高",
           "抗菌抗炎",
           "稳定性好"
         ],
-        "disadvantages": [
-          "水溶性差",
-          "丹酚酸含量低",
-          "颜色深"
-        ]
+        "name": "丹参醇提物",
+        "description": "以丹参酮IIA为指标的脂溶性提取物",
+        "bioavailability": "中（脂溶性）"
       },
       {
-        "name": "丹参双提物",
-        "description": "水提与醇提合并，兼顾水溶性与脂溶性成分",
-        "bioavailability": "高",
+        "disadvantages": [
+          "工艺复杂",
+          "成本较高",
+          "标准化难"
+        ],
         "advantages": [
           "成分全面",
           "协同增效",
           "符合中医药整体观"
         ],
-        "disadvantages": [
-          "工艺复杂",
-          "成本较高",
-          "标准化难"
-        ]
+        "name": "丹参双提物",
+        "description": "水提与醇提合并，兼顾水溶性与脂溶性成分",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -10941,44 +10779,44 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "提取物粉末填充胶囊",
         "advantages": [
           "剂量准确",
           "掩盖苦味",
           "便于携带"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "提取物粉末填充胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "常与三七、川芎复配",
         "advantages": [
           "可复配",
           "成本低",
           "剂量准确"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "常与三七、川芎复配"
       },
       {
-        "name": "滴丸",
-        "category": "新型剂型",
-        "description": "固体分散技术提升丹参酮溶出",
         "advantages": [
           "溶出快",
           "生物利用度高",
           "起效快"
-        ]
+        ],
+        "name": "滴丸",
+        "category": "新型剂型",
+        "description": "固体分散技术提升丹参酮溶出"
       },
       {
-        "name": "脂质体",
-        "category": "前沿剂型",
-        "description": "丹参酮脂质体提升水溶性",
         "advantages": [
           "水溶性好",
           "靶向释放",
           "生物利用度高"
-        ]
+        ],
+        "name": "脂质体",
+        "category": "前沿剂型",
+        "description": "丹参酮脂质体提升水溶性"
       }
     ],
     "compliance": [
@@ -11111,6 +10949,7 @@
     "category": "心血管健康",
     "categoryId": "cardiovascular",
     "secondaryCategoryIds": [
+      "antioxidant",
       "herb-food"
     ],
     "popularity": 3,
@@ -11130,49 +10969,49 @@
     },
     "forms": [
       {
-        "name": "山楂叶提取物",
-        "description": "山楂叶提取，牡荆素含量较高",
-        "bioavailability": "中",
+        "disadvantages": [
+          "果实多酚少",
+          "口感涩",
+          "需精制"
+        ],
         "advantages": [
           "牡荆素含量高",
           "黄酮类丰富",
           "标准化容易"
         ],
-        "disadvantages": [
-          "果实多酚少",
-          "口感涩",
-          "需精制"
-        ]
+        "name": "山楂叶提取物",
+        "description": "山楂叶提取，牡荆素含量较高",
+        "bioavailability": "中"
       },
       {
-        "name": "山楂果提取物",
-        "description": "果实提取，富含原花青素及有机酸",
-        "bioavailability": "中",
+        "disadvantages": [
+          "黄酮含量较低",
+          "标准化难",
+          "颜色深"
+        ],
         "advantages": [
           "成分全面",
           "含原花青素",
           "传统食用历史"
         ],
-        "disadvantages": [
-          "黄酮含量较低",
-          "标准化难",
-          "颜色深"
-        ]
+        "name": "山楂果提取物",
+        "description": "果实提取，富含原花青素及有机酸",
+        "bioavailability": "中"
       },
       {
-        "name": "标准化山楂提取物（WS 1442）",
-        "description": "德国标准化叶花提取物，黄酮18.75%",
-        "bioavailability": "高",
+        "disadvantages": [
+          "专利限制",
+          "成本高",
+          "剂型受限"
+        ],
         "advantages": [
           "临床研究充分",
           "标准化高",
           "效果明确"
         ],
-        "disadvantages": [
-          "专利限制",
-          "成本高",
-          "剂型受限"
-        ]
+        "name": "标准化山楂提取物（WS 1442）",
+        "description": "德国标准化叶花提取物，黄酮18.75%",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -11200,43 +11039,43 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "提取物粉末填充胶囊",
         "advantages": [
           "剂量准确",
           "掩盖苦味",
           "便于携带"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "提取物粉末填充胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "常与丹参、决明子复配",
         "advantages": [
           "可复配",
           "成本低",
           "剂量准确"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "常与丹参、决明子复配"
       },
       {
-        "name": "酊剂",
-        "category": "传统剂型",
-        "description": "乙醇浸提液，起效快",
         "advantages": [
           "吸收快",
           "剂量灵活",
           "传统剂型"
-        ]
+        ],
+        "name": "酊剂",
+        "category": "传统剂型",
+        "description": "乙醇浸提液，起效快"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "缓释维持血药浓度",
         "advantages": [
           "持续作用",
           "减少服用次数"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "缓释维持血药浓度"
       }
     ],
     "compliance": [
@@ -11378,64 +11217,64 @@
     },
     "forms": [
       {
-        "name": "氧化镁",
-        "description": "镁含量高（60%）但吸收率低，成本低",
-        "bioavailability": "低（约4%）",
+        "disadvantages": [
+          "吸收率极低",
+          "易致腹泻",
+          "胃肠刺激"
+        ],
         "advantages": [
           "镁含量最高",
           "成本低",
           "原料充足"
         ],
-        "disadvantages": [
-          "吸收率极低",
-          "易致腹泻",
-          "胃肠刺激"
-        ]
+        "name": "氧化镁",
+        "description": "镁含量高（60%）但吸收率低，成本低",
+        "bioavailability": "低（约4%）"
       },
       {
-        "name": "甘氨酸镁",
-        "description": "镁与甘氨酸螯合，吸收率高且温和",
-        "bioavailability": "高",
+        "disadvantages": [
+          "镁含量低（14%）",
+          "成本较高",
+          "体积大"
+        ],
         "advantages": [
           "生物利用度高",
           "胃肠温和",
           "不致腹泻"
         ],
-        "disadvantages": [
-          "镁含量低（14%）",
-          "成本较高",
-          "体积大"
-        ]
+        "name": "甘氨酸镁",
+        "description": "镁与甘氨酸螯合，吸收率高且温和",
+        "bioavailability": "高"
       },
       {
-        "name": "柠檬酸镁",
-        "description": "镁与柠檬酸结合，水溶性好吸收佳",
-        "bioavailability": "中高",
+        "disadvantages": [
+          "镁含量低（16%）",
+          "剂量大",
+          "有酸味"
+        ],
         "advantages": [
           "吸收较好",
           "水溶性好",
           "可液态口服"
         ],
-        "disadvantages": [
-          "镁含量低（16%）",
-          "剂量大",
-          "有酸味"
-        ]
+        "name": "柠檬酸镁",
+        "description": "镁与柠檬酸结合，水溶性好吸收佳",
+        "bioavailability": "中高"
       },
       {
-        "name": "苏糖酸镁",
-        "description": "镁与苏糖酸结合，可穿越血脑屏障",
-        "bioavailability": "高（脑组织富集）",
+        "disadvantages": [
+          "价格最高",
+          "镁含量低",
+          "工艺复杂"
+        ],
         "advantages": [
           "可入脑",
           "改善认知",
           "专利原料"
         ],
-        "disadvantages": [
-          "价格最高",
-          "镁含量低",
-          "工艺复杂"
-        ]
+        "name": "苏糖酸镁",
+        "description": "镁与苏糖酸结合，可穿越血脑屏障",
+        "bioavailability": "高（脑组织富集）"
       }
     ],
     "suppliers": [
@@ -11470,43 +11309,43 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "镁盐压片，最常见剂型",
         "advantages": [
           "剂量准确",
           "成本低",
           "稳定性好"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "镁盐压片，最常见剂型"
       },
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "螯合镁填充胶囊",
         "advantages": [
           "避免压片破坏螯合",
           "剂量准确"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "螯合镁填充胶囊"
       },
       {
-        "name": "泡腾片",
-        "category": "新型剂型",
-        "description": "冲饮泡腾，口感好吸收快",
         "advantages": [
           "口感好",
           "吸收快",
           "适合儿童老人"
-        ]
+        ],
+        "name": "泡腾片",
+        "category": "新型剂型",
+        "description": "冲饮泡腾，口感好吸收快"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "缓释避免一次性高血镁致腹泻",
         "advantages": [
           "减少腹泻",
           "血镁平稳",
           "持续补充"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "缓释避免一次性高血镁致腹泻"
       }
     ],
     "compliance": [
@@ -11632,7 +11471,11 @@
       ],
       "packagingCost": "约¥0.3-0.6/瓶（100粒装）",
       "totalEstimate": "氧化镁低成本竞争，螯合镁及苏糖酸镁溢价高"
-    }
+    },
+    "secondaryCategoryIds": [
+      "bone",
+      "sleep"
+    ]
   },
   {
     "id": "potassium-cardio",
@@ -11657,64 +11500,64 @@
     },
     "forms": [
       {
-        "name": "氯化钾",
-        "description": "钾含量高（52%），最常见补充形式",
-        "bioavailability": "高",
+        "disadvantages": [
+          "胃肠刺激强",
+          "口感差",
+          "肠溶包衣需谨慎（溃疡风险）"
+        ],
         "advantages": [
           "钾含量最高",
           "成本低",
           "原料充足"
         ],
-        "disadvantages": [
-          "胃肠刺激强",
-          "口感差",
-          "肠溶包衣需谨慎（溃疡风险）"
-        ]
+        "name": "氯化钾",
+        "description": "钾含量高（52%），最常见补充形式",
+        "bioavailability": "高"
       },
       {
-        "name": "柠檬酸钾",
-        "description": "钾与柠檬酸结合，温和且碱化尿液",
-        "bioavailability": "高",
+        "disadvantages": [
+          "钾含量低（36%）",
+          "剂量大",
+          "成本略高"
+        ],
         "advantages": [
           "胃肠温和",
           "口感好",
           "碱化尿液（防肾结石）"
         ],
-        "disadvantages": [
-          "钾含量低（36%）",
-          "剂量大",
-          "成本略高"
-        ]
+        "name": "柠檬酸钾",
+        "description": "钾与柠檬酸结合，温和且碱化尿液",
+        "bioavailability": "高"
       },
       {
-        "name": "葡萄糖酸钾",
-        "description": "钾与葡萄糖酸结合，口感好",
-        "bioavailability": "中高",
+        "disadvantages": [
+          "钾含量低（17%）",
+          "体积大",
+          "成本高"
+        ],
         "advantages": [
           "口感好",
           "胃肠温和",
           "适合液态剂型"
         ],
-        "disadvantages": [
-          "钾含量低（17%）",
-          "体积大",
-          "成本高"
-        ]
+        "name": "葡萄糖酸钾",
+        "description": "钾与葡萄糖酸结合，口感好",
+        "bioavailability": "中高"
       },
       {
-        "name": "天冬氨酸钾",
-        "description": "钾与天冬氨酸结合，参与能量代谢",
-        "bioavailability": "高",
+        "disadvantages": [
+          "钾含量低",
+          "成本高",
+          "产量有限"
+        ],
         "advantages": [
           "吸收好",
           "参与三羧酸循环",
           "运动营养常用"
         ],
-        "disadvantages": [
-          "钾含量低",
-          "成本高",
-          "产量有限"
-        ]
+        "name": "天冬氨酸钾",
+        "description": "钾与天冬氨酸结合，参与能量代谢",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -11749,44 +11592,44 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "氯化钾或柠檬酸钾压片",
         "advantages": [
           "剂量准确",
           "成本低",
           "稳定性好"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "氯化钾或柠檬酸钾压片"
       },
       {
-        "name": "缓释片",
-        "category": "新型剂型",
-        "description": "蜡质骨架缓释避免血钾骤升",
         "advantages": [
           "血钾平稳",
           "减少胃肠刺激",
           "减少服用次数"
-        ]
+        ],
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "蜡质骨架缓释避免血钾骤升"
       },
       {
-        "name": "冲饮粉",
-        "category": "传统剂型",
-        "description": "电解质冲饮，含钠钾等",
         "advantages": [
           "剂量灵活",
           "口感好",
           "运动补液"
-        ]
+        ],
+        "name": "冲饮粉",
+        "category": "传统剂型",
+        "description": "电解质冲饮，含钠钾等"
       },
       {
-        "name": "微囊缓释",
-        "category": "前沿剂型",
-        "description": "微囊化缓释提升安全性",
         "advantages": [
           "释放更均匀",
           "溃疡风险更低",
           "生物利用度高"
-        ]
+        ],
+        "name": "微囊缓释",
+        "category": "前沿剂型",
+        "description": "微囊化缓释提升安全性"
       }
     ],
     "compliance": [
@@ -11913,7 +11756,10 @@
       ],
       "packagingCost": "约¥0.3-0.5/瓶（90粒装）",
       "totalEstimate": "原料便宜，缓释剂型及电解质配方溢价较好"
-    }
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
   },
   {
     "id": "calcium-carbonate-bone",
@@ -11938,49 +11784,49 @@
     },
     "forms": [
       {
-        "name": "重质碳酸钙",
-        "description": "天然矿石粉碎，成本低，含钙约40%",
-        "bioavailability": "中（需胃酸）",
+        "disadvantages": [
+          "需胃酸溶解",
+          "易致便秘胀气",
+          "老年人胃酸低吸收差"
+        ],
         "advantages": [
           "钙含量最高",
           "成本最低",
           "原料广泛"
         ],
-        "disadvantages": [
-          "需胃酸溶解",
-          "易致便秘胀气",
-          "老年人胃酸低吸收差"
-        ]
+        "name": "重质碳酸钙",
+        "description": "天然矿石粉碎，成本低，含钙约40%",
+        "bioavailability": "中（需胃酸）"
       },
       {
-        "name": "轻质碳酸钙（沉淀碳酸钙）",
-        "description": "化学沉淀法制备，纯度高粒度细",
-        "bioavailability": "中（需胃酸）",
+        "disadvantages": [
+          "仍需胃酸",
+          "成本略高",
+          "体积大"
+        ],
         "advantages": [
           "纯度高",
           "粒度细",
           "重金属低"
         ],
-        "disadvantages": [
-          "仍需胃酸",
-          "成本略高",
-          "体积大"
-        ]
+        "name": "轻质碳酸钙（沉淀碳酸钙）",
+        "description": "化学沉淀法制备，纯度高粒度细",
+        "bioavailability": "中（需胃酸）"
       },
       {
-        "name": "珊瑚钙",
-        "description": "天然珊瑚来源，含微量元素",
-        "bioavailability": "中",
+        "disadvantages": [
+          "钙含量与碳酸钙相当",
+          "价格高",
+          "环保争议"
+        ],
         "advantages": [
           "天然来源",
           "含微量元素",
           "营销概念强"
         ],
-        "disadvantages": [
-          "钙含量与碳酸钙相当",
-          "价格高",
-          "环保争议"
-        ]
+        "name": "珊瑚钙",
+        "description": "天然珊瑚来源，含微量元素",
+        "bioavailability": "中"
       }
     ],
     "suppliers": [
@@ -12015,44 +11861,44 @@
     ],
     "dosageForms": [
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "碳酸钙压片，常复配维D3",
         "advantages": [
           "剂量准确",
           "成本低",
           "稳定性好"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "碳酸钙压片，常复配维D3"
       },
       {
-        "name": "咀嚼片",
-        "category": "传统剂型",
-        "description": "调味咀嚼片，适合儿童老人",
         "advantages": [
           "口感好",
           "适合儿童",
           "依从性高"
-        ]
+        ],
+        "name": "咀嚼片",
+        "category": "传统剂型",
+        "description": "调味咀嚼片，适合儿童老人"
       },
       {
-        "name": "泡腾片",
-        "category": "新型剂型",
-        "description": "泡腾冲饮，无需胃酸溶解",
         "advantages": [
           "无需胃酸",
           "吸收快",
           "适合胃酸低者"
-        ]
+        ],
+        "name": "泡腾片",
+        "category": "新型剂型",
+        "description": "泡腾冲饮，无需胃酸溶解"
       },
       {
-        "name": "软胶囊",
-        "category": "传统剂型",
-        "description": "碳酸钙混悬液填充软胶囊",
         "advantages": [
           "易吞咽",
           "无砂砾感",
           "可复配维D"
-        ]
+        ],
+        "name": "软胶囊",
+        "category": "传统剂型",
+        "description": "碳酸钙混悬液填充软胶囊"
       }
     ],
     "compliance": [
@@ -12207,49 +12053,49 @@
     },
     "forms": [
       {
-        "name": "微生物发酵透明质酸",
-        "description": "马链球菌发酵提取，分子量可控，主流来源",
-        "bioavailability": "中（口服）",
+        "disadvantages": [
+          "发酵成本",
+          "内毒素需控制",
+          "工艺要求高"
+        ],
         "advantages": [
           "无动物源风险",
           "分子量可控",
           "纯度高"
         ],
-        "disadvantages": [
-          "发酵成本",
-          "内毒素需控制",
-          "工艺要求高"
-        ]
+        "name": "微生物发酵透明质酸",
+        "description": "马链球菌发酵提取，分子量可控，主流来源",
+        "bioavailability": "中（口服）"
       },
       {
-        "name": "鸡冠提取透明质酸",
-        "description": "鸡冠提取，天然高分子量，传统来源",
-        "bioavailability": "中",
+        "disadvantages": [
+          "动物源风险",
+          "禽流感顾虑",
+          "宗教限制"
+        ],
         "advantages": [
           "天然来源",
           "高分子量",
           "传统工艺"
         ],
-        "disadvantages": [
-          "动物源风险",
-          "禽流感顾虑",
-          "宗教限制"
-        ]
+        "name": "鸡冠提取透明质酸",
+        "description": "鸡冠提取，天然高分子量，传统来源",
+        "bioavailability": "中"
       },
       {
-        "name": "酶切低分子量透明质酸",
-        "description": "酶解为低分子量片段，口服吸收更好",
-        "bioavailability": "高",
+        "disadvantages": [
+          "成本高",
+          "工艺复杂",
+          "注射级不适合"
+        ],
         "advantages": [
           "口服吸收好",
           "关节富集高",
           "可标准化"
         ],
-        "disadvantages": [
-          "成本高",
-          "工艺复杂",
-          "注射级不适合"
-        ]
+        "name": "酶切低分子量透明质酸",
+        "description": "酶解为低分子量片段，口服吸收更好",
+        "bioavailability": "高"
       }
     ],
     "suppliers": [
@@ -12284,44 +12130,44 @@
     ],
     "dosageForms": [
       {
-        "name": "胶囊",
-        "category": "传统剂型",
-        "description": "粉末填充胶囊",
         "advantages": [
           "剂量准确",
           "便于携带",
           "无味"
-        ]
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充胶囊"
       },
       {
-        "name": "片剂",
-        "category": "传统剂型",
-        "description": "常与氨糖、软骨素复配",
         "advantages": [
           "可复配",
           "成本低",
           "剂量准确"
-        ]
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "常与氨糖、软骨素复配"
       },
       {
-        "name": "口服液",
-        "category": "新型剂型",
-        "description": "液态口服，吸收快",
         "advantages": [
           "吸收快",
           "口感好",
           "便携"
-        ]
+        ],
+        "name": "口服液",
+        "category": "新型剂型",
+        "description": "液态口服，吸收快"
       },
       {
-        "name": "关节注射剂",
-        "category": "前沿剂型",
-        "description": "无菌注射级，关节腔注射",
         "advantages": [
           "直接润滑关节",
           "起效快",
           "医疗级"
-        ]
+        ],
+        "name": "关节注射剂",
+        "category": "前沿剂型",
+        "description": "无菌注射级，关节腔注射"
       }
     ],
     "compliance": [
@@ -12443,6 +12289,240 @@
       ],
       "packagingCost": "约¥0.4-0.8/瓶（60粒装）",
       "totalEstimate": "食品级原料成本下降，注射级溢价极高"
+    },
+    "secondaryCategoryIds": [
+      "beauty"
+    ]
+  },
+  {
+    "id": "strontium-ranelate",
+    "name": "锶(雷奈酸锶)",
+    "nameEn": "Strontium Ranelate",
+    "category": "骨骼关节",
+    "categoryId": "bone",
+    "popularity": 3,
+    "summary": "由两个稳定锶原子与雷奈酸组成的有机锶盐，具有促进骨形成和抑制骨吸收的双重作用。欧洲曾批准为抗骨质疏松处方药，后因心血管风险受限。",
+    "chemicalStructure": {
+      "smiles": "O=C(O)C(=C(C(=O)O)Sc1ccccc1)Sc1ccccc1.[Sr+2]",
+      "molecularFormula": "C₁₂H₆N₂O₈SSr₂",
+      "molecularWeight": "513.49 g/mol",
+      "casNumber": "135459-87-9"
+    },
+    "dosage": {
+      "minEffective": "1000",
+      "recommended": "2000",
+      "safeUpperLimit": "2000",
+      "unit": "mg/天",
+      "note": "雷奈酸锶为处方药（非补充剂）。睡前空腹服用，与钙/食物间隔2小时。因心血管风险升高，EMA于2017年限用于无法使用其他抗骨质疏松药物的高骨折风险患者。有静脉血栓史者禁用。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "心血管风险限制",
+          "处方药非补充剂",
+          "需医生指导"
+        ],
+        "advantages": [
+          "双重作用骨代谢",
+          "临床证据充分",
+          "处方级"
+        ],
+        "name": "雷奈酸锶",
+        "description": "有机锶盐，处方药形式",
+        "bioavailability": "中（约25%）"
+      },
+      {
+        "disadvantages": [
+          "临床证据少",
+          "功效不确定",
+          "剂量标准缺乏"
+        ],
+        "advantages": [
+          "可作补充剂",
+          "成本较低",
+          "吸收较好"
+        ],
+        "name": "柠檬酸锶",
+        "description": "部分补充剂使用的锶盐形式",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "吸收差",
+          "临床证据少",
+          "不推荐使用"
+        ],
+        "advantages": [
+          "成本低",
+          "原料易得"
+        ],
+        "name": "碳酸锶",
+        "description": "无机锶盐，研究用形式",
+        "bioavailability": "低"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Les Laboratoires Servier (施维雅)",
+        "country": "法国",
+        "website": "https://www.servier.com",
+        "purity": "≥99.0%",
+        "features": "雷奈酸锶原研药厂，Protelos品牌，专利持有者"
+      },
+      {
+        "name": "Alfa Aesar (赛默飞)",
+        "country": "美国",
+        "website": "https://www.alfa.com",
+        "purity": "≥99.0%",
+        "features": "科研级锶盐试剂供应商"
+      },
+      {
+        "name": "Sigma-Aldrich (默克)",
+        "country": "德国",
+        "website": "",
+        "purity": "≥98.0%",
+        "features": "科研级锶盐标准品"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "冲饮方便",
+          "处方级"
+        ],
+        "name": "颗粒剂",
+        "category": "传统剂型",
+        "description": "处方药颗粒冲剂，睡前服用"
+      },
+      {
+        "advantages": [
+          "剂量准确",
+          "便于携带"
+        ],
+        "name": "胶囊",
+        "category": "传统剂型",
+        "description": "补充剂级锶盐胶囊"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "restricted",
+        "description": "雷奈酸锶为处方药，非保健食品原料",
+        "usageNote": "需处方，不可作为补充剂"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "prohibited",
+        "description": "FDA未批准雷奈酸锶作为药品或补充剂",
+        "usageNote": "锶盐补充剂处于灰色地带"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "restricted",
+        "description": "EMA 2017年限用于无法使用其他抗骨质疏松药物的高风险患者",
+        "usageNote": "心血管及静脉血栓禁忌"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "获批为骨质疏松处方药"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "restricted",
+        "description": "TGA限制使用，处方药",
+        "usageNote": "心血管风险评估后使用"
+      }
+    ],
+    "efficacy": "促进成骨细胞分化及骨形成（preclinical）；抑制破骨细胞分化及骨吸收；增加骨密度及骨小梁微结构；降低椎体及非椎体骨折风险；因心血管风险受限，仅用于高骨折风险且无其他选择的绝经后骨质疏松女性。",
+    "mechanism": {
+      "overview": "锶原子在骨矿中部分取代钙原子，增强骨矿密度；同时通过钙敏受体（CaSR）调节成骨细胞促进骨形成、抑制破骨细胞减少骨吸收，具有双重作用。",
+      "steps": [
+        {
+          "title": "骨矿锶取代钙",
+          "description": "锶与钙化学性质相似，在骨矿羟基磷灰石中部分取代钙原子，增加骨矿物密度（BMD测量值可能偏高）。"
+        },
+        {
+          "title": "促进成骨细胞分化",
+          "description": "锶通过钙敏受体（CaSR）激活成骨细胞，促进RUNX2及骨钙素表达，增强骨形成。"
+        },
+        {
+          "title": "抑制破骨细胞",
+          "description": "锶通过CaSR及RANKL/OPG通路抑制破骨细胞分化与活性，减少骨吸收。"
+        },
+        {
+          "title": "改善骨微结构",
+          "description": "骨形成增加与吸收减少的双重作用改善骨小梁微结构及骨强度，降低骨折风险。"
+        }
+      ],
+      "scientificReferences": [
+        "Meunier PJ, et al. N Engl J Med. 2004;350(5):459-468. (STRATOS试验)",
+        "Reginster JY, et al. J Clin Endocrinol Metab. 2005;90(5):2816-2822. (TROPOS试验)",
+        "EMA. Protelos EPAR 2017年限制建议.",
+        "Kanis JA, et al. Bone. 2011;48(3):565-571."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Protelos (雷奈酸锶颗粒剂)",
+        "brand": "Servier (施维雅)",
+        "url": "https://www.servier.com",
+        "price": "€30/28袋",
+        "sales": "欧洲处方药，受限后销量下降",
+        "otherIngredients": [
+          "阿斯巴甜",
+          "麦芽糖糊精",
+          "甘露醇"
+        ],
+        "dosageForm": "颗粒剂"
+      },
+      {
+        "name": "Strontium Bone Maker (Now Foods，柠檬酸锶)",
+        "brand": "NOW Foods",
+        "url": "",
+        "price": "$25/60粒胶囊",
+        "sales": "Amazon月销3000+",
+        "otherIngredients": [
+          "纤维素",
+          "硬脂酸镁"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "Strontium Citrate (Solgar)",
+        "brand": "Solgar",
+        "url": "",
+        "price": "$20/60粒片剂",
+        "sales": "Amazon月销2000+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "交联羧甲基纤维素钠",
+          "硬脂酸镁"
+        ],
+        "dosageForm": "片剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "雷奈酸锶处方药原料约¥5000-15000/kg；柠檬酸锶约¥200-500/kg",
+      "dosageFormCost": [
+        {
+          "form": "颗粒剂",
+          "cost": "约¥1-3/袋（2g雷奈酸锶）"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.15-0.30/粒（340mg柠檬酸锶）"
+        }
+      ],
+      "packagingCost": "约¥0.5-1.0/袋/瓶",
+      "totalEstimate": "处方药受限后市场萎缩，柠檬酸锶补充剂小众市场"
     }
   }
 ]

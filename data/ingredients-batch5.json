@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "dendrobium",
+    "name": "铁皮石斛提取物",
+    "nameEn": "Dendrobium officinale extract",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "eye"
+    ],
+    "popularity": 4,
+    "summary": "铁皮石斛滋阴生津、明目，传统用于胃阴不足与视物昏花。",
+    "chemicalStructure": {
+      "smiles": "N/A(石斛特征为石斛多糖与石斛碱)",
+      "molecularFormula": "C16H25NO4(石斛碱)",
+      "molecularWeight": "295.37 g/mol",
+      "casNumber": "2115-91-5(石斛碱)"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天(标准化提取物)",
+      "note": "作日常食养，脾胃虚寒或特殊人群按需调整；孕妇遵医嘱。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "需长期"
+        ],
+        "advantages": [
+          "标准化",
+          "方便"
+        ],
+        "name": "水提物胶囊",
+        "description": "水煎煮提取浓缩喷雾干燥胶囊",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "风味"
+        ],
+        "advantages": [
+          "全谱",
+          "灵活"
+        ],
+        "name": "粉剂/代餐",
+        "description": "超微粉冲服或入膳",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "advantages": [
+          "传统",
+          "方便"
+        ],
+        "name": "袋泡茶",
+        "description": "切片或粉碎袋泡",
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "标准化提取物",
+        "features": "植物提取物供应商"
+      },
+      {
+        "name": "湖南华诚生物",
+        "country": "中国",
+        "website": "https://www.huachengbio.com",
+        "purity": "标准化",
+        "features": "药食同源提取物"
+      },
+      {
+        "name": "晨光/国内植提厂",
+        "country": "中国",
+        "website": "",
+        "purity": "标准化",
+        "features": "代工"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "成本低",
+          "稳定"
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充硬胶囊，最常见剂型"
+      },
+      {
+        "advantages": [
+          "成本低",
+          "易包衣",
+          "剂量稳定"
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "粉末压片，便于大规模生产"
+      },
+      {
+        "advantages": [
+          "调配灵活",
+          "吸收快",
+          "适合复方"
+        ],
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "原料直接分装或冲服"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "相应食养功能"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "作为膳食成分"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "部分需新资源授权"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品/功能性标示"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "补充成分"
+      }
+    ],
+    "efficacy": "铁皮石斛滋阴生津、明目，传统用于胃阴不足与视物昏花。",
+    "mechanism": {
+      "overview": "多组分协同调节：多糖免疫、皂苷/黄酮抗氧化抗炎、多酚护血管。",
+      "steps": [
+        {
+          "title": "免疫调节",
+          "description": "多糖激活肠免疫"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚类清除自由基"
+        }
+      ],
+      "scientificReferences": [
+        "中国中药杂志. 2020;45(10):",
+        "J Ethnopharmacol. 2019;231:"
+      ]
+    },
+    "productCases": [
+      {
+        "name": "铁皮石斛提取物 食养胶囊",
+        "brand": "国内品牌",
+        "url": "",
+        "price": "¥60-120/瓶",
+        "sales": "电商在售",
+        "otherIngredients": [
+          "胶囊壳"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "铁皮石斛提取物 代泡茶",
+        "brand": "同仁堂/品牌",
+        "url": "",
+        "price": "¥30-80/盒",
+        "sales": "药房月销1万+",
+        "otherIngredients": [
+          "其他药食同源"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-200/kg(标准化提取物)",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.3/包"
+        }
+      ],
+      "packagingCost": "¥0.5-2/单位",
+      "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    }
+  },
+  {
+    "id": "codonopsis",
+    "name": "党参提取物",
+    "nameEn": "Codonopsis pilosula extract",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "immune",
+      "energy"
+    ],
+    "popularity": 4,
+    "summary": "党参健脾益肺、养血生津，传统用于气短乏力与免疫力低下。",
+    "chemicalStructure": {
+      "smiles": "N/A(传统药食同源植物，活性为多糖/皂苷/黄酮等混合物)",
+      "molecularFormula": "N/A(混合物)",
+      "molecularWeight": "N/A",
+      "casNumber": "N/A(天然来源)"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天(标准化提取物)",
+      "note": "作日常食养，脾胃虚寒或特殊人群按需调整；孕妇遵医嘱。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "需长期"
+        ],
+        "advantages": [
+          "标准化",
+          "方便"
+        ],
+        "name": "水提物胶囊",
+        "description": "水煎煮提取浓缩喷雾干燥胶囊",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "风味"
+        ],
+        "advantages": [
+          "全谱",
+          "灵活"
+        ],
+        "name": "粉剂/代餐",
+        "description": "超微粉冲服或入膳",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "advantages": [
+          "传统",
+          "方便"
+        ],
+        "name": "袋泡茶",
+        "description": "切片或粉碎袋泡",
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "标准化提取物",
+        "features": "植物提取物供应商"
+      },
+      {
+        "name": "湖南华诚生物",
+        "country": "中国",
+        "website": "https://www.huachengbio.com",
+        "purity": "标准化",
+        "features": "药食同源提取物"
+      },
+      {
+        "name": "晨光/国内植提厂",
+        "country": "中国",
+        "website": "",
+        "purity": "标准化",
+        "features": "代工"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "成本低",
+          "稳定"
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充硬胶囊，最常见剂型"
+      },
+      {
+        "advantages": [
+          "成本低",
+          "易包衣",
+          "剂量稳定"
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "粉末压片，便于大规模生产"
+      },
+      {
+        "advantages": [
+          "调配灵活",
+          "吸收快",
+          "适合复方"
+        ],
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "原料直接分装或冲服"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "相应食养功能"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "作为膳食成分"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "部分需新资源授权"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品/功能性标示"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "补充成分"
+      }
+    ],
+    "efficacy": "党参健脾益肺、养血生津，传统用于气短乏力与免疫力低下。",
+    "mechanism": {
+      "overview": "多组分协同调节：多糖免疫、皂苷/黄酮抗氧化抗炎、多酚护血管。",
+      "steps": [
+        {
+          "title": "免疫调节",
+          "description": "多糖激活肠免疫"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚类清除自由基"
+        }
+      ],
+      "scientificReferences": [
+        "中国中药杂志. 2020;45(10):",
+        "J Ethnopharmacol. 2019;231:"
+      ]
+    },
+    "productCases": [
+      {
+        "name": "党参提取物 食养胶囊",
+        "brand": "国内品牌",
+        "url": "",
+        "price": "¥60-120/瓶",
+        "sales": "电商在售",
+        "otherIngredients": [
+          "胶囊壳"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "党参提取物 代泡茶",
+        "brand": "同仁堂/品牌",
+        "url": "",
+        "price": "¥30-80/盒",
+        "sales": "药房月销1万+",
+        "otherIngredients": [
+          "其他药食同源"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-200/kg(标准化提取物)",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.3/包"
+        }
+      ],
+      "packagingCost": "¥0.5-2/单位",
+      "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    }
+  },
+  {
+    "id": "cistanche",
+    "name": "肉苁蓉提取物",
+    "nameEn": "Cistanche deserticola extract",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "energy",
+      "bone"
+    ],
+    "popularity": 4,
+    "summary": "肉苁蓉补肾阳、益精血，传统用于腰膝酸软与精力不足，含苯乙醇苷。",
+    "chemicalStructure": {
+      "smiles": "N/A(肉苁蓉特征为松果菊苷/毛蕊花糖苷等苯乙醇苷)",
+      "molecularFormula": "C29H36O15(松果菊苷)",
+      "molecularWeight": "624.59 g/mol",
+      "casNumber": "82854-37-3(松果菊苷)"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天(标准化提取物)",
+      "note": "作日常食养，脾胃虚寒或特殊人群按需调整；孕妇遵医嘱。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "需长期"
+        ],
+        "advantages": [
+          "标准化",
+          "方便"
+        ],
+        "name": "水提物胶囊",
+        "description": "水煎煮提取浓缩喷雾干燥胶囊",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "风味"
+        ],
+        "advantages": [
+          "全谱",
+          "灵活"
+        ],
+        "name": "粉剂/代餐",
+        "description": "超微粉冲服或入膳",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "advantages": [
+          "传统",
+          "方便"
+        ],
+        "name": "袋泡茶",
+        "description": "切片或粉碎袋泡",
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "标准化提取物",
+        "features": "植物提取物供应商"
+      },
+      {
+        "name": "湖南华诚生物",
+        "country": "中国",
+        "website": "https://www.huachengbio.com",
+        "purity": "标准化",
+        "features": "药食同源提取物"
+      },
+      {
+        "name": "晨光/国内植提厂",
+        "country": "中国",
+        "website": "",
+        "purity": "标准化",
+        "features": "代工"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "成本低",
+          "稳定"
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充硬胶囊，最常见剂型"
+      },
+      {
+        "advantages": [
+          "成本低",
+          "易包衣",
+          "剂量稳定"
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "粉末压片，便于大规模生产"
+      },
+      {
+        "advantages": [
+          "调配灵活",
+          "吸收快",
+          "适合复方"
+        ],
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "原料直接分装或冲服"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "相应食养功能"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "作为膳食成分"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "部分需新资源授权"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品/功能性标示"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "补充成分"
+      }
+    ],
+    "efficacy": "肉苁蓉补肾阳、益精血，传统用于腰膝酸软与精力不足，含苯乙醇苷。",
+    "mechanism": {
+      "overview": "多组分协同调节：多糖免疫、皂苷/黄酮抗氧化抗炎、多酚护血管。",
+      "steps": [
+        {
+          "title": "免疫调节",
+          "description": "多糖激活肠免疫"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚类清除自由基"
+        }
+      ],
+      "scientificReferences": [
+        "中国中药杂志. 2020;45(10):",
+        "J Ethnopharmacol. 2019;231:"
+      ]
+    },
+    "productCases": [
+      {
+        "name": "肉苁蓉提取物 食养胶囊",
+        "brand": "国内品牌",
+        "url": "",
+        "price": "¥60-120/瓶",
+        "sales": "电商在售",
+        "otherIngredients": [
+          "胶囊壳"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "肉苁蓉提取物 代泡茶",
+        "brand": "同仁堂/品牌",
+        "url": "",
+        "price": "¥30-80/盒",
+        "sales": "药房月销1万+",
+        "otherIngredients": [
+          "其他药食同源"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-200/kg(标准化提取物)",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.3/包"
+        }
+      ],
+      "packagingCost": "¥0.5-2/单位",
+      "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    }
+  },
+  {
+    "id": "gastrodia",
+    "name": "天麻提取物",
+    "nameEn": "Gastrodia elata extract",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "sleep"
+    ],
+    "popularity": 4,
+    "summary": "天麻息风止痉、平抑肝阳，传统用于头痛眩晕与安神，含天麻素。",
+    "chemicalStructure": {
+      "smiles": "N/A(天麻特征成分为天麻素与对羟基苯甲醇)",
+      "molecularFormula": "C13H18O9(天麻素)",
+      "molecularWeight": "318.28 g/mol",
+      "casNumber": "62499-27-8(天麻素)"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天(标准化提取物)",
+      "note": "作日常食养，脾胃虚寒或特殊人群按需调整；孕妇遵医嘱。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "需长期"
+        ],
+        "advantages": [
+          "标准化",
+          "方便"
+        ],
+        "name": "水提物胶囊",
+        "description": "水煎煮提取浓缩喷雾干燥胶囊",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "风味"
+        ],
+        "advantages": [
+          "全谱",
+          "灵活"
+        ],
+        "name": "粉剂/代餐",
+        "description": "超微粉冲服或入膳",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "advantages": [
+          "传统",
+          "方便"
+        ],
+        "name": "袋泡茶",
+        "description": "切片或粉碎袋泡",
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "标准化提取物",
+        "features": "植物提取物供应商"
+      },
+      {
+        "name": "湖南华诚生物",
+        "country": "中国",
+        "website": "https://www.huachengbio.com",
+        "purity": "标准化",
+        "features": "药食同源提取物"
+      },
+      {
+        "name": "晨光/国内植提厂",
+        "country": "中国",
+        "website": "",
+        "purity": "标准化",
+        "features": "代工"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "成本低",
+          "稳定"
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充硬胶囊，最常见剂型"
+      },
+      {
+        "advantages": [
+          "成本低",
+          "易包衣",
+          "剂量稳定"
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "粉末压片，便于大规模生产"
+      },
+      {
+        "advantages": [
+          "调配灵活",
+          "吸收快",
+          "适合复方"
+        ],
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "原料直接分装或冲服"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "相应食养功能"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "作为膳食成分"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "部分需新资源授权"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品/功能性标示"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "补充成分"
+      }
+    ],
+    "efficacy": "天麻息风止痉、平抑肝阳，传统用于头痛眩晕与安神，含天麻素。",
+    "mechanism": {
+      "overview": "多组分协同调节：多糖免疫、皂苷/黄酮抗氧化抗炎、多酚护血管。",
+      "steps": [
+        {
+          "title": "免疫调节",
+          "description": "多糖激活肠免疫"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚类清除自由基"
+        }
+      ],
+      "scientificReferences": [
+        "中国中药杂志. 2020;45(10):",
+        "J Ethnopharmacol. 2019;231:"
+      ]
+    },
+    "productCases": [
+      {
+        "name": "天麻提取物 食养胶囊",
+        "brand": "国内品牌",
+        "url": "",
+        "price": "¥60-120/瓶",
+        "sales": "电商在售",
+        "otherIngredients": [
+          "胶囊壳"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "天麻提取物 代泡茶",
+        "brand": "同仁堂/品牌",
+        "url": "",
+        "price": "¥30-80/盒",
+        "sales": "药房月销1万+",
+        "otherIngredients": [
+          "其他药食同源"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-200/kg(标准化提取物)",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.3/包"
+        }
+      ],
+      "packagingCost": "¥0.5-2/单位",
+      "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    }
+  },
+  {
+    "id": "tremella",
+    "name": "银耳多糖(银耳提取物)",
+    "nameEn": "Tremella fuciformis extract",
+    "category": "药食同源",
+    "categoryId": "herb-food",
+    "secondaryCategoryIds": [
+      "immune",
+      "beauty"
+    ],
+    "popularity": 4,
+    "summary": "银耳富含β-葡聚糖多糖，滋阴润肺、增强免疫并锁水润肤。",
+    "chemicalStructure": {
+      "smiles": "N/A(银耳特征为β-1,3-葡聚糖多糖)",
+      "molecularFormula": "(C6H10O5)n",
+      "molecularWeight": "高分子",
+      "casNumber": "N/A(真菌多糖)"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "500-1500",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天(标准化提取物)",
+      "note": "作日常食养，脾胃虚寒或特殊人群按需调整；孕妇遵医嘱。"
+    },
+    "forms": [
+      {
+        "disadvantages": [
+          "需长期"
+        ],
+        "advantages": [
+          "标准化",
+          "方便"
+        ],
+        "name": "水提物胶囊",
+        "description": "水煎煮提取浓缩喷雾干燥胶囊",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "风味"
+        ],
+        "advantages": [
+          "全谱",
+          "灵活"
+        ],
+        "name": "粉剂/代餐",
+        "description": "超微粉冲服或入膳",
+        "bioavailability": "中"
+      },
+      {
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "advantages": [
+          "传统",
+          "方便"
+        ],
+        "name": "袋泡茶",
+        "description": "切片或粉碎袋泡",
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "陕西斯诺特生物",
+        "country": "中国",
+        "website": "https://www.sciote.com",
+        "purity": "标准化提取物",
+        "features": "植物提取物供应商"
+      },
+      {
+        "name": "湖南华诚生物",
+        "country": "中国",
+        "website": "https://www.huachengbio.com",
+        "purity": "标准化",
+        "features": "药食同源提取物"
+      },
+      {
+        "name": "晨光/国内植提厂",
+        "country": "中国",
+        "website": "",
+        "purity": "标准化",
+        "features": "代工"
+      }
+    ],
+    "dosageForms": [
+      {
+        "advantages": [
+          "剂量准确",
+          "成本低",
+          "稳定"
+        ],
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "粉末填充硬胶囊，最常见剂型"
+      },
+      {
+        "advantages": [
+          "成本低",
+          "易包衣",
+          "剂量稳定"
+        ],
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "粉末压片，便于大规模生产"
+      },
+      {
+        "advantages": [
+          "调配灵活",
+          "吸收快",
+          "适合复方"
+        ],
+        "name": "粉剂",
+        "category": "传统剂型",
+        "description": "原料直接分装或冲服"
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "收录于国家卫健委药食同源目录，可作为食品原料使用",
+        "usageNote": "相应食养功能"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "作为膳食成分"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "部分需新资源授权"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品/功能性标示"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "补充成分"
+      }
+    ],
+    "efficacy": "银耳富含β-葡聚糖多糖，滋阴润肺、增强免疫并锁水润肤。",
+    "mechanism": {
+      "overview": "多组分协同调节：多糖免疫、皂苷/黄酮抗氧化抗炎、多酚护血管。",
+      "steps": [
+        {
+          "title": "免疫调节",
+          "description": "多糖激活肠免疫"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚类清除自由基"
+        }
+      ],
+      "scientificReferences": [
+        "中国中药杂志. 2020;45(10):",
+        "J Ethnopharmacol. 2019;231:"
+      ]
+    },
+    "productCases": [
+      {
+        "name": "银耳多糖(银耳提取物) 食养胶囊",
+        "brand": "国内品牌",
+        "url": "",
+        "price": "¥60-120/瓶",
+        "sales": "电商在售",
+        "otherIngredients": [
+          "胶囊壳"
+        ],
+        "dosageForm": "胶囊"
+      },
+      {
+        "name": "银耳多糖(银耳提取物) 代泡茶",
+        "brand": "同仁堂/品牌",
+        "url": "",
+        "price": "¥30-80/盒",
+        "sales": "药房月销1万+",
+        "otherIngredients": [
+          "其他药食同源"
+        ],
+        "dosageForm": "袋泡茶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "¥80-200/kg(标准化提取物)",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "¥0.08-0.15/粒"
+        },
+        {
+          "form": "袋泡茶",
+          "cost": "¥0.15-0.3/包"
+        }
+      ],
+      "packagingCost": "¥0.5-2/单位",
+      "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    }
+  }
+]
