@@ -13,6 +13,9 @@ MSG="${1:-deploy: 本地构建发布}"
 # managed python 绝对路径（含中文用户名，git bash 可正常解析）
 PYTHON="C:/Users/康力/.workbuddy/binaries/python/versions/3.13.12/python.exe"
 
+echo "==> [0/5] 恢复源码入口 index.html（防止被上次的构建产物覆盖导致不重新编译）"
+cp index.src.html index.html
+
 echo "==> [1/5] 由 JSON 生成 TS 数据"
 "$PYTHON" scripts/build_from_json.py --no-build
 
