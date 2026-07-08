@@ -2820,14 +2820,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Lallemand Health Solutions (Lalmin® Se)",
         "country": "加拿大",
-        "website": "https://www.sabinsa.com",
+        "website": "https://www.lallemand.com",
         "purity": "硒含量≥1000μg/g",
         "features": "富硒酵母Lalmin®品牌，加拿大GMP生产"
       },
       {
         "name": "Cypress Systems (SelenoExcell®)",
         "country": "美国",
-        "website": "https://www.sabinsa.com",
+        "website": "https://www.cypresssystemsinc.com",
         "purity": "硒含量≥2000μg/g",
         "features": "富硒酵母SelenoExcell®品牌，临床研究最充分的有机硒"
       },
@@ -3930,7 +3930,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Lonza (龙沙)",
         "country": "瑞士",
-        "website": "https://www.kyowa-kirin.com",
+        "website": "https://www.lonza.com",
         "purity": "≥99.0%",
         "features": "Carnipure品牌，全球最大左旋肉碱供应商，素食来源"
       },
@@ -4199,7 +4199,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Cargill (嘉吉)",
         "country": "美国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.cargill.com",
         "purity": "≥80%",
         "features": "天然红花籽来源CLA，北美主要供应商"
       },
@@ -6920,14 +6920,13 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Takemoto Oil (竹本油脂)",
         "country": "日本",
-        "website": "https://www.dsm-firmenich.com",
         "purity": "芝麻素≥10%",
         "features": "日本芝麻素专业供应商，功能性表示食品原料"
       },
       {
         "name": "Suntory (三得利)",
         "country": "日本",
-        "website": "https://www.dsm-firmenich.com",
+        "website": "https://www.suntory.com",
         "purity": "芝麻素≥10%",
         "features": "芝麻素健康食品开发先驱"
       },
@@ -7431,7 +7430,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Maruzen Pharmaceuticals",
         "country": "日本",
-        "website": "https://www.balchem.com",
+        "website": "https://www.maruzenpcy.co.jp",
         "purity": "甘草酸≥95%",
         "features": "日本甘草酸专业供应商"
       },
@@ -10276,7 +10275,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Merck (默克)",
         "country": "德国",
-        "website": "https://www.dsm-firmenich.com",
+        "website": "https://www.merckgroup.com",
         "purity": "≥98.0%",
         "features": "Sigma品牌医药级叶酸，标准品供应商"
       },
@@ -10530,7 +10529,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Pine Chemical (松树化学)",
         "country": "日本",
-        "website": "https://www.naturex.com",
         "purity": "蒜氨酸≥1.0%",
         "features": "日本大蒜提取物原料供应商"
       },
@@ -16338,7 +16336,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Pharmapolis",
         "country": "韩国",
-        "website": "https://www.naturex.com",
         "purity": "≥70%总皂苷",
         "features": "韩国红参皂苷浓缩物供应商，正官庄合作原料方"
       }
@@ -21929,7 +21926,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Pharmaceutical Associates",
         "country": "美国",
-        "website": "https://www.sabinsa.com",
+        "website": "https://www.paipharma.com",
         "purity": "≥99.5%",
         "features": "USP级褪黑素原料"
       },
@@ -31034,7 +31031,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "FrieslandCampina Ingredients",
         "country": "荷兰",
-        "website": "https://www.balchem.com",
+        "website": "https://www.frieslandcampina.com",
         "purity": "≥95% 乳铁蛋白",
         "features": "Vivinal® LF品牌，全球乳铁蛋白领先供应商"
       },
