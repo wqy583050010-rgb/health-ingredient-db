@@ -1766,7 +1766,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.whziguang.com"
       }
     ],
-    "website": "https://www.whziguang.com",
+    "website": "http://www.whziguang.com/",
     "intro": "威海紫光生物专注于片剂、硬胶囊与粉剂等传统剂型的规模化代工，配备完整固体制剂产线，服务于国内大众保健品与电商自有品牌客户。",
     "highlights": [
       "片剂/胶囊规模代工",
@@ -1817,7 +1817,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.evergreen-bio.com"
       }
     ],
-    "website": "https://www.evergreen-bio.com",
+    "website": "https://www.gd-caxin.com/",
     "intro": "广东长兴（千林品牌母公司）是华南地区老牌营养保健品 OEM/ODM 企业，以软胶囊与营养软糖的规模化制造见长，具备出口级质量体系。",
     "highlights": [
       "软胶囊/软糖规模制造",
@@ -1866,7 +1866,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.yujianhealth.com"
       }
     ],
-    "website": "https://www.yujianhealth.com",
+    "website": "https://www.excarepharm.com/",
     "intro": "宁波玉健以粉剂与固体饮料的配方开发及代工为核心，擅长代餐、运动营养与新消费品类的柔性制造。",
     "highlights": [
       "粉剂/固体饮料专长",
@@ -1914,7 +1914,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.shuangdi.com"
       }
     ],
-    "website": "https://www.shuangdi.com",
+    "website": "https://www.dl-dd.com/",
     "intro": "大连双迪依托核酸与发酵技术平台，提供硬胶囊、口服液等剂型的研发与代工，覆盖功能保健与直销渠道客户。",
     "highlights": [
       "核酸/发酵技术平台",
@@ -1962,7 +1962,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.grapeking.com"
       }
     ],
-    "website": "https://www.grapeking.com",
+    "website": "https://www.grapeking.com.tw",
     "intro": "上海葡萄王以真菌培养与发酵技术见长，专注灵芝、虫草等菌丝体粉剂与发酵饮品的代工，是食用菌健康品领域的老牌企业。",
     "highlights": [
       "真菌/菌丝体发酵",
@@ -2010,7 +2010,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.yuwang.com"
       }
     ],
-    "website": "https://www.yuwang.com",
+    "website": "https://www.yuwangpharma.com/",
     "intro": "山东禹王以大豆蛋白与鱼油精制为核心，软胶囊与鱼油制剂代工能力突出，长期服务于心脑健康与血脂管理品类。",
     "highlights": [
       "鱼油精制能力",
@@ -2058,7 +2058,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.meitai.com"
       }
     ],
-    "website": "https://www.meitai.com",
+    "website": "http://www.meitaifood.com/",
     "intro": "中山美太以营养软糖与片剂的规模化代工为特色，擅长儿童营养与便捷剂型，具备出口级质量体系。",
     "highlights": [
       "营养软糖规模代工",
@@ -2107,7 +2107,7 @@ export const oemFactories: OEMFactory[] = [
         "url": "https://www.renhe.com"
       }
     ],
-    "website": "https://www.renhe.com",
+    "website": "http://www.renhels.com/",
     "intro": "江西仁和是大型医药大健康企业，具备片剂、硬胶囊、颗粒等固体制剂的强势产能，承接 OTC 与大健康品类代工。",
     "highlights": [
       "固体制剂强势产能",
