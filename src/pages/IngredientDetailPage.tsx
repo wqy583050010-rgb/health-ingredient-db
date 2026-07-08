@@ -1,8 +1,8 @@
 import { useParams, useNavigate } from 'react-router-dom';
-import { ingredients } from '@/data/index';
+import { ingredients, interactionsByIngredient, type InteractionItem } from '@/data/index';
 import { ComplianceBadge } from '@/components/ComplianceBadge';
 import { PopularityBadge } from '@/components/PopularityBadge';
-import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink } from 'lucide-react';
+import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink, AlertTriangle, Sparkles } from 'lucide-react';
 
 export function IngredientDetailPage() {
   const { ingredientId } = useParams<{ ingredientId: string }>();
@@ -18,6 +18,10 @@ export function IngredientDetailPage() {
       </div>
     );
   }
+
+  const interactions: InteractionItem[] = interactionsByIngredient[ing.id] || [];
+  const synergies = interactions.filter((i) => i.type === 'synergy');
+  const contraindications = interactions.filter((i) => i.type === 'contra');
 
   return (
     <div className="space-y-6 animate-fade-in">
@@ -266,6 +270,85 @@ export function IngredientDetailPage() {
             </ul>
           </div>
         )}
+      </section>
+
+      {/* 配伍禁忌与协同增效 */}
+      <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+        <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+          <div className="w-9 h-9 rounded-lg bg-rose-100 flex items-center justify-center">
+            <AlertTriangle className="w-5 h-5 text-rose-600" strokeWidth={1.8} />
+          </div>
+          配伍禁忌与协同增效
+        </h2>
+
+        {/* 协同增效 */}
+        <div className="mb-6">
+          <h3 className="flex items-center gap-2 text-sm font-semibold text-emerald-700 mb-3">
+            <Sparkles className="w-4 h-4" /> 协同增效
+            <span className="text-xs bg-emerald-100 text-emerald-700 px-1.5 py-0.5 rounded-full">{synergies.length}</span>
+          </h3>
+          {synergies.length > 0 ? (
+            <div className="space-y-2">
+              {synergies.map((it, idx) => (
+                <div key={idx} className="flex items-start gap-3 bg-emerald-50/60 border border-emerald-200 rounded-xl p-3">
+                  <Sparkles className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                  <div>
+                    <span className="font-medium text-emerald-800">
+                      {it.otherId ? (
+                        <button onClick={() => navigate(`/ingredient/${it.otherId}`)} className="hover:underline">{it.otherName}</button>
+                      ) : it.otherName}
+                    </span>
+                    <p className="text-sm text-gray-600 mt-0.5">{it.text}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <p className="text-sm text-gray-400">暂无已收录的协同增效组合。</p>
+          )}
+        </div>
+
+        {/* 配伍禁忌 */}
+        <div>
+          <h3 className="flex items-center gap-2 text-sm font-semibold text-rose-700 mb-3">
+            <AlertTriangle className="w-4 h-4" /> 配伍禁忌
+            <span className="text-xs bg-rose-100 text-rose-700 px-1.5 py-0.5 rounded-full">{contraindications.length}</span>
+          </h3>
+          {contraindications.length > 0 ? (
+            <div className="space-y-2">
+              {contraindications.map((it, idx) => {
+                const lv = it.level || 'medium';
+                const tone = lv === 'high'
+                  ? 'bg-red-50 border-red-200'
+                  : lv === 'low'
+                    ? 'bg-amber-50 border-amber-200'
+                    : 'bg-orange-50 border-orange-200';
+                const badge = lv === 'high'
+                  ? 'bg-red-100 text-red-700'
+                  : lv === 'low'
+                    ? 'bg-amber-100 text-amber-700'
+                    : 'bg-orange-100 text-orange-700';
+                const label = lv === 'high' ? '高危' : lv === 'low' ? '低危' : '注意';
+                return (
+                  <div key={idx} className={`flex items-start gap-3 border rounded-xl p-3 ${tone}`}>
+                    <AlertTriangle className="w-4 h-4 shrink-0 mt-0.5 text-rose-500" />
+                    <div>
+                      <span className="font-medium text-gray-800">
+                        {it.otherId ? (
+                          <button onClick={() => navigate(`/ingredient/${it.otherId}`)} className="hover:underline">{it.otherName}</button>
+                        ) : it.otherName}
+                        <span className={`ml-1 text-xs px-1.5 py-0.5 rounded-full ${badge}`}>{label}</span>
+                      </span>
+                      <p className="text-sm text-gray-600 mt-0.5">{it.text}</p>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          ) : (
+            <p className="text-sm text-gray-400">暂无已收录的配伍禁忌。</p>
+          )}
+        </div>
       </section>
 
       {/* 成功产品案例 */}
