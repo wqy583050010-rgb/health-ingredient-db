@@ -4561,7 +4561,8 @@
     "category": "抗氧化/延缓衰老",
     "categoryId": "antioxidant",
     "secondaryCategoryIds": [
-      "beauty"
+      "beauty",
+      "women"
     ],
     "popularity": 4,
     "summary": "脂溶性抗氧化剂，保护细胞膜多不饱和脂肪酸免受脂质过氧化，维护皮肤、视力与生殖健康。",
@@ -7227,7 +7228,8 @@
     "category": "心血管健康",
     "categoryId": "cardiovascular",
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ],
     "popularity": 4,
     "summary": "富含硝酸盐与甜菜红素，体内转化为一氧化氮，舒张血管、降压并提升运动耐力。",
@@ -8036,7 +8038,10 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "软胶囊：¥1-2/粒"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "blackcurrant-extract",

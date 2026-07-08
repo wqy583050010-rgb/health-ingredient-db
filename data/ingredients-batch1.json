@@ -4112,7 +4112,8 @@
       "totalEstimate": "原料成本可控，液态剂型终端成本较高，片剂/胶囊最具性价比"
     },
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ]
   },
   {
@@ -10440,7 +10441,8 @@
       "totalEstimate": "合成叶酸成本极低，活性5-MTHF溢价5-10倍"
     },
     "secondaryCategoryIds": [
-      "bloodsugar"
+      "bloodsugar",
+      "women"
     ]
   },
   {
@@ -11474,7 +11476,8 @@
     },
     "secondaryCategoryIds": [
       "bone",
-      "sleep"
+      "sleep",
+      "sports"
     ]
   },
   {
@@ -11758,7 +11761,8 @@
       "totalEstimate": "原料便宜，缓释剂型及电解质配方溢价较好"
     },
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ]
   },
   {
@@ -12028,7 +12032,10 @@
       ],
       "packagingCost": "约¥0.3-0.5/瓶（60粒装）",
       "totalEstimate": "原料成本极低，复配维D及矿物质提升溢价"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "hyaluronic-acid-bone",
@@ -12291,7 +12298,8 @@
       "totalEstimate": "食品级原料成本下降，注射级溢价极高"
     },
     "secondaryCategoryIds": [
-      "beauty"
+      "beauty",
+      "women"
     ]
   },
   {

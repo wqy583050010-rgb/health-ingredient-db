@@ -84,6 +84,20 @@
     "ingredientCount": 12
   },
   {
+    "id": "sports",
+    "name": "运动营养",
+    "icon": "dumbbell",
+    "description": "提升运动表现、肌肉合成与运动恢复，涵盖能量供给、耐力、力量与hydration支持",
+    "ingredientCount": 0
+  },
+  {
+    "id": "women",
+    "name": "女性健康",
+    "icon": "venus",
+    "description": "聚焦女性全生命周期健康需求：更年期调理、经期与PMS、泌尿道与皮肤骨骼支持",
+    "ingredientCount": 0
+  },
+  {
     "id": "probiotics",
     "name": "益生菌",
     "icon": "flask-round",

@@ -4,7 +4,7 @@ import {
   Zap, Activity, FlaskRound,
   FlaskConical, Search, Factory, Beaker, Pill,
   Globe, DollarSign, Award, Package, ShoppingBag,
-  Leaf, type LucideIcon,
+  Leaf, Dumbbell, Venus, type LucideIcon,
 } from 'lucide-react';
 
 const iconMap: Record<string, LucideIcon> = {
@@ -32,10 +32,12 @@ const iconMap: Record<string, LucideIcon> = {
   package: Package,
   'shopping-bag': ShoppingBag,
   leaf: Leaf,
+  dumbbell: Dumbbell,
+  venus: Venus,
 };
 
 export function getIcon(name: string): LucideIcon {
   return iconMap[name] || FlaskConical;
 }
 
-export { Shield, Sparkles, Moon, Scale, HeartPulse, Microscope, Heart, Bone, Gem, Eye, Zap, Activity, FlaskRound, FlaskConical, Search, Factory, Beaker, Pill, Globe, DollarSign, Award, Package, ShoppingBag, Leaf };
+export { Shield, Sparkles, Moon, Scale, HeartPulse, Microscope, Heart, Bone, Gem, Eye, Zap, Activity, FlaskRound, FlaskConical, Search, Factory, Beaker, Pill, Globe, DollarSign, Award, Package, ShoppingBag, Leaf, Dumbbell, Venus };

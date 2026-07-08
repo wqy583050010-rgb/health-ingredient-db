@@ -4112,7 +4112,8 @@
       "totalEstimate": "原料成本可控，液态剂型终端成本较高，片剂/胶囊最具性价比"
     },
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ]
   },
   {
@@ -10440,7 +10441,8 @@
       "totalEstimate": "合成叶酸成本极低，活性5-MTHF溢价5-10倍"
     },
     "secondaryCategoryIds": [
-      "bloodsugar"
+      "bloodsugar",
+      "women"
     ]
   },
   {
@@ -11474,7 +11476,8 @@
     },
     "secondaryCategoryIds": [
       "bone",
-      "sleep"
+      "sleep",
+      "sports"
     ]
   },
   {
@@ -11758,7 +11761,8 @@
       "totalEstimate": "原料便宜，缓释剂型及电解质配方溢价较好"
     },
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ]
   },
   {
@@ -12028,7 +12032,10 @@
       ],
       "packagingCost": "约¥0.3-0.5/瓶（60粒装）",
       "totalEstimate": "原料成本极低，复配维D及矿物质提升溢价"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "hyaluronic-acid-bone",
@@ -12291,7 +12298,8 @@
       "totalEstimate": "食品级原料成本下降，注射级溢价极高"
     },
     "secondaryCategoryIds": [
-      "beauty"
+      "beauty",
+      "women"
     ]
   },
   {
@@ -13554,7 +13562,8 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular",
-      "sleep"
+      "sleep",
+      "sports"
     ]
   },
   {
@@ -16739,7 +16748,10 @@
       ],
       "packagingCost": "约¥0.04-0.12/粒",
       "totalEstimate": "成品成本约¥0.15-0.35/粒，零售价通常为成本6-10倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "rhodiola-extract",
@@ -17516,7 +17528,8 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular",
-      "eye"
+      "eye",
+      "sports"
     ]
   },
   {
@@ -17775,7 +17788,8 @@
       "totalEstimate": "粉末成品成本约¥0.15-0.30/份，零售价通常为成本5-10倍"
     },
     "secondaryCategoryIds": [
-      "bone"
+      "bone",
+      "sports"
     ]
   },
   {
@@ -19095,7 +19109,10 @@
       ],
       "packagingCost": "约¥0.03-0.08/粒",
       "totalEstimate": "成品成本约¥0.08-0.20/粒，零售价通常为成本8-15倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "coenzyme-q10-energy",
@@ -22338,7 +22355,10 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥15-40/瓶(60-120粒)"
-    }
+    },
+    "secondaryCategoryIds": [
+      "sports"
+    ]
   },
   {
     "id": "5-htp",
@@ -35077,7 +35097,8 @@
       "totalEstimate": "终端产品成本¥30-80/盒,零售价通常¥100-300/盒"
     },
     "secondaryCategoryIds": [
-      "bone"
+      "bone",
+      "women"
     ]
   },
   {
@@ -44983,7 +45004,8 @@
     "category": "抗氧化/延缓衰老",
     "categoryId": "antioxidant",
     "secondaryCategoryIds": [
-      "beauty"
+      "beauty",
+      "women"
     ],
     "popularity": 4,
     "summary": "脂溶性抗氧化剂，保护细胞膜多不饱和脂肪酸免受脂质过氧化，维护皮肤、视力与生殖健康。",
@@ -47649,7 +47671,8 @@
     "category": "心血管健康",
     "categoryId": "cardiovascular",
     "secondaryCategoryIds": [
-      "energy"
+      "energy",
+      "sports"
     ],
     "popularity": 4,
     "summary": "富含硝酸盐与甜菜红素，体内转化为一氧化氮，舒张血管、降压并提升运动耐力。",
@@ -48458,7 +48481,10 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "软胶囊：¥1-2/粒"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "blackcurrant-extract",
@@ -51967,5 +51993,2774 @@
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
     }
+  },
+  {
+    "id": "caffeine",
+    "name": "咖啡因",
+    "nameEn": "Caffeine",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 5,
+    "summary": "中枢神经兴奋剂，通过拮抗腺苷受体提升警觉度与运动耐力，延缓中枢疲劳感。运动前30-60分钟摄入可改善高强度与耐力表现。",
+    "chemicalStructure": {
+      "smiles": "CN1C=NC2=C1C(=O)N(C)C(=O)N2C",
+      "molecularFormula": "C₈H₁₀N₄O₂",
+      "molecularWeight": "194.19 g/mol",
+      "casNumber": "58-08-1"
+    },
+    "dosage": {
+      "minEffective": "100",
+      "recommended": "200-400",
+      "safeUpperLimit": "400",
+      "unit": "mg/次（运动前30-60min）",
+      "note": "单次≤400mg，每日总量建议≤400mg；过量致心悸、焦虑、失眠。孕期及哺乳期限制（≤200mg/天）。与肌酸可能存在相互拮抗，建议间隔服用。竞赛运动员注意 WADA 对尿液咖啡因阈值（>15 µg/mL）的监控。"
+    },
+    "forms": [
+      {
+        "name": "无水咖啡因",
+        "description": "纯度最高的咖啡因单体，常见于预训练产品",
+        "advantages": [
+          "纯度≥99%",
+          "成本低",
+          "性质稳定"
+        ],
+        "disadvantages": [
+          "苦味明显",
+          "需精准称量"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "咖啡因柠檬酸盐",
+        "description": "与柠檬酸结合的缓释形式",
+        "advantages": [
+          "溶解性好",
+          "缓释平稳",
+          "胃肠刺激小"
+        ],
+        "disadvantages": [
+          "含柠檬酸需换算剂量"
+        ],
+        "bioavailability": "中高"
+      },
+      {
+        "name": "瓜拉那提取物",
+        "description": "天然含咖啡因(约3-5%)及伴生黄嘌呤",
+        "advantages": [
+          "天然来源",
+          "含协同黄嘌呤"
+        ],
+        "disadvantages": [
+          "咖啡因含量不一"
+        ],
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "≥99%",
+        "features": "运动营养与食品级咖啡因分销"
+      },
+      {
+        "name": "Spectrum Chemical",
+        "country": "美国",
+        "website": "https://www.spectrumchemical.com",
+        "purity": "≥99%",
+        "features": "食品/药用级咖啡因"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "剂量准确、便携",
+        "advantages": [
+          "剂量准确",
+          "服用方便",
+          "便携"
+        ]
+      },
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "可混入训练前饮品",
+        "advantages": [
+          "灵活",
+          "吸收快"
+        ]
+      },
+      {
+        "name": "能量凝胶",
+        "category": "新型剂型",
+        "description": "运动中快速供能",
+        "advantages": [
+          "快速吸收",
+          "便携"
+        ]
+      },
+      {
+        "name": "口香糖/含片",
+        "category": "新型剂型",
+        "description": "口腔黏膜快速吸收",
+        "advantages": [
+          "起效快",
+          "便携"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "可作食品添加剂（可乐型饮料等），亦允许用于运动营养食品；普通补充剂允许",
+        "maxDosage": "按食品添加剂标准使用"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA认定为GRAS，膳食补充剂常用",
+        "usageNote": "竞赛级运动员需关注 WADA 阈值"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准用于食品补充剂"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "提升耐力运动表现（减少主观疲劳、延长力竭时间）；促进脂肪氧化供能；改善高强度间歇与爆发力的专注度；可能增强运动后肌力输出。",
+    "mechanism": {
+      "overview": "咖啡因拮抗中枢与外周腺苷A1/A2A受体，阻断腺苷的抑制性信号，提升多巴胺/去甲肾上腺素释放，降低主观疲劳感(perceived exertion)，并可能促进脂肪动员。",
+      "steps": [
+        {
+          "title": "腺苷受体拮抗",
+          "description": "咖啡因结构与腺苷相似，竞争结合A1/A2A受体，阻止腺苷传递镇静与疲劳信号。"
+        },
+        {
+          "title": "中枢兴奋",
+          "description": "提升下丘脑-垂体-肾上腺轴活性，增加多巴胺与去甲肾上腺素，提升警觉与专注。"
+        },
+        {
+          "title": "脂肪动员",
+          "description": "升高血游离脂肪酸，节省肌糖原，延缓糖原耗竭。"
+        },
+        {
+          "title": "神经肌肉驱动",
+          "description": "降低运动皮层兴奋阈值，改善运动单位募集。"
+        }
+      ],
+      "scientificReferences": [
+        "Goldstein ER, et al. J Int Soc Sports Nutr. 2010;7:5.",
+        "Doherty M, Smith PM. Sports Med. 2004;34(2):109-125.",
+        "Guest NS, et al. J Int Soc Sports Nutr. 2021;18(1):1."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Optimum Nutrition Amino Energy",
+        "brand": "Optimum Nutrition",
+        "url": "https://www.optimumnutrition.com",
+        "price": "$30/30份",
+        "sales": "Amazon月销3万+",
+        "otherIngredients": [
+          "咖啡因",
+          "支链氨基酸",
+          "绿茶提取物"
+        ],
+        "dosageForm": "粉末冲剂"
+      },
+      {
+        "name": "Cellucor C4 Original",
+        "brand": "Cellucor",
+        "url": "https://www.cellucor.com",
+        "price": "$30/60份",
+        "sales": "全球月销10万+",
+        "otherIngredients": [
+          "咖啡因",
+          "β-丙氨酸",
+          "瓜氨酸"
+        ],
+        "dosageForm": "粉末冲剂"
+      },
+      {
+        "name": "GU Energy Gel",
+        "brand": "GU",
+        "url": "https://www.guenergy.com",
+        "price": "$24/24包",
+        "sales": "跑步人群月销5万+",
+        "otherIngredients": [
+          "咖啡因",
+          "电解质"
+        ],
+        "dosageForm": "能量凝胶"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥100-200/kg（无水咖啡因）",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥0.05-0.15/份"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.10-0.20/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.10/份",
+      "totalEstimate": "成品约¥0.2-0.4/份，零售价通常为5-10倍"
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
+  },
+  {
+    "id": "bcaa",
+    "name": "支链氨基酸",
+    "nameEn": "BCAA (Branched-Chain Amino Acids)",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 4,
+    "summary": "亮氨酸、异亮氨酸、缬氨酸三种必需氨基酸，典型比例2:1:1。亮氨酸直接激活mTOR促进肌肉蛋白合成；运动中补充可减少肌肉分解与中枢疲劳。",
+    "chemicalStructure": {
+      "smiles": "CC(C)CC(N)C(=O)O（亮氨酸代表）",
+      "molecularFormula": "亮氨酸 C₆H₁₃NO₂（混合）",
+      "molecularWeight": "≈131.17 g/mol（亮氨酸）",
+      "casNumber": "混合（亮氨酸61-90-5）"
+    },
+    "dosage": {
+      "minEffective": "3000",
+      "recommended": "5000-7000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（运动中/后）",
+      "note": "经典2:1:1（亮:异亮:缬）。亮氨酸是肌肉合成关键；整蛋白摄入充足时BCAA的边际效益下降。与碳水化合物同服吸收更佳。"
+    },
+    "forms": [
+      {
+        "name": "粉末(2:1:1)",
+        "description": "最常见BCAA粉末，可冲饮",
+        "advantages": [
+          "溶解快",
+          "剂量灵活"
+        ],
+        "disadvantages": [
+          "亮氨酸苦味明显"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "硬胶囊",
+        "description": "预装胶囊",
+        "advantages": [
+          "剂量准确",
+          "便携"
+        ],
+        "disadvantages": [
+          "需多粒"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "缓释微囊",
+        "description": "微囊化缓释",
+        "advantages": [
+          "血药浓度平稳"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "中高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Kyowa Hakko",
+        "country": "日本",
+        "website": "https://www.kyowa-usa.com",
+        "purity": "≥99%",
+        "features": "发酵法氨基酸（支链氨基酸）"
+      },
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "食品级",
+        "features": "氨基酸分销"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "运动前后冲饮",
+        "advantages": [
+          "快速",
+          "灵活"
+        ]
+      },
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "便携",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "软糖/泡腾片",
+        "category": "新型剂型",
+        "description": "口感改良",
+        "advantages": [
+          "口感好",
+          "易坚持"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "氨基酸类，允许用于运动营养食品"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS；膳食补充剂常用"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准用于食品补充剂"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "刺激肌肉蛋白合成（亮氨酸激活mTOR）；减少长时间运动中的肌肉分解；可能降低中枢疲劳感；促进运动后恢复。",
+    "mechanism": {
+      "overview": "亮氨酸作为mTORC1信号激活剂启动肌肉蛋白合成；BCAA在运动中作为额外能源并抑制血清素合成（降低中枢疲劳）；支链氨基酸代谢供能于疲劳肌肉。",
+      "steps": [
+        {
+          "title": "mTOR激活",
+          "description": "亮氨酸与核糖体结合激活mTORC1，启动翻译起始，促进肌纤维蛋白合成。"
+        },
+        {
+          "title": "抗分解",
+          "description": "BCAA抑制运动诱导的肌肉蛋白分解信号（降低泛素-蛋白酶体活性）。"
+        },
+        {
+          "title": "中枢疲劳缓解",
+          "description": "BCAA与色氨酸竞争血脑屏障转运，降低脑内5-HT合成，减轻疲劳感。"
+        },
+        {
+          "title": "能源供给",
+          "description": "运动中BCAA可被氧化供能，节约肌糖原。"
+        }
+      ],
+      "scientificReferences": [
+        "Wolfe RR. J Nutr. 2017;147(8):1543S-1548S.",
+        "Shimomura Y, et al. J Nutr. 2006;136(2):529S-532S.",
+        "Norton LE, Layman DK. Nutr Metab (Lond). 2006;3:20."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Optimum Nutrition BCAA 1000 Caps",
+        "brand": "Optimum Nutrition",
+        "url": "https://www.optimumnutrition.com",
+        "price": "$20/200粒",
+        "sales": "Amazon月销2万+",
+        "otherIngredients": [
+          "亮氨酸",
+          "异亮氨酸",
+          "缬氨酸"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Xtend BCAA",
+        "brand": "Scivation/Cellucor",
+        "url": "https://www.cellucor.com",
+        "price": "$30/30份",
+        "sales": "全球月销5万+",
+        "otherIngredients": [
+          "BCAA 2:1:1",
+          "电解质",
+          "谷氨酰胺"
+        ],
+        "dosageForm": "粉末冲剂"
+      },
+      {
+        "name": "BulkSupplements BCAA",
+        "brand": "BulkSupplements",
+        "url": "https://www.bulksupplements.com",
+        "price": "$25/500g",
+        "sales": "月销3万+",
+        "otherIngredients": [
+          "BCAA粉末"
+        ],
+        "dosageForm": "粉末"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥150-300/kg（2:1:1 食品级）",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥0.2-0.4/份"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.3-0.5/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "粉剂成品约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
+  },
+  {
+    "id": "beta-alanine",
+    "name": "β-丙氨酸",
+    "nameEn": "Beta-Alanine",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 4,
+    "summary": "β-丙氨酸与组氨酸合成肌肽(carnosine)的前体。提升肌肉肌肽含量，缓冲高强度运动产生的H⁺，延缓乳酸相关疲劳，对1-4分钟高强度运动效果最佳。",
+    "chemicalStructure": {
+      "smiles": "NCCC(=O)O",
+      "molecularFormula": "C₃H₇NO₂",
+      "molecularWeight": "89.09 g/mol",
+      "casNumber": "107-95-9"
+    },
+    "dosage": {
+      "minEffective": "400",
+      "recommended": "3200-6400（分次）",
+      "safeUpperLimit": "6400",
+      "unit": "mg/天",
+      "note": "典型方案：4-6g/天连续4周以上提升肌肽。分次服用（≤800mg/次）可减轻皮肤刺痛（感觉异常 paresthesia）。与肌酸、钠合用效果更优。"
+    },
+    "forms": [
+      {
+        "name": "β-丙氨酸粉末",
+        "description": "纯粉形式",
+        "advantages": [
+          "成本低"
+        ],
+        "disadvantages": [
+          "高剂量刺痛感"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "缓释胶囊(CarnoSyn SR)",
+        "description": "缓释减少刺痛",
+        "advantages": [
+          "缓释舒适",
+          "吸收好"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "与组氨酸复合",
+        "description": "提供肌肽合成双前体",
+        "advantages": [
+          "前体完整"
+        ],
+        "disadvantages": [
+          "单次剂量大"
+        ],
+        "bioavailability": "高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Natural Alternatives International / CarnoSyn",
+        "country": "美国",
+        "website": "https://www.nai-online.com",
+        "purity": "≥99%",
+        "features": "CarnoSyn®品牌β-丙氨酸，专利缓释技术"
+      },
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "食品级",
+        "features": "氨基酸分销"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "分次便携",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "预训练冲饮",
+        "advantages": [
+          "灵活"
+        ]
+      },
+      {
+        "name": "缓释片",
+        "category": "新型剂型",
+        "description": "减少刺痛",
+        "advantages": [
+          "舒适",
+          "平稳"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "运动营养食品原料"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准用于食品补充剂"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "提升无氧耐力与高强度间歇表现（1-4分钟）；增加肌肉肌肽含量20-80%；延缓运动性疲劳；可能改善训练量与抗疲劳。",
+    "mechanism": {
+      "overview": "β-丙氨酸在肌肉内与组氨酸合成肌肽，肌肽作为细胞内缓冲剂中和高强度运动产生的H⁺，维持pH，延缓酸中毒导致的疲劳。",
+      "steps": [
+        {
+          "title": "肌肽合成",
+          "description": "β-丙氨酸+组氨酸经肌肽合成酶生成肌肽，储存于快肌纤维。"
+        },
+        {
+          "title": "酸碱缓冲",
+          "description": "肌肽咪唑环捕获H⁺，缓冲无氧糖酵解产生的乳酸/酸中毒。"
+        },
+        {
+          "title": "延迟疲劳",
+          "description": "维持细胞内pH与收缩功能，延长高强度运动至力竭时间。"
+        },
+        {
+          "title": "钙调控",
+          "description": "肌肽可能调节肌浆网钙释放，改善收缩-舒张耦合。"
+        }
+      ],
+      "scientificReferences": [
+        "Hobson RM, et al. Amino Acids. 2012;43(1):25-37.",
+        "Derave W, et al. J Appl Physiol. 2007;103(5):1736-1743.",
+        "Artioli GG, et al. J Int Soc Sports Nutr. 2010;7:34."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Optimum Nutrition Gold Standard Pre-Workout",
+        "brand": "Optimum Nutrition",
+        "url": "https://www.optimumnutrition.com",
+        "price": "$35/30份",
+        "sales": "月销3万+",
+        "otherIngredients": [
+          "β-丙氨酸",
+          "咖啡因",
+          "肌酸"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "NOW Beta-Alanine",
+        "brand": "NOW",
+        "url": "https://www.nowfoods.com",
+        "price": "$20/500g",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "β-丙氨酸"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "BulkSupplements Beta-Alanine",
+        "brand": "BulkSupplements",
+        "url": "https://www.bulksupplements.com",
+        "price": "$25/500g",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "β-丙氨酸"
+        ],
+        "dosageForm": "粉末"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥200-400/kg",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥0.2-0.4/份"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.3-0.5/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "energy"
+    ]
+  },
+  {
+    "id": "citrulline-malate",
+    "name": "瓜氨酸苹果酸",
+    "nameEn": "Citrulline Malate",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 4,
+    "summary": "L-瓜氨酸与苹果酸1:1复合物。瓜氨酸经肾脏转化为精氨酸，提升一氧化氮(NO)与血流（泵感）；苹果酸参与三羧酸循环供能。改善高强度运动耐力与运动后酸痛。",
+    "chemicalStructure": {
+      "smiles": "NCCC(NC(=O)N)CC(C(=O)O)N（L-瓜氨酸代表）",
+      "molecularFormula": "L-瓜氨酸 C₆H₁₃N₃O₃ + 苹果酸 C₄H₆O₅",
+      "molecularWeight": "≈175.19 g/mol（L-瓜氨酸）",
+      "casNumber": "549-32-6（L-瓜氨酸）"
+    },
+    "dosage": {
+      "minEffective": "6000",
+      "recommended": "6000-8000",
+      "safeUpperLimit": "10000",
+      "unit": "mg/天（运动前30-60min）",
+      "note": "研究常用8g瓜氨酸苹果酸（含约6g瓜氨酸）。空腹或运动前服用吸收佳。可能与降压药协同，低血压者注意。"
+    },
+    "forms": [
+      {
+        "name": "瓜氨酸苹果酸(1:1)",
+        "description": "经典复合形式",
+        "advantages": [
+          "供能+血流双效"
+        ],
+        "disadvantages": [
+          "剂量大体积大"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "L-瓜氨酸游离碱",
+        "description": "纯瓜氨酸",
+        "advantages": [
+          "剂量灵活"
+        ],
+        "disadvantages": [
+          "无苹果酸供能"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "西瓜提取物（天然瓜氨酸）",
+        "description": "天然来源",
+        "advantages": [
+          "天然"
+        ],
+        "disadvantages": [
+          "含量低"
+        ],
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Kyowa Hakko",
+        "country": "日本",
+        "website": "https://www.kyowa-usa.com",
+        "purity": "≥99%",
+        "features": "Setria® L-瓜氨酸，发酵法生产"
+      },
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "食品级",
+        "features": "氨基酸分销"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "运动前冲饮",
+        "advantages": [
+          "快速",
+          "灵活"
+        ]
+      },
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "便携",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "预训练饮品",
+        "category": "新型剂型",
+        "description": "即饮",
+        "advantages": [
+          "便捷"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "运动营养食品原料"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "提升一氧化氮与肌肉血流（泵感）；改善高强度耐力运动表现；减少运动后肌肉酸痛与疲劳；可能改善勃起功能（NO相关）。",
+    "mechanism": {
+      "overview": "瓜氨酸经尿素循环转化为精氨酸，提升血浆精氨酸与NO合成，舒张血管改善灌注；苹果酸补充TCA循环中间体，支持有氧能量生成。",
+      "steps": [
+        {
+          "title": "转化为精氨酸",
+          "description": "瓜氨酸在肾脏经精氨酸琥珀酸合成酶/裂解酶转化为精氨酸。"
+        },
+        {
+          "title": "NO生成",
+          "description": "精氨酸经eNOS生成NO，激活鸟苷酸环化酶，cGMP介导血管平滑肌舒张。"
+        },
+        {
+          "title": "血流与泵感",
+          "description": "骨骼肌血流增加，氧营养输送提升，主观泵感增强。"
+        },
+        {
+          "title": "能量代谢",
+          "description": "苹果酸进入TCA循环，促进ATP再生，延缓代谢疲劳。"
+        }
+      ],
+      "scientificReferences": [
+        "Pérez-Guisado J, Jakeman PM. J Strength Cond Res. 2010;24(5):1215-1222.",
+        "Sureda A, et al. Eur J Appl Physiol. 2010;108(2):439-447.",
+        "Sugino T, et al. Br J Sports Med. 2009;43(3):186-189."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "NOW L-Citrulline",
+        "brand": "NOW",
+        "url": "https://www.nowfoods.com",
+        "price": "$25/500g",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "L-瓜氨酸"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "BulkSupplements Citrulline Malate",
+        "brand": "BulkSupplements",
+        "url": "https://www.bulksupplements.com",
+        "price": "$30/500g",
+        "sales": "月销3万+",
+        "otherIngredients": [
+          "瓜氨酸苹果酸"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "Kaged Muscle Citrulline",
+        "brand": "Kaged",
+        "url": "https://www.kagedmuscle.com",
+        "price": "$30/180g",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "L-瓜氨酸"
+        ],
+        "dosageForm": "粉末"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥200-400/kg（瓜氨酸苹果酸）",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥0.3-0.6/份"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.4-0.7/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.5-1.0/份"
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
+  },
+  {
+    "id": "hmb",
+    "name": "HMB（β-羟基-β-甲基丁酸）",
+    "nameEn": "HMB (β-Hydroxy β-Methylbutyrate)",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 3,
+    "summary": "亮氨酸代谢产物（约5%亮氨酸转化为HMB）。以钙盐(CaHMB)形式补充，抑制肌肉蛋白分解、促进恢复，对训练新手、老年人及减脂期保肌效果更明显。",
+    "chemicalStructure": {
+      "smiles": "CC(C)(O)CC(=O)O",
+      "molecularFormula": "C₅H₁₀O₃",
+      "molecularWeight": "118.13 g/mol",
+      "casNumber": "563-24-6"
+    },
+    "dosage": {
+      "minEffective": "1500",
+      "recommended": "1500-3000",
+      "safeUpperLimit": "3000",
+      "unit": "mg/天（分2-3次，随餐）",
+      "note": "CaHMB形式生物利用度更高。长期补充（≥2周）方见效；与蛋白质/肌酸协同。孕期及哺乳期证据不足。"
+    },
+    "forms": [
+      {
+        "name": "钙-HMB (CaHMB)",
+        "description": "最常用钙盐形式",
+        "advantages": [
+          "稳定",
+          "吸收好"
+        ],
+        "disadvantages": [
+          "约含130mg钙/1g HMB"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "游离酸HMB(FA)",
+        "description": "游离酸形式，剂量更小",
+        "advantages": [
+          "剂量小(约1/3)"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "粉末/胶囊",
+        "description": "基础剂型",
+        "advantages": [
+          "易配制"
+        ],
+        "disadvantages": [
+          "需随餐"
+        ],
+        "bioavailability": "高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "CaHMB ≥97%",
+        "features": "运动营养原料分销"
+      },
+      {
+        "name": "BulkSupplements",
+        "country": "美国",
+        "website": "https://www.bulksupplements.com",
+        "purity": "食品级",
+        "features": "原料零售"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "随餐服用",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "混入蛋白粉",
+        "advantages": [
+          "灵活"
+        ]
+      },
+      {
+        "name": "蛋白粉预混",
+        "category": "新型剂型",
+        "description": "与蛋白同补",
+        "advantages": [
+          "便捷"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "新资源食品/运动营养食品原料（CaHMB）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "Novel Food批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "抑制运动诱导的肌肉蛋白分解；促进运动后恢复与力量增长；减脂/停训期帮助保留瘦体重；对缺乏训练者效果更显著。",
+    "mechanism": {
+      "overview": "HMB是亮氨酸氧化代谢产物，通过抑制泛素-蛋白酶体通路减少肌肉蛋白分解，并可能激活mTOR促进合成，尤其在高分解状态（训练初期、衰老、减脂）下保肌作用明显。",
+      "steps": [
+        {
+          "title": "抗分解信号",
+          "description": "HMB下调泛素连接酶表达，抑制肌原纤维蛋白降解。"
+        },
+        {
+          "title": "mTOR激活",
+          "description": "一定条件下促进蛋白质合成信号。"
+        },
+        {
+          "title": "细胞膜稳定",
+          "description": "减少运动引起的肌细胞膜损伤与肌酸激酶泄漏。"
+        },
+        {
+          "title": "恢复加速",
+          "description": "降低运动后DOMS与炎症标记。"
+        }
+      ],
+      "scientificReferences": [
+        "Wilson GJ, et al. J Int Soc Sports Nutr. 2013;10(1):6.",
+        "Rowlands DS, et al. Br J Nutr. 2009;101(11):1667-1674.",
+        "Portal S, et al. J Appl Physiol. 2010;109(4):1110-1119."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "MetRx HMB",
+        "brand": "MetRx",
+        "url": "https://www.metrx.com",
+        "price": "$20/90粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "钙-HMB"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "NOW HMB",
+        "brand": "NOW",
+        "url": "https://www.nowfoods.com",
+        "price": "$25/120粒",
+        "sales": "月销1.5万+",
+        "otherIngredients": [
+          "HMB"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "BulkSupplements HMB",
+        "brand": "BulkSupplements",
+        "url": "https://www.bulksupplements.com",
+        "price": "$25/250g",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "HMB"
+        ],
+        "dosageForm": "粉末"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥300-600/kg（CaHMB）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.3-0.6/份"
+        },
+        {
+          "form": "粉末",
+          "cost": "约¥0.3-0.5/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.5-1.0/份"
+    },
+    "secondaryCategoryIds": []
+  },
+  {
+    "id": "electrolytes",
+    "name": "电解质",
+    "nameEn": "Electrolytes (Sodium/Potassium/Magnesium)",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 5,
+    "summary": "钠、钾、镁、氯等电解质复合物，维持体液与神经肌肉正常功能。运动出汗大量流失，及时补充可预防脱水、抽筋与表现下降，是hydration的基础。",
+    "chemicalStructure": {
+      "smiles": "混合物（NaCl/KCl/Mg化合物）",
+      "molecularFormula": "混合物",
+      "molecularWeight": "—",
+      "casNumber": "—"
+    },
+    "dosage": {
+      "minEffective": "钠200",
+      "recommended": "运动中含钠300-700mg/L + 钾100-200mg/L",
+      "safeUpperLimit": "钠≤2300",
+      "unit": "mg/天",
+      "note": "长时间运动(>60min)或大量出汗需补充。钠为主，钾镁辅助。腹泻/高温需增量。肾病者限钠。"
+    },
+    "forms": [
+      {
+        "name": "运动饮料粉",
+        "description": "含钠钾镁+糖",
+        "advantages": [
+          "口感好",
+          "易坚持"
+        ],
+        "disadvantages": [
+          "含添加糖"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "电解质泡腾片",
+        "description": "低糖便携",
+        "advantages": [
+          "便携",
+          "低糖"
+        ],
+        "disadvantages": [
+          "含代糖"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "电解质胶囊",
+        "description": "无糖精准",
+        "advantages": [
+          "无糖",
+          "精准"
+        ],
+        "disadvantages": [
+          "需饮水送服"
+        ],
+        "bioavailability": "高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Cargill",
+        "country": "美国",
+        "website": "https://www.cargill.com",
+        "purity": "食品级",
+        "features": "钠/钾盐与运动营养配料"
+      },
+      {
+        "name": "Tate & Lyle",
+        "country": "英国",
+        "website": "https://www.tateandlyle.com",
+        "purity": "食品级",
+        "features": "电解质与糖浆配料"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "粉末冲剂/运动饮料",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "易吸收",
+          "口感好"
+        ]
+      },
+      {
+        "name": "泡腾片",
+        "category": "新型剂型",
+        "description": "便携",
+        "advantages": [
+          "便携",
+          "低糖"
+        ]
+      },
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "精准",
+        "advantages": [
+          "无糖"
+        ]
+      },
+      {
+        "name": "能量凝胶",
+        "category": "新型剂型",
+        "description": "运动中",
+        "advantages": [
+          "快速"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "食品电解质添加剂"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "维持水电解质与体液平衡；预防运动脱水与热衰竭；减少肌肉痉挛；支持神经传导与肌肉收缩；高温/耐力项目必备。",
+    "mechanism": {
+      "overview": "电解质维持细胞内外渗透压与膜电位。钠主导细胞外液与口渴驱动，钾主导细胞内与心肌，镁参与300+酶反应与肌肉松弛；缺失导致痉挛、乏力与心律失常。",
+      "steps": [
+        {
+          "title": "渗透压平衡",
+          "description": "钠调节细胞外液量，驱动水分重吸收与口渴。"
+        },
+        {
+          "title": "神经肌肉兴奋性",
+          "description": "钠钾梯度维持动作电位，镁稳定膜电位防过度兴奋。"
+        },
+        {
+          "title": "肌肉收缩",
+          "description": "钙镁协同调控收缩-舒张；缺镁致痉挛。"
+        },
+        {
+          "title": "心血管稳定",
+          "description": "钾维持正常心律，钠过量升血压（长期）。"
+        }
+      ],
+      "scientificReferences": [
+        "Sawka MN, et al. Med Sci Sports Exerc. 2007;39(2):377-390.",
+        "Cheuvront SN, Kenefick RW. J Athl Train. 2017;52(9):877-883.",
+        "Lijnen P, et al. Am J Cardiol. 2008;101(11A):25G-33G."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Liquid I.V.",
+        "brand": "Liquid I.V.",
+        "url": "https://www.liquid-iv.com",
+        "price": "$25/16包",
+        "sales": "月销10万+",
+        "otherIngredients": [
+          "钠",
+          "钾",
+          "镁"
+        ],
+        "dosageForm": "冲剂"
+      },
+      {
+        "name": "Nuun Sport",
+        "brand": "Nuun",
+        "url": "https://www.nuun.com",
+        "price": "$20/40片",
+        "sales": "月销3万+",
+        "otherIngredients": [
+          "电解质泡腾"
+        ],
+        "dosageForm": "泡腾片"
+      },
+      {
+        "name": "Gatorade",
+        "brand": "Gatorade",
+        "url": "https://www.gatorade.com",
+        "price": "$10/12瓶",
+        "sales": "月销50万+",
+        "otherIngredients": [
+          "钠",
+          "钾",
+          "糖"
+        ],
+        "dosageForm": "运动饮料"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥20-60/kg（电解质盐混合）",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥0.1-0.3/份"
+        },
+        {
+          "form": "泡腾片",
+          "cost": "约¥0.3-0.6/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.2/份",
+      "totalEstimate": "约¥0.3-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
+  },
+  {
+    "id": "whey-protein",
+    "name": "乳清蛋白",
+    "nameEn": "Whey Protein",
+    "category": "运动营养",
+    "categoryId": "sports",
+    "popularity": 5,
+    "summary": "奶酪生产的副产物蛋白，生物价最高的完整蛋白之一，富含支链氨基酸（尤其亮氨酸），是运动后肌肉蛋白合成(MPS)的首选原料。",
+    "chemicalStructure": {
+      "smiles": "混合物（完整蛋白质，代表氨基酸亮氨酸 C₆H₁₃NO₂）",
+      "molecularFormula": "混合物（蛋白质）",
+      "molecularWeight": "≈24-35 kDa（β-乳球蛋白等）",
+      "casNumber": "—"
+    },
+    "dosage": {
+      "minEffective": "20000",
+      "recommended": "20000-40000",
+      "safeUpperLimit": "100000",
+      "unit": "mg/次（训练后）",
+      "note": "每次20-40g（约0.3-0.4g/kg体重）。训练后30-60min窗口期搭配碳水更佳。乳糖不耐者选分离/水解物。每日蛋白总摄入目标1.4-2.0g/kg。"
+    },
+    "forms": [
+      {
+        "name": "浓缩乳清蛋白 WPC80",
+        "description": "含约80%蛋白+乳糖",
+        "advantages": [
+          "成本低",
+          "口感好"
+        ],
+        "disadvantages": [
+          "乳糖不耐受者不适"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "分离乳清蛋白 WPI90",
+        "description": "低乳糖高纯",
+        "advantages": [
+          "纯度高",
+          "乳糖低"
+        ],
+        "disadvantages": [
+          "贵",
+          "略苦"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "水解乳清蛋白 WPH",
+        "description": "预消化肽",
+        "advantages": [
+          "吸收最快",
+          "低敏"
+        ],
+        "disadvantages": [
+          "最贵",
+          "苦味"
+        ],
+        "bioavailability": "极高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Glanbia Nutritionals",
+        "country": "爱尔兰",
+        "website": "https://www.glanbianutritionals.com",
+        "purity": "WPC80/WPI90",
+        "features": "全球最大乳清蛋白供应商（Optimum Nutrition母公司）"
+      },
+      {
+        "name": "Arla Foods Ingredients",
+        "country": "丹麦",
+        "website": "https://www.arlafoodsingredients.com",
+        "purity": "≥90%",
+        "features": "生物活性乳清成分"
+      },
+      {
+        "name": "Hilmar Cheese",
+        "country": "美国",
+        "website": "https://www.hilmarcheese.com",
+        "purity": "WPC80",
+        "features": "乳清蛋白原料"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "粉末冲剂",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "灵活",
+          "易吸收"
+        ]
+      },
+      {
+        "name": "即饮RTD",
+        "category": "新型剂型",
+        "description": "便捷",
+        "advantages": [
+          "开盖即饮"
+        ]
+      },
+      {
+        "name": "蛋白棒/能量球",
+        "category": "新型剂型",
+        "description": "代餐",
+        "advantages": [
+          "便携",
+          "饱腹"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "乳清蛋白为普通食品原料/运动营养食品"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "强力刺激肌肉蛋白合成（高亮氨酸）；增肌与力量；运动后恢复；配合抗阻训练提升瘦体重；可能改善饱腹与减脂。",
+    "mechanism": {
+      "overview": "乳清蛋白消化快，提供高浓度的必需氨基酸（尤其亮氨酸），快速升高血氨基酸峰值激活mTORC1，驱动肌肉蛋白合成；同时提供合成原料。",
+      "steps": [
+        {
+          "title": "快速氨基酸峰",
+          "description": "乳清消化率(PDCAAS≈1)高，30-60min达血氨基酸峰值。"
+        },
+        {
+          "title": "mTOR激活",
+          "description": "亮氨酸直接激活mTORC1启动翻译。"
+        },
+        {
+          "title": "合成原料供给",
+          "description": "提供全部必需氨基酸作为肌纤维蛋白构建块。"
+        },
+        {
+          "title": "抗分解",
+          "description": "提高血氨基酸抑制皮质醇介导的分解。"
+        }
+      ],
+      "scientificReferences": [
+        "Phillips SM. J Sports Sci. 2011;29 Suppl 1:S29-38.",
+        "Moore DR, et al. Am J Clin Nutr. 2009;89(1):161-168.",
+        "Burd NA, et al. J Appl Physiol. 2011;110(1):150-157."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Optimum Nutrition Gold Standard Whey",
+        "brand": "Optimum Nutrition",
+        "url": "https://www.optimumnutrition.com",
+        "price": "$50/2.27kg",
+        "sales": "月销20万+",
+        "otherIngredients": [
+          "WPC/WPI"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "MyProtein Impact Whey",
+        "brand": "MyProtein",
+        "url": "https://www.myprotein.com",
+        "price": "$45/2.2kg",
+        "sales": "月销15万+",
+        "otherIngredients": [
+          "WPC80"
+        ],
+        "dosageForm": "粉末"
+      },
+      {
+        "name": "Dymatize ISO100",
+        "brand": "Dymatize",
+        "url": "https://www.dymatize.com",
+        "price": "$55/1.6kg",
+        "sales": "月销8万+",
+        "otherIngredients": [
+          "水解分离乳清"
+        ],
+        "dosageForm": "粉末"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥80-150/kg（WPC80）；¥180-280/kg（WPI90）",
+      "dosageFormCost": [
+        {
+          "form": "粉末",
+          "cost": "约¥2-4/份(25g)"
+        },
+        {
+          "form": "RTD",
+          "cost": "约¥8-15/瓶"
+        }
+      ],
+      "packagingCost": "约¥0.3-0.8/份",
+      "totalEstimate": "粉剂成品约¥3-6/份(25g)"
+    },
+    "secondaryCategoryIds": []
+  },
+  {
+    "id": "cranberry",
+    "name": "蔓越莓",
+    "nameEn": "Cranberry",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 4,
+    "summary": "富含维生素C与原花青素（尤其A型PAC）的小红莓。A型PAC可阻止大肠杆菌黏附尿路与胃壁，是女性泌尿道健康（预防UTI复发）的经典天然方案。",
+    "chemicalStructure": {
+      "smiles": "A型原花青素混合物（PAC）",
+      "molecularFormula": "混合物（PAC，代表表儿茶素二聚体）",
+      "molecularWeight": "—",
+      "casNumber": "—"
+    },
+    "dosage": {
+      "minEffective": "300",
+      "recommended": "300-500（提取物，含PAC≥30-36mg）",
+      "safeUpperLimit": "1500",
+      "unit": "mg/天",
+      "note": "预防UTI常用标准化提取物（36mg PAC/日）。天然果汁含糖高、PAC较低，效果弱。长期安全；草酸钙肾结石者适量。与抗凝血药无显著相互作用（不同于葡萄柚）。"
+    },
+    "forms": [
+      {
+        "name": "标准化提取物(36mg PAC)",
+        "description": "浓缩标准化",
+        "advantages": [
+          "剂量准",
+          "低糖"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "冻干果粉",
+        "description": "全果冻干",
+        "advantages": [
+          "全谱"
+        ],
+        "disadvantages": [
+          "PAC低",
+          "体积大"
+        ],
+        "bioavailability": "中"
+      },
+      {
+        "name": "果汁",
+        "description": "传统饮品",
+        "advantages": [
+          "易接受"
+        ],
+        "disadvantages": [
+          "高糖",
+          "PAC低"
+        ],
+        "bioavailability": "低"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Ocean Spray",
+        "country": "美国",
+        "website": "https://www.oceanspray.com",
+        "purity": "PAC标准化",
+        "features": "蔓越莓原料与提取物领先"
+      },
+      {
+        "name": "Fruit d'Or",
+        "country": "加拿大",
+        "website": "https://www.fruitdor.ca",
+        "purity": "有机蔓越莓粉",
+        "features": "有机蔓越莓原料"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "软糖",
+        "category": "新型剂型",
+        "description": "口感改良",
+        "advantages": [
+          "口感好",
+          "易坚持"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "普通食品（蔓越莓为普通食品原料）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "预防女性尿路感染(UTI)复发（A型PAC抗黏附）；支持泌尿道与阴道微生态；抗氧化；可能抑制幽门螺杆菌胃黏膜定植。",
+    "mechanism": {
+      "overview": "蔓越莓A型原花青素(PAC)带特殊B型连接，使大肠杆菌菌毛无法黏附尿路上皮，随尿液冲刷排出，从而减少定植与感染复发；同时提供抗氧化多酚。",
+      "steps": [
+        {
+          "title": "抗黏附",
+          "description": "A型PAC与大肠杆菌P-菌毛结合位点竞争，阻止其附着尿路上皮。"
+        },
+        {
+          "title": "冲刷排出",
+          "description": "未被附着的细菌随尿液排出，降低上行感染风险。"
+        },
+        {
+          "title": "抗氧化",
+          "description": "花青素/黄酮中和自由基，减轻黏膜氧化损伤。"
+        },
+        {
+          "title": "微生态",
+          "description": "维持泌尿道低pH与正常菌群。"
+        }
+      ],
+      "scientificReferences": [
+        "Jepson RG, Williams G, Craig JC. Cochrane Database Syst Rev. 2012;10:CD001321.",
+        "Howell AB. Adv Nutr. 2014;5(6):684S-692S.",
+        "Maki KC, et al. Nutr J. 2016;15:57."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "AZO Cranberry",
+        "brand": "AZO",
+        "url": "https://www.azohealth.com",
+        "price": "$15/50粒",
+        "sales": "月销3万+",
+        "otherIngredients": [
+          "蔓越莓提取物"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Ocean Spray Cranberry",
+        "brand": "Ocean Spray",
+        "url": "https://www.oceanspray.com",
+        "price": "$10/瓶",
+        "sales": "月销10万+",
+        "otherIngredients": [
+          "蔓越莓汁"
+        ],
+        "dosageForm": "果汁"
+      },
+      {
+        "name": "Nature's Bounty Cranberry",
+        "brand": "Nature's Bounty",
+        "url": "https://www.naturesbounty.com",
+        "price": "$12/60粒",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "蔓越莓"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥150-300/kg（PAC标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.2-0.4/份"
+        },
+        {
+          "form": "软糖",
+          "cost": "约¥0.3-0.6/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "antioxidant"
+    ]
+  },
+  {
+    "id": "soy-isoflavone",
+    "name": "大豆异黄酮",
+    "nameEn": "Soy Isoflavones",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 4,
+    "summary": "大豆中的植物雌激素（主要是染料木黄酮genistein、大豆苷元daidzein、黄豆黄素glycitein），结构与雌激素相似，可双向调节雌激素受体，是缓解更年期症状的经典植物方案。",
+    "chemicalStructure": {
+      "smiles": "染料木黄酮 C₁₅H₁₀O₅",
+      "molecularFormula": "C₁₅H₁₀O₅（genistein）",
+      "molecularWeight": "270.24 g/mol（genistein）",
+      "casNumber": "446-72-0（genistein）"
+    },
+    "dosage": {
+      "minEffective": "30",
+      "recommended": "40-80",
+      "safeUpperLimit": "100",
+      "unit": "mg/天（异黄酮当量）",
+      "note": "缓解更年期潮热常用40-80mg/天。甲状腺疾病者大量摄入可能干扰甲状腺（致甲状腺肿）；乳腺癌等激素敏感疾病者咨询医生。与大豆食品协同。"
+    },
+    "forms": [
+      {
+        "name": "大豆提取物(40%异黄酮)",
+        "description": "标准化提取物",
+        "advantages": [
+          "剂量准"
+        ],
+        "disadvantages": [
+          "轻微豆腥味"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "发酵豆豉/纳豆来源",
+        "description": "天然发酵来源",
+        "advantages": [
+          "含equol前体"
+        ],
+        "disadvantages": [
+          "含量波动"
+        ],
+        "bioavailability": "中"
+      },
+      {
+        "name": "复合植物雌激素",
+        "description": "与红三叶草等复配",
+        "advantages": [
+          "多源协同"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "ADM",
+        "country": "美国",
+        "website": "https://www.adm.com",
+        "purity": "≥40%异黄酮",
+        "features": "大豆异黄酮原料（Novasoy®）"
+      },
+      {
+        "name": "Cargill",
+        "country": "美国",
+        "website": "https://www.cargill.com",
+        "purity": "食品级",
+        "features": "植物提取物配料"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "食品强化粉",
+        "category": "新型剂型",
+        "description": "用于食品强化",
+        "advantages": [
+          "可入食品"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "大豆异黄酮为新资源食品，标签须标注不适宜人群与每日限量",
+        "maxDosage": "≤55mg/天（异黄酮，新资源食品规定）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "缓解更年期血管舒缩症状（潮热、盗汗）；轻度改善血脂（降LDL）；支持骨密度；抗氧化。对雌激素水平低者（绝经后）补充效益更明显。",
+    "mechanism": {
+      "overview": "大豆异黄酮为选择性雌激素受体调节剂(SERM)，与ER-β亲和力高，在雌激素不足时表现弱雌激素作用（缓解潮红），在过高时竞争占位表现抗雌激素，呈双向调节。",
+      "steps": [
+        {
+          "title": "受体结合",
+          "description": "genistein/daidzein与ER-β结合，激活雌激素响应基因（血管舒缩调节）。"
+        },
+        {
+          "title": "双向调节",
+          "description": "体内雌激素低时弱激动，高时竞争性拮抗。"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚羟基清除自由基，保护血管内皮。"
+        },
+        {
+          "title": "骨代谢",
+          "description": "抑制破骨细胞活性，减缓骨流失。"
+        }
+      ],
+      "scientificReferences": [
+        "Taku K, et al. Menopause. 2012;19(7):776-790.",
+        "Chen MN, et al. Phytomedicine. 2015;22(6):953-969.",
+        "Messina M. Fertil Steril. 2010;93(7):2095-2104."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Solgar Soy Isoflavones",
+        "brand": "Solgar",
+        "url": "https://www.solgar.com",
+        "price": "$15/50粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "大豆异黄酮"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "NOW Soy Isoflavones",
+        "brand": "NOW",
+        "url": "https://www.nowfoods.com",
+        "price": "$12/60粒",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "大豆异黄酮"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Nature Made Soy Isoflavones",
+        "brand": "Nature Made",
+        "url": "https://www.naturemade.com",
+        "price": "$12/50粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "大豆异黄酮"
+        ],
+        "dosageForm": "片剂"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥200-400/kg（40%提取物）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.2-0.4/份"
+        },
+        {
+          "form": "片剂",
+          "cost": "约¥0.2-0.4/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "antioxidant",
+      "cardiovascular"
+    ]
+  },
+  {
+    "id": "red-clover",
+    "name": "红三叶草提取物",
+    "nameEn": "Red Clover Extract",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 3,
+    "summary": "红三叶草(Trifolium pratense)富含异黄酮（芒柄花素formononetin、鹰嘴豆芽素A biochanin A），植物雌激素活性，传统用于更年期症状与心血管支持。",
+    "chemicalStructure": {
+      "smiles": "芒柄花素 C₁₆H₁₂O₄",
+      "molecularFormula": "C₁₆H₁₂O₄（formononetin）",
+      "molecularWeight": "268.26 g/mol",
+      "casNumber": "485-72-3（formononetin）"
+    },
+    "dosage": {
+      "minEffective": "40",
+      "recommended": "40-80（标准化异黄酮）",
+      "safeUpperLimit": "120",
+      "unit": "mg/天",
+      "note": "常用标准化至总异黄酮40-80mg。激素敏感性疾病（乳腺癌、子宫肌瘤）慎用；抗凝药使用者注意（含香豆素类，可能增强出血）。"
+    },
+    "forms": [
+      {
+        "name": "标准化提取物(40mg异黄酮)",
+        "description": "浓缩标准化",
+        "advantages": [
+          "剂量准"
+        ],
+        "disadvantages": [
+          "轻微异味"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "干燥花顶粉",
+        "description": "全草粉",
+        "advantages": [
+          "全谱"
+        ],
+        "disadvantages": [
+          "含量低"
+        ],
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Indena",
+        "country": "意大利",
+        "website": "https://www.indena.com",
+        "purity": "标准化",
+        "features": "植物提取物（Phytosome®技术）"
+      },
+      {
+        "name": "IFF",
+        "country": "美国",
+        "website": "https://www.iff.com",
+        "purity": "食品级",
+        "features": "香精香料与植物提取物"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "茶包",
+        "category": "传统剂型",
+        "description": "全草冲泡",
+        "advantages": [
+          "天然"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "普通食品/保健食品可用（异黄酮类）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "传统食用，GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "EFSA批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "缓解更年期潮热、盗汗；植物雌激素支持骨与血管；轻度抗氧化与血脂调节。",
+    "mechanism": {
+      "overview": "红三叶草异黄酮（formononetin、biochanin A）在肠道菌群转化为具雌激素活性的代谢物，结合ER发挥弱雌激素作用，缓解更年期症状；同时含香豆素类具轻度抗凝。",
+      "steps": [
+        {
+          "title": "异黄酮转化",
+          "description": "formononetin→daidzein，biochanin A→genistein，具雌激素活性。"
+        },
+        {
+          "title": "受体调节",
+          "description": "结合ER-β，缓解血管舒缩症状。"
+        },
+        {
+          "title": "抗氧化/血脂",
+          "description": "多酚改善内皮与脂质谱。"
+        },
+        {
+          "title": "抗凝注意",
+          "description": "香豆素类可能抑制维生素K依赖凝血因子（与华法林协同风险）。"
+        }
+      ],
+      "scientificReferences": [
+        "Baber RJ, et al. Menopause. 2009;16(6):1156-1166.",
+        "Lipovac M, et al. Menopause. 2012;19(2):160-165.",
+        "van de Weijer P, Barentsen R. Maturitas. 2002;42(3):187-193."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Nature's Way Red Clover",
+        "brand": "Nature's Way",
+        "url": "https://www.naturesway.com",
+        "price": "$12/100粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "红三叶草"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Swanson Red Clover",
+        "brand": "Swanson",
+        "url": "https://www.swansonvitamins.com",
+        "price": "$8/60粒",
+        "sales": "月销1.5万+",
+        "otherIngredients": [
+          "红三叶草"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Indena 提取物（原料）",
+        "brand": "Indena",
+        "url": "https://www.indena.com",
+        "price": "原料",
+        "sales": "—",
+        "otherIngredients": [
+          "红三叶草提取物"
+        ],
+        "dosageForm": "提取物"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥200-400/kg（标准化）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.2-0.4/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": [
+      "cardiovascular"
+    ]
+  },
+  {
+    "id": "black-cohosh",
+    "name": "黑升麻",
+    "nameEn": "Black Cohosh",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 3,
+    "summary": "北美多年生植物(Cimicifuga racemosa)根茎提取物，含三萜糖苷，是欧洲最常用于更年期症状（潮热、盗汗、情绪）的植物药，商品名Remifemin®。",
+    "chemicalStructure": {
+      "smiles": "三萜糖苷混合物（actein/27-deoxyactein）",
+      "molecularFormula": "C₃₇H₅₆O₁₀（actein）",
+      "molecularWeight": "≈684.8 g/mol（actein）",
+      "casNumber": "—"
+    },
+    "dosage": {
+      "minEffective": "20",
+      "recommended": "20-40（标准化2.5%三萜糖苷）",
+      "safeUpperLimit": "80",
+      "unit": "mg/天",
+      "note": "标准化至2.5%三萜糖苷。起效需4-8周。罕见肝毒性报告，建议定期监测肝功能；激素依赖肿瘤、肝病者慎用。机制非雌激素受体（相对友好）。"
+    },
+    "forms": [
+      {
+        "name": "标准化根茎提取物(2.5%三萜糖苷)",
+        "description": "Remifemin®标准",
+        "advantages": [
+          "证据强",
+          "剂量准"
+        ],
+        "disadvantages": [
+          "苦味",
+          "罕见肝风险"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "全草酊剂",
+        "description": "传统酊剂",
+        "advantages": [
+          "传统用法"
+        ],
+        "disadvantages": [
+          "剂量不稳"
+        ],
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Schwabe Pharmaceuticals",
+        "country": "德国",
+        "website": "https://www.schwabe.de",
+        "purity": "标准化Remifemin®",
+        "features": "黑升麻植物药领导（CR extract）"
+      },
+      {
+        "name": "Indena",
+        "country": "意大利",
+        "website": "https://www.indena.com",
+        "purity": "标准化",
+        "features": "植物提取物"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "酊剂",
+        "category": "传统剂型",
+        "description": "液体",
+        "advantages": [
+          "传统"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "保健食品可用（需合规）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "膳食补充剂（DSHEA）"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "德国植物药批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA Listed"
+      }
+    ],
+    "efficacy": "缓解更年期潮热、盗汗、多汗与情绪波动；可能改善睡眠；不同于雌激素机制（影响神经递质/5-HT），对雌激素敏感者相对友好（但仍需谨慎）。",
+    "mechanism": {
+      "overview": "黑升麻作用机制并非直接结合雌激素受体，而是调节下丘脑神经递质（血清素、多巴胺）与垂体gonadotropin分泌，从而缓解血管舒缩症状；三萜糖苷可能参与。",
+      "steps": [
+        {
+          "title": "神经递质调节",
+          "description": "影响中枢5-HT与多巴胺能通路，稳定体温调节中枢。"
+        },
+        {
+          "title": "垂体调节",
+          "description": "影响LH/FSH分泌节律，改善更年期内分泌波动。"
+        },
+        {
+          "title": "非雌激素",
+          "description": "不刺激子宫内膜增生（与激素替代不同）。"
+        },
+        {
+          "title": "抗炎/抗氧化",
+          "description": "多酚成分辅助。"
+        }
+      ],
+      "scientificReferences": [
+        "Lehmann-Willenbrock E, Riedel HH. Adv Ther. 2008;25(3):258-271.",
+        "Jacobson JS, et al. J Clin Oncol. 2001;19(10):2739-2745.",
+        "Burdette JE, et al. J Agric Food Chem. 2003;51(18):5661-5670."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Remifemin",
+        "brand": "Remifemin",
+        "url": "https://www.remifemin.com",
+        "price": "$20/60片",
+        "sales": "欧洲月销1万+",
+        "otherIngredients": [
+          "黑升麻提取物"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "Nature's Way Black Cohosh",
+        "brand": "Nature's Way",
+        "url": "https://www.naturesway.com",
+        "price": "$10/60粒",
+        "sales": "月销1.5万+",
+        "otherIngredients": [
+          "黑升麻"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Gaia Herbs Black Cohosh",
+        "brand": "Gaia Herbs",
+        "url": "https://www.gaiaherbs.com",
+        "price": "$20/60粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "黑升麻"
+        ],
+        "dosageForm": "液体胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥400-800/kg（标准化提取物）",
+      "dosageFormCost": [
+        {
+          "form": "片剂",
+          "cost": "约¥0.3-0.6/份"
+        },
+        {
+          "form": "胶囊",
+          "cost": "约¥0.3-0.6/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.5-1.0/份"
+    },
+    "secondaryCategoryIds": []
+  },
+  {
+    "id": "chasteberry",
+    "name": "圣洁莓",
+    "nameEn": "Chasteberry (Vitex agnus-castus)",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 3,
+    "summary": "穗花牡荆(Vitex agnus-castus)果实提取物，传统用于经前综合征(PMS)与乳腺胀痛。通过调节泌乳素与多巴胺能通路平衡激素，支持规律经期。",
+    "chemicalStructure": {
+      "smiles": "环烯醚萜/黄酮混合物（桃叶珊瑚苷 aucubin）",
+      "molecularFormula": "C₁₅H₂₂O₉（aucubin）",
+      "molecularWeight": "≈346.3 g/mol（aucubin）",
+      "casNumber": "—"
+    },
+    "dosage": {
+      "minEffective": "20",
+      "recommended": "20-40（标准化）",
+      "safeUpperLimit": "60",
+      "unit": "mg/天",
+      "note": "常用标准化提取物20-40mg/天。改善PMS需连续使用2-3个月经周期。孕期、哺乳期禁用（影响激素）；多囊卵巢/垂体瘤者咨询医生。可能轻度胃肠道不适。"
+    },
+    "forms": [
+      {
+        "name": "标准化果实提取物",
+        "description": "浓缩标准化",
+        "advantages": [
+          "剂量准",
+          "证据较好"
+        ],
+        "disadvantages": [
+          "苦味"
+        ],
+        "bioavailability": "高"
+      },
+      {
+        "name": "全果粉",
+        "description": "全谱",
+        "advantages": [
+          "传统"
+        ],
+        "disadvantages": [
+          "含量不稳"
+        ],
+        "bioavailability": "中"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Indena",
+        "country": "意大利",
+        "website": "https://www.indena.com",
+        "purity": "标准化",
+        "features": "植物提取物"
+      },
+      {
+        "name": "Martin Bauer",
+        "country": "德国",
+        "website": "https://www.martin-bauer.com",
+        "purity": "食品级",
+        "features": "植物药配料"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "液体提取物",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "吸收较快"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "保健食品可用"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "膳食补充剂"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "传统草药批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA Listed"
+      }
+    ],
+    "efficacy": "改善经前综合征(PMS)（乳房胀痛、情绪波动、易怒）；可能缓解乳腺增生与痛经；支持激素周期规律；对高泌乳素相关月经不调有益。",
+    "mechanism": {
+      "overview": "圣洁莓活性成分（环烯醚萜如aucubin、黄酮）作用于下丘脑多巴胺D2受体，抑制泌乳素分泌，并调节LH/FSH平衡，从而改善PMS与黄体功能不足相关症状。",
+      "steps": [
+        {
+          "title": "多巴胺能调节",
+          "description": "结合D2受体促进多巴胺，抑制垂体泌乳素释放。"
+        },
+        {
+          "title": "泌乳素下降",
+          "description": "降低高泌乳素对黄体功能的抑制，改善经前期症状。"
+        },
+        {
+          "title": "激素平衡",
+          "description": "调节LH/FSH比值，支持规律排卵与周期。"
+        },
+        {
+          "title": "乳腺缓解",
+          "description": "泌乳素正常化减轻乳腺胀痛。"
+        }
+      ],
+      "scientificReferences": [
+        "Schellenberg R. BMJ. 2001;322(7279):134-137.",
+        "Westphal LM, et al. J Womens Health (Larchmt). 2006;15(8):861-865.",
+        "van Die MD, et al. Planta Med. 2013;79(7):547-556."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Nature's Way Vitex",
+        "brand": "Nature's Way",
+        "url": "https://www.naturesway.com",
+        "price": "$12/100粒",
+        "sales": "月销2万+",
+        "otherIngredients": [
+          "圣洁莓"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Gaia Herbs Vitex",
+        "brand": "Gaia Herbs",
+        "url": "https://www.gaiaherbs.com",
+        "price": "$20/60粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "圣洁莓"
+        ],
+        "dosageForm": "液体胶囊"
+      },
+      {
+        "name": "Swanson Vitex",
+        "brand": "Swanson",
+        "url": "https://www.swansonvitamins.com",
+        "price": "$9/60粒",
+        "sales": "月销1.5万+",
+        "otherIngredients": [
+          "圣洁莓"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥300-600/kg（标准化）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.2-0.4/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.4-0.8/份"
+    },
+    "secondaryCategoryIds": []
+  },
+  {
+    "id": "equol",
+    "name": "雌马酚",
+    "nameEn": "Equol",
+    "category": "女性健康",
+    "categoryId": "women",
+    "popularity": 2,
+    "summary": "大豆异黄酮（daidzein）经特定肠道菌群代谢生成的高活性异黄酮代谢物，雌激素活性强于前体。仅约30-50%人群为雌马酚产生者，直接补充S-雌马酚可绕过个体差异。",
+    "chemicalStructure": {
+      "smiles": "C₁₅H₁₄O₃",
+      "molecularFormula": "C₁₅H₁₄O₃",
+      "molecularWeight": "242.27 g/mol",
+      "casNumber": "531-95-3"
+    },
+    "dosage": {
+      "minEffective": "10",
+      "recommended": "10-20（S-雌马酚）",
+      "safeUpperLimit": "30",
+      "unit": "mg/天",
+      "note": "S-雌马酚形式生物活性最高。用于更年期症状与皮肤/骨支持。激素敏感性疾病者咨询医生。肠道菌群失调者自身转化率差异大，直接补充更稳定。"
+    },
+    "forms": [
+      {
+        "name": "S-雌马酚(对映体纯)",
+        "description": "高活性对映体",
+        "advantages": [
+          "活性强",
+          "稳定"
+        ],
+        "disadvantages": [
+          "成本较高"
+        ],
+        "bioavailability": "极高"
+      },
+      {
+        "name": "混合雌马酚",
+        "description": "来源广",
+        "advantages": [
+          "成本较低"
+        ],
+        "disadvantages": [
+          "活性略低"
+        ],
+        "bioavailability": "高"
+      }
+    ],
+    "suppliers": [
+      {
+        "name": "Otsuka Pharmaceutical",
+        "country": "日本",
+        "website": "https://www.otsuka.co.jp",
+        "purity": "S-雌马酚",
+        "features": "雌马酚研究与应用领先（食品/补充剂）"
+      },
+      {
+        "name": "Prinova",
+        "country": "美国",
+        "website": "https://www.prinovaglobal.com",
+        "purity": "食品级",
+        "features": "原料分销"
+      }
+    ],
+    "dosageForms": [
+      {
+        "name": "硬胶囊",
+        "category": "传统剂型",
+        "description": "主流",
+        "advantages": [
+          "剂量准",
+          "便携"
+        ]
+      },
+      {
+        "name": "片剂",
+        "category": "传统剂型",
+        "description": "",
+        "advantages": [
+          "剂量准"
+        ]
+      },
+      {
+        "name": "食品强化粉",
+        "category": "新型剂型",
+        "description": "用于食品强化",
+        "advantages": [
+          "可入食品"
+        ]
+      }
+    ],
+    "compliance": [
+      {
+        "region": "CN",
+        "regionName": "中国",
+        "status": "approved",
+        "description": "可作为食品原料（雌马酚，需合规标注）"
+      },
+      {
+        "region": "US",
+        "regionName": "美国",
+        "status": "approved",
+        "description": "FDA GRAS"
+      },
+      {
+        "region": "EU",
+        "regionName": "欧盟",
+        "status": "approved",
+        "description": "Novel Food批准"
+      },
+      {
+        "region": "JP",
+        "regionName": "日本",
+        "status": "approved",
+        "description": "食品使用"
+      },
+      {
+        "region": "AU",
+        "regionName": "澳大利亚",
+        "status": "approved",
+        "description": "TGA允许成分"
+      }
+    ],
+    "efficacy": "强植物雌激素作用，缓解更年期潮热与阴道干涩；改善皮肤弹性与骨密度；抗氧化。对雌马酚非产生者直接补充效果确切。",
+    "mechanism": {
+      "overview": "S-雌马酚是daidzein的肠道代谢物，结构类似17β-雌二醇，与ER-β高亲和力结合发挥雌激素样作用；同时具强抗氧化活性，清除自由基并保护血管内皮。",
+      "steps": [
+        {
+          "title": "雌激素受体结合",
+          "description": "S-雌马酚与ER-β亲和力高于daidzein，激活血管舒缩调节基因。"
+        },
+        {
+          "title": "抗氧化",
+          "description": "酚羟基清除ROS，保护LDL与内皮。"
+        },
+        {
+          "title": "骨保护",
+          "description": "抑制破骨细胞，支持骨密度。"
+        },
+        {
+          "title": "皮肤支持",
+          "description": "改善胶原与皮肤水合。"
+        }
+      ],
+      "scientificReferences": [
+        "Setchell KD, et al. Am J Clin Nutr. 2003;77(2):464-473.",
+        "Aso T, et al. Menopause. 2012;19(4):458-464.",
+        "Jackson RL, et al. J Nutr Biochem. 2011;22(5):401-409."
+      ]
+    },
+    "productCases": [
+      {
+        "name": "Otsuka Equol",
+        "brand": "Otsuka",
+        "url": "https://www.otsuka.co.jp",
+        "price": "日本月销",
+        "sales": "—",
+        "otherIngredients": [
+          "S-雌马酚"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Swanson Equol",
+        "brand": "Swanson",
+        "url": "https://www.swansonvitamins.com",
+        "price": "$15/60粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "雌马酚"
+        ],
+        "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "Nature's Way 雌马酚",
+        "brand": "Nature's Way",
+        "url": "https://www.naturesway.com",
+        "price": "$18/60粒",
+        "sales": "月销1万+",
+        "otherIngredients": [
+          "雌马酚"
+        ],
+        "dosageForm": "硬胶囊"
+      }
+    ],
+    "costs": {
+      "rawMaterial": "约¥800-1500/kg（S-雌马酚，对映体纯）",
+      "dosageFormCost": [
+        {
+          "form": "胶囊",
+          "cost": "约¥0.4-0.8/份"
+        }
+      ],
+      "packagingCost": "约¥0.05-0.15/份",
+      "totalEstimate": "约¥0.6-1.2/份"
+    },
+    "secondaryCategoryIds": [
+      "antioxidant"
+    ]
   }
 ]

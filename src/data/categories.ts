@@ -13,7 +13,7 @@ export const categories: Category[] = [
     "name": "抗氧化/延缓衰老",
     "icon": "sparkles",
     "description": "清除自由基，减缓细胞氧化损伤，延缓衰老进程",
-    "ingredientCount": 37
+    "ingredientCount": 40
   },
   {
     "id": "sleep",
@@ -48,7 +48,7 @@ export const categories: Category[] = [
     "name": "心血管健康",
     "icon": "heart",
     "description": "维护心血管功能，调节血脂血压",
-    "ingredientCount": 36
+    "ingredientCount": 40
   },
   {
     "id": "bone",
@@ -76,7 +76,7 @@ export const categories: Category[] = [
     "name": "抗疲劳/提神",
     "icon": "zap",
     "description": "提升精力水平，对抗身体和精神疲劳",
-    "ingredientCount": 33
+    "ingredientCount": 36
   },
   {
     "id": "bloodsugar",
@@ -84,6 +84,20 @@ export const categories: Category[] = [
     "icon": "activity",
     "description": "辅助调节血糖水平，改善胰岛素敏感性",
     "ingredientCount": 19
+  },
+  {
+    "id": "sports",
+    "name": "运动营养",
+    "icon": "dumbbell",
+    "description": "提升运动表现、肌肉合成与运动恢复，涵盖能量供给、耐力、力量与hydration支持",
+    "ingredientCount": 15
+  },
+  {
+    "id": "women",
+    "name": "女性健康",
+    "icon": "venus",
+    "description": "聚焦女性全生命周期健康需求：更年期调理、经期与PMS、泌尿道与皮肤骨骼支持",
+    "ingredientCount": 14
   },
   {
     "id": "probiotics",

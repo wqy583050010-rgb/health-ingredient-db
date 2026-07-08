@@ -1028,7 +1028,8 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular",
-      "sleep"
+      "sleep",
+      "sports"
     ]
   },
   {
@@ -4213,7 +4214,10 @@
       ],
       "packagingCost": "约¥0.04-0.12/粒",
       "totalEstimate": "成品成本约¥0.15-0.35/粒，零售价通常为成本6-10倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "rhodiola-extract",
@@ -4990,7 +4994,8 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular",
-      "eye"
+      "eye",
+      "sports"
     ]
   },
   {
@@ -5249,7 +5254,8 @@
       "totalEstimate": "粉末成品成本约¥0.15-0.30/份，零售价通常为成本5-10倍"
     },
     "secondaryCategoryIds": [
-      "bone"
+      "bone",
+      "sports"
     ]
   },
   {
@@ -6569,7 +6575,10 @@
       ],
       "packagingCost": "约¥0.03-0.08/粒",
       "totalEstimate": "成品成本约¥0.08-0.20/粒，零售价通常为成本8-15倍"
-    }
+    },
+    "secondaryCategoryIds": [
+      "women"
+    ]
   },
   {
     "id": "coenzyme-q10-energy",
@@ -9812,7 +9821,10 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥15-40/瓶(60-120粒)"
-    }
+    },
+    "secondaryCategoryIds": [
+      "sports"
+    ]
   },
   {
     "id": "5-htp",
