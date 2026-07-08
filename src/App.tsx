@@ -4,11 +4,13 @@ import { CategoryPage } from './pages/CategoryPage';
 import { IngredientDetailPage } from './pages/IngredientDetailPage';
 import FactoryPage from './pages/FactoryPage';
 import { SearchBar } from './components/SearchBar';
+import ScrollManager from './components/ScrollManager';
 import { FlaskConical, Factory } from 'lucide-react';
 
 function App() {
   return (
     <HashRouter>
+      <ScrollManager />
       <div className="min-h-screen bg-gradient-to-br from-teal-50/80 via-white to-cyan-50/60">
         {/* Glass Header */}
         <header className="sticky top-0 z-50 glass border-b border-teal-100/50">
