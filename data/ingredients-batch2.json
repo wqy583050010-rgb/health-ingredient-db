@@ -1395,14 +1395,14 @@
       {
         "name": "华北制药",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "http://www.ncpc.com.cn/",
         "purity": "≥99.0%",
         "features": "国内最大维C生产商，全球产能过半"
       },
       {
         "name": "石药集团",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.e-cspc.com/",
         "purity": "≥99.0%",
         "features": "维C原料药出口商，注射级及食品级"
       }
@@ -1648,7 +1648,7 @@
       {
         "name": "浙江医药",
         "country": "中国",
-        "website": "https://www.dsm-firmenich.com",
+        "website": "https://www.zmc.top/",
         "purity": "≥99.0%",
         "features": "国内生物素主要生产商，出口全球"
       },
@@ -1945,14 +1945,14 @@
       {
         "name": "浙江尖峰海洲药业",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "https://www.haizhoupharm.cn",
         "purity": "花青素≥25%",
         "features": "国产越橘提取物供应商,出口欧美"
       },
       {
         "name": "陕西森弗",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "http://www.sciphar.com.cn",
         "purity": "花青素≥25%",
         "features": "国产越橘花青素供应商,出口为主"
       }
@@ -2987,7 +2987,7 @@
       {
         "name": "宁夏伊品生物",
         "country": "中国",
-        "website": "https://www.layn.com.cn",
+        "website": "https://www.eppen.com.cn/",
         "purity": "≥40% LBP",
         "features": "宁夏中宁枸杞基地，枸杞多糖标准化提取物供应商"
       },
@@ -4040,7 +4040,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "标准化提取物",
         "features": "MacaX®玛咖酰胺标准化提取物，临床研究支持"
       },
@@ -4297,7 +4297,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.naturex.com",
+        "website": "https://www.givaudan.com",
         "purity": "≥3% rosavin",
         "features": "Rhodiolife®红景天提取物，阿尔卑斯野生采集，临床研究最充分品牌"
       },
@@ -4574,7 +4574,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "≥0.8% eleutheroside B",
         "features": "Eleutherox®刺五加标准化提取物，欧洲药典标准"
       }
@@ -6705,7 +6705,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.kaneka.co.jp",
+        "website": "https://www.givaudan.com",
         "purity": "≥98% 辅酶Q10",
         "features": "提供辅酶Q10原料及配方服务"
       },
@@ -7230,14 +7230,14 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.indena.com",
+        "website": "https://www.givaudan.com",
         "purity": "多酚≥10%",
         "features": "Cinnamon-OG肉桂标准化提取物，水提取低香豆素"
       },
       {
         "name": "Frutarom (IFF)",
         "country": "以色列",
-        "website": "https://www.indena.com",
+        "website": "https://www.iff.com",
         "purity": "多酚≥10%",
         "features": "CinSulin®水提取肉桂，临床研究支持，香豆素去除"
       },
@@ -7504,7 +7504,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "苦瓜苷≥5%",
         "features": "BitterMelon-OG标准化提取物，欧洲药典标准"
       }
@@ -8025,14 +8025,14 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "4-HIL≥20%",
         "features": "Fenugreek-OG标准化提取物，欧洲药典标准"
       },
       {
         "name": "Frutarom (IFF)",
         "country": "以色列",
-        "website": "",
+        "website": "https://www.iff.com",
         "purity": "4-HIL≥20%",
         "features": "Fenufiber®胡芦巴纤维与活性成分提取物，降糖与降脂双效"
       }
@@ -8838,7 +8838,7 @@
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "葫芦巴碱≥2%",
         "features": "Fenugreek-OG标准化提取物，欧洲药典标准"
       },
@@ -9392,7 +9392,7 @@
       {
         "name": "河北华晨药业",
         "country": "中国",
-        "website": "https://www.sabinsa.com",
+        "website": "http://huachenyaoye.com/",
         "purity": "≥98.5%",
         "features": "工业化生产，价格有竞争力"
       }

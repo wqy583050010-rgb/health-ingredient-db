@@ -863,7 +863,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "湖南华诚生物",
         "country": "中国",
-        "website": "https://www.naturex.com",
+        "website": "http://www.huacheng-biotech.com/",
         "purity": "≥5%多糖/≥0.3%甲苷IV",
         "features": "专业黄芪提取物生产商，ISO/HACCP认证"
       },
@@ -1841,7 +1841,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "山东华仙浩森",
         "country": "中国",
-        "website": "https://www.naturex.com",
+        "website": "https://cn.steviachina.com/",
         "purity": "大蒜素≥1.0%",
         "features": "国内大蒜提取物主要生产商"
       },
@@ -2329,7 +2329,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "山东金城生物",
         "country": "中国",
-        "website": "https://www.kyowa-kirin.com",
+        "website": "http://www.jinchengbiopharm.com/",
         "purity": "≥98%",
         "features": "国内GSH主要原料药和食品添加剂生产商"
       },
@@ -4206,7 +4206,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "青岛澳海生物",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "http://www.auhai.com/",
         "purity": "≥78%",
         "features": "国内CLA主要出口商"
       }
@@ -4933,7 +4933,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "长沙绿蔓生物",
         "country": "中国",
-        "website": "https://www.naturex.com",
+        "website": "https://www.nutra-max.cn/",
         "purity": "绿原酸45-50%",
         "features": "国内植物提取主流供应商"
       }
@@ -6934,7 +6934,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "合肥博美生物",
         "country": "中国",
-        "website": "https://www.dsm-firmenich.com",
+        "website": "http://www.bomeibio.com/",
         "purity": "芝麻素≥90%",
         "features": "国内高纯芝麻素供应商"
       }
@@ -7438,14 +7438,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "新疆天山制药",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.tszhiyao.com/",
         "purity": "甘草酸≥95%",
         "features": "国内甘草酸主要生产商"
       },
       {
         "name": "甘肃泛植制药",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.fanzhigroup.com/",
         "purity": "甘草酸≥95%",
         "features": "甘草主产区源头供应商"
       }
@@ -10283,7 +10283,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "北京北大药业有限公司",
         "country": "中国",
-        "website": "https://www.dsm-firmenich.com",
         "purity": "≥97.0%",
         "features": "国内叶酸原料药主要生产商"
       }
@@ -10538,7 +10537,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "山东金乡大蒜产业",
         "country": "中国",
-        "website": "https://www.naturex.com",
         "purity": "蒜氨酸≥1.5%",
         "features": "中国大蒜之乡原料基地，出口级大蒜粉"
       }
@@ -11042,7 +11040,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "陕西嘉禾植物化工",
         "country": "中国",
-        "website": "https://www.naturex.com",
+        "website": "https://www.jiaherb.com/",
         "purity": "黄酮≥5%",
         "features": "山楂提取物出口商，GAP原料基地"
       }
@@ -11312,7 +11310,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "安徽泰格生物技术",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.bbcatiger.com/",
         "purity": "≥98.0%",
         "features": "国内柠檬酸镁及矿物质盐主要生产商"
       }
@@ -11878,7 +11876,6 @@ export const ingredients: Ingredient[] = [
       {
         "name": "浙江建德碳酸钙",
         "country": "中国",
-        "website": "https://www.balchem.com",
         "purity": "≥98.0%",
         "features": "国内碳酸钙主要产区，出口食品级原料"
       }
@@ -13949,14 +13946,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "华北制药",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "http://www.ncpc.com.cn/",
         "purity": "≥99.0%",
         "features": "国内最大维C生产商，全球产能过半"
       },
       {
         "name": "石药集团",
         "country": "中国",
-        "website": "https://www.balchem.com",
+        "website": "https://www.e-cspc.com/",
         "purity": "≥99.0%",
         "features": "维C原料药出口商，注射级及食品级"
       }
@@ -14202,7 +14199,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "浙江医药",
         "country": "中国",
-        "website": "https://www.dsm-firmenich.com",
+        "website": "https://www.zmc.top/",
         "purity": "≥99.0%",
         "features": "国内生物素主要生产商，出口全球"
       },
@@ -14499,14 +14496,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "浙江尖峰海洲药业",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "https://www.haizhoupharm.cn",
         "purity": "花青素≥25%",
         "features": "国产越橘提取物供应商,出口欧美"
       },
       {
         "name": "陕西森弗",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "http://www.sciphar.com.cn",
         "purity": "花青素≥25%",
         "features": "国产越橘花青素供应商,出口为主"
       }
@@ -15541,7 +15538,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "宁夏伊品生物",
         "country": "中国",
-        "website": "https://www.layn.com.cn",
+        "website": "https://www.eppen.com.cn/",
         "purity": "≥40% LBP",
         "features": "宁夏中宁枸杞基地，枸杞多糖标准化提取物供应商"
       },
@@ -16594,7 +16591,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "标准化提取物",
         "features": "MacaX®玛咖酰胺标准化提取物，临床研究支持"
       },
@@ -16851,7 +16848,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.naturex.com",
+        "website": "https://www.givaudan.com",
         "purity": "≥3% rosavin",
         "features": "Rhodiolife®红景天提取物，阿尔卑斯野生采集，临床研究最充分品牌"
       },
@@ -17128,7 +17125,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "≥0.8% eleutheroside B",
         "features": "Eleutherox®刺五加标准化提取物，欧洲药典标准"
       }
@@ -19259,7 +19256,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.kaneka.co.jp",
+        "website": "https://www.givaudan.com",
         "purity": "≥98% 辅酶Q10",
         "features": "提供辅酶Q10原料及配方服务"
       },
@@ -19784,14 +19781,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.indena.com",
+        "website": "https://www.givaudan.com",
         "purity": "多酚≥10%",
         "features": "Cinnamon-OG肉桂标准化提取物，水提取低香豆素"
       },
       {
         "name": "Frutarom (IFF)",
         "country": "以色列",
-        "website": "https://www.indena.com",
+        "website": "https://www.iff.com",
         "purity": "多酚≥10%",
         "features": "CinSulin®水提取肉桂，临床研究支持，香豆素去除"
       },
@@ -20058,7 +20055,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "苦瓜苷≥5%",
         "features": "BitterMelon-OG标准化提取物，欧洲药典标准"
       }
@@ -20579,14 +20576,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "4-HIL≥20%",
         "features": "Fenugreek-OG标准化提取物，欧洲药典标准"
       },
       {
         "name": "Frutarom (IFF)",
         "country": "以色列",
-        "website": "",
+        "website": "https://www.iff.com",
         "purity": "4-HIL≥20%",
         "features": "Fenufiber®胡芦巴纤维与活性成分提取物，降糖与降脂双效"
       }
@@ -21392,7 +21389,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "葫芦巴碱≥2%",
         "features": "Fenugreek-OG标准化提取物，欧洲药典标准"
       },
@@ -21946,7 +21943,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "河北华晨药业",
         "country": "中国",
-        "website": "https://www.sabinsa.com",
+        "website": "http://huachenyaoye.com/",
         "purity": "≥98.5%",
         "features": "工业化生产，价格有竞争力"
       }
@@ -30162,7 +30159,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.artemis-international.com",
+        "website": "https://www.givaudan.com",
         "purity": "标准化含3.2%总花青素",
         "features": "提供有机认证接骨木莓提取物，全球供应链"
       },
@@ -33131,7 +33128,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Frutarom (IFF)",
         "country": "以色列",
-        "website": "https://www.evolva.com",
+        "website": "https://www.iff.com",
         "purity": "≥98% 反式白藜芦醇",
         "features": "提供葡萄来源白藜芦醇原料"
       },
@@ -33446,7 +33443,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Panjin Tychen Bio-Tech",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "http://www.tinveun.com",
         "purity": "标准化含80%水飞蓟素",
         "features": "中国水飞蓟素主要供应商，性价比高"
       }
@@ -34327,7 +34324,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "标准化含2.5%洋蓟素",
         "features": "提供有机认证朝鲜蓟提取物"
       },
@@ -34626,7 +34623,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "",
+        "website": "https://www.givaudan.com",
         "purity": "标准化含9%木脂素",
         "features": "提供有机认证五味子提取物"
       },
@@ -35540,14 +35537,14 @@ export const ingredients: Ingredient[] = [
       {
         "name": "Naturex (Givaudan)",
         "country": "法国",
-        "website": "https://www.indena.com",
+        "website": "https://www.givaudan.com",
         "purity": "标准化含95% OPC",
         "features": "全球植物提取物供应商,提供有机认证产品"
       },
       {
         "name": "天津尖峰天然产物",
         "country": "中国",
-        "website": "https://www.indena.com",
+        "website": "http://www.jf-natural.com",
         "purity": "标准化含95% OPC",
         "features": "国产葡萄籽OPC主要供应商,出口欧美"
       }
@@ -37382,7 +37379,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "陕西森弗",
         "country": "中国",
-        "website": "https://www.kemin.com",
+        "website": "http://www.sciphar.com.cn",
         "purity": "纯度>99%(纯品)",
         "features": "国产维生素K2 MK-7供应商,出口全球"
       }
@@ -37999,7 +37996,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "浙江三禾生物",
         "country": "中国",
-        "website": "https://www.naturex.com",
+        "website": "https://www.zjshsw.com/",
         "purity": "莫纳可林K 0.4-2%",
         "features": "国产红曲米发酵专家,出口为主"
       }
@@ -38609,7 +38606,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "陕西森弗",
         "country": "中国",
-        "website": "https://www.deerland.com",
+        "website": "http://www.sciphar.com.cn",
         "purity": "标准化20000 FU/g",
         "features": "国产纳豆激酶供应商,出口为主"
       }
