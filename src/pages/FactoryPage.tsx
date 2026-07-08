@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { oemFactories, type OEMFactory, type SuccessCase, industryMoq, industryPrice, type IndustryRefRow } from '@/data/factories';
-import { Factory, ExternalLink, Link2, MapPin, Phone, Beaker, Award, FileText } from 'lucide-react';
+import { Factory, ExternalLink, Link2, MapPin, Phone, Beaker, Award, FileText, ChevronDown } from 'lucide-react';
 
 export default function FactoryPage() {
   const [filter, setFilter] = useState<'all' | 'domestic' | 'international'>('all');
@@ -67,8 +67,8 @@ export default function FactoryPage() {
           </div>
         </div>
 
-        {/* Factory Cards - All info visible by default */}
-        <div className="space-y-6">
+        {/* Factory Cards - Collapsed by default, click to expand */}
+        <div className="space-y-4">
           {filtered.map((factory) => (
             <FactoryCard key={factory.id} factory={factory} />
           ))}
@@ -145,11 +145,15 @@ export default function FactoryPage() {
 
 function FactoryCard({ factory }: { factory: OEMFactory }) {
   const isDomestic = factory.region === 'domestic';
+  const [open, setOpen] = useState(false);
 
   return (
     <div className="bg-white rounded-xl border hover:shadow-sm transition-shadow overflow-hidden">
-      {/* Header */}
-      <div className="p-5 border-b border-gray-100">
+      {/* Header - click to expand/collapse */}
+      <div
+        className="p-5 cursor-pointer select-none"
+        onClick={() => setOpen(!open)}
+      >
         <div className="flex items-start justify-between gap-4">
           <div className="flex-1">
             <div className="flex items-center gap-2 mb-1 flex-wrap">
@@ -170,7 +174,13 @@ function FactoryCard({ factory }: { factory: OEMFactory }) {
             </div>
           </div>
           {factory.website && (
-            <a href={factory.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-xs text-teal-600 hover:underline shrink-0 border border-teal-200 rounded px-3 py-1 transition-colors hover:bg-teal-50">
+            <a
+              href={factory.website}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+              className="inline-flex items-center gap-1 text-xs text-teal-600 hover:underline shrink-0 border border-teal-200 rounded px-3 py-1 transition-colors hover:bg-teal-50"
+            >
               官网 <ExternalLink className="w-3 h-3" />
             </a>
           )}
@@ -184,115 +194,122 @@ function FactoryCard({ factory }: { factory: OEMFactory }) {
             </span>
           ))}
         </div>
+
+        {/* Expand toggle */}
+        <div className="flex items-center gap-1 text-teal-600 text-sm mt-3 font-medium">
+          <ChevronDown className={`w-4 h-4 transition-transform ${open ? 'rotate-180' : ''}`} />
+          {open ? '收起详情' : '查看详情'}
+        </div>
       </div>
 
-      {/* Body - All info visible */}
-      <div className="px-5 py-4 space-y-4">
+      {/* Body - only visible when expanded */}
+      {open && (
+        <div className="px-5 pb-4 pt-0 space-y-4 border-t border-gray-100">
+          {/* Company Intro */}
+          <p className="text-gray-700 leading-relaxed text-sm pt-4">{factory.intro}</p>
 
-        {/* Company Intro */}
-        <p className="text-gray-700 leading-relaxed text-sm">{factory.intro}</p>
+          {/* Contact Info */}
+          <div className="bg-gray-50 rounded-lg p-3 space-y-1.5 text-sm">
+            <div className="flex items-center gap-1.5 font-medium text-gray-800 mb-1">
+              <Phone className="w-4 h-4 text-gray-500" /> 联系方式
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="text-gray-400 shrink-0 w-10">地址</span>
+              <span className="text-gray-700">{factory.address}</span>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="text-gray-400 shrink-0 w-10">电话</span>
+              <span className="text-gray-700">{factory.phone}</span>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="text-gray-400 shrink-0 w-10">邮箱</span>
+              <span className="text-gray-700">{factory.email}</span>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="text-gray-400 shrink-0 w-10">官网</span>
+              <a href={factory.website} target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline break-all">{factory.website}</a>
+            </div>
+          </div>
 
-        {/* Contact Info */}
-        <div className="bg-gray-50 rounded-lg p-3 space-y-1.5 text-sm">
-          <div className="flex items-center gap-1.5 font-medium text-gray-800 mb-1">
-            <Phone className="w-4 h-4 text-gray-500" /> 联系方式
+          {/* Business Details */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
+            <DetailRow label="生产基地" value={factory.factories} />
+            <DetailRow label="MOQ 起订量" value={factory.moq} />
+            <DetailRow label="价格区间" value={factory.priceRange} />
+            <DetailRow label="专利技术" value={factory.patents} />
+            <div className="md:col-span-2">
+              <DetailRow label="主要客户" value={factory.clients} />
+            </div>
           </div>
-          <div className="flex items-start gap-2">
-            <span className="text-gray-400 shrink-0 w-10">地址</span>
-            <span className="text-gray-700">{factory.address}</span>
-          </div>
-          <div className="flex items-start gap-2">
-            <span className="text-gray-400 shrink-0 w-10">电话</span>
-            <span className="text-gray-700">{factory.phone}</span>
-          </div>
-          <div className="flex items-start gap-2">
-            <span className="text-gray-400 shrink-0 w-10">邮箱</span>
-            <span className="text-gray-700">{factory.email}</span>
-          </div>
-          <div className="flex items-start gap-2">
-            <span className="text-gray-400 shrink-0 w-10">官网</span>
-            <a href={factory.website} target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline break-all">{factory.website}</a>
-          </div>
-        </div>
 
-        {/* Business Details */}
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm">
-          <DetailRow label="生产基地" value={factory.factories} />
-          <DetailRow label="MOQ 起订量" value={factory.moq} />
-          <DetailRow label="价格区间" value={factory.priceRange} />
-          <DetailRow label="专利技术" value={factory.patents} />
-          <div className="md:col-span-2">
-            <DetailRow label="主要客户" value={factory.clients} />
-          </div>
-        </div>
+          {/* 优势剂型 - 高亮展示 */}
+          {factory.advantageDosageForms && factory.advantageDosageForms.length > 0 && (
+            <div className="text-sm">
+              <div className="flex items-center gap-2 mb-1.5">
+                <span className="font-medium text-gray-800">
+                  <Beaker className="w-4 h-4 inline-block" /> 优势剂型
+                </span>
+                <span className="text-xs bg-orange-100 text-orange-700 px-1.5 py-0.5 rounded-full">{factory.advantageDosageForms.length}种</span>
+              </div>
+              <div className="flex flex-wrap gap-1.5">
+                {factory.advantageDosageForms.map((form) => (
+                  <span key={form} className="text-xs bg-orange-50 text-orange-700 px-2 py-0.5 rounded border border-orange-200 font-medium">
+                    {form}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
 
-        {/* 优势剂型 - 高亮展示 */}
-        {factory.advantageDosageForms && factory.advantageDosageForms.length > 0 && (
+          {/* Dosage Forms - Full List */}
           <div className="text-sm">
             <div className="flex items-center gap-2 mb-1.5">
-              <span className="font-medium text-gray-800">
-                <Beaker className="w-4 h-4 inline-block" /> 优势剂型
-              </span>
-              <span className="text-xs bg-orange-100 text-orange-700 px-1.5 py-0.5 rounded-full">{factory.advantageDosageForms.length}种</span>
+              <span className="font-medium text-gray-800">            <Beaker className="w-4 h-4" /> 可制备剂型</span>
+              <span className="text-xs bg-teal-100 text-teal-700 px-1.5 py-0.5 rounded-full">{factory.dosageForms.length}种</span>
             </div>
             <div className="flex flex-wrap gap-1.5">
-              {factory.advantageDosageForms.map((form) => (
-                <span key={form} className="text-xs bg-orange-50 text-orange-700 px-2 py-0.5 rounded border border-orange-200 font-medium">
+              {factory.dosageForms.map((form) => (
+                <span key={form} className="text-xs bg-teal-50 text-teal-700 px-2 py-0.5 rounded border border-teal-100">
                   {form}
                 </span>
               ))}
             </div>
           </div>
-        )}
 
-        {/* Dosage Forms - Full List */}
-        <div className="text-sm">
-          <div className="flex items-center gap-2 mb-1.5">
-            <span className="font-medium text-gray-800">            <Beaker className="w-4 h-4" /> 可制备剂型</span>
-            <span className="text-xs bg-teal-100 text-teal-700 px-1.5 py-0.5 rounded-full">{factory.dosageForms.length}种</span>
-          </div>
-          <div className="flex flex-wrap gap-1.5">
-            {factory.dosageForms.map((form) => (
-              <span key={form} className="text-xs bg-teal-50 text-teal-700 px-2 py-0.5 rounded border border-teal-100">
-                {form}
-              </span>
-            ))}
-          </div>
-        </div>
-
-        {/* Certifications - Full List */}
-        <div className="text-sm">
-          <div className="flex items-center gap-2 mb-1.5">
-            <span className="font-medium text-gray-800">            <Award className="w-4 h-4" /> 认证资质</span>
-            <span className="text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full">{factory.certifications.length}项</span>
-          </div>
-          <div className="flex flex-wrap gap-1.5">
-            {factory.certifications.map((cert) => (
-              <span key={cert} className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100">
-                {cert}
-              </span>
-            ))}
-          </div>
-        </div>
-
-        {/* Success Cases */}
-        {factory.successCases.length > 0 && (
+          {/* Certifications - Full List */}
           <div className="text-sm">
             <div className="flex items-center gap-2 mb-1.5">
-              <span className="font-medium text-gray-800">            <FileText className="w-4 h-4" /> 成功案例</span>
-              <span className="text-xs bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded-full">{factory.successCases.length}个</span>
+              <span className="font-medium text-gray-800">            <Award className="w-4 h-4" /> 认证资质</span>
+              <span className="text-xs bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full">{factory.certifications.length}项</span>
             </div>
-            <div className="space-y-1">
-              {factory.successCases.map((sc: SuccessCase) => (
-                <a key={sc.url} href={sc.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-teal-600 hover:underline hover:text-teal-700">
-                  <Link2 className="w-3 h-3" />
-                  <span className="text-sm">{sc.name}</span>
-                </a>
+            <div className="flex flex-wrap gap-1.5">
+              {factory.certifications.map((cert) => (
+                <span key={cert} className="text-xs bg-blue-50 text-blue-700 px-2 py-0.5 rounded border border-blue-100">
+                  {cert}
+                </span>
               ))}
             </div>
           </div>
-        )}
-      </div>
+
+          {/* Success Cases */}
+          {factory.successCases.length > 0 && (
+            <div className="text-sm">
+              <div className="flex items-center gap-2 mb-1.5">
+                <span className="font-medium text-gray-800">            <FileText className="w-4 h-4" /> 成功案例</span>
+                <span className="text-xs bg-gray-100 text-gray-600 px-1.5 py-0.5 rounded-full">{factory.successCases.length}个</span>
+              </div>
+              <div className="space-y-1">
+                {factory.successCases.map((sc: SuccessCase) => (
+                  <a key={sc.url} href={sc.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-teal-600 hover:underline hover:text-teal-700">
+                    <Link2 className="w-3 h-3" />
+                    <span className="text-sm">{sc.name}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }
