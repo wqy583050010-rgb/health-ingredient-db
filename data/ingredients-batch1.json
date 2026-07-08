@@ -4114,7 +4114,13 @@
     "secondaryCategoryIds": [
       "energy",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "cla-weight",
@@ -11478,7 +11484,13 @@
       "bone",
       "sleep",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "potassium-cardio",
@@ -11763,7 +11775,13 @@
     "secondaryCategoryIds": [
       "energy",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "calcium-carbonate-bone",

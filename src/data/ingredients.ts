@@ -4116,7 +4116,13 @@ export const ingredients: Ingredient[] = [
     "secondaryCategoryIds": [
       "energy",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "cla-weight",
@@ -11480,7 +11486,13 @@ export const ingredients: Ingredient[] = [
       "bone",
       "sleep",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "potassium-cardio",
@@ -11765,7 +11777,13 @@ export const ingredients: Ingredient[] = [
     "secondaryCategoryIds": [
       "energy",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "calcium-carbonate-bone",
@@ -13566,7 +13584,13 @@ export const ingredients: Ingredient[] = [
       "cardiovascular",
       "sleep",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "ceramide-beauty",
@@ -17532,7 +17556,13 @@ export const ingredients: Ingredient[] = [
       "cardiovascular",
       "eye",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "creatine",
@@ -17792,7 +17822,13 @@ export const ingredients: Ingredient[] = [
     "secondaryCategoryIds": [
       "bone",
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "atp",
@@ -22360,7 +22396,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "sports"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "5-htp",
@@ -47869,6 +47911,12 @@ export const ingredients: Ingredient[] = [
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2/粒"
+    },
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
     }
   },
   {
@@ -52231,7 +52279,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "2004 年起移出 WADA 禁用清单，2018 年起不再列入监测清单（不再作为监测物质）；但极高剂量能量饮料仍需注意健康风险与个别赛事规定。"
+    }
   },
   {
     "id": "bcaa",
@@ -52451,7 +52505,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "beta-alanine",
@@ -52667,7 +52727,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "citrulline-malate",
@@ -52879,7 +52945,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "hmb",
@@ -53090,7 +53162,13 @@ export const ingredients: Ingredient[] = [
       "packagingCost": "约¥0.05-0.15/份",
       "totalEstimate": "约¥0.5-1.0/份"
     },
-    "secondaryCategoryIds": []
+    "secondaryCategoryIds": [],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "electrolytes",
@@ -53318,7 +53396,13 @@ export const ingredients: Ingredient[] = [
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "whey-protein",
@@ -53541,7 +53625,13 @@ export const ingredients: Ingredient[] = [
       "packagingCost": "约¥0.3-0.8/份",
       "totalEstimate": "粉剂成品约¥3-6/份(25g)"
     },
-    "secondaryCategoryIds": []
+    "secondaryCategoryIds": [],
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    }
   },
   {
     "id": "cranberry",

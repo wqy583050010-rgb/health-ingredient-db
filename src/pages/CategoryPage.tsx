@@ -6,6 +6,19 @@ import { PopularityBadge } from '@/components/PopularityBadge';
 import { getIcon } from '@/lib/icons';
 import { ArrowLeft, Search, ArrowUpDown } from 'lucide-react';
 
+// 分类专属 Banner 配置（渐变 hero + 标语 + 运动员提示）
+const CATEGORY_BANNER: Record<string, { gradient: string; tagline: string; note?: string }> = {
+  sports: {
+    gradient: 'from-orange-500 via-red-500 to-rose-500',
+    tagline: '力量 · 耐力 · 爆发力 · 恢复——基于循证的科学运动表现营养',
+    note: '运动员提示：选购请认准 Informed-Sport / NSF Certified for Sport 认证产品，警惕补充剂交叉污染导致兴奋剂检测阳性。',
+  },
+  women: {
+    gradient: 'from-pink-500 via-rose-500 to-fuchsia-500',
+    tagline: '经期 · 孕期 · 更年期 · 骨骼 · 泌尿——女性全周期健康营养',
+  },
+};
+
 export function CategoryPage() {
   const { categoryId } = useParams<{ categoryId: string }>();
   const navigate = useNavigate();
@@ -52,24 +65,31 @@ export function CategoryPage() {
   }
 
   const CategoryIcon = getIcon(category.icon);
+  const banner = CATEGORY_BANNER[category.id] || { gradient: 'from-teal-500 to-cyan-500', tagline: category.description };
 
   return (
     <div className="animate-fade-in">
-      {/* 头部 */}
-      <div className="mb-8">
-        <button onClick={() => navigate('/')} className="text-sm text-teal-600 hover:text-teal-700 mb-3 inline-flex items-center gap-1 transition-colors">
+      {/* 专属 Banner */}
+      <div className={`relative overflow-hidden rounded-2xl bg-gradient-to-br ${banner.gradient} p-6 md:p-8 mb-8 shadow-lg`}>
+        <div className="absolute -top-12 -right-10 w-44 h-44 bg-white/10 rounded-full blur-2xl" />
+        <div className="absolute -bottom-14 -left-10 w-40 h-40 bg-white/10 rounded-full blur-2xl" />
+        <button onClick={() => navigate('/')} className="relative text-white/80 hover:text-white mb-4 inline-flex items-center gap-1 transition-colors text-sm">
           <ArrowLeft className="w-4 h-4" />
           返回分类列表
         </button>
-        <div className="flex items-center gap-4">
-          <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-teal-500 to-cyan-500 flex items-center justify-center shadow-md shadow-teal-500/20">
-            <CategoryIcon className="w-7 h-7 text-white" strokeWidth={1.8} />
+        <div className="relative flex items-center gap-4">
+          <div className="w-16 h-16 rounded-2xl bg-white/20 backdrop-blur flex items-center justify-center shadow-inner">
+            <CategoryIcon className="w-8 h-8 text-white" strokeWidth={1.8} />
           </div>
           <div>
-            <h2 className="text-2xl font-bold text-gray-800">{category.name}</h2>
-            <p className="text-gray-500">{category.description} · 共 {categoryIngredients.length} 种原料</p>
+            <h2 className="text-2xl md:text-3xl font-bold text-white">{category.name}</h2>
+            <p className="text-white/90 mt-1">共 {categoryIngredients.length} 种原料</p>
           </div>
         </div>
+        <p className="relative text-white/95 mt-4 max-w-2xl text-sm md:text-base leading-relaxed">{banner.tagline}</p>
+        {banner.note && (
+          <p className="relative mt-3 text-white/90 text-xs bg-black/15 rounded-lg px-3 py-2 inline-block max-w-2xl">{banner.note}</p>
+        )}
       </div>
 
       {/* 工具栏：本地搜索 + 排序 */}

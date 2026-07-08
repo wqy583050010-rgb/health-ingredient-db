@@ -53,6 +53,13 @@ export interface MechanismStep {
   description: string;
 }
 
+export interface WadaStatus {
+  status: 'allowed' | 'monitor' | 'prohibited'; // allowed=不禁用; monitor=监测物质; prohibited=禁用
+  inCompetition: boolean;   // 赛内是否允许
+  outOfCompetition: boolean; // 赛外是否允许
+  note?: string;            // 补充说明
+}
+
 export interface Ingredient {
   id: string;
   name: string;
@@ -61,6 +68,7 @@ export interface Ingredient {
   categoryId: string;
   secondaryCategoryIds?: string[]; // 次要分类ID，支持一个原料出现在多个分类中
   popularity?: number; // 1-5 星级热度评分
+  wada?: WadaStatus;   // 运动营养：WADA 兴奋剂合规状态（赛内/赛外）
   summary: string;
   
   // 化学信息

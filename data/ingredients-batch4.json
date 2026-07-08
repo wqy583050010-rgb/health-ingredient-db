@@ -7424,6 +7424,12 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2/粒"
+    },
+    "wada": {
+      "status": "allowed",
+      "inCompetition": true,
+      "outOfCompetition": true,
+      "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
     }
   },
   {

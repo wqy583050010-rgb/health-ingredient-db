@@ -23,6 +23,23 @@ export function IngredientDetailPage() {
   const synergies = interactions.filter((i) => i.type === 'synergy');
   const contraindications = interactions.filter((i) => i.type === 'contra');
 
+  // WADA 运动合规标签（仅运动营养上下文展示）
+  const isSports = ing.categoryId === 'sports' || (ing.secondaryCategoryIds || []).includes('sports');
+  const wadaTone = ing.wada
+    ? ing.wada.status === 'prohibited'
+      ? 'bg-red-100 text-red-700'
+      : ing.wada.status === 'monitor'
+        ? 'bg-amber-100 text-amber-700'
+        : 'bg-emerald-100 text-emerald-700'
+    : '';
+  const wadaLabel = ing.wada
+    ? ing.wada.status === 'prohibited'
+      ? 'WADA 禁用'
+      : ing.wada.status === 'monitor'
+        ? 'WADA 监测物质'
+        : 'WADA 赛内/赛外允许'
+    : '';
+
   return (
     <div className="space-y-6 animate-fade-in">
       {/* 导航 */}
@@ -39,10 +56,16 @@ export function IngredientDetailPage() {
         <div className="flex flex-wrap items-center gap-2 mb-1">
           <span className="text-xs font-medium text-teal-600 bg-teal-50 px-2.5 py-1 rounded-full">{ing.category}</span>
           <PopularityBadge popularity={ing.popularity} />
+          {isSports && ing.wada && (
+            <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${wadaTone}`}>{wadaLabel}</span>
+          )}
         </div>
         <h1 className="text-2xl md:text-3xl font-bold text-gray-800 mt-3">{ing.name}</h1>
         <p className="text-sm text-teal-600 font-mono mt-1">{ing.nameEn}</p>
         <p className="text-gray-600 mt-3 leading-relaxed">{ing.summary}</p>
+        {isSports && ing.wada?.note && (
+          <p className="text-xs text-gray-500 mt-2 bg-gray-50 rounded-lg px-3 py-2 leading-relaxed">{ing.wada.note}</p>
+        )}
         {/* 化学信息 */}
         <div className="flex flex-wrap gap-3 mt-4 text-sm">
           <div className="bg-gray-50 px-3 py-1.5 rounded-lg">

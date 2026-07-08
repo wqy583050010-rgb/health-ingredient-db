@@ -42,6 +42,19 @@ export const interactionsByIngredient: Record<string, InteractionItem[]> = {
       "type": "synergy",
       "text": "钙需维K2引导进入骨骼，避免钙异位沉积于血管。",
       "otherId": "vitamin-k2-mk7"
+    },
+    {
+      "otherName": "咖啡因",
+      "type": "contra",
+      "text": "高剂量咖啡因（>300–400mg/日）轻度增加尿钙排泄，长期大量或影响骨密度，建议适量补钙。",
+      "otherId": "caffeine",
+      "level": "low"
+    },
+    {
+      "otherName": "大豆异黄酮",
+      "type": "synergy",
+      "text": "大豆异黄酮（植物雌激素）与钙协同支持女性骨密度，常用于围绝经期骨骼养护。",
+      "otherId": "soy-isoflavone"
     }
   ],
   "iron-bisglycinate": [
@@ -76,6 +89,13 @@ export const interactionsByIngredient: Record<string, InteractionItem[]> = {
       "type": "synergy",
       "text": "维生素C将Fe³⁺还原为易吸收的Fe²⁺并络合铁，显著提升非血红素铁吸收，建议同服。",
       "otherId": "vitamin-c-beauty"
+    },
+    {
+      "otherName": "咖啡因",
+      "type": "contra",
+      "text": "咖啡因可轻度抑制非血红素铁吸收，服铁剂前后1–2小时避免饮咖啡/浓茶。",
+      "otherId": "caffeine",
+      "level": "medium"
     }
   ],
   "zinc-immune": [
@@ -124,6 +144,13 @@ export const interactionsByIngredient: Record<string, InteractionItem[]> = {
       "type": "synergy",
       "text": "镁、钾共同维持心肌电稳定与电解质平衡，常协同补充。",
       "otherId": "potassium-cardio"
+    },
+    {
+      "otherName": "咖啡因",
+      "type": "contra",
+      "text": "咖啡因的利尿作用增加镁经尿排泄，长期大量咖啡摄入者需关注镁水平。",
+      "otherId": "caffeine",
+      "level": "low"
     }
   ],
   "magnesium-cardio": [
@@ -554,6 +581,12 @@ export const interactionsByIngredient: Record<string, InteractionItem[]> = {
       "type": "synergy",
       "text": "左旋肉碱转运脂肪酸入线粒体、辅酶Q10参与电子传递链，二者协同提升能量代谢。",
       "otherId": "coenzyme-q10-energy"
+    },
+    {
+      "otherName": "咖啡因",
+      "type": "synergy",
+      "text": "咖啡因促进脂肪氧化、左旋肉碱转运脂肪酸入线粒体，二者协同提升运动中的脂肪供能与耐力。",
+      "otherId": "caffeine"
     }
   ],
   "ginseng-extract": [
@@ -593,6 +626,185 @@ export const interactionsByIngredient: Record<string, InteractionItem[]> = {
       "otherName": "瓜氨酸（膳食/补充）",
       "type": "synergy",
       "text": "精氨酸与瓜氨酸协同提升一氧化氮水平，支持血流与运动表现。"
+    }
+  ],
+  "caffeine": [
+    {
+      "otherName": "铁元素（甘氨酸铁）",
+      "type": "contra",
+      "text": "咖啡因可轻度抑制非血红素铁吸收，服铁剂前后1–2小时避免饮咖啡/浓茶。",
+      "otherId": "iron-bisglycinate",
+      "level": "medium"
+    },
+    {
+      "otherName": "钙(碳酸钙)",
+      "type": "contra",
+      "text": "高剂量咖啡因（>300–400mg/日）轻度增加尿钙排泄，长期大量或影响骨密度，建议适量补钙。",
+      "otherId": "calcium-carbonate-bone",
+      "level": "low"
+    },
+    {
+      "otherName": "柠檬酸镁",
+      "type": "contra",
+      "text": "咖啡因的利尿作用增加镁经尿排泄，长期大量咖啡摄入者需关注镁水平。",
+      "otherId": "magnesium-citrate-bone",
+      "level": "low"
+    },
+    {
+      "otherName": "肌酸",
+      "type": "contra",
+      "text": "部分研究显示大剂量咖啡因可能削弱肌酸的部分运动增益（证据不完全一致），叠加使用时注意个体反应。",
+      "otherId": "creatine",
+      "level": "low"
+    },
+    {
+      "otherName": "左旋肉碱",
+      "type": "synergy",
+      "text": "咖啡因促进脂肪氧化、左旋肉碱转运脂肪酸入线粒体，二者协同提升运动中的脂肪供能与耐力。",
+      "otherId": "l-carnitine-weight"
+    }
+  ],
+  "creatine": [
+    {
+      "otherName": "咖啡因",
+      "type": "contra",
+      "text": "部分研究显示大剂量咖啡因可能削弱肌酸的部分运动增益（证据不完全一致），叠加使用时注意个体反应。",
+      "otherId": "caffeine",
+      "level": "low"
+    },
+    {
+      "otherName": "乳清蛋白",
+      "type": "synergy",
+      "text": "运动后乳清蛋白修复肌肉、肌酸充能，二者协同促进恢复与力量增长。",
+      "otherId": "whey-protein"
+    }
+  ],
+  "cranberry": [
+    {
+      "otherName": "华法林等维生素K拮抗类抗凝药",
+      "type": "contra",
+      "text": "蔓越莓（尤其果汁/提取物）可能增强华法林抗凝效应、引起INR波动并升高出血风险，联用需监测凝血指标。",
+      "level": "medium"
+    },
+    {
+      "otherName": "其他抗凝/抗血小板药（阿司匹林、氯吡格雷等）",
+      "type": "contra",
+      "text": "蔓越莓可能轻度影响血小板功能，与上述药物联用出血风险增加。",
+      "level": "medium"
+    }
+  ],
+  "soy-isoflavone": [
+    {
+      "otherName": "他莫昔芬/雌激素受体调节剂（乳腺癌治疗药）",
+      "type": "contra",
+      "text": "大豆异黄酮具弱植物雌激素活性，雌激素受体阳性乳腺癌患者或服用他莫昔芬者建议咨询医生后再用。",
+      "level": "medium"
+    },
+    {
+      "otherName": "左甲状腺素（甲状腺激素药）",
+      "type": "contra",
+      "text": "大量大豆制品可能影响左甲状腺素吸收，需间隔≥4小时服用。",
+      "level": "low"
+    },
+    {
+      "otherName": "钙(碳酸钙)",
+      "type": "synergy",
+      "text": "大豆异黄酮（植物雌激素）与钙协同支持女性骨密度，常用于围绝经期骨骼养护。",
+      "otherId": "calcium-carbonate-bone"
+    }
+  ],
+  "black-cohosh": [
+    {
+      "otherName": "肝毒性风险药物/他莫昔芬",
+      "type": "contra",
+      "text": "黑升麻有罕见严重肝损伤报道，避免与他莫昔芬及具肝毒性药物同用，建议短期使用并监测肝功能。",
+      "level": "medium"
+    }
+  ],
+  "chasteberry": [
+    {
+      "otherName": "多巴胺能药物/口服避孕药/SSRI类抗抑郁药",
+      "type": "contra",
+      "text": "圣洁莓影响多巴胺与泌乳素水平，避免与抗精神病药、口服避孕药、SSRI等联用。",
+      "level": "medium"
+    }
+  ],
+  "red-clover": [
+    {
+      "otherName": "抗凝药/雌激素相关药物",
+      "type": "contra",
+      "text": "红三叶草含异黄酮（植物雌激素）并可能轻度影响血小板，与抗凝药或激素疗法联用需谨慎。",
+      "level": "low"
+    }
+  ],
+  "equol": [
+    {
+      "otherName": "他莫昔芬/雌激素相关药物",
+      "type": "contra",
+      "text": "雌马酚为大豆异黄酮代谢物、具植物雌激素活性，ER+乳腺癌患者或服他莫昔芬者慎用。",
+      "level": "medium"
+    }
+  ],
+  "citrulline-malate": [
+    {
+      "otherName": "硝酸酯类/西地那非(PDE5抑制剂)",
+      "type": "contra",
+      "text": "瓜氨酸经代谢生成精氨酸、提升一氧化氮(NO)而扩血管，与硝酸甘油、西地那非等联用可致严重低血压，属绝对禁忌。",
+      "level": "high"
+    },
+    {
+      "otherName": "甜菜根提取物",
+      "type": "synergy",
+      "text": "瓜氨酸与甜菜根硝酸盐协同提升一氧化氮与血流，增强运动泵感与耐力表现。",
+      "otherId": "beetroot-extract"
+    }
+  ],
+  "beetroot-extract": [
+    {
+      "otherName": "硝酸酯类/西地那非(PDE5抑制剂)",
+      "type": "contra",
+      "text": "甜菜根硝酸盐扩血管、降血压，与上述药物联用需谨慎监测血压。",
+      "level": "medium"
+    },
+    {
+      "otherName": "瓜氨酸苹果酸",
+      "type": "synergy",
+      "text": "瓜氨酸与甜菜根硝酸盐协同提升一氧化氮与血流，增强运动泵感与耐力表现。",
+      "otherId": "citrulline-malate"
+    }
+  ],
+  "bcaa": [
+    {
+      "otherName": "左旋多巴（帕金森治疗药）",
+      "type": "contra",
+      "text": "支链氨基酸与左旋多巴竞争同一中性氨基酸转运体，可能削弱药效，需间隔服用。",
+      "level": "medium"
+    },
+    {
+      "otherName": "乳清蛋白",
+      "type": "synergy",
+      "text": "支链氨基酸(BCAA)与完整乳清蛋白协同刺激肌肉蛋白合成、减少运动性肌肉分解。",
+      "otherId": "whey-protein"
+    }
+  ],
+  "whey-protein": [
+    {
+      "otherName": "喹诺酮/四环素类抗菌药物",
+      "type": "contra",
+      "text": "乳清蛋白中的钙与氨基酸可与喹诺酮、四环素类抗菌药螯合降低吸收，需间隔2小时服用。",
+      "level": "medium"
+    },
+    {
+      "otherName": "肌酸",
+      "type": "synergy",
+      "text": "运动后乳清蛋白修复肌肉、肌酸充能，二者协同促进恢复与力量增长。",
+      "otherId": "creatine"
+    },
+    {
+      "otherName": "支链氨基酸",
+      "type": "synergy",
+      "text": "支链氨基酸(BCAA)与完整乳清蛋白协同刺激肌肉蛋白合成、减少运动性肌肉分解。",
+      "otherId": "bcaa"
     }
   ]
 };
