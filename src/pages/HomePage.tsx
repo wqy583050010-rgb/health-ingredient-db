@@ -20,6 +20,8 @@ const categoryGradients: Record<string, string> = {
   bloodsugar: 'from-blue-500 to-indigo-600',
   probiotics: 'from-violet-500 to-purple-600',
   'herb-food': 'from-emerald-500 to-teal-600',
+  sports: 'from-orange-500 via-red-500 to-rose-500',
+  women: 'from-pink-500 via-rose-500 to-fuchsia-500',
 };
 
 const categoryBgSoft: Record<string, string> = {
@@ -37,6 +39,8 @@ const categoryBgSoft: Record<string, string> = {
   bloodsugar: 'bg-blue-50 text-blue-700',
   probiotics: 'bg-violet-50 text-violet-700',
   'herb-food': 'bg-emerald-50 text-emerald-700',
+  sports: 'bg-orange-50 text-orange-700',
+  women: 'bg-pink-50 text-pink-700',
 };
 
 const featureList = [
