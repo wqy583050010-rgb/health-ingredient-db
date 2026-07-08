@@ -2,7 +2,8 @@ node_modules/
 dist/
 admin/admin-dist/
 admin.html
-index.html
+# 注意：index.html 现在是"构建产物"（由 dist/index.html 复制而来），需入库作为 GitHub Pages 源，故不再忽略。
+# 源码入口永久保留在 index.src.html。
 # 单一大文件超 MCP/API 1MB 限制，不入库；数据以分批文件入库，构建时自动拼接
 data/all_ingredients.json
 .git/
