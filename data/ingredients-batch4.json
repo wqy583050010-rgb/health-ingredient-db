@@ -219,6 +219,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -439,6 +444,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "片剂：¥0.3-0.6/片（含原料+制粒+压片+包装）；月成本约¥18-36/人（每日3片）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -658,6 +668,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "袋泡茶：¥0.4-0.8/包（含原料+分装+包装）；月成本约¥24-48/人（每日2包）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -878,6 +893,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "颗粒剂：¥0.5-1.0/包（含原料+制粒+分装+包装）；月成本约¥30-60/人（每日2包）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1098,6 +1118,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1314,6 +1339,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "肠溶胶囊：¥0.5-1.0/粒（含原料+微囊化+肠溶包衣+填充+包装）；月成本约¥30-60/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1531,6 +1561,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "膏剂：¥0.6-1.2/10g（含原料+浓缩+灌装+包装）；月成本约¥36-72/人（每日10g）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1751,6 +1786,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1969,6 +2009,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "甜味剂：¥0.5-1.0/包（含原料+分装+包装）；月成本约¥30-60/人（每日2包替代糖）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2189,6 +2234,11 @@
       ],
       "packagingCost": "¥0.50-2.00/单位",
       "totalEstimate": "粉剂：¥0.8-1.5/包（含原料+分装+包装）；月成本约¥48-90/人（每日2包）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2409,6 +2459,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2630,6 +2685,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "散剂：¥0.4-0.8/包（含原料+制粉+分装+包装）；月成本约¥24-48/人（每日2包）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2851,6 +2911,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.5-1.0/粒（含原料+制粒+填充+包装）；月成本约¥30-60/人（每日2粒，睡前1小时服用）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3072,6 +3137,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "颗粒剂：¥0.5-1.0/包（含原料+制粒+分装+包装）；月成本约¥30-60/人（每日2包）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3289,6 +3359,11 @@
       ],
       "packagingCost": "¥0.50-2.00/单位",
       "totalEstimate": "硬胶囊：¥0.6-1.2/粒（含原料+制粒+填充+包装）；月成本约¥36-72/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3509,6 +3584,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3729,6 +3809,11 @@
       ],
       "packagingCost": "¥0.50-2.00/单位",
       "totalEstimate": "硬胶囊：¥0.4-0.8/粒（含原料+制粒+填充+包装）；月成本约¥24-48/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3950,6 +4035,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "片剂：¥0.4-0.8/片（含原料+制粒+压片+包装）；月成本约¥24-48/人（每日2片）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -4151,6 +4241,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.8-1.8/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -4352,6 +4447,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -4551,6 +4651,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.5-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -4760,6 +4865,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "软胶囊：¥0.5-1.2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -4965,6 +5075,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "软胶囊：¥1-2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -5170,6 +5285,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.8-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5377,6 +5497,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5578,6 +5703,11 @@
       ],
       "packagingCost": "¥1-3/瓶",
       "totalEstimate": "油：¥0.1-0.2/g"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -5784,6 +5914,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.8-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5990,6 +6125,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.2-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -6197,6 +6337,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.5-3/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -6399,6 +6544,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "软胶囊：¥1-2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "both",
+      "hydrophilicity": "amphiphilic",
+      "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
     }
   },
   {
@@ -6601,6 +6751,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -6808,6 +6963,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.6-1.2/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7013,6 +7173,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.2-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7218,6 +7383,11 @@
       ],
       "packagingCost": "¥1-3/瓶",
       "totalEstimate": "醋饮：¥2-5/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7429,6 +7599,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7633,6 +7808,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.8-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7840,6 +8020,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "片剂：¥0.4-0.8/片"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -8046,7 +8231,12 @@
     },
     "secondaryCategoryIds": [
       "women"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "blackcurrant-extract",
@@ -8247,6 +8437,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.2-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -8451,6 +8646,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.8-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -8655,6 +8855,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1.2-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -8858,6 +9063,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥0.9-1.8/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -9060,6 +9270,11 @@
       ],
       "packagingCost": "¥0.5-1.5/单位",
       "totalEstimate": "胶囊：¥1-2.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
     }
   },
   {
@@ -9265,7 +9480,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-bifidum",
@@ -9470,7 +9690,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-helveticus",
@@ -9676,7 +9901,12 @@
     "secondaryCategoryIds": [
       "gut",
       "sleep"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lily-bulb",
@@ -9884,6 +10114,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10092,6 +10327,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10301,6 +10541,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10511,6 +10756,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   }
 ]

@@ -276,7 +276,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-paracasei-lp33",
@@ -548,7 +553,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-plantarum",
@@ -828,7 +838,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-reuteri-dsm17938",
@@ -1102,7 +1117,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-acidophilus-ncfm",
@@ -1381,7 +1401,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-longum-bb536",
@@ -1653,7 +1678,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-breve-m16v",
@@ -1926,7 +1956,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-infantis",
@@ -2206,7 +2241,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "streptococcus-thermophilus",
@@ -2490,7 +2530,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bacillus-coagulans",
@@ -2772,7 +2817,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-lactis-bb12",
@@ -3048,7 +3098,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "akkermansia-muciniphila",
@@ -3324,7 +3379,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-acidophilus-la5",
@@ -3600,7 +3660,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-paracasei-431",
@@ -3875,7 +3940,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-gasseri-bdup",
@@ -4144,7 +4214,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "elderberry-extract",
@@ -4450,7 +4525,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "ahcc",
@@ -4731,6 +4811,11 @@
       ],
       "packagingCost": "¥3-8/瓶(60粒)",
       "totalEstimate": "终端产品成本约¥250-500/瓶(60粒)，零售价通常¥400-900/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5027,7 +5112,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "lactoferrin",
@@ -5326,7 +5416,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "maitake-extract",
@@ -5621,7 +5716,12 @@
     },
     "secondaryCategoryIds": [
       "bloodsugar"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "chaga-mushroom",
@@ -5919,7 +6019,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "astaxanthin-haematococcus",
@@ -6221,7 +6326,12 @@
     },
     "secondaryCategoryIds": [
       "eye"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "pqq",
@@ -6512,7 +6622,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "ergothioneine",
@@ -6813,7 +6928,12 @@
     },
     "secondaryCategoryIds": [
       "beauty"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "alpha-lipoic-acid",
@@ -7114,7 +7234,12 @@
     },
     "secondaryCategoryIds": [
       "bloodsugar"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "both",
+      "hydrophilicity": "amphiphilic",
+      "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
+    }
   },
   {
     "id": "resveratrol",
@@ -7417,7 +7542,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "silymarin",
@@ -7715,7 +7845,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "nac",
@@ -8017,7 +8152,12 @@
     "secondaryCategoryIds": [
       "antioxidant",
       "immune"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "udca",
@@ -8312,6 +8452,11 @@
       ],
       "packagingCost": "¥3-8/瓶(100粒)",
       "totalEstimate": "终端产品成本约¥100-200/瓶(100粒)，零售价通常¥300-500/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -8610,7 +8755,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "schisandra-extract",
@@ -8908,7 +9058,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "hydrolyzed-collagen-peptides",
@@ -9216,7 +9371,12 @@
     "secondaryCategoryIds": [
       "bone",
       "women"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "ceramide-rice",
@@ -9516,6 +9676,11 @@
       ],
       "packagingCost": "软胶囊¥3-8/瓶(60粒),口服液¥3-6/瓶,果冻条¥4-8/盒",
       "totalEstimate": "终端产品成本¥30-100/盒,零售价通常¥150-500/盒"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -9808,6 +9973,11 @@
       ],
       "packagingCost": "硬胶囊¥2-6/瓶(120粒),口服液¥3-6/瓶",
       "totalEstimate": "终端产品成本¥20-60/瓶,零售价通常¥150-300/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10120,7 +10290,12 @@
     },
     "secondaryCategoryIds": [
       "liver"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "l-cystine",
@@ -10420,6 +10595,11 @@
       ],
       "packagingCost": "片剂/胶囊¥2-6/瓶(100粒)",
       "totalEstimate": "终端产品成本¥20-60/瓶,零售价通常¥120-300/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10728,7 +10908,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "chondroitin-sulfate",
@@ -11036,6 +11221,11 @@
       ],
       "packagingCost": "片剂/胶囊¥3-8/瓶(120粒)",
       "totalEstimate": "终端产品成本¥40-100/瓶,零售价通常¥150-400/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -11343,7 +11533,12 @@
     },
     "secondaryCategoryIds": [
       "beauty"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "vitamin-k2-mk7",
@@ -11648,7 +11843,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "omega-3-epa-dha",
@@ -11960,7 +12160,12 @@
     },
     "secondaryCategoryIds": [
       "eye"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "red-yeast-rice",
@@ -12265,7 +12470,12 @@
     },
     "secondaryCategoryIds": [
       "bloodsugar"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "soy-lecithin",
@@ -12570,7 +12780,12 @@
     },
     "secondaryCategoryIds": [
       "liver"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "both",
+      "hydrophilicity": "amphiphilic",
+      "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
+    }
   },
   {
     "id": "nattokinase",
@@ -12876,6 +13091,11 @@
       ],
       "packagingCost": "硬胶囊/肠溶胶囊¥4-10/瓶(60粒)",
       "totalEstimate": "终端产品成本¥40-120/盒,零售价通常¥180-400/盒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -13181,7 +13401,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "lutein",
@@ -13494,7 +13719,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "zeaxanthin",
@@ -13805,7 +14035,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "meso-zeaxanthin",
@@ -14114,6 +14349,11 @@
       ],
       "packagingCost": "软胶囊/硬胶囊¥4-10/瓶(60粒)",
       "totalEstimate": "终端产品成本¥40-130/瓶,零售价通常¥200-450/瓶"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -14335,6 +14575,11 @@
       ],
       "packagingCost": "¥0.50-2.00/单位",
       "totalEstimate": "硬胶囊：¥0.6-1.5/粒（含原料+制粒+填充+包装）；月成本约¥36-90/人（每日2粒）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -14557,6 +14802,11 @@
       ],
       "packagingCost": "¥0.30-1.50/单位",
       "totalEstimate": "片剂：¥0.4-0.8/片（含原料+制粒+压片+包装）；月成本约¥24-48/人（每日3片）"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   }
 ]

@@ -2,7 +2,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { ingredients, interactionsByIngredient, type InteractionItem } from '@/data/index';
 import { ComplianceBadge } from '@/components/ComplianceBadge';
 import { PopularityBadge } from '@/components/PopularityBadge';
-import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink, AlertTriangle, Sparkles } from 'lucide-react';
+import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink, AlertTriangle, Sparkles, Droplets } from 'lucide-react';
 
 export function IngredientDetailPage() {
   const { ingredientId } = useParams<{ ingredientId: string }>();
@@ -40,6 +40,20 @@ export function IngredientDetailPage() {
         : 'WADA 赛内/赛外允许'
     : '';
 
+  // 溶解性 / 亲疏水性 展示元数据（蓝=水溶性/亲水, 琥珀橙=脂溶性/疏水, 紫=两亲, 灰=难溶）
+  const SOL_META: Record<string, { label: string; hLabel: string; dot: string; badge: string }> = {
+    water:     { label: '水溶性',   hLabel: '亲水', dot: 'bg-blue-500',   badge: 'bg-blue-50 text-blue-700' },
+    fat:       { label: '脂溶性',   hLabel: '疏水', dot: 'bg-amber-500',  badge: 'bg-amber-50 text-amber-700' },
+    both:      { label: '两亲可溶', hLabel: '两亲', dot: 'bg-purple-500', badge: 'bg-purple-50 text-purple-700' },
+    insoluble: { label: '难溶/不溶', hLabel: '—',   dot: 'bg-gray-400',   badge: 'bg-gray-100 text-gray-600' },
+  };
+  const sol = ing.solubilityInfo;
+  const solMeta = sol ? SOL_META[sol.solubility] : null;
+  const hydroLabel = sol
+    ? sol.hydrophilicity === 'hydrophilic' ? '亲水'
+      : sol.hydrophilicity === 'lipophilic' ? '疏水' : '两亲'
+    : '';
+
   return (
     <div className="space-y-6 animate-fade-in">
       {/* 导航 */}
@@ -58,6 +72,12 @@ export function IngredientDetailPage() {
           <PopularityBadge popularity={ing.popularity} />
           {isSports && ing.wada && (
             <span className={`text-xs font-medium px-2.5 py-1 rounded-full ${wadaTone}`}>{wadaLabel}</span>
+          )}
+          {sol && solMeta && (
+            <span className={`text-xs font-medium px-2.5 py-1 rounded-full flex items-center gap-1 ${solMeta.badge}`}>
+              <span className={`w-1.5 h-1.5 rounded-full ${solMeta.dot}`}></span>
+              {solMeta.label}
+            </span>
           )}
         </div>
         <h1 className="text-2xl md:text-3xl font-bold text-gray-800 mt-3">{ing.name}</h1>
@@ -82,6 +102,30 @@ export function IngredientDetailPage() {
           </div>
         </div>
       </div>
+
+      {/* 溶解性与亲疏水性 */}
+      {sol && solMeta && (
+        <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+          <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+            <div className="w-9 h-9 rounded-lg bg-blue-100 flex items-center justify-center">
+              <Droplets className="w-5 h-5 text-blue-600" strokeWidth={1.8} />
+            </div>
+            溶解性与亲疏水性
+          </h2>
+          <div className="flex flex-wrap gap-3 mb-4">
+            <span className={`text-sm font-medium px-3 py-1.5 rounded-lg flex items-center gap-2 ${solMeta.badge}`}>
+              <span className={`w-2 h-2 rounded-full ${solMeta.dot}`}></span>
+              {solMeta.label}
+            </span>
+            <span className="text-sm font-medium px-3 py-1.5 rounded-lg bg-gray-100 text-gray-600">
+              亲疏水性：{hydroLabel}
+            </span>
+          </div>
+          {sol.note && (
+            <p className="text-sm text-gray-600 bg-gray-50 rounded-lg p-3 leading-relaxed">{sol.note}</p>
+          )}
+        </section>
+      )}
 
       {/* 起效剂量 */}
       <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">

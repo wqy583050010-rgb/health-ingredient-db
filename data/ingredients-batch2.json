@@ -247,6 +247,11 @@
       ],
       "packagingCost": "约¥0.3-0.5/瓶（100粒装）",
       "totalEstimate": "原料用量极小，复配骨健康方溢价较好"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -509,6 +514,11 @@
       ],
       "packagingCost": "约¥0.5-1.0/瓶",
       "totalEstimate": "稳定化正硅酸溢价高，竹提取物成本低"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -764,6 +774,11 @@
       ],
       "packagingCost": "约¥0.3-0.6/瓶（60粒装）",
       "totalEstimate": "原料成本低，标准化提取物有溢价空间"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1036,6 +1051,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1292,7 +1312,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "vitamin-c-beauty",
@@ -1577,7 +1602,12 @@
     },
     "secondaryCategoryIds": [
       "immune"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "biotin-beauty",
@@ -1829,7 +1859,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "bilberry-anthocyanins",
@@ -2116,6 +2151,11 @@
       ],
       "packagingCost": "约¥0.04-0.12/粒",
       "totalEstimate": "胶囊成品成本约¥0.15-0.30/粒，零售价通常为成本5-8倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2381,6 +2421,11 @@
       ],
       "packagingCost": "约¥0.05-0.15/粒",
       "totalEstimate": "软胶囊成品成本约¥0.15-0.35/粒，零售价通常为成本5-10倍"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -2637,7 +2682,12 @@
     },
     "secondaryCategoryIds": [
       "immune"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "aronia-extract",
@@ -2901,7 +2951,12 @@
     "secondaryCategoryIds": [
       "antioxidant",
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "goji-polysaccharide",
@@ -3165,6 +3220,11 @@
       ],
       "packagingCost": "约¥0.04-0.12/粒",
       "totalEstimate": "成品成本约¥0.12-0.30/粒，零售价通常为成本6-12倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -3429,7 +3489,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "free-lutein",
@@ -3695,6 +3760,11 @@
       ],
       "packagingCost": "约¥0.05-0.15/粒",
       "totalEstimate": "软胶囊成品成本约¥0.20-0.40/粒，零售价通常为成本5-10倍"
+    },
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
     }
   },
   {
@@ -3958,6 +4028,11 @@
       ],
       "packagingCost": "约¥0.05-0.20/粒",
       "totalEstimate": "胶囊成品成本约¥0.25-0.50/粒，口服液约¥0.80-2.00/支，零售价通常为成本6-12倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -4222,7 +4297,12 @@
     },
     "secondaryCategoryIds": [
       "women"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "rhodiola-extract",
@@ -4485,7 +4565,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "siberian-ginseng-extract",
@@ -4747,7 +4832,12 @@
     },
     "secondaryCategoryIds": [
       "immune"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "taurine",
@@ -5007,6 +5097,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5273,6 +5368,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5537,6 +5637,11 @@
       ],
       "packagingCost": "约¥0.05-0.15/粒",
       "totalEstimate": "成品成本约¥0.30-0.80/粒，零售价通常为成本8-15倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -5798,6 +5903,11 @@
       ],
       "packagingCost": "约¥0.05-0.20/粒",
       "totalEstimate": "成品成本约¥0.30-0.60/粒，口服液约¥1.50-3.00/支，零售价通常为成本8-15倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -6060,7 +6170,12 @@
     },
     "secondaryCategoryIds": [
       "immune"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "b-vitamin-complex",
@@ -6329,7 +6444,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "iron-bisglycinate",
@@ -6595,7 +6715,12 @@
     },
     "secondaryCategoryIds": [
       "women"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "coenzyme-q10-energy",
@@ -6888,7 +7013,12 @@
     "secondaryCategoryIds": [
       "cardiovascular",
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "fat",
+      "hydrophilicity": "lipophilic",
+      "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
+    }
   },
   {
     "id": "chromium-picolinate",
@@ -7151,7 +7281,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "cinnamon-extract",
@@ -7415,6 +7550,11 @@
       ],
       "packagingCost": "约¥0.03-0.08/粒",
       "totalEstimate": "成品成本约¥0.10-0.20/粒，零售价通常为成本8-15倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -7679,7 +7819,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "gymnema-extract",
@@ -7943,7 +8088,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "fenugreek-extract",
@@ -8205,7 +8355,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "berberine",
@@ -8490,7 +8645,12 @@
     "secondaryCategoryIds": [
       "cardiovascular",
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "mulberry-leaf-extract",
@@ -8756,6 +8916,11 @@
       ],
       "packagingCost": "约¥0.03-0.08/粒",
       "totalEstimate": "成品成本约¥0.10-0.20/粒，零售价通常为成本8-15倍"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -9018,7 +9183,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "gymnemic-acid",
@@ -9291,7 +9461,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "melatonin",
@@ -9578,7 +9753,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "both",
+      "hydrophilicity": "amphiphilic",
+      "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
+    }
   },
   {
     "id": "magnesium-glycinate",
@@ -9847,6 +10027,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -10099,7 +10284,12 @@
     },
     "secondaryCategoryIds": [
       "weight"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "l-theanine",
@@ -10372,7 +10562,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "gaba",
@@ -10647,7 +10842,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "valerian-extract",
@@ -10920,6 +11120,11 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥15-35/瓶(60-100粒)"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -11194,7 +11399,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "ashwagandha",
@@ -11467,7 +11677,12 @@
     },
     "secondaryCategoryIds": [
       "energy"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "lemon-balm-extract",
@@ -11734,6 +11949,11 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥12-35/瓶(60-100粒)"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -11997,7 +12217,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "glycine",
@@ -12267,6 +12492,11 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥8-25/瓶(100-250粒)"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -12536,6 +12766,11 @@
       ],
       "packagingCost": "¥0.5-2/瓶",
       "totalEstimate": "终端产品成本约¥12-35/瓶(60-100粒)"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -12825,7 +13060,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "lactobacillus-rhamnosus-hn001",
@@ -13096,7 +13336,12 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   },
   {
     "id": "bifidobacterium-lactis-hn019",
@@ -13369,6 +13614,11 @@
     },
     "secondaryCategoryIds": [
       "gut"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
+    }
   }
 ]

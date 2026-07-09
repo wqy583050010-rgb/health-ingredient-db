@@ -60,6 +60,17 @@ export interface WadaStatus {
   note?: string;            // 补充说明
 }
 
+// 溶解性 / 亲疏水性
+export type Solubility = 'water' | 'fat' | 'both' | 'insoluble';
+// water=水溶性 / fat=脂溶性 / both=两亲可溶 / insoluble=难溶或不溶
+export type Hydrophilicity = 'hydrophilic' | 'lipophilic' | 'amphiphilic';
+// hydrophilic=亲水 / lipophilic=疏水 / amphiphilic=两亲
+export interface SolubilityInfo {
+  solubility: Solubility;
+  hydrophilicity: Hydrophilicity;
+  note?: string; // 吸收/服用提示，如"随餐脂类同服吸收更佳"
+}
+
 export interface Ingredient {
   id: string;
   name: string;
@@ -69,6 +80,7 @@ export interface Ingredient {
   secondaryCategoryIds?: string[]; // 次要分类ID，支持一个原料出现在多个分类中
   popularity?: number; // 1-5 星级热度评分
   wada?: WadaStatus;   // 运动营养：WADA 兴奋剂合规状态（赛内/赛外）
+  solubilityInfo?: SolubilityInfo; // 溶解性与亲疏水性（水溶性/脂溶性/两亲、亲水/疏水、吸收提示）
   summary: string;
   
   // 化学信息

@@ -205,6 +205,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -414,6 +419,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -623,6 +633,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -831,6 +846,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1040,6 +1060,11 @@
       ],
       "packagingCost": "¥0.5-2/单位",
       "totalEstimate": "胶囊：¥0.6-1.5/粒"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1283,6 +1308,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "2004 年起移出 WADA 禁用清单，2018 年起不再列入监测清单（不再作为监测物质）；但极高剂量能量饮料仍需注意健康风险与个别赛事规定。"
+    },
+    "solubilityInfo": {
+      "solubility": "both",
+      "hydrophilicity": "amphiphilic",
+      "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
     }
   },
   {
@@ -1509,6 +1539,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1731,6 +1766,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -1949,6 +1989,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2166,6 +2211,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2400,6 +2450,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2629,6 +2684,11 @@
       "inCompetition": true,
       "outOfCompetition": true,
       "note": "WADA 不禁用，赛内/赛外均可使用；运动员建议选用 Informed-Sport / NSF Certified for Sport 认证产品，避免补充剂交叉污染导致兴奋剂检测阳性。"
+    },
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
     }
   },
   {
@@ -2845,7 +2905,12 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "soy-isoflavone",
@@ -3059,7 +3124,12 @@
     "secondaryCategoryIds": [
       "antioxidant",
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "red-clover",
@@ -3256,7 +3326,12 @@
     },
     "secondaryCategoryIds": [
       "cardiovascular"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "black-cohosh",
@@ -3457,7 +3532,12 @@
       "packagingCost": "约¥0.05-0.15/份",
       "totalEstimate": "约¥0.5-1.0/份"
     },
-    "secondaryCategoryIds": []
+    "secondaryCategoryIds": [],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "chasteberry",
@@ -3653,7 +3733,12 @@
       "packagingCost": "约¥0.05-0.15/份",
       "totalEstimate": "约¥0.4-0.8/份"
     },
-    "secondaryCategoryIds": []
+    "secondaryCategoryIds": [],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   },
   {
     "id": "equol",
@@ -3851,6 +3936,11 @@
     },
     "secondaryCategoryIds": [
       "antioxidant"
-    ]
+    ],
+    "solubilityInfo": {
+      "solubility": "water",
+      "hydrophilicity": "hydrophilic",
+      "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
+    }
   }
 ]
