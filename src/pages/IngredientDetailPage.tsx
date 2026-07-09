@@ -273,6 +273,30 @@ export function IngredientDetailPage() {
         </div>
       </section>
 
+      {/* 品牌原料 */}
+      {ing.brandedIngredients && ing.brandedIngredients.length > 0 && (
+        <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+          <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+            <div className="w-9 h-9 rounded-lg bg-fuchsia-100 flex items-center justify-center">
+              <Tag className="w-5 h-5 text-fuchsia-600" strokeWidth={1.8} />
+            </div>
+            知名商标原料
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {ing.brandedIngredients.map((b, idx) => (
+              <div key={idx} className="border border-gray-200 rounded-xl p-4">
+                <div className="flex items-baseline gap-2 mb-1">
+                  <span className="font-semibold text-gray-800">{b.brand}</span>
+                  <span className="text-xs text-gray-400">{b.name}</span>
+                </div>
+                <p className="text-sm text-gray-600">持有方：{b.company}</p>
+                {b.note && <p className="text-xs text-gray-400 mt-1">{b.note}</p>}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {/* 制剂类型 */}
       <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
         <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
@@ -408,31 +432,6 @@ export function IngredientDetailPage() {
           </div>
         </section>
       )}
-
-      {/* 品牌原料 */}
-      {ing.brandedIngredients && ing.brandedIngredients.length > 0 && (
-        <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
-          <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
-            <div className="w-9 h-9 rounded-lg bg-fuchsia-100 flex items-center justify-center">
-              <Tag className="w-5 h-5 text-fuchsia-600" strokeWidth={1.8} />
-            </div>
-            知名商标原料
-          </h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-            {ing.brandedIngredients.map((b, idx) => (
-              <div key={idx} className="border border-gray-200 rounded-xl p-4">
-                <div className="flex items-baseline gap-2 mb-1">
-                  <span className="font-semibold text-gray-800">{b.brand}</span>
-                  <span className="text-xs text-gray-400">{b.name}</span>
-                </div>
-                <p className="text-sm text-gray-600">持有方：{b.company}</p>
-                {b.note && <p className="text-xs text-gray-400 mt-1">{b.note}</p>}
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
-
 
       {/* 配伍禁忌与协同增效 */}
       <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
