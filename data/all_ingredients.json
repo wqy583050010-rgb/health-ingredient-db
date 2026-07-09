@@ -275,11 +275,11 @@
     "references": [
       {
         "citation": "Martineau AR, et al. BMJ. 2017;356:i6583.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "28298266",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28298266/"
       },
       {
         "citation": "Gombart AF. Nutrients. 2020;12(2):330.",
@@ -307,7 +307,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -598,8 +598,8 @@
       },
       {
         "citation": "Prasad AS. J Trace Elem Med Biol. 2014;28(4):364-371.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
         "pmid": null,
         "url": null
@@ -619,10 +619,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Prasad AS, et al. Ann Intern Med. 2000;133(4):245-252. (醋酸锌含片缩短感冒病程 RCT)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "10929163",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10929163/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -16635,8 +16643,8 @@
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "8616894",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8616894/"
       }
     ],
     "evidenceSummary": {
@@ -33727,10 +33735,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hempel M, et al. JAMA. 2012;307(18):1959-1969. (益生菌预防抗生素相关腹泻 Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "22570464",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22570464/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -44139,11 +44155,11 @@
     "references": [
       {
         "citation": "GISSI-Prevenzione Investigators (1999) Lancet 354(9177):447-455",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "10465168",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10465168/"
       },
       {
         "citation": "Bhatt DL et al. (2018) N Engl J Med 380(1):11-22 (REDUCE-IT)",
@@ -44179,7 +44195,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": [
