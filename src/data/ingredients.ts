@@ -3255,7 +3255,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "姜黄素",
         "brand": "Longvida®",
-        "company": "Nutraceuticals International",
+        "company": "Verdure Sciences",
         "note": "优化穿越血脑屏障的姜黄素"
       }
     ]
@@ -43995,7 +43995,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "维生素K2",
         "brand": "MenaQ7®",
-        "company": "Kappa Bioscience",
+        "company": "Gnosis by Lesaffre",
         "note": "发酵法 MK-7 原料"
       }
     ]
@@ -63072,7 +63072,7 @@ export const ingredients: Ingredient[] = [
       {
         "name": "蔓越莓",
         "brand": "Cran-Max®",
-        "company": "Valensa International",
+        "company": "Pharmachem Laboratories (Ashland)",
         "note": "全果蔓越莓浓缩物，泌尿健康"
       }
     ]
@@ -64247,7 +64247,7 @@ export const ingredients: Ingredient[] = [
     "brandedIngredients": [
       {
         "name": "雌马酚",
-        "brand": "S-Equl®",
+        "brand": "Equelle®",
         "company": "Otsuka Pharmaceutical（大冢制药）",
         "note": "天然 S-雌马酚原料"
       }
