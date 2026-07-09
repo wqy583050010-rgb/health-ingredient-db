@@ -56470,7 +56470,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Eur J Clin Nutr. 2005;59(9):983-8.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16255071",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16255071/"
       },
       {
         "citation": "Diabetes Care. 2004;27(1):281-2.",
@@ -57435,13 +57437,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Prostaglandins Leukot Essent Fatty Acids. 1991;44(3):175-80.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "1815235",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1815235/"
       },
       {
         "citation": "Br J Dermatol. 1989;121(1):75-90.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "2611129",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/2611129/"
       },
       {
         "citation": "Senapati S et al. Indian J Dermatol Venereol Leprol. 2008;74(5):368-371.",
@@ -58407,7 +58413,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Phytomedicine. 2007;14(7-8):465-7.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18050506",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18050506/"
       },
       {
         "citation": "Mol Med Rep. 2016;13(3):1953-8.",
@@ -59633,7 +59641,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -59873,14 +59883,17 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "Zhang WN, Su RN, et al. Structural characterization and in vitro hypoglycemic activity of a glucan from Euryale ferox. Carbohydr Polym. 2019;209:363-371.",
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": "30732819"
+        "pmid": "30732819",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30732819/"
       }
     ],
     "evidenceSummary": {
@@ -60107,7 +60120,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -60349,7 +60364,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -60597,7 +60614,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -60838,7 +60857,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -61079,7 +61100,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -61319,7 +61342,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -61560,7 +61585,9 @@ export const ingredients: Ingredient[] = [
         "citation": "中国中药杂志. 2020;45(10):",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "41970966",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41970966/"
       },
       {
         "citation": "J Ethnopharmacol. 2019;231:",
@@ -61849,7 +61876,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Guest NS, et al. J Int Soc Sports Nutr. 2021;18(1):1.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "33388079",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33388079/"
       }
     ],
     "evidenceSummary": {
@@ -62099,7 +62128,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Shimomura Y, et al. J Nutr. 2006;136(2):529S-532S.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16424141",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16424141/"
       },
       {
         "citation": "Norton LE, Layman DK. Nutr Metab (Lond). 2006;3:20.",
@@ -62368,13 +62399,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Derave W, et al. J Appl Physiol. 2007;103(5):1736-1743.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17690198",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17690198/"
       },
       {
         "citation": "Artioli GG, et al. J Int Soc Sports Nutr. 2010;7:34.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20441594",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20441594/"
       }
     ],
     "evidenceSummary": {
@@ -62617,13 +62652,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Pérez-Guisado J, Jakeman PM. J Strength Cond Res. 2010;24(5):1215-1222.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20386132",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20386132/"
       },
       {
         "citation": "Sureda A, et al. Eur J Appl Physiol. 2010;108(2):439-447.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20499249",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20499249/"
       },
       {
         "citation": "Sugino T, et al. Br J Sports Med. 2009;43(3):186-189.",
@@ -63923,13 +63962,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Chen MN, et al. Phytomedicine. 2015;22(6):953-969.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "26547536",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26547536/"
       },
       {
         "citation": "Messina M. Fertil Steril. 2010;93(7):2095-2104.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20378106",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20378106/"
       }
     ],
     "evidenceSummary": {
@@ -64398,7 +64441,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Burdette JE, et al. J Agric Food Chem. 2003;51(18):5661-5670.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12952416",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12952416/"
       }
     ],
     "evidenceSummary": {
@@ -64842,7 +64887,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Setchell KD, et al. Am J Clin Nutr. 2003;77(2):464-473.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12936954",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12936954/"
       },
       {
         "citation": "Aso T, Uchiyama S, Matsumura Y, et al. A natural S-equol supplement alleviates hot flushes and other menopausal symptoms in equol nonproducing postmenopausal Japanese women. J Womens Health (Larchmt). 2012;21(1):92-100.",
