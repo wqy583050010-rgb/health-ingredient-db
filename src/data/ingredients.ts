@@ -4720,9 +4720,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Pooyandjoo M, et al. Obes Rev. 2016;17(10):970-976.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "27335245",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27335245/"
       },
       {
         "citation": "Fielding R, et al. Nutrients. 2018;10(3):289.",
@@ -4744,10 +4746,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "左旋肉碱",
+        "brand": "Carnipure®",
+        "company": "Lonza（瑞士）",
+        "note": "高纯度 L-肉碱原料标准"
+      }
+    ]
   },
   {
     "id": "cla-weight",
@@ -11959,9 +11968,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Lonn E, et al. N Engl J Med. 2006;354(15):1567-1577. (HOPE-2)",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "16531612",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16531612/"
       },
       {
         "citation": "Crider KS, et al. Adv Nutr. 2012;3(1):21-28.",
@@ -11974,7 +11985,14 @@ export const ingredients: Ingredient[] = [
       "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "叶酸",
+        "brand": "Quatrefolic®",
+        "company": "Gnosis by Lesaffre",
+        "note": "活性叶酸(5-MTHF)原料"
+      }
+    ]
   },
   {
     "id": "allicin",
@@ -13150,7 +13168,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Liu M, et al. J Am Heart Assoc. 2016;5(12):e004036. (MAGIC试验)",
         "type": "rct",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12401244",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12401244/"
       }
     ],
     "evidenceSummary": {
@@ -13464,9 +13484,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Aburto NJ, et al. BMJ. 2013;346:f1378.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "23558164",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23558164/"
       },
       {
         "citation": "Mente A, et al. Lancet. 2014;384(9947):1007-1017. (PURE研究)",
@@ -13488,7 +13510,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -13771,9 +13793,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Reid IR, et al. BMJ. 2008;336(7636):177-180.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18286218",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18286218/"
       },
       {
         "citation": "Bolland MJ, et al. BMJ. 2010;341:c3691.",
@@ -13795,10 +13819,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "钙",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "氨基酸螯合钙原料"
+      }
+    ]
   },
   {
     "id": "hyaluronic-acid-bone",
@@ -14072,9 +14103,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Kalman DS, et al. Nutr J. 2008;7:3.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18208600",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18208600/"
       },
       {
         "citation": "Bellido M, et al. BMC Musculoskelet Disord. 2008;9:157.",
@@ -14096,10 +14129,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "透明质酸",
+        "brand": "PrimalHyal®",
+        "company": "Givaudan",
+        "note": "生物发酵透明质酸原料"
+      }
+    ]
   },
   {
     "id": "strontium-ranelate",
@@ -15534,9 +15574,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Walker AF, et al. J Am Coll Nutr. 2003;22(6):545-554.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "14596323",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14596323/"
       },
       {
         "citation": "Coudray C, et al. J Am Coll Nutr. 2005;24(2):128-135.",
@@ -15546,10 +15588,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "镁",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "氨基酸螯合镁原料"
+      }
+    ]
   },
   {
     "id": "ceramide-beauty",
@@ -19140,9 +19189,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Gonzales GF, et al. Andrologia. 2002;34(6):367-372. (玛咖与性功能)",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "12472620",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12472620/"
       },
       {
         "citation": "Stone M, et al. J Ethnopharmacol. 2009;124(2):244-249. (玛咖与运动表现)",
@@ -19164,7 +19215,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -20337,7 +20388,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Kreider RB, et al. J Int Soc Sports Nutr. 2017;14:18. (肌酸系统综述)",
         "type": "review",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28615996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/"
       },
       {
         "citation": "Persky AM, Brazeau GA. Pharmacol Res. 2001;44(1):1-15.",
@@ -21856,9 +21909,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Pasricha SR, et al. Lancet. 2021;397(10270):283-293.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33485461",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33485461/"
       },
       {
         "citation": "Murray-Kolbe LE, Beard J. Nutrients. 2010;2(9):950-960. (铁与认知)",
@@ -21871,7 +21926,14 @@ export const ingredients: Ingredient[] = [
       "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "铁",
+        "brand": "Ferrochel®",
+        "company": "Albion Minerals",
+        "note": "甘氨酸亚铁螯合原料，肠胃耐受性好"
+      }
+    ]
   },
   {
     "id": "coenzyme-q10-energy",
@@ -25531,9 +25593,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Abbasi et al. (2012) J Res Med Sci 17(12):1161-1169",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23853635",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23853635/"
       },
       {
         "citation": "Cao et al. (2018) Nutrients 10(10):1392",
@@ -25549,10 +25613,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "镁",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "甘氨酸镁螯合原料"
+      }
+    ]
   },
   {
     "id": "5-htp",
@@ -39842,9 +39913,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Proksch E et al. (2014) Skin Pharmacol Physiol 27(1):47-55",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23949208",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/"
       },
       {
         "citation": "Asserin J et al. (2015) J Cosmet Dermatol 14(4):291-301",
@@ -39872,7 +39945,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": [
@@ -39881,6 +39954,12 @@ export const ingredients: Ingredient[] = [
         "brand": "Verisol®",
         "company": "GELITA",
         "note": "水解胶原肽，针对皮肤"
+      },
+      {
+        "name": "胶原蛋白肽",
+        "brand": "Peptan®",
+        "company": "Rousselot",
+        "note": "水解胶原肽，针对关节与皮肤"
       }
     ]
   },
@@ -51368,7 +51447,14 @@ export const ingredients: Ingredient[] = [
       "level": "C",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "维生素E",
+        "brand": "Covitol®",
+        "company": "dsm-firmenich",
+        "note": "天然维生素E（混合生育酚）原料"
+      }
+    ]
   },
   {
     "id": "lycopene",
@@ -54341,9 +54427,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Hypertension. 2008;51(3):784-90.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18212259",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18212259/"
       },
       {
         "citation": "J Appl Physiol. 2009;107(4):1144-55.",
@@ -54353,7 +54441,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -59213,9 +59301,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Goldstein ER, et al. J Int Soc Sports Nutr. 2010;7:5.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "20209154",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20209154/"
       },
       {
         "citation": "Doherty M, Smith PM. Sports Med. 2004;34(2):109-125.",
@@ -59231,7 +59321,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -59481,16 +59571,23 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Norton LE, Layman DK. Nutr Metab (Lond). 2006;3:20.",
-        "type": "meta",
-        "evidenceLevel": "A",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed"
       }
     ],
     "evidenceSummary": {
-      "level": "A",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "支链氨基酸",
+        "brand": "Kyowa® BCAA",
+        "company": "Kyowa Hakko（协和发酵）",
+        "note": "发酵法 BCAA 原料"
+      }
+    ]
   },
   {
     "id": "beta-alanine",
@@ -59721,9 +59818,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Hobson RM, et al. Amino Acids. 2012;43(1):25-37.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "221771451",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/221771451/"
       },
       {
         "citation": "Derave W, et al. J Appl Physiol. 2007;103(5):1736-1743.",
@@ -59739,10 +59838,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "β-丙氨酸",
+        "brand": "CarnoSyn®",
+        "company": "CarnoSyn Brands / Natural Alternatives International",
+        "note": "专利 β-丙氨酸，运动表现主流原料"
+      }
+    ]
   },
   {
     "id": "citrulline-malate",
@@ -60216,9 +60322,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Wilson GJ, et al. J Int Soc Sports Nutr. 2013;10(1):6.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23442155",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23442155/"
       },
       {
         "citation": "Rowlands DS, et al. Br J Nutr. 2009;101(11):1667-1674.",
@@ -60234,7 +60342,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -60480,9 +60588,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Sawka MN, et al. Med Sci Sports Exerc. 2007;39(2):377-390.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "17277604",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/"
       },
       {
         "citation": "Cheuvront SN, Kenefick RW. J Athl Train. 2017;52(9):877-883.",
@@ -60498,7 +60608,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -60745,9 +60855,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Moore DR, et al. Am J Clin Nutr. 2009;89(1):161-168.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "19056590",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19056590/"
       },
       {
         "citation": "Burd NA, et al. J Appl Physiol. 2011;110(1):150-157.",
@@ -60757,10 +60869,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "乳清蛋白",
+        "brand": "Lacprodan®",
+        "company": "Arla Foods Ingredients（阿拉食品）",
+        "note": "乳清蛋白浓缩/分离物原料"
+      }
+    ]
   },
   {
     "id": "cranberry",
@@ -60985,9 +61104,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Jepson RG, Williams G, Craig JC. Cochrane Database Syst Rev. 2012;10:CD001321.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "23058931",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23058931/"
       },
       {
         "citation": "Howell AB. Adv Nutr. 2014;5(6):684S-692S.",
@@ -61003,10 +61124,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "蔓越莓",
+        "brand": "Cran-Max®",
+        "company": "Valensa International",
+        "note": "全果蔓越莓浓缩物，泌尿健康"
+      }
+    ]
   },
   {
     "id": "soy-isoflavone",
@@ -61229,9 +61357,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Taku K, et al. Menopause. 2012;19(7):776-790.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "22739657",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22739657/"
       },
       {
         "citation": "Chen MN, et al. Phytomedicine. 2015;22(6):953-969.",
@@ -61247,10 +61377,17 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "大豆异黄酮",
+        "brand": "Novasoy®",
+        "company": "ADM",
+        "note": "大豆异黄酮提取物原料"
+      }
+    ]
   },
   {
     "id": "red-clover",
@@ -61456,9 +61593,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Baber RJ, et al. Menopause. 2009;16(6):1156-1166.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "19812492",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19812492/"
       },
       {
         "citation": "Lipovac M, et al. Menopause. 2012;19(2):160-165.",
@@ -61474,7 +61613,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -61693,9 +61832,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Jacobson JS, et al. J Clin Oncol. 2001;19(10):2739-2745.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "11352967",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11352967/"
       },
       {
         "citation": "Burdette JE, et al. J Agric Food Chem. 2003;51(18):5661-5670.",
@@ -61705,7 +61846,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -61913,9 +62054,11 @@ export const ingredients: Ingredient[] = [
     "references": [
       {
         "citation": "Schellenberg R. BMJ. 2001;322(7279):134-137.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "11208851",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11208851/"
       },
       {
         "citation": "Westphal LM, et al. J Womens Health (Larchmt). 2006;15(8):861-865.",
@@ -61931,7 +62074,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -62147,9 +62290,11 @@ export const ingredients: Ingredient[] = [
       },
       {
         "citation": "Aso T, et al. Menopause. 2012;19(4):458-464.",
-        "type": "other",
-        "evidenceLevel": "C",
-        "source": "PubMed"
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22304676",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22304676/"
       },
       {
         "citation": "Jackson RL, et al. J Nutr Biochem. 2011;22(5):401-409.",
@@ -62159,9 +62304,16 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "雌马酚",
+        "brand": "S-Equl®",
+        "company": "Otsuka Pharmaceutical（大冢制药）",
+        "note": "天然 S-雌马酚原料"
+      }
+    ]
   }
 ];

@@ -10618,11 +10618,11 @@
     "references": [
       {
         "citation": "Proksch E et al. (2014) Skin Pharmacol Physiol 27(1):47-55",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "23949208",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23949208/"
       },
       {
         "citation": "Asserin J et al. (2015) J Cosmet Dermatol 14(4):291-301",
@@ -10658,7 +10658,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": [
@@ -10667,6 +10667,12 @@
         "brand": "Verisol®",
         "company": "GELITA",
         "note": "水解胶原肽，针对皮肤"
+      },
+      {
+        "name": "胶原蛋白肽",
+        "brand": "Peptan®",
+        "company": "Rousselot",
+        "note": "水解胶原肽，针对关节与皮肤"
       }
     ]
   },

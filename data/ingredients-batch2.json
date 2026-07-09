@@ -1193,11 +1193,11 @@
       },
       {
         "citation": "Walker AF, et al. J Am Coll Nutr. 2003;22(6):545-554.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "14596323",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14596323/"
       },
       {
         "citation": "Coudray C, et al. J Am Coll Nutr. 2005;24(2):128-135.",
@@ -1209,10 +1209,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "镁",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "氨基酸螯合镁原料"
+      }
+    ]
   },
   {
     "id": "ceramide-beauty",
@@ -4891,11 +4898,11 @@
     "references": [
       {
         "citation": "Gonzales GF, et al. Andrologia. 2002;34(6):367-372. (玛咖与性功能)",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "12472620",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12472620/"
       },
       {
         "citation": "Stone M, et al. J Ethnopharmacol. 2009;124(2):244-249. (玛咖与运动表现)",
@@ -4923,7 +4930,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -6121,8 +6128,8 @@
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "28615996",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28615996/"
       },
       {
         "citation": "Persky AM, Brazeau GA. Pharmacol Res. 2001;44(1):1-15.",
@@ -7683,11 +7690,11 @@
       },
       {
         "citation": "Pasricha SR, et al. Lancet. 2021;397(10270):283-293.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "33485461",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33485461/"
       },
       {
         "citation": "Murray-Kolbe LE, Beard J. Nutrients. 2010;2(9):950-960. (铁与认知)",
@@ -7702,7 +7709,14 @@
       "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "铁",
+        "brand": "Ferrochel®",
+        "company": "Albion Minerals",
+        "note": "甘氨酸亚铁螯合原料，肠胃耐受性好"
+      }
+    ]
   },
   {
     "id": "coenzyme-q10-energy",
@@ -11446,11 +11460,11 @@
     "references": [
       {
         "citation": "Abbasi et al. (2012) J Res Med Sci 17(12):1161-1169",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "23853635",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23853635/"
       },
       {
         "citation": "Cao et al. (2018) Nutrients 10(10):1392",
@@ -11470,10 +11484,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "镁",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "甘氨酸镁螯合原料"
+      }
+    ]
   },
   {
     "id": "5-htp",

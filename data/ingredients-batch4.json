@@ -5520,7 +5520,14 @@
       "level": "C",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "维生素E",
+        "brand": "Covitol®",
+        "company": "dsm-firmenich",
+        "note": "天然维生素E（混合生育酚）原料"
+      }
+    ]
   },
   {
     "id": "lycopene",
@@ -8541,11 +8548,11 @@
     "references": [
       {
         "citation": "Hypertension. 2008;51(3):784-90.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "18212259",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18212259/"
       },
       {
         "citation": "J Appl Physiol. 2009;107(4):1144-55.",
@@ -8557,7 +8564,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []

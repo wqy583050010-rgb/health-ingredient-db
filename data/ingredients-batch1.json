@@ -4846,11 +4846,11 @@
     "references": [
       {
         "citation": "Pooyandjoo M, et al. Obes Rev. 2016;17(10):970-976.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "27335245",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27335245/"
       },
       {
         "citation": "Fielding R, et al. Nutrients. 2018;10(3):289.",
@@ -4878,10 +4878,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "左旋肉碱",
+        "brand": "Carnipure®",
+        "company": "Lonza（瑞士）",
+        "note": "高纯度 L-肉碱原料标准"
+      }
+    ]
   },
   {
     "id": "cla-weight",
@@ -12289,11 +12296,11 @@
       },
       {
         "citation": "Lonn E, et al. N Engl J Med. 2006;354(15):1567-1577. (HOPE-2)",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "16531612",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16531612/"
       },
       {
         "citation": "Crider KS, et al. Adv Nutr. 2012;3(1):21-28.",
@@ -12308,7 +12315,14 @@
       "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "叶酸",
+        "brand": "Quatrefolic®",
+        "company": "Gnosis by Lesaffre",
+        "note": "活性叶酸(5-MTHF)原料"
+      }
+    ]
   },
   {
     "id": "allicin",
@@ -13515,8 +13529,8 @@
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "12401244",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12401244/"
       }
     ],
     "evidenceSummary": {
@@ -13830,11 +13844,11 @@
     "references": [
       {
         "citation": "Aburto NJ, et al. BMJ. 2013;346:f1378.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "23558164",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23558164/"
       },
       {
         "citation": "Mente A, et al. Lancet. 2014;384(9947):1007-1017. (PURE研究)",
@@ -13862,7 +13876,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -14145,11 +14159,11 @@
     "references": [
       {
         "citation": "Reid IR, et al. BMJ. 2008;336(7636):177-180.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "18286218",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18286218/"
       },
       {
         "citation": "Bolland MJ, et al. BMJ. 2010;341:c3691.",
@@ -14177,10 +14191,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "钙",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "氨基酸螯合钙原料"
+      }
+    ]
   },
   {
     "id": "hyaluronic-acid-bone",
@@ -14454,11 +14475,11 @@
     "references": [
       {
         "citation": "Kalman DS, et al. Nutr J. 2008;7:3.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "18208600",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18208600/"
       },
       {
         "citation": "Bellido M, et al. BMC Musculoskelet Disord. 2008;9:157.",
@@ -14486,10 +14507,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "透明质酸",
+        "brand": "PrimalHyal®",
+        "company": "Givaudan",
+        "note": "生物发酵透明质酸原料"
+      }
+    ]
   },
   {
     "id": "strontium-ranelate",

@@ -1432,11 +1432,11 @@
     "references": [
       {
         "citation": "Goldstein ER, et al. J Int Soc Sports Nutr. 2010;7:5.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "20209154",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20209154/"
       },
       {
         "citation": "Doherty M, Smith PM. Sports Med. 2004;34(2):109-125.",
@@ -1456,7 +1456,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -1710,18 +1710,25 @@
       },
       {
         "citation": "Norton LE, Layman DK. Nutr Metab (Lond). 2006;3:20.",
-        "type": "meta",
-        "evidenceLevel": "A",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed",
         "pmid": null,
         "url": null
       }
     ],
     "evidenceSummary": {
-      "level": "A",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "支链氨基酸",
+        "brand": "Kyowa® BCAA",
+        "company": "Kyowa Hakko（协和发酵）",
+        "note": "发酵法 BCAA 原料"
+      }
+    ]
   },
   {
     "id": "beta-alanine",
@@ -1952,11 +1959,11 @@
     "references": [
       {
         "citation": "Hobson RM, et al. Amino Acids. 2012;43(1):25-37.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "221771451",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/221771451/"
       },
       {
         "citation": "Derave W, et al. J Appl Physiol. 2007;103(5):1736-1743.",
@@ -1976,10 +1983,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "β-丙氨酸",
+        "brand": "CarnoSyn®",
+        "company": "CarnoSyn Brands / Natural Alternatives International",
+        "note": "专利 β-丙氨酸，运动表现主流原料"
+      }
+    ]
   },
   {
     "id": "citrulline-malate",
@@ -2459,11 +2473,11 @@
     "references": [
       {
         "citation": "Wilson GJ, et al. J Int Soc Sports Nutr. 2013;10(1):6.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "23442155",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23442155/"
       },
       {
         "citation": "Rowlands DS, et al. Br J Nutr. 2009;101(11):1667-1674.",
@@ -2483,7 +2497,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -2729,11 +2743,11 @@
     "references": [
       {
         "citation": "Sawka MN, et al. Med Sci Sports Exerc. 2007;39(2):377-390.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "review",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "17277604",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/"
       },
       {
         "citation": "Cheuvront SN, Kenefick RW. J Athl Train. 2017;52(9):877-883.",
@@ -2753,7 +2767,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3002,11 +3016,11 @@
       },
       {
         "citation": "Moore DR, et al. Am J Clin Nutr. 2009;89(1):161-168.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "19056590",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19056590/"
       },
       {
         "citation": "Burd NA, et al. J Appl Physiol. 2011;110(1):150-157.",
@@ -3018,10 +3032,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "乳清蛋白",
+        "brand": "Lacprodan®",
+        "company": "Arla Foods Ingredients（阿拉食品）",
+        "note": "乳清蛋白浓缩/分离物原料"
+      }
+    ]
   },
   {
     "id": "cranberry",
@@ -3246,11 +3267,11 @@
     "references": [
       {
         "citation": "Jepson RG, Williams G, Craig JC. Cochrane Database Syst Rev. 2012;10:CD001321.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "23058931",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23058931/"
       },
       {
         "citation": "Howell AB. Adv Nutr. 2014;5(6):684S-692S.",
@@ -3270,10 +3291,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "蔓越莓",
+        "brand": "Cran-Max®",
+        "company": "Valensa International",
+        "note": "全果蔓越莓浓缩物，泌尿健康"
+      }
+    ]
   },
   {
     "id": "soy-isoflavone",
@@ -3496,11 +3524,11 @@
     "references": [
       {
         "citation": "Taku K, et al. Menopause. 2012;19(7):776-790.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "meta",
+        "evidenceLevel": "A",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "22739657",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22739657/"
       },
       {
         "citation": "Chen MN, et al. Phytomedicine. 2015;22(6):953-969.",
@@ -3520,10 +3548,17 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "大豆异黄酮",
+        "brand": "Novasoy®",
+        "company": "ADM",
+        "note": "大豆异黄酮提取物原料"
+      }
+    ]
   },
   {
     "id": "red-clover",
@@ -3729,11 +3764,11 @@
     "references": [
       {
         "citation": "Baber RJ, et al. Menopause. 2009;16(6):1156-1166.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "19812492",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19812492/"
       },
       {
         "citation": "Lipovac M, et al. Menopause. 2012;19(2):160-165.",
@@ -3753,7 +3788,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3974,11 +4009,11 @@
       },
       {
         "citation": "Jacobson JS, et al. J Clin Oncol. 2001;19(10):2739-2745.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "11352967",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11352967/"
       },
       {
         "citation": "Burdette JE, et al. J Agric Food Chem. 2003;51(18):5661-5670.",
@@ -3990,7 +4025,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4198,11 +4233,11 @@
     "references": [
       {
         "citation": "Schellenberg R. BMJ. 2001;322(7279):134-137.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "11208851",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11208851/"
       },
       {
         "citation": "Westphal LM, et al. J Womens Health (Larchmt). 2006;15(8):861-865.",
@@ -4222,7 +4257,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4440,11 +4475,11 @@
       },
       {
         "citation": "Aso T, et al. Menopause. 2012;19(4):458-464.",
-        "type": "other",
-        "evidenceLevel": "C",
+        "type": "rct",
+        "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
-        "url": null
+        "pmid": "22304676",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22304676/"
       },
       {
         "citation": "Jackson RL, et al. J Nutr Biochem. 2011;22(5):401-409.",
@@ -4456,9 +4491,16 @@
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
-    "brandedIngredients": []
+    "brandedIngredients": [
+      {
+        "name": "雌马酚",
+        "brand": "S-Equl®",
+        "company": "Otsuka Pharmaceutical（大冢制药）",
+        "note": "天然 S-雌马酚原料"
+      }
+    ]
   }
 ]
