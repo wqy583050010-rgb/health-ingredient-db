@@ -2,7 +2,42 @@ import { useParams, useNavigate } from 'react-router-dom';
 import { ingredients, interactionsByIngredient, type InteractionItem } from '@/data/index';
 import { ComplianceBadge } from '@/components/ComplianceBadge';
 import { PopularityBadge } from '@/components/PopularityBadge';
-import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink, AlertTriangle, Sparkles, Droplets } from 'lucide-react';
+import { Pill, Beaker, Factory, Globe, Target, Microscope, Trophy, DollarSign, BookOpen, ExternalLink, AlertTriangle, Sparkles, Droplets, Tag } from 'lucide-react';
+
+// 研究类型徽章
+const EVIDENCE_TYPE_META: Record<string, { label: string; className: string }> = {
+  meta:        { label: 'Meta分析',  className: 'bg-purple-100 text-purple-700' },
+  rct:         { label: 'RCT',       className: 'bg-blue-100 text-blue-700' },
+  review:      { label: '综述',      className: 'bg-cyan-100 text-cyan-700' },
+  animal:      { label: '动物实验',  className: 'bg-amber-100 text-amber-700' },
+  cell:        { label: '细胞实验',  className: 'bg-orange-100 text-orange-700' },
+  theoretical: { label: '理论机制',  className: 'bg-gray-100 text-gray-600' },
+  other:       { label: '研究/文献', className: 'bg-gray-100 text-gray-600' },
+};
+function EvidenceTypeBadge({ type }: { type?: string }) {
+  if (!type) return null;
+  const m = EVIDENCE_TYPE_META[type] || EVIDENCE_TYPE_META.other;
+  return <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${m.className}`}>{m.label}</span>;
+}
+
+// 证据等级星标
+const LEVEL_COLOR: Record<string, string> = { A: 'text-emerald-500', B: 'text-blue-500', C: 'text-amber-500', D: 'text-gray-400' };
+function EvidenceStars({ level }: { level?: string }) {
+  const n = level === 'A' ? 4 : level === 'B' ? 3 : level === 'C' ? 2 : level === 'D' ? 1 : 0;
+  return (
+    <span className={`text-sm leading-none ${LEVEL_COLOR[level || ''] || 'text-gray-400'}`}>
+      {'★'.repeat(n)}{'☆'.repeat(4 - n)}
+    </span>
+  );
+}
+function EvidenceLevelBadge({ level }: { level?: string }) {
+  const color = LEVEL_COLOR[level || ''] || 'text-gray-400';
+  return (
+    <span className={`text-xs font-semibold px-2 py-0.5 rounded-full bg-gray-100 ${color}`}>
+      {level ? `证据 ${level}` : '等级待定'}
+    </span>
+  );
+}
 
 export function IngredientDetailPage() {
   const { ingredientId } = useParams<{ ingredientId: string }>();
@@ -315,7 +350,7 @@ export function IngredientDetailPage() {
           作用机理
         </h2>
         <p className="text-gray-700 mb-6 leading-relaxed">{ing.mechanism.overview}</p>
-        <div className="space-y-4">
+            <div className="space-y-4">
           {ing.mechanism.steps.map((step, idx) => (
             <div key={idx} className="flex gap-4">
               <div className="shrink-0 w-8 h-8 rounded-full bg-teal-100 text-teal-600 flex items-center justify-center font-bold text-sm">
@@ -328,20 +363,76 @@ export function IngredientDetailPage() {
             </div>
           ))}
         </div>
-        {ing.mechanism.scientificReferences.length > 0 && (
-          <div className="mt-6 pt-4 border-t border-gray-100">
-            <h4 className="text-sm font-medium text-gray-500 mb-2 flex items-center gap-1.5">
-              <BookOpen className="w-4 h-4 text-gray-400" />
-              科学参考文献
-            </h4>
-            <ul className="space-y-1">
-              {ing.mechanism.scientificReferences.map((ref, idx) => (
-                <li key={idx} className="text-xs text-gray-400 font-mono">{ref}</li>
-              ))}
-            </ul>
-          </div>
-        )}
       </section>
+
+      {/* 科学证据与证据等级 */}
+      {ing.references && ing.references.length > 0 && (
+        <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+          <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+            <div className="w-9 h-9 rounded-lg bg-indigo-100 flex items-center justify-center">
+              <BookOpen className="w-5 h-5 text-indigo-600" strokeWidth={1.8} />
+            </div>
+            科学证据与证据等级
+          </h2>
+          {ing.evidenceSummary && (
+            <div className="flex flex-wrap items-center gap-3 mb-4 bg-gray-50 rounded-xl p-3">
+              <span className="text-sm text-gray-500">整体证据等级</span>
+              <span className="text-lg font-bold text-indigo-600">{ing.evidenceSummary.level}</span>
+              <EvidenceStars level={ing.evidenceSummary.level} />
+              <span className="text-xs text-gray-400">（依据文献研究类型推断；标注“PMID 待补充”的文献正逐步核实真实来源）</span>
+            </div>
+          )}
+          <div className="space-y-2">
+            {ing.references.map((ref, idx) => (
+              <div key={idx} className="border border-gray-200 rounded-xl p-3">
+                <div className="flex flex-wrap items-center gap-2 mb-1.5">
+                  <EvidenceTypeBadge type={ref.type} />
+                  <EvidenceLevelBadge level={ref.evidenceLevel} />
+                  {ref.source && <span className="text-xs text-gray-400">{ref.source}</span>}
+                  {ref.pmid ? (
+                    <a
+                      href={ref.url || `https://pubmed.ncbi.nlm.nih.gov/${ref.pmid}/`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-1 text-xs text-teal-600 hover:text-teal-700 hover:underline"
+                    >
+                      PMID: {ref.pmid} <ExternalLink className="w-3 h-3" />
+                    </a>
+                  ) : (
+                    <span className="text-xs text-amber-500">PMID 待补充</span>
+                  )}
+                </div>
+                <p className="text-sm text-gray-600 leading-snug">{ref.citation}</p>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
+      {/* 品牌原料 */}
+      {ing.brandedIngredients && ing.brandedIngredients.length > 0 && (
+        <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
+          <h2 className="text-xl font-semibold text-gray-800 mb-4 flex items-center gap-2.5">
+            <div className="w-9 h-9 rounded-lg bg-fuchsia-100 flex items-center justify-center">
+              <Tag className="w-5 h-5 text-fuchsia-600" strokeWidth={1.8} />
+            </div>
+            知名商标原料
+          </h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+            {ing.brandedIngredients.map((b, idx) => (
+              <div key={idx} className="border border-gray-200 rounded-xl p-4">
+                <div className="flex items-baseline gap-2 mb-1">
+                  <span className="font-semibold text-gray-800">{b.brand}</span>
+                  <span className="text-xs text-gray-400">{b.name}</span>
+                </div>
+                <p className="text-sm text-gray-600">持有方：{b.company}</p>
+                {b.note && <p className="text-xs text-gray-400 mt-1">{b.note}</p>}
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
 
       {/* 配伍禁忌与协同增效 */}
       <section className="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">

@@ -71,6 +71,30 @@ export interface SolubilityInfo {
   note?: string; // 吸收/服用提示，如"随餐脂类同服吸收更佳"
 }
 
+// 科学证据 / 文献来源
+export type EvidenceType = 'meta' | 'rct' | 'review' | 'animal' | 'cell' | 'theoretical' | 'other';
+// meta=Meta分析 / rct=随机对照试验 / review=综述 / animal=动物实验 / cell=细胞实验 / theoretical=理论机制 / other=其他
+export type EvidenceLevel = 'A' | 'B' | 'C' | 'D';
+// A=强证据(Meta/RCT一致) B=中等(RCT/综述) C=初步(动物/细胞) D=理论/机制
+export interface Reference {
+  citation: string;       // 文献引文
+  type?: EvidenceType;    // 研究类型
+  evidenceLevel?: EvidenceLevel; // 证据等级
+  source?: string;        // 来源，如 PubMed / EFSA / FDA / NMPA / 期刊
+  pmid?: string;          // PubMed ID（查不到则留空，前端显示"待补充"，严禁编造）
+  url?: string;           // 来源链接
+}
+export interface EvidenceSummary {
+  level: EvidenceLevel;   // 整体最高证据等级
+  note?: string;          // 说明
+}
+export interface BrandedIngredient {
+  name: string;   // 成分/通用名
+  brand: string;  // 商标名，如 Uthever®
+  company: string;// 商标持有公司
+  note?: string;  // 备注
+}
+
 export interface Ingredient {
   id: string;
   name: string;
@@ -81,6 +105,9 @@ export interface Ingredient {
   popularity?: number; // 1-5 星级热度评分
   wada?: WadaStatus;   // 运动营养：WADA 兴奋剂合规状态（赛内/赛外）
   solubilityInfo?: SolubilityInfo; // 溶解性与亲疏水性（水溶性/脂溶性/两亲、亲水/疏水、吸收提示）
+  evidenceSummary?: EvidenceSummary; // 整体证据等级（A-D）
+  references?: Reference[];          // 结构化科学文献（替代 mechanism.scientificReferences 纯文本）
+  brandedIngredients?: BrandedIngredient[]; // 知名商标原料（如 Uthever®/Kaneka®/AstaReal®）
   summary: string;
   
   // 化学信息

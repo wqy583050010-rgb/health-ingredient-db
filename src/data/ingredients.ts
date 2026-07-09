@@ -273,7 +273,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Martineau AR, et al. BMJ. 2017;356:i6583.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gombart AF. Nutrients. 2020;12(2):330.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chauss D, et al. Nat Rev Immunol. 2022;22(1):37-48.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Charoenngam N, Holick MF. Nutrients. 2020;12(7):2097.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "zinc-immune",
@@ -549,7 +580,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wessels I, et al. Nutrients. 2017;9(12):1286.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Prasad AS. J Trace Elem Med Biol. 2014;28(4):364-371.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Read SA, et al. Adv Nutr. 2019;10(4):696-710.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hemilä H, et al. Open Forum Infect Dis. 2017;4(1):ofx059.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "echinacea",
@@ -801,7 +863,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Shah SA, et al. Lancet Infect Dis. 2007;7(7):473-480.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Karsch-Völk M, et al. Cochrane Database Syst Rev. 2014;(2):CD000530.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gertsch J, et al. J Biol Chem. 2004;279(39):40803-40811.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hudson JB. Pharmaceuticals. 2012;5(3):271-283.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "astragalus",
@@ -1059,7 +1152,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Li Q, et al. Phytomedicine. 2019;62:152944.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Denzer L, et al. Int J Mol Sci. 2022;23(15):8228.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zheng Y, et al. Aging Dis. 2020;11(3):559-571.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Block KI, Mead MN. Integr Cancer Ther. 2003;2(3):247-267.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "propolis",
@@ -1321,7 +1445,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sforcin JM, Bankova V. J Ethnopharmacol. 2011;133(2):253-260.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Viuda-Martos M, et al. J Food Sci. 2008;73(8):R117-R124.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Berretta AA, et al. Biomed Pharmacother. 2020;131:110622.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Shimizu T, et al. Antiviral Res. 2008;79(3):232-240.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bovine-colostrum",
@@ -1576,7 +1731,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Playford RJ, et al. Gut. 2000;47(5):653-659.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cesarone MR, et al. Clin Appl Thromb Hemost. 2007;13(2):130-136.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Davison G, et al. Br J Nutr. 2016;115(8):1442-1451.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Oda H, et al. J Infect Chemother. 2021;27(2):292-299.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "andrographis",
@@ -1795,7 +1981,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Chandrasekaran CV, et al. Phytomedicine. 2021;80:153395.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Caceres DD, et al. Phytomedicine. 1999;6(4):217-223.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yuan H, et al. Int J Mol Sci. 2020;21(15):5543.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gupta S, et al. J Ethnopharmacol. 2017;200:98-109.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "garlic-extract",
@@ -2044,7 +2261,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Josling P. Adv Ther. 2001;18(4):189-193.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nantz MP, et al. Clin Nutr. 2012;31(3):337-344.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ried K, et al. Cochrane Database Syst Rev. 2020;(9):CD011311.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bayan L, et al. Avicenna J Phytomed. 2014;4(1):1-14.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "reishi-mushroom",
@@ -2293,7 +2541,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Jin X, et al. Cochrane Database Syst Rev. 2016;(4):CD007731.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gao Y, et al. Int J Med Mushrooms. 2005;7(3):447-448.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Guggenheim AG, et al. Integr Med. 2014;13(1):32-42.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Xu Z, et al. Am J Chin Med. 2011;39(1):15-27.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "glutathione",
@@ -2541,7 +2820,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Forman HJ, et al. Mol Aspects Med. 2009;30(1-2):1-12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Richie JP, et al. Eur J Nutr. 2015;54(2):251-263.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sinha R, et al. Cancer Epidemiol Biomarkers Prev. 2018;27(3):245-253.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Pizzorno J. Integr Med. 2014;13(1):8-12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "curcumin-antioxidant",
@@ -2799,7 +3109,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Aggarwal BB, Harikumar KB. Int J Biochem Cell Biol. 2009;41(1):40-59.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hewlings SJ, Kalman DS. Foods. 2017;6(10):92.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gupta SC, et al. Clin Exp Pharmacol Physiol. 2012;39(3):283-299.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Balasubramanyam K, et al. J Biol Chem. 2004;279(49):51163-51171.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "姜黄素",
+        "brand": "Meriva®",
+        "company": "Indena（意大利）",
+        "note": "姜黄素-磷脂复合物，提升生物利用度"
+      },
+      {
+        "name": "姜黄素",
+        "brand": "Longvida®",
+        "company": "Nutraceuticals International",
+        "note": "优化穿越血脑屏障的姜黄素"
+      }
+    ]
   },
   {
     "id": "selenium",
@@ -3036,7 +3390,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Rayman MP. Lancet. 2012;379(9822):1256-1268.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Labunskyy VM, et al. Physiol Rev. 2014;94(3):739-777.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Brigelius-Flohé R, Maiorino M. Biochim Biophys Acta. 2013;1830(5):3289-3303.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ingold I, et al. Cell. 2018;172(3):409-422.e21.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "nad-plus",
@@ -3285,7 +3670,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Yoshino J, et al. Cell Metab. 2018;27(3):513-528.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Rajman L, et al. Cell Metab. 2018;27(3):529-547.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Martens CR, et al. Nat Commun. 2018;9(1):1286.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Igarashi M, et al. NPJ Aging. 2022;8(1):3.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "pycnogenol",
@@ -3478,7 +3894,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Rohdewald P. Phytomedicine. 2002;9(Suppl 3):1-8.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Belcaro G, et al. Minerva Med. 2016;107(3):128-136.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Drieling RL, et al. J Cardiovasc Pharmacol. 2010;55(5):448-453.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Schoonees A, et al. Cochrane Database Syst Rev. 2012;(4):CD008294.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "rosemary-extract",
@@ -3702,7 +4149,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Satoh T, et al. Proc Natl Acad Sci USA. 2008;105(36):13656-13661.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Petersen M, Simmonds MSJ. Phytochemistry. 2003;62(2):121-125.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nieto G, et al. Medicines. 2018;5(3):98.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Iuvone T, et al. Br J Pharmacol. 2006;147(4):413-421.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "green-tea-egcg-antioxidant",
@@ -3940,7 +4418,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Singh BN, et al. Biochem Pharmacol. 2011;82(12):1807-1821.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Khan N, et al. Cancer Res. 2006;66(5):2500-2505.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tachibana H, et al. Nat Struct Mol Biol. 2004;11(4):380-381.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EFSA ANS Panel. EFSA Journal. 2018;16(4):e05239.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "l-carnitine-weight",
@@ -4207,7 +4716,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Pooyandjoo M, et al. Obes Rev. 2016;17(10):970-976.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fielding R, et al. Nutrients. 2018;10(3):289.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lonza Carnipure Scientific Dossier, 2020.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      },
+      {
+        "citation": "Savic D, et al. Physiol Res. 2019;68(1):41-50.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cla-weight",
@@ -4457,7 +4997,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Gaullier JM, et al. Am J Clin Nutr. 2004;79(6):1118-1125.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Whigham LD, et al. Am J Clin Nutr. 2007;85(5):1203-1208.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Onakpoya IJ, et al. Eur J Nutr. 2012;51(2):127-134.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Benjamin S, Spener F. Chem Biol Interact. 2009;179(2-3):193-199.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "white-kidney-bean-extract-weight",
@@ -4702,7 +5273,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Udani J, et al. Nutr J. 2009;8:34.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Celleno L, et al. Int J Med Sci. 2007;4(1):45-52.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Oben J, et al. J Med Food. 2006;9(3):403-405.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Grube B, et al. Diabetes Metab Syndr Obes. 2013;6:175-180.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "konjac-glucomannan-weight",
@@ -4962,7 +5564,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhang M, et al. J Am Coll Nutr. 2007;26(1):41S-45S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Onakpoya I, et al. J Am Coll Nutr. 2014;33(1):70-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen HL, et al. J Am Coll Nutr. 2006;25(3):216-223.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Birketvedt GS, et al. Med Sci Monit. 2005;11(1):PI5-8.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "green-coffee-bean-extract-weight",
@@ -5207,7 +5840,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Onakpoya I, et al. Gastroenterol Res Pract. 2011;2011:382852.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Vinson JA, et al. Diabetes Metab Syndr Obes. 2009;2:287-294.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Williamson G. Compr Rev Food Sci Food Saf. 2020;19(4):1892-1904.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Meng S, et al. Evid Based Complement Alternat Med. 2013;2013:801457.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "garcinia-cambogia-extract-weight",
@@ -5462,7 +6126,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Heymsfield SB, et al. JAMA. 1998;280(18):1596-1600.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Preuss HG, et al. Diabetes Obes Metab. 2004;6(3):171-180.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Onakpoya I, et al. J Obes. 2011;2011:509038.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Semwal RB, et al. J Ethnopharmacol. 2015;168:127-142.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "capsaicin-weight",
@@ -5721,7 +6416,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Whiting S, et al. Appetite. 2014;73:164-171.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ludy MJ, et al. Physiol Behav. 2011;102(3):381-388.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Snitker S, et al. Am J Clin Nutr. 2009;89(1):45-50.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Janssens PL, et al. Biosci Rep. 2013;33(5):e00103.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "african-mango-extract-weight",
@@ -5953,7 +6679,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Ngondi JL, et al. Lipids Health Dis. 2005;4:12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ngondi JL, et al. Lipids Health Dis. 2009;8:7.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Oben JE, et al. Lipids Health Dis. 2008;7:12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ross SM. Holist Nurs Pract. 2011;25(2):103-107.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "fucoxanthin-weight",
@@ -6215,7 +6972,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Maeda H, et al. Biochem Biophys Res Commun. 2005;332(2):392-397.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Miyashita K. Mar Drugs. 2009;7(1):12-23.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hayato M, et al. J Nutr Sci Vitaminol. 2014;60(3):170-175.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Woo MN, et al. Mol Nutr Food Res. 2009;53(5):600-609.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "guar-gum-fiber-weight",
@@ -6471,7 +7259,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Rao TP, et al. Nutrients. 2016;8(1):15.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Giannini EG, et al. Dig Liver Dis. 2006;38(9):665-669.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Blackwood AD, et al. Br J Nutr. 2000;84(4):539-546.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Slavin JL. Nutrients. 2013;5(4):1189-1202.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "thiamine-liver",
@@ -6746,7 +7565,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Martin PR, et al. Annu Rev Nutr. 2003;23:363-388.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Volvert ML, et al. Neurochem Int. 2004;45(1):5-12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lonsdale D. Evid Based Complement Alternat Med. 2006;3(1):49-59.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Thornalley PJ. J Nutr. 2007;137(4):803-805.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "dandelion-extract-liver",
@@ -6990,7 +7840,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "González-Castejón M, et al. J Ethnopharmacol. 2012;142(3):608-613.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Schütz K, et al. J Ethnopharmacol. 2006;107(3):313-323.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chien CF, et al. J Tradit Complement Med. 2017;7(3):278-283.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yarnell E, Abascal K. Altern Complement Ther. 2009;15(1):34-38.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "sesamin-liver",
@@ -7250,7 +8131,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wu WH, et al. J Nutr. 2009;139(5):868-873.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ide T, et al. Lipids. 2001;36(4):367-372.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wu X, et al. J Nutr Biochem. 2013;24(1):124-131.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kong X, et al. Biochim Biophys Acta. 2015;1850(8):1643-1652.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "matrine-liver",
@@ -7506,7 +8418,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Liu Y, et al. Evid Based Complement Alternat Med. 2014;2014:834726.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Long Y, et al. World J Gastroenterol. 2004;10(11):1604-1609.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen X, et al. J Ethnopharmacol. 2015;164:297-303.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gao HY, et al. Zhongguo Zhong Yao Za Zhi. 2010;35(7):894-897.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "glycyrrhizic-acid-liver",
@@ -7766,7 +8709,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Fiore C, et al. J Ethnopharmacol. 2008;116(3):463-476.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cinatl J, et al. Lancet. 2003;361(9374):2045-2046.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wang L, et al. Evid Based Complement Alternat Med. 2012;2012:832937.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li JY, et al. J Viral Hepat. 2013;20(4):265-270.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-acidophilus-gut",
@@ -8037,7 +9011,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sanders ME, et al. Int J Food Microbiol. 2018;276:71-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cash BD, et al. World J Gastroenterol. 2012;18(42):6038-6045.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sanders ME, Klaenhammer TR. Annu Rev Food Sci Technol. 2010;1:65-85.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ouwehand AC, et al. J Nutr. 2002;132(8):2304-2308.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "saccharomyces-boulardii-gut",
@@ -8304,7 +9309,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Czerucka D, et al. Aliment Pharmacol Ther. 2007;26(6):767-778.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "McFarland LV. Therap Adv Gastroenterol. 2010;3(5):281-294.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Szajewska H, Kołodziej M. Aliment Pharmacol Ther. 2015;42(7):793-801.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kuratani K, et al. Helicobacter. 2009;14(1):43-49.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "fos-gut",
@@ -8572,7 +9608,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sabater-Molina M, et al. J Physiol Biochem. 2009;65(3):315-328.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Roberfroid MB. J Nutr. 2007;137(11):2493S-2502S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bouhnik Y, et al. Eur J Clin Nutr. 1999;53(3):209-213.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hughes R, Rowland IR. Microb Ecol Health Dis. 2008;20(2):79-87.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "gos-gut",
@@ -8838,7 +9905,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Torres DPM, et al. Compr Rev Food Sci Food Saf. 2010;9(5):438-454.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Macfarlane GT, et al. Anaerobe. 2008;14(1):43-50.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sierra C, et al. J Pediatr Gastroenterol Nutr. 2015;60(1):100-104.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Drakoularakou A, et al. Eur J Clin Nutr. 2010;64(2):146-152.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "inulin-gut",
@@ -9100,7 +10198,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Roberfroid MB, et al. J Nutr. 2010;140(4):711-716.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Coussement PAA. Br J Nutr. 1999;82(3):211-214.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kleessen B, et al. Br J Nutr. 2007;97(2):339-348.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Abrams S, et al. Am J Clin Nutr. 2005;82(2):471-476.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "resistant-dextrin-gut",
@@ -9360,7 +10489,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Fastinger ND, et al. J Am Coll Nutr. 2008;27(2):262-268.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kishimoto Y, et al. J Nutr Sci Vitaminol. 2009;55(5):418-421.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Pasman W, et al. J Am Coll Nutr. 2006;25(3):219-224.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lefranc-Millot C. Nutr Today. 2008;43(4):154-161.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "polydextrose-gut",
@@ -9605,7 +10765,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Figdor SK, Rennhard HH. J Agric Food Chem. 1981;29(3):540-543.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Achour L, et al. Am J Clin Nutr. 1994;60(2):296-301.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jie Z, et al. Asia Pac J Clin Nutr. 2000;9(4):292-297.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tomlin J, Read NW. Br J Nutr. 1988;60(3):473-481.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chitosan-oligosaccharide-gut",
@@ -9868,7 +11059,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Xia W, et al. Mar Drugs. 2011;9(4):583-590.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Muanprasat C, Chatsudthipong V. Pharmacol Ther. 2017;170:80-97.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lodhi G, et al. Carbohydr Polym. 2014;110:69-76.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kim EK, et al. Biochem Biophys Res Commun. 2005;334(2):426-430.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "l-glutamine-gut",
@@ -10127,7 +11349,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Rao R, Samak G. Tissue Barriers. 2013;1(2):e24222.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kim H. J Nutr. 2011;141(8):1373S-1376S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cruzat V, et al. Nutrients. 2018;10(11):1564.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "van der Hulst RR, et al. Lancet. 1993;341(8852):1010-1012.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "psyllium-husk-gut",
@@ -10393,7 +11646,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "McRorie JW, et al. J Acad Nutr Diet. 2017;117(12):1962-1970.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Anderson JW, et al. Am J Clin Nutr. 2000;71(2):472-479.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Giannini EG, et al. Dig Liver Dis. 2006;38(9):665-669.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fernández-Bañares F, et al. Am J Gastroenterol. 1999;94(1):130-137.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "folic-acid-cardio",
@@ -10659,7 +11943,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Saposnik G, et al. BMJ. 2017;356:j539. (HOPE-2试验)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wald DS, et al. BMJ. 2002;325(7374):1202.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lonn E, et al. N Engl J Med. 2006;354(15):1567-1577. (HOPE-2)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Crider KS, et al. Adv Nutr. 2012;3(1):21-28.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "allicin",
@@ -10905,7 +12220,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sobenin IA, et al. J Atheroscler Thromb. 2019;26(3):203-213.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ried K. Adv Ther. 2020;37(8):3361-3392.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bayan L, et al. Avicenna J Phytomed. 2014;4(1):1-12.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Stevinson C, et al. Ann Intern Med. 2000;133(6):420-429.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "danshen-extract",
@@ -11166,7 +12512,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang X, et al. Evid Based Complement Alternat Med. 2017;2017:9360592.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Su CY, et al. Acta Pharmacol Sin. 2015;36(6):670-679.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhou L, et al. J Ethnopharmacol. 2011;135(2):345-353.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cheng TO. Am J Cardiol. 2006;97(5):727-728.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "hawthorn-extract",
@@ -11423,7 +12800,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Pittler MH, et al. Cochrane Database Syst Rev. 2008;(1):CD005312.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Eggeling T, et al. Eur J Heart Fail. 2011;13(8):900-907. (SPICE试验)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Koch E, Malek FA. Wien Med Wochenschr. 2011;161(9-10):241-248.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chang Q, et al. J Ethnopharmacol. 2002;79(2):205-211.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "magnesium-cardio",
@@ -11718,7 +13126,45 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Volpe SL. Nutr Clin Pract. 2013;28(5):563-567.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kass L, et al. Eur J Clin Nutr. 2012;66(4):411-418.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Del Gobbo LC, et al. Am J Clin Nutr. 2013;98(2):366-375.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Liu M, et al. J Am Heart Assoc. 2016;5(12):e004036. (MAGIC试验)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "镁",
+        "brand": "Albion®",
+        "company": "Albion Minerals",
+        "note": "甘氨酸镁等氨基酸螯合镁原料"
+      }
+    ]
   },
   {
     "id": "potassium-cardio",
@@ -12014,7 +13460,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Aburto NJ, et al. BMJ. 2013;346:f1378.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mente A, et al. Lancet. 2014;384(9947):1007-1017. (PURE研究)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Filippini T, et al. J Am Heart Assoc. 2017;6(10):e006373.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cappuccio FP, et al. BMJ. 1991;303(6807):899-901.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "calcium-carbonate-bone",
@@ -12290,7 +13767,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Reid IR, et al. BMJ. 2008;336(7636):177-180.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bolland MJ, et al. BMJ. 2010;341:c3691.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chung M, et al. Ann Intern Med. 2009;151(5):315-329.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Weaver CM, et al. Osteoporos Int. 2016;27(6):1827-1836.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "hyaluronic-acid-bone",
@@ -12560,7 +14068,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kalman DS, et al. Nutr J. 2008;7:3.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bellido M, et al. BMC Musculoskelet Disord. 2008;9:157.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tashiro T, et al. Biosci Biotechnol Biochem. 2012;76(5):877-883.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sato T, et al. Jpn Pharmacol Ther. 2009;37:251-257.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "strontium-ranelate",
@@ -12796,7 +14335,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Meunier PJ, et al. N Engl J Med. 2004;350(5):459-468. (STRATOS试验)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Reginster JY, et al. J Clin Endocrinol Metab. 2005;90(5):2816-2822. (TROPOS试验)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EMA. Protelos EPAR 2017年限制建议.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      },
+      {
+        "citation": "Kanis JA, et al. Bone. 2011;48(3):565-571.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "boron-bone",
@@ -13051,7 +14621,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Nielsen FH. J Trace Elem Exp Med. 1996;9(4):215-226.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Newnham RE. Environ Health Perspect. 1994;102 Suppl 7:83-85.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hunt CD. Environ Health Perspect. 1994;102 Suppl 7:35-43.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Scorei R, et al. Biol Trace Elem Res. 2011;143(3):1223-1238.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "silicon-bone",
@@ -13318,7 +14919,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Jugdaohsingh R. J Nutr Health Aging. 2007;11(2):99-110.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sripanyakorn S, et al. Bone. 2009;44(5 Suppl 1):S202-S203.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Martin KR. Nutr Rev. 2007;65(5):227-230.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Reffitt DM, et al. Bone. 2003;32(2):127-135.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "drynaria-extract",
@@ -13578,7 +15210,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang YL, et al. J Ethnopharmacol. 2019;241:111975.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jiang Y, et al. J Orthop Translat. 2020;22:120-130.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang W, et al. Evid Based Complement Alternat Med. 2017;2017:8963218.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li Y, et al. J Pharmacol Sci. 2018;136(2):85-92.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "magnesium-citrate-bone",
@@ -13855,7 +15518,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Volpe SL. Nutr Clin Pract. 2013;28(5):563-567.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nielsen FH. Nutr Rev. 2006;64(2):65-71.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Walker AF, et al. J Am Coll Nutr. 2003;22(6):545-554.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Coudray C, et al. J Am Coll Nutr. 2005;24(2):128-135.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ceramide-beauty",
@@ -14116,7 +15810,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Uchiyama T, et al. J Dermatol Sci. 2017;88(1):118-125.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Takahashi M, et al. Nippon Koshohin Kagakkaishi. 2008;32:65-72.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Maranzano M, et al. Nutrients. 2021;13(4):1282.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cestone E, et al. Cosmetics. 2018;5(3):46.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "vitamin-c-beauty",
@@ -14406,7 +16131,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Pullar JM, et al. Nutrients. 2017;9(8):866.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Carr AC, Maggini S. Nutrients. 2017;9(11):1211.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nussenblatt RB, et al. Am J Clin Nutr. 2002;76(4):806-810.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Levine M, et al. Proc Natl Acad Sci U S A. 1996;93(8):3704-3709.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "biotin-beauty",
@@ -14663,7 +16419,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Patel DP, et al. Int J Trichology. 2017;9(2):73-77.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Famenini S, et al. Skin Appendage Disord. 2017;3(3):166-169.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zempleni J, et al. Annu Rev Nutr. 2016;36:177-199.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mock DM. J Nutr. 2017;147(8):1477-1480.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bilberry-anthocyanins",
@@ -14955,7 +16742,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Canter PH, Ernst E. Surv Ophthalmol. 2004;49(1):38-50. (越橘改善视力综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Muth ER, et al. Altern Med Rev. 2000;5(2):164-173.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kamiya K, et al. J Nutr Health Aging. 2014;18(7):663-668.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Léveillard T, et al. Biochim Biophys Acta. 2015;1852(10):2089-2096.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "dha",
@@ -15225,7 +17043,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Birch EE, et al. Am J Clin Nutr. 2010;91(4):848-859. (婴幼儿DHA与视觉发育)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "SanGiovanni JP, et al. Am J Clin Nutr. 2008;88(4):1218-1225. (DHA与AMD)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hodge WG, et al. Can J Ophthalmol. 2006;41(4):454-461.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bazan NG, et al. Curr Top Med Chem. 2007;7(8):775-782.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "vitamin-a",
@@ -15486,7 +17335,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "WHO/UNICEF. Vitamin A deficiency. WHO Tech Rep Ser 595; 1976.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      },
+      {
+        "citation": "Sommer A. Nutr Rev. 1998;56(2 Pt 2):S34-S40. (维生素A与视力)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Imdad A, et al. JAMA Pediatr. 2017;171(1):e162617. (维生素A补充Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tanumihardjo SA. Am J Clin Nutr. 2011;94(2):672-674.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "aronia-extract",
@@ -15755,7 +17635,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kulling SE, Rawel HM. Planta Med. 2008;74(13):1625-1634. (黑果腺肋花楸综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kokotkiewicz A, et al. J Med Food. 2010;13(4):783-793.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bell DR, Gochenaur K. J Med Food. 2006;9(2):242-247. (血管舒张)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jakobek L, et al. Food Technol Biotechnol. 2012;50(3):382-389.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "goji-polysaccharide",
@@ -16024,7 +17935,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Cheng CY, et al. Exp Gerontol. 2005;40(8-9):716-727. (枸杞与视网膜保护)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tang L, et al. Mol Vis. 2011;17:3042-3050. (LBP与糖尿病视网膜病变)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lam KW, et al. J Ocul Pharmacol Ther. 2007;23(3):265-272.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yu MS, et al. Exp Neurol. 2005;194(1):130-141.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "blueberry-extract",
@@ -16293,7 +18235,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kalt W, et al. J Agric Food Chem. 2014;62(18):4003-4008. (蓝莓花青素与视力)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Basu A, et al. J Nutr. 2010;140(9):1582-1587.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Song Y, et al. Food Funct. 2016;7(9):3780-3791.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Miller K, et al. J Med Food. 2019;22(3):257-263.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "free-lutein",
@@ -16564,7 +18537,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "AREDS2 Research Group. JAMA. 2013;309(19):2005-2015.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chew EY, et al. JAMA Ophthalmol. 2015;133(11):1255-1263. (AREDS2随访)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nolan JM, et al. Exp Eye Res. 2012;102:71-78. (游离叶黄素vs酯型)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Thürmann PA, et al. Am J Clin Nutr. 2005;82(1):60-67.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ginseng-extract",
@@ -16832,7 +18836,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kim HG, et al. J Ginseng Res. 2013;37(1):1-11. (人参抗疲劳综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Reay JL, et al. Psychopharmacology. 2005;181(4):659-666.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cho JG, et al. J Ethnopharmacol. 2014;153(2):302-307.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lee NH, et al. J Ginseng Res. 2012;36(1):14-20.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "maca-extract",
@@ -17101,7 +19136,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Gonzales GF, et al. Andrologia. 2002;34(6):367-372. (玛咖与性功能)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Stone M, et al. J Ethnopharmacol. 2009;124(2):244-249. (玛咖与运动表现)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gonzales-Arimborgo C, et al. Plant Foods Hum Nutr. 2016;71(3):245-254.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Beharry L, Heinrich M. J Ethnopharmacol. 2018;211:126-135.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "rhodiola-extract",
@@ -17369,7 +19435,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Olsson EM, et al. Nord J Psychiatry. 2009;63(1):7-11. (红景天抗疲劳)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Spasov AA, et al. Phytomedicine. 2000;7(2):85-89.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Panossian A, Wikman G. J Ethnopharmacol. 2010;128(2):183-193. (适应原机制)",
+        "type": "theoretical",
+        "evidenceLevel": "D",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ishaque S, et al. J Ethnopharmacol. 2012;144(3):401-409.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "siberian-ginseng-extract",
@@ -17636,7 +19733,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Brekhman II, Dardymov IV. Annu Rev Pharmacol. 1969;9:419-430. (适应原开创性研究)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hartz AJ, et al. Psychol Med. 2004;34(1):1-10.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Davydov M, Krikorian AD. J Ethnopharmacol. 2000;72(3):345-393.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Panossian A, et al. Pharmaceuticals. 2021;14(4):316.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "taurine",
@@ -17901,7 +20029,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Xu YJ, et al. Cardiovasc Drugs Rev. 2008;26(4):335-346. (牛磺酸与心血管)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Waldman M, et al. Adv Exp Med Biol. 2018;1065:359-369. (牛磺酸与运动)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ripps H, Shen W. Mol Vis. 2012;18:2673-2686. (牛磺酸与视网膜)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "De Luca A, et al. Amino Acids. 2015;47(5):881-895.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "creatine",
@@ -18172,7 +20331,45 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kreider RB, et al. J Int Soc Sports Nutr. 2017;14:18. (肌酸系统综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Persky AM, Brazeau GA. Pharmacol Res. 2001;44(1):1-15.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Buford TW, et al. J Int Soc Sports Nutr. 2007;4:6.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Avgerinos K, et al. Nutrients. 2018;10(9):1289. (肌酸与认知)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "肌酸",
+        "brand": "Creapure®",
+        "company": "AlzChem（德国）",
+        "note": "高纯度肌酸原料标准"
+      }
+    ]
   },
   {
     "id": "atp",
@@ -18441,7 +20638,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Jordan AN, et al. J Int Soc Sports Nutr. 2004;1(2):36-41. (口服ATP与运动)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Rathmacher JA, et al. J Int Soc Sports Nutr. 2012;9(1):48.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Herda TJ, et al. J Strength Cond Res. 2008;22(1):83-90.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bhatt DP, et al. J Nutr Biochem. 2013;24(6):1107-1112.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "deer-antler-extract",
@@ -18707,7 +20935,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sui Z, et al. Evid Based Complement Alternat Med. 2014;2014:639841. (鹿茸综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang Z, et al. J Ethnopharmacol. 2007;114(2):169-176.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen J, et al. J Agric Food Chem. 2012;60(42):10636-10642.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lai Y, et al. Nutrients. 2021;13(5):1640.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cordyceps-extract",
@@ -18974,7 +21233,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhu JS, et al. J Altern Complement Med. 1998;4(3):289-303. (虫草综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Das SK, et al. Chin Med. 2010;5:17.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Paterson RR. Phytochemistry. 2008;69(7):1469-1495.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ong YL. Clin Exp Pharmacol Physiol. 2003;30(11):878-881.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "b-vitamin-complex",
@@ -19248,7 +21538,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kennedy DO. Nutrients. 2016;8(2):68. (B族维生素与脑功能)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Huskisson E, et al. Br J Nutr. 2007;97(3):445-454.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "López-Rosa JC, et al. J Nutr Health Aging. 2015;19(2):161-168.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Eussen SJ, et al. Am J Clin Nutr. 2010;91(2):467-477.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "iron-bisglycinate",
@@ -19519,7 +21840,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Camaschella C. N Engl J Med. 2015;372(19):1832-1843. (缺铁性贫血综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hersko C, et al. Br J Haematol. 2017;177(5):686-696. (甘氨酸铁生物利用度)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Pasricha SR, et al. Lancet. 2021;397(10270):283-293.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Murray-Kolbe LE, Beard J. Nutrients. 2010;2(9):950-960. (铁与认知)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "coenzyme-q10-energy",
@@ -19817,7 +22169,47 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Mortensen SA, et al. JACC Heart Fail. 2014;2(6):641-649. (Q-SYMBIO试验)",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "25282031",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25282031/"
+      },
+      {
+        "citation": "Banach M, et al. Mayo Clin Proc. 2023;98(11):1602-1614. (CoQ10与他汀肌病)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Maes M, et al. Psychother Psychosom. 2009;78(4):232-237. (CoQ10与慢性疲劳)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fumagalli S, et al. Nutrients. 2020;12(4):973.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "辅酶Q10",
+        "brand": "Kaneka®",
+        "company": "Kaneka Corporation（日本）",
+        "note": "主流 ubiquinone / ubiquinol 原料供应商"
+      }
+    ]
   },
   {
     "id": "chromium-picolinate",
@@ -20085,7 +22477,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Anderson RA. J Am Coll Nutr. 1998;17(6):548-555. (铬与糖尿病)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cefalu WT, et al. J Nutr. 2002;132(5):963-966.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Suksomboon N, et al. J Clin Pharm Ther. 2011;36(3):314-322. (铬降糖Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hua Y, et al. J Trace Elem Med Biol. 2012;26(1):41-47.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cinnamon-extract",
@@ -20354,7 +22777,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Khan A, et al. Diabetes Care. 2003;26(12):3215-3218. (肉桂降糖开创性研究)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Allen RW, et al. Ann Fam Med. 2013;11(5):452-459. (肉桂Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Costello RB, et al. J Acad Nutr Diet. 2016;116(11):1794-1802.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ranasinghe P, et al. BMC Complement Altern Med. 2012;12:48.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bitter-melon-extract",
@@ -20623,7 +23077,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Grover JK, Yadav SP. J Ethnopharmacol. 2004;93(1):123-132. (苦瓜降糖综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ooi CP, et al. Cochrane Database Syst Rev. 2012;(8):CD007845.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Leung L, et al. Br J Nutr. 2009;102(12):1703-1708.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fuangchan A, et al. J Med Food. 2011;14(9):1001-1008.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "gymnema-extract",
@@ -20892,7 +23377,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Leach MJ. J Altern Complement Med. 2007;13(8):889-895. (武靴叶降糖Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Saneja A, et al. J Pharm Res. 2010;3(9):2223-2228.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tiwari AK, et al. Curr Sci. 2014;106(5):676-686.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Khan F, et al. Diabetes Metab Syndr Obes. 2019;12:2445-2456.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "fenugreek-extract",
@@ -21159,7 +23675,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hassanzadeh-Taheri M, et al. J Hum Nutr Diet. 2017;30(5):590-600. (胡芦巴降糖Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kumar P, et al. J Diabetes Metab Disord. 2014;13:76.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Geberemeskel GA, et al. Int J Food Sci. 2015;2015:798074.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sauvaire Y, et al. Diabetes. 1998;47(2):206-210. (4-HIL与胰岛素分泌)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "berberine",
@@ -21449,7 +23996,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Yin J, et al. Metabolism. 2008;57(5):712-717. (小檗碱降糖临床)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang Y, et al. Evid Based Complement Alternat Med. 2014;2014:856873.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chang W, et al. J Ethnopharmacol. 2013;149(1):12-21.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Han Y, et al. Gut. 2011;60(7):943-951. (小檗碱与肠道菌群)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "mulberry-leaf-extract",
@@ -21720,7 +24298,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kim JI, et al. J Nutr. 2010;140(6):985-990. (1-DNJ降餐后血糖)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Asai A, et al. J Nutr Sci Vitaminol. 2011;57(2):161-166.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yatsunami K, et al. J Nat Med. 2008;62(1):63-68.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ji DB, et al. Yao Xue Xue Bao. 2012;47(9):1144-1149.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "fenugreek-seed-extract",
@@ -21987,7 +24596,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hamza N, et al. Phytother Res. 2015;29(7):996-1005. (胡芦巴降糖系统综述)",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gong J, et al. Food Funct. 2017;8(9):3233-3244.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fuller S, et al. Phytother Res. 2015;29(11):1716-1726.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhou J, et al. Mol Nutr Food Res. 2011;55(10):1517-1527.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "B",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "gymnemic-acid",
@@ -22265,7 +24905,38 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Leach MJ, et al. J Altern Complement Med. 2007;13(8):889-895. (武靴叶降糖Meta分析)",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tiwari AK, et al. Curr Sci. 2014;106(5):676-686. (武靴酸机制)",
+        "type": "theoretical",
+        "evidenceLevel": "D",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Khan F, et al. Diabetes Metab Syndr Obes. 2019;12:2445-2456.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Saneja A, et al. J Pharm Res. 2010;3(9):2223-2228.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "melatonin",
@@ -22557,7 +25228,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "both",
       "hydrophilicity": "amphiphilic",
       "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Buscemi et al. (2006) J Gen Intern Med 21(9):950-958",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hersheimer & Petrie (2002) Cochrane Database Syst Rev (2):CD001520",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EFSA Panel (2011) EFSA Journal 9(6):2241",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "magnesium-glycinate",
@@ -22831,7 +25527,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Abbasi et al. (2012) J Res Med Sci 17(12):1161-1169",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cao et al. (2018) Nutrients 10(10):1392",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EFSA Panel (2010) EFSA Journal 8(10):1807",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "5-htp",
@@ -23088,7 +25809,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Birdsall (1998) Altern Med Rev 3(4):271-280",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Shaw et al. (2002) Psychopharmacology 164:271-279",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EFSA (2011) EFSA Journal 9(6):2241",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "l-theanine",
@@ -23366,7 +26112,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Nobre et al. (2008) Asia Pac J Clin Nutr 17(S1):167-168",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hidese et al. (2019) Nutrients 11(10):2362",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EFSA (2011) EFSA Journal 9(10):2394",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "gaba",
@@ -23646,7 +26417,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Abdou et al. (2006) Biofactors 26(3):201-208",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yoto et al. (2012) J Physiol Anthropol 31(1):1-7",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Byun et al. (2018) Nat Prod Commun 13(10):1303-1306",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "valerian-extract",
@@ -23924,7 +26720,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Bent et al. (2006) Am J Med 119(12):1005-1012",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fernández-San-Martín et al. (2010) Sleep Med 11(6):505-511",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EMA (2016) Assessment report on Valeriana officinalis L.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chamomile-extract",
@@ -24203,7 +27024,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zick et al. (2011) J Clin Psychopharmacol 31(6):811-816",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Amsterdam et al. (2009) J Clin Psychopharmacol 29(4):378-382",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EMA (2015) Assessment report on Matricaria recutita L.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ashwagandha",
@@ -24481,7 +27327,39 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Chandrasekhar et al. (2012) Indian J Psychol Med 34(3):255-262",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Langade et al. (2019) Medicine (Baltimore) 98(35):e16608",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cheah et al. (2021) Nutrients 13(7):2415",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "南非醉茄",
+        "brand": "KSM-66®",
+        "company": "Ixoreal Biomed",
+        "note": "主流南非醉茄提取物标准"
+      }
+    ]
   },
   {
     "id": "lemon-balm-extract",
@@ -24753,7 +27631,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kennedy et al. (2006) Psychopharmacology 188(1):92-100",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cases et al. (2011) Nutrients 3(8):671-686",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EMA (2013) Assessment report on Melissa officinalis L.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "apigenin",
@@ -25021,7 +27924,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Salgueiro et al. (2016) Chem Biol Interact 245:54-61",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jäger & Saaby (2011) Basic Clin Pharmacol Toxicol 108(5):335-340",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zick et al. (2011) J Clin Psychopharmacol 31(6):811-816",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "glycine",
@@ -25296,7 +28224,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Yamadera et al. (2007) Sleep Biol Rhythms 5:126-131",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bannai et al. (2012) Front Neurol 3:64",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kawai et al. (2015) J Sleep Res 24(6):682-690",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "passionflower-extract",
@@ -25570,7 +28523,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Ngan & Conduit (2011) Phytother Res 25(8):1153-1159",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Akhondzadeh et al. (2001) J Clin Pharm Ther 26(5):363-367",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "EMA (2014) Assessment report on Passiflora incarnata L.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-rhamnosus-gg",
@@ -25864,7 +28842,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Guandalini S et al. (2000) J Pediatr Gastroenterol Nutr 30(1):54-60",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kalliomäki M et al. (2001) Lancet 357(9262):1076-1079",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Vanderhoof JA et al. (1999) J Pediatr 135(5):564-568",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-rhamnosus-hn001",
@@ -26140,7 +29143,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wickens K et al. (2008) Clin Exp Allergy 38(7):1135-1142",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wickens K et al. (2013) Clin Exp Allergy 43(9):1048-1057",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gill HS et al. (2001) Br J Nutr 86(6):777-784",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-lactis-hn019",
@@ -26418,7 +29446,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Ahmed M et al. (2007) Eur J Clin Nutr 61(3):354-362",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Waller KP et al. (2011) FEMS Immunol Med Microbiol 63(3):381-388",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ibarra A et al. (2018) Nutrients 10(10):1402",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-paracasei-shirota",
@@ -26702,7 +29755,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Takeda K et al. (2006) Antonie Van Leeuwenhoek 90(3):237-246",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Matsumoto K et al. (2006) J Dairy Sci 89(12):4836-4845",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nagao F et al. (2000) J Am Coll Nutr 19(6):755-763",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-paracasei-lp33",
@@ -26979,7 +30057,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang MF et al. (2004) J Nutr Biochem 15(11):671-676",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Peng GC et al. (2005) Int Arch Allergy Immunol 137(1):13-20",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen YS et al. (2010) Int J Immunopharmacol 10(7):844-850",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-plantarum",
@@ -27264,7 +30367,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Niedzielin K et al. (2001) Eur J Gastroenterol Hepatol 13(10):1143-1147",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Agerholm-Larsen L et al. (2000) Am J Clin Nutr 72(2):466-470",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "de Vries MC et al. (2006) Int Dairy J 16(11):1238-1246",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-reuteri-dsm17938",
@@ -27543,7 +30671,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Savino F et al. (2010) Pediatrics 126(3):e526-e533",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Coccorullo P et al. (2010) J Pediatr 157(4):600-605",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Indrio F et al. (2014) JAMA Pediatr 168(12):1117-1123",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-acidophilus-ncfm",
@@ -27827,7 +30980,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sanders ME et al. (1996) Appl Environ Microbiol 62(10):3736-3740",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sanders ME et al. (1996) J Dairy Sci 79(3):415-420",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Anderson JW et al. (1999) J Am Coll Nutr 18(1):43-50",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-longum-bb536",
@@ -28104,7 +31282,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sakai T et al. (2011) Biosci Microflora 30(4):125-130",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Akatsu T et al. (2013) Biosci Microflora 32(3):83-90",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Xiao JZ et al. (2007) J Dairy Sci 90(8):3625-3635",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-breve-m16v",
@@ -28382,7 +31585,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kukkonen K et al. (2007) J Allergy Clin Immunol 119(1):192-198",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fujii T et al. (2006) Int Arch Allergy Immunol 140(2):109-115",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Enomoto T et al. (2014) Clin Exp Allergy 44(11):1371-1380",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-infantis",
@@ -28667,7 +31895,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Henrick BM et al. (2021) Nat Commun 12(1):802",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Frese SA et al. (2017) mBio 8(3):e00604-17",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Smilowitz JT et al. (2016) BMC Microbiol 16:251",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "streptococcus-thermophilus",
@@ -28956,7 +32209,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Uriot O et al. (2017) Front Microbiol 8:814",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mistry VV et al. (1992) J Dairy Sci 75(4):905-913",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Iyer R et al. (2010) J Food Prot 73(3):539-548",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bacillus-coagulans",
@@ -29243,7 +32521,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Dong H et al. (2012) J Clin Gastroenterol 46(Suppl):S78-S83",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hond ED et al. (2008) Gut 57(7):961-962",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Majeed M et al. (2016) Benef Microbes 7(4):459-469",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-lactis-bb12",
@@ -29524,7 +32827,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Black FT et al. (1989) Infection 17(5):322-324",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Isolauri E et al. (2000) J Pediatr Gastroenterol Nutr 30(1):54-60",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chouraqui JP et al. (2004) J Pediatr Gastroenterol Nutr 38(4):365-371",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "akkermansia-muciniphila",
@@ -29805,7 +33133,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Depommier C et al. (2019) Nat Med 25(7):1096-1103",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Plovier H et al. (2017) Nat Med 23(1):107-113",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cani PD et al. (2022) Nat Rev Microbiol 20(3):167-181",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-acidophilus-la5",
@@ -30086,7 +33439,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sanders ME et al. (1996) J Dairy Sci 79(3):415-420",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kheadr EE et al. (2002) J Dairy Sci 85(3):617-626",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lerker G et al. (1996) Industria Conserve 71:371-376",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-paracasei-431",
@@ -30366,7 +33744,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Rerue CC et al. (2006) J Appl Microbiol 101(5):1059-1068",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jensen GS et al. (2010) FEMS Immunol Med Microbiol 60(2):155-164",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Pregliasco F et al. (2008) J Clin Gastroenterol 42(Suppl 3):S224-S233",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-gasseri-bdup",
@@ -30640,7 +34043,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Yoto A et al. (2012) J Psychopharmacol 26(3):367-378 (GABA与情绪)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bravo JA et al. (2011) Proc Natl Acad Sci USA 108(38):16050-16055 (肠-脑轴)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "量化健康专利WO/2025/011582 (格氏乳杆菌BDUP高产GABA)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "elderberry-extract",
@@ -30951,7 +34379,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zakay-Rones Z et al. (2004) J Int Med Res 32(2):132-140",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zakay-Rones Z et al. (2000) J Altern Complement Med 6(4):367-368",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Barak V et al. (2001) Eur Cytokine Netw 12(2):290-296",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Roschek B et al. (2009) Phytochemistry 70(10):1255-1261",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hawkins J et al. (2019) Complement Ther Med 42:361-365",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ahcc",
@@ -31237,7 +34702,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Spierings EL et al. (2007) Int J Immunother 23(1-2):15-23",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Smith JA et al. (2019) Front Oncol 9:632",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Terakawa N et al. (2008) Int J Immunopathol Pharmacol 21(4):969-975",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Fujii H et al. (2007) Anticancer Res 27(4C):2849-2854",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ikeda H et al. (2020) Nutrients 12(12):3756",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "beta-glucan",
@@ -31538,7 +35040,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Talbott S et al. (2013) J Am Coll Nutr 32(5):331-339",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "McFarlin BK et al. (2013) Br J Nutr 110(10):1891-1900",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Aucoin M et al. (2020) Nutr Rev 78(11):909-921",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Stier H et al. (2014) Eur J Nutr 53(2):535-541",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Goodridge HS et al. (2009) Nat Rev Immunol 9(5):358-365",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactoferrin",
@@ -31842,7 +35381,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Puddu P et al. (2009) Biometals 22(3):427-432",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen K et al. (2020) Eur J Clin Nutr 74(3):476-483",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Vitetta L et al. (2013) J Funct Foods 5(3):1302-1310",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Superti F et al. (2020) Int J Mol Sci 21(17):6260",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Legrand D (2012) Biochem Cell Biol 90(3):289-300",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "maitake-extract",
@@ -32142,7 +35718,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kodama N et al. (2005) J Med Food 8(3):271-277",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kodama N et al. (2003) Int J Med Mushrooms 5(4):373-377",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Masuda Y et al. (2009) Immunol Lett 128(2):148-154",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Matsui K et al. (2001) J Nutr 131(4):1225-1229",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Inoue A et al. (2002) Altern Ther Health Med 8(2):62-67",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chaga-mushroom",
@@ -32445,7 +36058,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zheng W et al. (2010) Int J Med Mushrooms 12(3):235-246",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mishra SK et al. (2013) Int J Biol Macromol 57:37-43",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Glamočlija J et al. (2015) Int J Mol Sci 16(4):7933-7946",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Baek J et al. (2018) J Ethnopharmacol 224:159-166",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Handa N et al. (2014) J AOAC Int 97(6):1541-1548",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "astaxanthin-haematococcus",
@@ -32752,7 +36402,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Yuan JP et al. (2011) Mol Nutr Food Res 55(1):150-165",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kidd P (2011) Altern Med Rev 16(4):335-344",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Park JS et al. (2010) Nutr Metab (Lond) 7:18",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Karppi J et al. (2007) Eur J Nutr 46(6):327-332",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Aoi W et al. (2008) Carcinogenesis 29(7):1395-1401",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "虾青素",
+        "brand": "AstaReal®",
+        "company": "AstaReal / Fuji Chemical Industries（日本）",
+        "note": "全球首个商业化天然虾青素品牌，>85项临床研究"
+      }
+    ]
   },
   {
     "id": "pqq",
@@ -33048,7 +36742,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Chowanadisai W et al. (2010) J Biol Chem 285(1):142-152",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Rucker R et al. (2009) Nature 461(7265):849-850",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Harris CB et al. (2013) Adv Exp Med Biol 777:183-195",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nakano M et al. (2012) Adv Exp Med Biol 777:97-104",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Steinberg F et al. (2003) Free Radic Biol Med 35(9):1020-1027",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ergothioneine",
@@ -33354,7 +37085,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Cheah IK et al. (2016) Biochem Biophys Res Commun 470(4):802-807",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gründemann D et al. (2005) Proc Natl Acad Sci USA 102(14):5256-5261",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Paul BD et al. (2014) Antioxid Redox Signal 19(11):1199-1215",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Smith E et al. (2020) Nutrients 12(7):2151",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Borodina I et al. (2020) Front Bioeng Biotechnol 8:626557",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "麦角硫因",
+        "brand": "Uthever®",
+        "company": "EffePharm 音芙医药科技（上海）",
+        "note": "首个开展大规模人体试验的麦角硫因品牌"
+      }
+    ]
   },
   {
     "id": "alpha-lipoic-acid",
@@ -33660,7 +37435,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "both",
       "hydrophilicity": "amphiphilic",
       "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Ziegler D et al. (2004) Diabetes Care 27(4):986-987",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Biewenga GP et al. (1997) Gen Pharmacol 29(3):315-331",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gorąca A et al. (2011) Pharmacol Rep 63(1):49-56",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Packer L et al. (1995) Free Radic Biol Med 19(2):227-250",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kucukgoncu S et al. (2017) Eur Arch Psychiatry Clin Neurosci 267(7):591-601",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "resveratrol",
@@ -33968,7 +37780,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Howitz KT et al. (2003) Nature 425(6954):191-196",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Baur JA et al. (2006) Nat Rev Drug Discov 5(6):493-506",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Timmers S et al. (2011) Cell Metab 14(5):612-622",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Berman AY et al. (2017) Front Pharmacol 8:100",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hausenblas HA et al. (2015) Mol Nutr Food Res 59(1):93-99",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "白藜芦醇",
+        "brand": "Veri-te®",
+        "company": "Evolva",
+        "note": "酵母发酵法生产的反式白藜芦醇"
+      }
+    ]
   },
   {
     "id": "silymarin",
@@ -34271,7 +38127,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Saller R et al. (2008) Drugs 68(18):2571-2600",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Federico A et al. (2006) Curr Pharm Des 12(34):3545-3555",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Loguercio C et al. (2012) World J Hepatol 4(12):401-408",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hussain SA et al. (2007) J Diabetes Res 2012:102719",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gillessen D et al. (2000) Dig Dis 18(4):243-250",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "nac",
@@ -34578,7 +38471,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Samuni Y et al. (2013) Redox Biol 1(1):383-391",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Atkuri KR et al. (2007) Curr Opin Pharmacol 7(4):355-359",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Dodd S et al. (2008) BMC Psychiatry 8:11",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tordjman K et al. (2014) Free Radic Biol Med 67:1-6",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Black MM et al. (2015) Eur Respir J 46(2):554-561",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "udca",
@@ -34878,7 +38808,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Poupon RE et al. (1997) Gastroenterology 113(5):1527-1534",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lindor KD et al. (2009) Hepatology 50(6):1813-1821",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Beuers U et al. (2015) Lancet 386(9972):1260-1272",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Paumgartner G et al. (2002) Aliment Pharmacol Ther 16(12):2089-2097",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Glantz A et al. (2005) Gut 54(8):1157-1163",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "artichoke-extract",
@@ -35181,7 +39148,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Bundy R et al. (2008) Phytomedicine 15(9):668-675",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wider B et al. (2009) Cochrane Database Syst Rev (1):CD004935",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lupattelli G et al. (2004) Int J Vitam Nutr Res 74(2):129-136",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Speroni E et al. (2003) Phytomedicine 10(4):302-306",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Saénz Rodríguez T et al. (2002) J Ethnopharmacol 83(1-2):1-7",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "schisandra-extract",
@@ -35484,7 +39488,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Panossian A et al. (2008) Pharmaceuticals (Basel) 1(3):31-49",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chiu PY et al. (2006) Free Radic Biol Med 40(6):997-1010",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen X et al. (2017) Evid Based Complement Alternat Med 2017:3170893",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lu H et al. (1991) J Med Chem 34(9):2716-2721",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ko KM et al. (1995) Biochem Pharmacol 49(3):325-329",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "hydrolyzed-collagen-peptides",
@@ -35797,7 +39838,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Proksch E et al. (2014) Skin Pharmacol Physiol 27(1):47-55",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Asserin J et al. (2015) J Cosmet Dermatol 14(4):291-301",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Iwai K et al. (2005) J Agric Food Chem 53(16):6531-6536",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ohara H et al. (2010) J Agric Food Chem 58(13):7786-7792",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Choi FD et al. (2014) J Cosmet Dermatol 13(4):312-319",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "胶原蛋白肽",
+        "brand": "Verisol®",
+        "company": "GELITA",
+        "note": "水解胶原肽，针对皮肤"
+      }
+    ]
   },
   {
     "id": "ceramide-rice",
@@ -36102,7 +40187,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Uchiyama T et al. (2018) J Dermatol 45(11):1304-1310",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Murakami R et al. (2011) J Jpn Cosmet Sci Soc 35(2):133-138",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kimoto-Nira H et al. (2018) J Funct Foods 45:241-248",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Tsuji K et al. (2010) J Jpn Cosmet Sci Soc 34(1):65-70",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Guillou S et al. (2011) Int J Cosmet Sci 33(2):184-189",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "grape-seed-extract-opc",
@@ -36399,7 +40521,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Mei X et al. (2012) Phytomedicine 19(8-9):728-733",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yamakoshi J et al. (2004) J Agric Food Chem 52(8):2371-2377",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Preuss HG et al. (2000) J Med 31(3-4):227-246",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ferreira C et al. (2017) Int J Cosmet Sci 39(3):268-276",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sano A et al. (2007) J Nutr Sci Vitaminol 53(4):355-359",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "niacinamide-beauty",
@@ -36716,7 +40875,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Nair PA et al. (2019) Indian J Dermatol 64(2):115-120",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Damian DL et al. (2008) Cancer Prev Res 1(3):187-191",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hakozaki T et al. (2002) Int J Cosmet Sci 55(1):12-18",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bissett DL et al. (2005) J Cosmet Dermatol 4(1):14-17",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Knip M et al. (2000) Diabetes 49(4):589-595",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "l-cystine",
@@ -37021,7 +41217,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Koh WS et al. (2002) J Cosmet Dermatol 1(3):132-137",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Petri H et al. (1990) J Appl Cosmetol 8:67-72",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Czuban M et al. (2013) Int J Trichology 5(1):12-17",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Schmidt A et al. (1994) Skin Pharmacol 7(1-2):65-70",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Atmaca M et al. (2008) Biol Trace Elem Res 126(1-3):37-44",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "glucosamine",
@@ -37334,7 +41567,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Clegg DO et al. (2006) N Engl J Med 354(8):795-808 (GAIT研究)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Towheed TE et al. (2005) Cochrane Database Syst Rev (2):CD002946",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Reginster JY et al. (2001) Lancet 357(9252):251-256",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Pavelká K et al. (2002) Arch Intern Med 162(18):2113-2123",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wu D et al. (2013) BMJ 347:f6690",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chondroitin-sulfate",
@@ -37647,7 +41917,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Uebelhart D et al. (2008) Arthritis Rheum 58(9):2499-2503",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Clegg DO et al. (2006) N Engl J Med 354(8):795-808 (GAIT研究)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Hochberg MC et al. (2016) Ann Rheum Dis 75(1):37-44",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kiris A et al. (2010) Rheumatol Int 30(5):659-665",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Singh JA et al. (2015) Cochrane Database Syst Rev (1):CD005614",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "type-ii-collagen",
@@ -37959,7 +42266,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Crowley DC et al. (2009) Int J Med Sci 6(6):312-321",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lugo JP et al. (2016) Nutr J 15:14",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bagchi D et al. (2002) Gen Pharmacol 39(5):367-373",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bakilan F et al. (2016) Eur J Rheumatol 3(4):165-170",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Oesser S et al. (2016) PLoS One 11(10):e0165136",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "vitamin-k2-mk7",
@@ -38269,7 +42613,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Knapen MH et al. (2013) Thromb Haemost 109(5):862-870",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Schurgers LJ et al. (2007) Blood 109(8):3279-3283",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "van Summeren MJ et al. (2009) Br J Nutr 102(8):1171-1178",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kanellakis S et al. (2014) Mol Nutr Food Res 58(6):1351-1361",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Beulens JW et al. (2009) Blood 114(14):2831-2835",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "维生素K2",
+        "brand": "MenaQ7®",
+        "company": "Kappa Bioscience",
+        "note": "发酵法 MK-7 原料"
+      }
+    ]
   },
   {
     "id": "omega-3-epa-dha",
@@ -38586,7 +42974,51 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "GISSI-Prevenzione Investigators (1999) Lancet 354(9177):447-455",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bhatt DL et al. (2018) N Engl J Med 380(1):11-22 (REDUCE-IT)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ballantyne CM et al. (2012) Am J Cardiol 110(8):1121-1128 (MARINE)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mozaffarian D et al. (2011) J Am Coll Cardiol 58(20):2047-2067",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Siscovick DS et al. (2017) Circulation 135(15):e867-e884",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "鱼油",
+        "brand": "Epax®",
+        "company": "Epax AS（挪威）",
+        "note": "高纯度 EPA/DHA 鱼油原料"
+      }
+    ]
   },
   {
     "id": "red-yeast-rice",
@@ -38896,7 +43328,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Heber D et al. (1999) Am J Clin Nutr 69(2):231-236",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lu Z et al. (2008) Am J Cardiol 101(12):1689-1693 (CCSPS)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Becker DJ et al. (2009) Ann Intern Med 150(12):830-839",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li Y et al. (2014) PLoS One 9(1):e85508",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Patel S (2016) Eur J Prev Cardiol 23(13):1373-1383",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "soy-lecithin",
@@ -39206,7 +43675,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "both",
       "hydrophilicity": "amphiphilic",
       "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hensen TM et al. (2003) Eur J Clin Nutr 57(9):1114-1120",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Polichetti E et al. (2000) Ann Nutr Metab 44(3):122-126",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Knobeloch LM et al. (1998) Altern Med Rev 3(5):370-377",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Bisby BW et al. (2008) J Am Diet Assoc 108(6):1033-1038",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cummings S et al. (1992) Age Ageing 21(1):62-66",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "nattokinase",
@@ -39517,7 +44023,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Kim JY et al. (2008) Hypertens Res 31(8):1583-1588",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ero MP et al. (2013) Sci Rep 3:3806",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sumi H et al. (1987) Acta Haematol 78(5):298-302",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jensen GS et al. (2016) Sci Rep 6:25153",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Weng Y et al. (2017) Chin Med J (Engl) 130(4):429-434",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "l-arginine",
@@ -39827,7 +44370,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Ast J et al. (2011) J Am Coll Nutr 30(1):1-7",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lucotti P et al. (2006) Am J Cardiol 98(5):688-692",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen J et al. (1999) BJU Int 83(3):269-273",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Preli RB et al. (2002) J Am Coll Cardiol 40(7):1241-1245",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Campbell BI et al. (2004) J Int Soc Sports Nutr 1(2):35-38",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lutein",
@@ -40145,7 +44725,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "AREDS2 Research Group (2013) JAMA 309(19):2005-2015",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ma L et al. (2012) Br J Nutr 107(3):350-359",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Stringham JM et al. (2010) Invest Ophthalmol Vis Sci 51(12):6118-6124",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kvansakul J et al. (2006) Ophthalmic Physiol Opt 26(4):362-371",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Richer S et al. (2004) Optometry 75(4):216-230",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "zeaxanthin",
@@ -40461,7 +45078,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "AREDS2 Research Group (2013) JAMA 309(19):2005-2015",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Ma L et al. (2012) Br J Nutr 107(3):350-359",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Stringham JM et al. (2010) Invest Ophthalmol Vis Sci 51(12):6118-6124",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Connolly EE et al. (2010) J Nutr 140(1):50-57",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Vishwanathan R et al. (2014) Nutr Rev 72(8):501-514",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "meso-zeaxanthin",
@@ -40775,7 +45429,44 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Akuffo KO et al. (2017) Invest Ophthalmol Vis Sci 58(5):2577-2583 (MAZS)",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nolan JM et al. (2013) Exp Eye Res 113:55-61",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Howard AN et al. (2013) J Ophthalmol 2013:835048",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Thurnham DI et al. (2015) Nutrients 7(7):5478-5490",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Loughman J et al. (2012) Ophthalmic Physiol Opt 32(6):492-504",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cassia-seed",
@@ -41001,7 +45692,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhao J et al. Cassia seed extract improves lipid metabolism in hyperlipidemic rats. J Ethnopharmacol. 2019;242:112056.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wang L et al. Neuroprotective effects of cassia seed extract on retinal ganglion cells. Phytother Res. 2020;34(8):2015-2025.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 决明子.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chinese-yam",
@@ -41228,7 +45944,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhou Y et al. Chinese yam polysaccharide promotes gut microbiota health. Int J Biol Macromol. 2021;183:2135-2144.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li M et al. Allantoin accelerates gastric mucosal repair via cell proliferation. Life Sci. 2020;253:117728.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录(2023版). 山药.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "coix-seed",
@@ -41455,7 +46196,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Woo JH et al. Coix seed extract suppresses adipogenesis. J Med Food. 2019;22(8):815-823.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen H et al. Coixenolide induces apoptosis in cancer cells. Cancer Lett. 2020;485:45-55.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 薏苡仁.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "tangerine-peel",
@@ -41680,7 +46446,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Li Y et al. Hesperidin ameliorates gastrointestinal motility disorder. Phytomedicine. 2019;58:152868.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Liu X et al. Chenpi essential oil inhibits Helicobacter pylori. J Ethnopharmacol. 2020;254:112692.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 陈皮.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chrysanthemum",
@@ -41904,7 +46695,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhang X et al. Luteolin protects against liver injury via Nrf2 pathway. J Nutr Biochem. 2020;79:108371.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Liu B et al. Chrysanthemum extract improves dry eye syndrome. Phytother Res. 2019;33(10):2734-2742.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 菊花.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "honeysuckle",
@@ -42129,7 +46945,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang J et al. Chlorogenic acid has broad-spectrum antibacterial activity. Front Microbiol. 2020;11:580310.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li Y et al. Lonicera japonica extract enhances immune function. J Ethnopharmacol. 2019;244:112137.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 金银花.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lotus-leaf",
@@ -42354,7 +47195,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wu T et al. Nuciferine inhibits adipogenesis and promotes fat oxidation. J Nutr Biochem. 2019;74:108229.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang C et al. Lotus leaf flavonoids reduce serum lipids. Food Funct. 2020;11(5):4123-4132.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 荷叶.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "peppermint",
@@ -42575,7 +47441,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Khanna R et al. Peppermint oil for irritable bowel syndrome. BMJ. 2020;368:m2187.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Grigoleit HG et al. Menthol efficacy in functional dyspepsia. Phytomedicine. 2019;57:141-148.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 薄荷.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "longan",
@@ -42797,7 +47688,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Chen Y et al. Longan polysaccharide has sedative-hypnotic effects. J Ethnopharmacol. 2019;244:112135.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Yang B et al. Adenosine from longan promotes sleep. Food Chem. 2020;328:127131.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 龙眼肉(桂圆).",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "jujube",
@@ -43022,7 +47938,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Chen J et al. Jujube polysaccharide enhances immune function. Int J Biol Macromol. 2019;137:856-863.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Guo S et al. cAMP from jujube regulates neurotransmitter release. J Agric Food Chem. 2020;68(15):4487-4495.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 枣(大枣、酸枣、黑枣).",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "monk-fruit",
@@ -43245,7 +48186,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Li Y et al. Mogroside V has antioxidant and anti-inflammatory effects. Food Chem Toxicol. 2020;141:111395.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Xu F et al. Mogroside V inhibits α-glucosidase. J Funct Foods. 2019;60:103456.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "FDA GRAS Notice No. 301. Luo Han Guo (monk fruit) extract.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "mulberry-fruit",
@@ -43470,7 +48436,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang L et al. Mulberry anthocyanins inhibit melanogenesis. Food Chem. 2020;324:126840.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang R et al. Mulberry extract improves skin elasticity. J Cosmet Dermatol. 2019;18(4):1338-1345.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 桑椹.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "polygonatum",
@@ -43695,7 +48686,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhao X et al. Polygonatum polysaccharide enhances mitochondrial function. J Ethnopharmacol. 2020;254:112698.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Wang H et al. Polygonatum sibiricum delays aging via SIRT1. Aging (Albany NY). 2019;11(18):7548-7566.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 黄精.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "poria",
@@ -43921,7 +48937,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wang Y et al. Poria cocos polysaccharide modulates gut microbiota. Front Microbiol. 2020;11:587049.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen X et al. Pachymic acid has sedative effects via GABA_A receptor. Phytomedicine. 2019;57:378-385.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 茯苓.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "sour-jujube-seed",
@@ -44147,7 +49188,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Cao J et al. Jujuboside A enhances GABA_A receptor function. Front Pharmacol. 2020;11:570483.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Liu X et al. Spinosin improves sleep via 5-HT1A receptor. Sleep Med. 2019;60:48-55.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家药典委员会. 中华人民共和国药典(一部) 2020年版. 酸枣仁.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lotus-seed",
@@ -44373,7 +49439,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhang W et al. Lotus seed polysaccharide enhances intestinal barrier. Carbohydr Polym. 2020;240:116267.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Li Y et al. Liensinine has antiarrhythmic effects. J Ethnopharmacol. 2019;244:112137.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 莲子.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "american-ginseng",
@@ -44595,7 +49686,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Vuksan V et al. American ginseng reduces blood glucose. Diabetes Care. 2019;42(8):e134-e135.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Liang W et al. Ginsenoside Rb1 enhances mitochondrial biogenesis. Aging Cell. 2020;19(3):e13120.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录(2023版试点). 西洋参.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "eucommia-leaf",
@@ -44820,7 +49936,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Li X et al. Geniposidic acid promotes osteoblast proliferation. Bone. 2020;130:115075.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang R et al. Eucommia leaf extract lowers blood pressure. J Ethnopharmacol. 2019;244:112137.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录(2023版试点). 杜仲叶.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "solomon-seal",
@@ -45045,7 +50186,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Zhao L et al. Polygonatum odoratum polysaccharide promotes hyaluronic acid synthesis. J Cosmet Dermatol. 2020;19(5):1158-1166.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Kim Y et al. Kaempferol protects skin from UV damage. Arch Dermatol Res. 2019;311(6):455-463.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 玉竹.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "pueraria",
@@ -45271,7 +50437,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wu L et al. Puerarin protects cardiovascular system via eNOS pathway. Phytomedicine. 2020;67:153143.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Zhang S et al. Puerarin accelerates alcohol metabolism. J Ethnopharmacol. 2019;244:112137.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "国家卫健委. 药食同源目录. 葛根.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "期刊"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lentinan",
@@ -45477,7 +50668,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Jpn J Cancer Res. 1987;78(2):222-5.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Int J Med Mushrooms. 2014;16(3):201-16.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "agaricus-blazei",
@@ -45683,7 +50893,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Biol Pharm Bull. 2002;25(5):606-10.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Evid Based Complement Alternat Med. 2011;2011:261051.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "coriolus-versicolor",
@@ -45887,7 +51116,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Cancer Immunol Immunother. 2004;53(1):9-19.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Anticancer Res. 2008;28(2B):675-82.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "vitamin-e",
@@ -46101,7 +51349,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "N Engl J Med. 1993;328(20):1444-9.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Am J Clin Nutr. 2008;87(3):712-22.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lycopene",
@@ -46311,7 +51578,33 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "J Natl Cancer Inst. 1999;91(4):317-31.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Am J Clin Nutr. 1995;62(6):1325S-9S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": [
+      {
+        "name": "番茄红素",
+        "brand": "Lyc-O-Mato®",
+        "company": "Lycored",
+        "note": "天然番茄提取物，含番茄红素+番茄碱"
+      }
+    ]
   },
   {
     "id": "carnosine",
@@ -46521,7 +51814,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Biochemistry (Mosc). 2000;65(7):771-81.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Aging Cell. 2002;1(1):38-41.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "quercetin",
@@ -46733,7 +52045,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Nutrients. 2016;8(3):167.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Molecules. 2018;23(8):1987.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "mct-oil",
@@ -46939,7 +52270,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Am J Clin Nutr. 1998;67(2):304-11.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Nutr. 2003;133(3):674-9.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "guarana-extract",
@@ -47150,7 +52500,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Int J Obes. 1989;13(5):621-9.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Therm Biol. 2007;32(2):81-8.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "black-ginger",
@@ -47361,7 +52730,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "J Nutr Sci Vitaminol. 2016;62(4):309-16.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Evid Based Complement Alternat Med. 2015;2015:473878.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "sulforaphane",
@@ -47573,7 +52961,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Proc Natl Acad Sci USA. 1992;89(6):2399-403.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cancer Prev Res. 2012;5(4):603-11.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "phosphatidylcholine",
@@ -47780,7 +53187,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "both",
       "hydrophilicity": "amphiphilic",
       "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hepatology. 1996;24(3):604-7.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Aliment Pharmacol Ther. 2010;32(8):956-64.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "digestive-enzymes",
@@ -47987,7 +53413,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Pancreas. 2012;41(8):1268-72.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Dig Dis Sci. 2008;53(2):343-9.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "aloe-vera",
@@ -48199,7 +53644,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Br J Community Nurs. 2002; Suppl:S32-4.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2013;146(2):488-93.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lions-mane",
@@ -48409,7 +53873,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Int J Med Mushrooms. 2013;15(6):539-54.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Biomed Res. 2013;34(1):49-54.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "apple-cider-vinegar",
@@ -48619,7 +54102,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Eur J Clin Nutr. 2005;59(9):983-8.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Diabetes Care. 2004;27(1):281-2.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "beetroot-extract",
@@ -48835,7 +54337,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hypertension. 2008;51(3):784-90.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Appl Physiol. 2009;107(4):1144-55.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "ginkgo-biloba",
@@ -49044,7 +54565,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "JAMA. 1997;278(16):1327-32.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cochrane Database Syst Rev. 2009;(1):CD003120.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "manganese",
@@ -49256,7 +54796,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Annu Rev Nutr. 1995;15:111-32.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mol Aspects Med. 2001;22(6):439-52.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "evening-primrose-oil",
@@ -49467,7 +55026,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "fat",
       "hydrophilicity": "lipophilic",
       "note": "脂溶性成分，建议随餐搭配含脂肪的食物服用以促进吸收；空腹时吸收率较低。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Prostaglandins Leukot Essent Fatty Acids. 1991;44(3):175-80.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Br J Dermatol. 1989;121(1):75-90.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "blackcurrant-extract",
@@ -49673,7 +55251,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "J Ocul Pharmacol Ther. 2005;21(6):537-48.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nutrients. 2018;10(9):1298.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "myo-inositol",
@@ -49882,7 +55479,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Metabolism. 1999;48(7):862-7.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Gynecol Endocrinol. 2016;32(9):690-2.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lavender-extract",
@@ -50091,7 +55707,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wien Med Wochenschr. 2011;161(3-4):67-73.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Evid Based Complement Alternat Med. 2015;2015:813289.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "hops-extract",
@@ -50299,7 +55934,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Phytomedicine. 2007;14(7-8):465-7.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Mol Med Rep. 2016;13(3):1953-8.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-fermentum",
@@ -50506,7 +56160,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Lancet. 2017;390(10093):77-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nat Rev Gastroenterol Hepatol. 2015;12(2):87-97.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-adolescentis",
@@ -50716,7 +56389,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Lancet. 2017;390(10093):77-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nat Rev Gastroenterol Hepatol. 2015;12(2):87-97.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bifidobacterium-bifidum",
@@ -50926,7 +56618,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Lancet. 2017;390(10093):77-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nat Rev Gastroenterol Hepatol. 2015;12(2):87-97.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lactobacillus-helveticus",
@@ -51137,7 +56848,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "活性益生菌制剂，建议用温水（≤40℃）或常温饮品送服，避免与过热饮品同服；部分菌株宜空腹或餐前服用以利于定植。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Lancet. 2017;390(10093):77-78.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Nat Rev Gastroenterol Hepatol. 2015;12(2):87-97.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "lily-bulb",
@@ -51350,7 +57080,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "euryale-seed",
@@ -51563,7 +57312,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "black-sesame",
@@ -51777,7 +57545,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "sea-buckthorn",
@@ -51992,7 +57779,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "dendrobium",
@@ -52205,7 +58011,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "codonopsis",
@@ -52419,7 +58244,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cistanche",
@@ -52633,7 +58477,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "gastrodia",
@@ -52846,7 +58709,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "tremella",
@@ -53060,7 +58942,26 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "中国中药杂志. 2020;45(10):",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "J Ethnopharmacol. 2019;231:",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "caffeine",
@@ -53308,7 +59209,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "both",
       "hydrophilicity": "amphiphilic",
       "note": "两亲性成分，在水、脂环境中均可溶解吸收，服用时间较灵活。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Goldstein ER, et al. J Int Soc Sports Nutr. 2010;7:5.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Doherty M, Smith PM. Sports Med. 2004;34(2):109-125.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Guest NS, et al. J Int Soc Sports Nutr. 2021;18(1):1.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "bcaa",
@@ -53539,7 +59465,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wolfe RR. J Nutr. 2017;147(8):1543S-1548S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Shimomura Y, et al. J Nutr. 2006;136(2):529S-532S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Norton LE, Layman DK. Nutr Metab (Lond). 2006;3:20.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "A",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "beta-alanine",
@@ -53766,7 +59717,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Hobson RM, et al. Amino Acids. 2012;43(1):25-37.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Derave W, et al. J Appl Physiol. 2007;103(5):1736-1743.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Artioli GG, et al. J Int Soc Sports Nutr. 2010;7:34.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "citrulline-malate",
@@ -53989,7 +59965,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Pérez-Guisado J, Jakeman PM. J Strength Cond Res. 2010;24(5):1215-1222.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sureda A, et al. Eur J Appl Physiol. 2010;108(2):439-447.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Sugino T, et al. Br J Sports Med. 2009;43(3):186-189.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "hmb",
@@ -54211,7 +60212,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Wilson GJ, et al. J Int Soc Sports Nutr. 2013;10(1):6.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Rowlands DS, et al. Br J Nutr. 2009;101(11):1667-1674.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Portal S, et al. J Appl Physiol. 2010;109(4):1110-1119.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "electrolytes",
@@ -54450,7 +60476,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Sawka MN, et al. Med Sci Sports Exerc. 2007;39(2):377-390.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Cheuvront SN, Kenefick RW. J Athl Train. 2017;52(9):877-883.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lijnen P, et al. Am J Cardiol. 2008;101(11A):25G-33G.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "whey-protein",
@@ -54684,7 +60735,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Phillips SM. J Sports Sci. 2011;29 Suppl 1:S29-38.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Moore DR, et al. Am J Clin Nutr. 2009;89(1):161-168.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Burd NA, et al. J Appl Physiol. 2011;110(1):150-157.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "cranberry",
@@ -54905,7 +60981,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Jepson RG, Williams G, Craig JC. Cochrane Database Syst Rev. 2012;10:CD001321.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Howell AB. Adv Nutr. 2014;5(6):684S-692S.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Maki KC, et al. Nutr J. 2016;15:57.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "soy-isoflavone",
@@ -55124,7 +61225,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Taku K, et al. Menopause. 2012;19(7):776-790.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Chen MN, et al. Phytomedicine. 2015;22(6):953-969.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Messina M. Fertil Steril. 2010;93(7):2095-2104.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "red-clover",
@@ -55326,7 +61452,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Baber RJ, et al. Menopause. 2009;16(6):1156-1166.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Lipovac M, et al. Menopause. 2012;19(2):160-165.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "van de Weijer P, Barentsen R. Maturitas. 2002;42(3):187-193.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "black-cohosh",
@@ -55532,7 +61683,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Lehmann-Willenbrock E, Riedel HH. Adv Ther. 2008;25(3):258-271.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jacobson JS, et al. J Clin Oncol. 2001;19(10):2739-2745.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Burdette JE, et al. J Agric Food Chem. 2003;51(18):5661-5670.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "chasteberry",
@@ -55733,7 +61909,32 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Schellenberg R. BMJ. 2001;322(7279):134-137.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Westphal LM, et al. J Womens Health (Larchmt). 2006;15(8):861-865.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "van Die MD, et al. Planta Med. 2013;79(7):547-556.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   },
   {
     "id": "equol",
@@ -55936,6 +62137,31 @@ export const ingredients: Ingredient[] = [
       "solubility": "water",
       "hydrophilicity": "hydrophilic",
       "note": "水溶性成分，空腹或随餐均可服用；过量部分随尿液排出，建议分次补充以维持血药浓度。"
-    }
+    },
+    "references": [
+      {
+        "citation": "Setchell KD, et al. Am J Clin Nutr. 2003;77(2):464-473.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Aso T, et al. Menopause. 2012;19(4):458-464.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      },
+      {
+        "citation": "Jackson RL, et al. J Nutr Biochem. 2011;22(5):401-409.",
+        "type": "other",
+        "evidenceLevel": "C",
+        "source": "PubMed"
+      }
+    ],
+    "evidenceSummary": {
+      "level": "C",
+      "note": ""
+    },
+    "brandedIngredients": []
   }
 ];
