@@ -1240,11 +1240,11 @@
         "url": null
       },
       {
-        "citation": "Walker AF, et al. J Am Coll Nutr. 2003;22(6):545-554.",
-        "type": "rct",
-        "evidenceLevel": "B",
+        "citation": "Walker AF, Marakis G, Christie L, et al. Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study. Magnes Res. 2003;16(3):183-191.",
+        "type": "other",
+        "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "14596323",
         "url": "https://pubmed.ncbi.nlm.nih.gov/14596323/"
       },
       {
@@ -1257,7 +1257,7 @@
       }
     ],
     "evidenceSummary": {
-      "level": "B",
+      "level": "C",
       "note": ""
     },
     "brandedIngredients": [
@@ -1900,11 +1900,11 @@
         "url": null
       },
       {
-        "citation": "Levine M, et al. Proc Natl Acad Sci U S A. 1996;93(8):3704-3709.",
+        "citation": "Levine M, Conry-Cantilena C, Wang Y, et al. Vitamin C pharmacokinetics in healthy volunteers: evidence for a recommended dietary allowance. Proc Natl Acad Sci U S A. 1996;93(8):3704-3709.",
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "8623000",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8616894/"
       }
     ],
@@ -5710,11 +5710,11 @@
         "url": null
       },
       {
-        "citation": "Panossian A, et al. Pharmaceuticals. 2021;14(4):316.",
+        "citation": "Esmaealzadeh N, Iranpanah A, et al. A literature review of the studies concerning selected plant-derived adaptogens including Eleutherococcus senticosus. Phytomedicine. 2022;105:154354.",
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "35932607",
         "url": null
       }
     ],
@@ -7905,11 +7905,11 @@
         "url": null
       },
       {
-        "citation": "Pasricha SR, et al. Lancet. 2021;397(10270):283-293.",
+        "citation": "Pasricha SR, Tye-Din J. Iron deficiency. Lancet. 2021;397(10270):233-248.",
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "33285139",
         "url": "https://pubmed.ncbi.nlm.nih.gov/33485461/"
       },
       {

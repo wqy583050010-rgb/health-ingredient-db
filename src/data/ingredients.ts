@@ -12368,10 +12368,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Lonn E, et al. N Engl J Med. 2006;354(15):1567-1577. (HOPE-2)",
+        "citation": "Lonn E, Yusuf S, Arnold MJ, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease. N Engl J Med. 2006;354(15):1567-1577.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "16531613",
         "url": "https://pubmed.ncbi.nlm.nih.gov/16531612/"
       },
       {
@@ -14240,10 +14241,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Reid IR, et al. BMJ. 2008;336(7636):177-180.",
+        "citation": "Reid IR, Ames R, Mason B, et al. Randomized controlled trial of calcium supplementation in healthy, nonosteoporotic, older men. Arch Intern Med. 2008;168(20):2276-2282.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "19001206",
         "url": "https://pubmed.ncbi.nlm.nih.gov/18286218/"
       },
       {
@@ -16092,10 +16094,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Walker AF, et al. J Am Coll Nutr. 2003;22(6):545-554.",
-        "type": "rct",
-        "evidenceLevel": "B",
+        "citation": "Walker AF, Marakis G, Christie L, et al. Mg citrate found more bioavailable than other Mg preparations in a randomised, double-blind study. Magnes Res. 2003;16(3):183-191.",
+        "type": "other",
+        "evidenceLevel": "C",
         "source": "PubMed",
+        "pmid": "14596323",
         "url": "https://pubmed.ncbi.nlm.nih.gov/14596323/"
       },
       {
@@ -16106,7 +16109,7 @@ export const ingredients: Ingredient[] = [
       }
     ],
     "evidenceSummary": {
-      "level": "B",
+      "level": "C",
       "note": ""
     },
     "brandedIngredients": [
@@ -16735,10 +16738,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Levine M, et al. Proc Natl Acad Sci U S A. 1996;93(8):3704-3709.",
+        "citation": "Levine M, Conry-Cantilena C, Wang Y, et al. Vitamin C pharmacokinetics in healthy volunteers: evidence for a recommended dietary allowance. Proc Natl Acad Sci U S A. 1996;93(8):3704-3709.",
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
+        "pmid": "8623000",
         "url": "https://pubmed.ncbi.nlm.nih.gov/8616894/"
       }
     ],
@@ -20452,10 +20456,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Panossian A, et al. Pharmaceuticals. 2021;14(4):316.",
+        "citation": "Esmaealzadeh N, Iranpanah A, et al. A literature review of the studies concerning selected plant-derived adaptogens including Eleutherococcus senticosus. Phytomedicine. 2022;105:154354.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "35932607"
       }
     ],
     "evidenceSummary": {
@@ -22595,10 +22600,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Pasricha SR, et al. Lancet. 2021;397(10270):283-293.",
+        "citation": "Pasricha SR, Tye-Din J. Iron deficiency. Lancet. 2021;397(10270):233-248.",
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "33285139",
         "url": "https://pubmed.ncbi.nlm.nih.gov/33485461/"
       },
       {
@@ -59264,10 +59270,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "J Ethnopharmacol. 2019;231:",
+        "citation": "Zhang WN, Su RN, et al. Structural characterization and in vitro hypoglycemic activity of a glucan from Euryale ferox. Carbohydr Polym. 2019;209:363-371.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "30732819"
       }
     ],
     "evidenceSummary": {
@@ -61219,10 +61226,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Goldstein ER, et al. J Int Soc Sports Nutr. 2010;7:5.",
+        "citation": "Goldstein ER, Ziegenfuss T, Kalman D, et al. International society of sports nutrition position stand: caffeine and performance. J Int Soc Sports Nutr. 2010;7:5.",
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "20205813",
         "url": "https://pubmed.ncbi.nlm.nih.gov/20209154/"
       },
       {
@@ -62263,10 +62271,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Wilson GJ, et al. J Int Soc Sports Nutr. 2013;10(1):6.",
+        "citation": "Wilson JM, Fitschen PJ, Campbell B, et al. International Society of Sports Nutrition Position Stand: beta-hydroxy-beta-methylbutyrate (HMB). J Int Soc Sports Nutr. 2013;10(1):6.",
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "23374455",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23442155/"
       },
       {
@@ -63044,10 +63053,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Jepson RG, Williams G, Craig JC. Cochrane Database Syst Rev. 2012;10:CD001321.",
+        "citation": "Williams G, Stothart CI, et al. Cranberries for preventing urinary tract infections. Cochrane Database Syst Rev. 2023;11:CD001321.",
         "type": "meta",
         "evidenceLevel": "A",
         "source": "PubMed",
+        "pmid": "37947276",
         "url": "https://pubmed.ncbi.nlm.nih.gov/23058931/"
       },
       {
@@ -63296,10 +63306,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Taku K, et al. Menopause. 2012;19(7):776-790.",
+        "citation": "Taku K, Melby MK, Kronenberg F, et al. Extracted or synthesized soybean isoflavones reduce menopausal hot flash frequency and severity: systematic review and meta-analysis of randomized controlled trials. Menopause. 2012;19(7):776-790.",
         "type": "meta",
         "evidenceLevel": "A",
         "source": "PubMed",
+        "pmid": "22433977",
         "url": "https://pubmed.ncbi.nlm.nih.gov/22739657/"
       },
       {
@@ -63531,10 +63542,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Baber RJ, et al. Menopause. 2009;16(6):1156-1166.",
+        "citation": "Samman S, Koh HS, et al. Red clover (Trifolium pratense) isoflavones and serum homocysteine. J Womens Health (Larchmt). 2009;18(11):1813-1816.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "19951216",
         "url": "https://pubmed.ncbi.nlm.nih.gov/19812492/"
       },
       {
@@ -63991,10 +64003,11 @@ export const ingredients: Ingredient[] = [
     },
     "references": [
       {
-        "citation": "Schellenberg R. BMJ. 2001;322(7279):134-137.",
+        "citation": "Schellenberg R. Treatment for the premenstrual syndrome with agnus castus fruit extract: prospective, randomised, placebo controlled study. BMJ. 2001;322(1):134-137.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "11159568",
         "url": "https://pubmed.ncbi.nlm.nih.gov/11208851/"
       },
       {
@@ -64226,10 +64239,11 @@ export const ingredients: Ingredient[] = [
         "source": "PubMed"
       },
       {
-        "citation": "Aso T, et al. Menopause. 2012;19(4):458-464.",
+        "citation": "Aso T, Uchiyama S, Matsumura Y, et al. A natural S-equol supplement alleviates hot flushes and other menopausal symptoms in equol nonproducing postmenopausal Japanese women. J Womens Health (Larchmt). 2012;21(1):92-100.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
+        "pmid": "21992596",
         "url": "https://pubmed.ncbi.nlm.nih.gov/22304676/"
       },
       {

@@ -12695,11 +12695,11 @@
         "url": null
       },
       {
-        "citation": "Lonn E, et al. N Engl J Med. 2006;354(15):1567-1577. (HOPE-2)",
+        "citation": "Lonn E, Yusuf S, Arnold MJ, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease. N Engl J Med. 2006;354(15):1567-1577.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "16531613",
         "url": "https://pubmed.ncbi.nlm.nih.gov/16531612/"
       },
       {
@@ -14606,11 +14606,11 @@
     },
     "references": [
       {
-        "citation": "Reid IR, et al. BMJ. 2008;336(7636):177-180.",
+        "citation": "Reid IR, Ames R, Mason B, et al. Randomized controlled trial of calcium supplementation in healthy, nonosteoporotic, older men. Arch Intern Med. 2008;168(20):2276-2282.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": null,
+        "pmid": "19001206",
         "url": "https://pubmed.ncbi.nlm.nih.gov/18286218/"
       },
       {
