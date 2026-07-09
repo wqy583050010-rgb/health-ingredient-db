@@ -280,25 +280,32 @@ export const ingredients: Ingredient[] = [
         "type": "meta",
         "evidenceLevel": "A",
         "source": "PubMed",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/28298266/"
+        "pmid": "28202713",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28202713/"
       },
       {
         "citation": "Gombart AF. Nutrients. 2020;12(2):330.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "31963293",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31963293/"
       },
       {
         "citation": "Chauss D, et al. Nat Rev Immunol. 2022;22(1):37-48.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "",
+        "url": ""
       },
       {
         "citation": "Charoenngam N, Holick MF. Nutrients. 2020;12(7):2097.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "32679784",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32679784/"
       },
       {
         "citation": "Charoenngam N, Holick MF. Nutrients. 2020;12(7):2097.",
@@ -595,25 +602,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Wessels I, et al. Nutrients. 2017;9(12):1286.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29186856",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29186856/"
       },
       {
         "citation": "Prasad AS. J Trace Elem Med Biol. 2014;28(4):364-371.",
         "type": "rct",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25200490",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25200490/"
       },
       {
         "citation": "Read SA, et al. Adv Nutr. 2019;10(4):696-710.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "31305906",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31305906/"
       },
       {
         "citation": "Hemilä H, et al. Open Forum Infect Dis. 2017;4(1):ofx059.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28480298",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28480298/"
       },
       {
         "citation": "Prasad AS, et al. Ann Intern Med. 2000;133(4):245-252. (醋酸锌含片缩短感冒病程 RCT)",
@@ -894,13 +909,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Shah SA, et al. Lancet Infect Dis. 2007;7(7):473-480.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17597571",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17597571/"
       },
       {
         "citation": "Karsch-Völk M, et al. Cochrane Database Syst Rev. 2014;(2):CD000530.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24554461",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24554461/"
       },
       {
         "citation": "Gertsch J, et al. J Biol Chem. 2004;279(39):40803-40811.",
@@ -1217,7 +1236,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Block KI, Mead MN. Integr Cancer Ther. 2003;2(3):247-267.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15035888",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15035888/"
       },
       {
         "citation": "Sheng X, et al. Integr Cancer Ther. 2025;24:15347354241313344.",
@@ -1500,19 +1521,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Sforcin JM, Bankova V. J Ethnopharmacol. 2011;133(2):253-260.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20970490",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20970490/"
       },
       {
         "citation": "Viuda-Martos M, et al. J Food Sci. 2008;73(8):R117-R124.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19021816",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19021816/"
       },
       {
         "citation": "Berretta AA, et al. Biomed Pharmacother. 2020;131:110622.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "32890967",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32890967/"
       },
       {
         "citation": "Shimizu T, et al. Antiviral Res. 2008;79(3):232-240.",
@@ -1794,13 +1821,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Playford RJ, et al. Gut. 2000;47(5):653-659.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18668975",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18668975/"
       },
       {
         "citation": "Cesarone MR, et al. Clin Appl Thromb Hemost. 2007;13(2):130-136.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17456621",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17456621/"
       },
       {
         "citation": "Davison G, et al. Br J Nutr. 2016;115(8):1442-1451.",
@@ -1812,7 +1843,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Oda H, et al. J Infect Chemother. 2021;27(2):292-299.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "",
+        "url": ""
       },
       {
         "citation": "Davison G, et al. Am J Clin Nutr. 2016;104(2):526-536.",
@@ -2064,21 +2097,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Yuan H, et al. Int J Mol Sci. 2020;21(15):5543.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "33255748",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33255748/"
       },
       {
         "citation": "Gupta S, et al. J Ethnopharmacol. 2017;200:98-109.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "",
+        "url": ""
       },
       {
         "citation": "Caceres DD, et al. Phytomedicine. 1999;6(4):217-223.",
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": "10589439",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/10589439/"
+        "pmid": "",
+        "url": ""
       }
     ],
     "evidenceSummary": {
@@ -2340,25 +2377,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Josling P. Adv Ther. 2001;18(4):189-193.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "11697022",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11697022/"
       },
       {
         "citation": "Nantz MP, et al. Clin Nutr. 2012;31(3):337-344.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22280901",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22280901/"
       },
       {
         "citation": "Ried K, et al. Cochrane Database Syst Rev. 2020;(9):CD011311.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "33092769",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33092769/"
       },
       {
         "citation": "Bayan L, et al. Avicenna J Phytomed. 2014;4(1):1-14.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25050296",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25050296/"
       },
       {
         "citation": "Nantz MP, et al. Clin Nutr. 2012;31(3):337-344.",
@@ -2640,13 +2685,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Guggenheim AG, et al. Integr Med. 2014;13(1):32-42.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "26770080",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26770080/"
       },
       {
         "citation": "Xu Z, et al. Am J Chin Med. 2011;39(1):15-27.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21213395",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21213395/"
       },
       {
         "citation": "Jin X, et al. Cochrane Database Syst Rev. 2016;(4):CD007731.",
@@ -2915,13 +2964,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Forman HJ, et al. Mol Aspects Med. 2009;30(1-2):1-12.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18796312",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18796312/"
       },
       {
         "citation": "Richie JP, et al. Eur J Nutr. 2015;54(2):251-263.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24791752",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24791752/"
       },
       {
         "citation": "Sinha R, et al. Cancer Epidemiol Biomarkers Prev. 2018;27(3):245-253.",
@@ -2933,7 +2986,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Pizzorno J. Integr Med. 2014;13(1):8-12.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "26770119",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26770119/"
       },
       {
         "citation": "Richie JP, et al. Eur J Nutr. 2015;54(2):251-263.",
@@ -3212,25 +3267,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Aggarwal BB, Harikumar KB. Int J Biochem Cell Biol. 2009;41(1):40-59.",
         "type": "cell",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18662800",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18662800/"
       },
       {
         "citation": "Hewlings SJ, Kalman DS. Foods. 2017;6(10):92.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29065496",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29065496/"
       },
       {
         "citation": "Gupta SC, et al. Clin Exp Pharmacol Physiol. 2012;39(3):283-299.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22118895",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22118895/"
       },
       {
         "citation": "Balasubramanyam K, et al. J Biol Chem. 2004;279(49):51163-51171.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15383533",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15383533/"
       },
       {
         "citation": "Hewlings SJ, Kalman DS. Foods. 2017;6(10):92.",
@@ -3501,25 +3564,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Rayman MP. Lancet. 2012;379(9822):1256-1268.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22381456",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22381456/"
       },
       {
         "citation": "Labunskyy VM, et al. Physiol Rev. 2014;94(3):739-777.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24987004",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24987004/"
       },
       {
         "citation": "Brigelius-Flohé R, Maiorino M. Biochim Biophys Acta. 2013;1830(5):3289-3303.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23201771",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23201771/"
       },
       {
         "citation": "Ingold I, et al. Cell. 2018;172(3):409-422.e21.",
         "type": "cell",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29290465",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29290465/"
       },
       {
         "citation": "Rayman MP. Lancet. 2012;379(9822):1256-1268.",
@@ -3789,25 +3860,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Yoshino J, et al. Cell Metab. 2018;27(3):513-528.",
         "type": "rct",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29249689",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29249689/"
       },
       {
         "citation": "Rajman L, et al. Cell Metab. 2018;27(3):529-547.",
         "type": "meta",
         "evidenceLevel": "A",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29514064",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29514064/"
       },
       {
         "citation": "Martens CR, et al. Nat Commun. 2018;9(1):1286.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29599478",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29599478/"
       },
       {
         "citation": "Igarashi M, et al. NPJ Aging. 2022;8(1):3.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "35927255",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35927255/"
       },
       {
         "citation": "Yoshino J, et al. Cell Metab. 2018;27(3):513-528.",
@@ -4039,7 +4118,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Schoonees A, et al. Cochrane Database Syst Rev. 2012;(4):CD008294.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22513958",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22513958/"
       },
       {
         "citation": "Luzzi R, et al. Panminerva Med. 2011;53(3):75-82.",
@@ -4290,7 +4371,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Petersen M, Simmonds MSJ. Phytochemistry. 2003;62(2):121-125.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12482446",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12482446/"
       },
       {
         "citation": "Nieto G, et al. Medicines. 2018;5(3):98.",
@@ -4561,19 +4644,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Singh BN, et al. Biochem Pharmacol. 2011;82(12):1807-1821.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21827739",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21827739/"
       },
       {
         "citation": "Khan N, et al. Cancer Res. 2006;66(5):2500-2505.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16510563",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16510563/"
       },
       {
         "citation": "Tachibana H, et al. Nat Struct Mol Biol. 2004;11(4):380-381.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15024383",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15024383/"
       },
       {
         "citation": "EFSA ANS Panel. EFSA Journal. 2018;16(4):e05239.",
@@ -4875,7 +4964,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Fielding R, et al. Nutrients. 2018;10(3):289.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29534031",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29534031/"
       },
       {
         "citation": "Lonza Carnipure Scientific Dossier, 2020.",
@@ -5165,19 +5256,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Gaullier JM, et al. Am J Clin Nutr. 2004;79(6):1118-1125.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15159244",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15159244/"
       },
       {
         "citation": "Whigham LD, et al. Am J Clin Nutr. 2007;85(5):1203-1208.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17490954",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17490954/"
       },
       {
         "citation": "Onakpoya IJ, et al. Eur J Nutr. 2012;51(2):127-134.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21990002",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21990002/"
       },
       {
         "citation": "Benjamin S, Spener F. Chem Biol Interact. 2009;179(2-3):193-199.",
@@ -5449,13 +5546,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Udani J, et al. Nutr J. 2009;8:34.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19860922",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19860922/"
       },
       {
         "citation": "Celleno L, et al. Int J Med Sci. 2007;4(1):45-52.",
         "type": "cell",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17299581",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17299581/"
       },
       {
         "citation": "Oben J, et al. J Med Food. 2006;9(3):403-405.",
@@ -5754,7 +5855,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Onakpoya I, et al. J Am Coll Nutr. 2014;33(1):70-78.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24533610",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24533610/"
       },
       {
         "citation": "Chen HL, et al. J Am Coll Nutr. 2006;25(3):216-223.",
@@ -5766,7 +5869,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Birketvedt GS, et al. Med Sci Monit. 2005;11(1):PI5-8.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15614200",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15614200/"
       },
       {
         "citation": "Onakpoya I, et al. J Am Coll Nutr. 2014;33(1):70-78.",
@@ -6032,7 +6137,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Onakpoya I, et al. Gastroenterol Res Pract. 2011;2011:382852.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20871849",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20871849/"
       },
       {
         "citation": "Vinson JA, et al. Diabetes Metab Syndr Obes. 2009;2:287-294.",
@@ -6050,7 +6157,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Meng S, et al. Evid Based Complement Alternat Med. 2013;2013:801457.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24062792",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24062792/"
       },
       {
         "citation": "Gorji Z, et al. Phytomedicine. 2019;63:153018.",
@@ -6334,19 +6443,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Heymsfield SB, et al. JAMA. 1998;280(18):1596-1600.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "9820262",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9820262/"
       },
       {
         "citation": "Preuss HG, et al. Diabetes Obes Metab. 2004;6(3):171-180.",
         "type": "meta",
         "evidenceLevel": "A",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15056124",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15056124/"
       },
       {
         "citation": "Onakpoya I, et al. J Obes. 2011;2011:509038.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21197150",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21197150/"
       },
       {
         "citation": "Semwal RB, et al. J Ethnopharmacol. 2015;168:127-142.",
@@ -6640,19 +6755,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Whiting S, et al. Appetite. 2014;73:164-171.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24246368",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24246368/"
       },
       {
         "citation": "Ludy MJ, et al. Physiol Behav. 2011;102(3):381-388.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21093467",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21093467/"
       },
       {
         "citation": "Snitker S, et al. Am J Clin Nutr. 2009;89(1):45-50.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19056576",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19056576/"
       },
       {
         "citation": "Janssens PL, et al. Biosci Rep. 2013;33(5):e00103.",
@@ -6919,25 +7040,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Ngondi JL, et al. Lipids Health Dis. 2005;4:12.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15916709",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15916709/"
       },
       {
         "citation": "Ngondi JL, et al. Lipids Health Dis. 2009;8:7.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19254366",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19254366/"
       },
       {
         "citation": "Oben JE, et al. Lipids Health Dis. 2008;7:12.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18377661",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18377661/"
       },
       {
         "citation": "Ross SM. Holist Nurs Pract. 2011;25(2):103-107.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22015343",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22015343/"
       },
       {
         "citation": "Onakpoya I, et al. J Diet Suppl. 2013;10(1):29-38.",
@@ -7228,7 +7357,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Maeda H, et al. Biochem Biophys Res Commun. 2005;332(2):392-397.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15896707",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15896707/"
       },
       {
         "citation": "Miyashita K. Mar Drugs. 2009;7(1):12-23.",
@@ -7246,7 +7377,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Woo MN, et al. Mol Nutr Food Res. 2009;53(5):600-609.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19842104",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19842104/"
       },
       {
         "citation": "Abidov M, et al. Diabetes Obes Metab. 2010;12(1):72-81.",
@@ -7541,7 +7674,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Slavin JL. Nutrients. 2013;5(4):1189-1202.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23609775",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23609775/"
       },
       {
         "citation": "Pittler MH, et al. Am J Med. 2001;110(9):724-730.",
@@ -7857,13 +7992,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Lonsdale D. Evid Based Complement Alternat Med. 2006;3(1):49-59.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16550223",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16550223/"
       },
       {
         "citation": "Thornalley PJ. J Nutr. 2007;137(4):803-805.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18062069",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18062069/"
       },
       {
         "citation": "Bager P, et al. PLoS One. 2024;19(3):e0301354.",
@@ -8134,7 +8273,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Schütz K, et al. J Ethnopharmacol. 2006;107(3):313-323.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16950583",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16950583/"
       },
       {
         "citation": "Chien CF, et al. J Tradit Complement Med. 2017;7(3):278-283.",
@@ -8427,7 +8568,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Wu WH, et al. J Nutr. 2009;139(5):868-873.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19640974",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19640974/"
       },
       {
         "citation": "Ide T, et al. Lipids. 2001;36(4):367-372.",
@@ -8439,7 +8582,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Wu X, et al. J Nutr Biochem. 2013;24(1):124-131.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23022493",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23022493/"
       },
       {
         "citation": "Kong X, et al. Biochim Biophys Acta. 2015;1850(8):1643-1652.",
@@ -8728,19 +8873,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Long Y, et al. World J Gastroenterol. 2004;10(11):1604-1609.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15069732",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15069732/"
       },
       {
         "citation": "Chen X, et al. J Ethnopharmacol. 2015;164:297-303.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25449448",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25449448/"
       },
       {
         "citation": "Gao HY, et al. Zhongguo Zhong Yao Za Zhi. 2010;35(7):894-897.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21438393",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21438393/"
       },
       {
         "citation": "Lu LG, et al. World J Gastroenterol. 2003;9(11):2480-2483.",
@@ -9035,13 +9186,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Cinatl J, et al. Lancet. 2003;361(9374):2045-2046.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12814717",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12814717/"
       },
       {
         "citation": "Wang L, et al. Evid Based Complement Alternat Med. 2012;2012:832937.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23346210",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23346210/"
       },
       {
         "citation": "Li JY, et al. J Viral Hepat. 2013;20(4):265-270.",
@@ -9351,13 +9506,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Sanders ME, Klaenhammer TR. Annu Rev Food Sci Technol. 2010;1:65-85.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22129330",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22129330/"
       },
       {
         "citation": "Ouwehand AC, et al. J Nutr. 2002;132(8):2304-2308.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12420114",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12420114/"
       },
       {
         "citation": "Szajewska H, et al. Acta Paediatr. 2014;103(3):249-255.",
@@ -9645,7 +9804,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Czerucka D, et al. Aliment Pharmacol Ther. 2007;26(6):767-778.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17767461",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17767461/"
       },
       {
         "citation": "McFarland LV. Therap Adv Gastroenterol. 2010;3(5):281-294.",
@@ -9657,7 +9818,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Szajewska H, Kołodziej M. Aliment Pharmacol Ther. 2015;42(7):793-801.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "26216624",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26216624/"
       },
       {
         "citation": "Kuratani K, et al. Helicobacter. 2009;14(1):43-49.",
@@ -9952,19 +10115,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Sabater-Molina M, et al. J Physiol Biochem. 2009;65(3):315-328.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20119826",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20119826/"
       },
       {
         "citation": "Roberfroid MB. J Nutr. 2007;137(11):2493S-2502S.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17951492",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17951492/"
       },
       {
         "citation": "Bouhnik Y, et al. Eur J Clin Nutr. 1999;53(3):209-213.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "9915885",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9915885/"
       },
       {
         "citation": "Hughes R, Rowland IR. Microb Ecol Health Dis. 2008;20(2):79-87.",
@@ -10257,7 +10426,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Torres DPM, et al. Compr Rev Food Sci Food Saf. 2010;9(5):438-454.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "33467830",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33467830/"
       },
       {
         "citation": "Macfarlane GT, et al. Anaerobe. 2008;14(1):43-50.",
@@ -10275,7 +10446,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Drakoularakou A, et al. Eur J Clin Nutr. 2010;64(2):146-152.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19756029",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19756029/"
       },
       {
         "citation": "Wilms E, et al. Clin Nutr. 2021;40(5):3019-3031.",
@@ -10558,25 +10731,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Roberfroid MB, et al. J Nutr. 2010;140(4):711-716.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20920376",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20920376/"
       },
       {
         "citation": "Coussement PAA. Br J Nutr. 1999;82(3):211-214.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10395609",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10395609/"
       },
       {
         "citation": "Kleessen B, et al. Br J Nutr. 2007;97(2):339-348.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17445348",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17445348/"
       },
       {
         "citation": "Abrams S, et al. Am J Clin Nutr. 2005;82(2):471-476.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16087995",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16087995/"
       },
       {
         "citation": "Reimer RA, et al. Am J Clin Nutr. 2024;120(5):1245-1258.",
@@ -10857,7 +11038,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Fastinger ND, et al. J Am Coll Nutr. 2008;27(2):262-268.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18689571",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18689571/"
       },
       {
         "citation": "Kishimoto Y, et al. J Nutr Sci Vitaminol. 2009;55(5):418-421.",
@@ -11141,13 +11324,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Figdor SK, Rennhard HH. J Agric Food Chem. 1981;29(3):540-543.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "7320335",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7320335/"
       },
       {
         "citation": "Achour L, et al. Am J Clin Nutr. 1994;60(2):296-301.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "8198061",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8198061/"
       },
       {
         "citation": "Jie Z, et al. Asia Pac J Clin Nutr. 2000;9(4):292-297.",
@@ -11159,7 +11346,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Tomlin J, Read NW. Br J Nutr. 1988;60(3):473-481.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "3219318",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/3219318/"
       },
       {
         "citation": "Lamichhane S, et al. J Agric Food Chem. 2014;62(40):9944-9951.",
@@ -11449,7 +11638,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Muanprasat C, Chatsudthipong V. Pharmacol Ther. 2017;170:80-97.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "27773783",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27773783/"
       },
       {
         "citation": "Lodhi G, et al. Carbohydr Polym. 2014;110:69-76.",
@@ -11461,7 +11652,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Kim EK, et al. Biochem Biophys Res Commun. 2005;334(2):426-430.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16767803",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16767803/"
       },
       {
         "citation": "Jeong S, et al. Nutr Diabetes. 2019;9(1):31.",
@@ -11741,19 +11934,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Rao R, Samak G. Tissue Barriers. 2013;1(2):e24222.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24778943",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24778943/"
       },
       {
         "citation": "Kim H. J Nutr. 2011;141(8):1373S-1376S.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21697302",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21697302/"
       },
       {
         "citation": "Cruzat V, et al. Nutrients. 2018;10(11):1564.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "30360490",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30360490/"
       },
       {
         "citation": "van der Hulst RR, et al. Lancet. 1993;341(8852):1010-1012.",
@@ -12046,13 +12245,17 @@ export const ingredients: Ingredient[] = [
         "citation": "McRorie JW, et al. J Acad Nutr Diet. 2017;117(12):1962-1970.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28449790",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28449790/"
       },
       {
         "citation": "Anderson JW, et al. Am J Clin Nutr. 2000;71(2):472-479.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10648260",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10648260/"
       },
       {
         "citation": "Giannini EG, et al. Dig Liver Dis. 2006;38(9):665-669.",
@@ -12064,7 +12267,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Fernández-Bañares F, et al. Am J Gastroenterol. 1999;94(1):130-137.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10022641",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10022641/"
       },
       {
         "citation": "van der Schoot A, et al. Am J Clin Nutr. 2022;116(4):953-969.",
@@ -12365,7 +12570,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Wald DS, et al. BMJ. 2002;325(7374):1202.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12446535",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12446535/"
       },
       {
         "citation": "Lonn E, Yusuf S, Arnold MJ, et al. Homocysteine lowering with folic acid and B vitamins in vascular disease. N Engl J Med. 2006;354(15):1567-1577.",
@@ -12379,7 +12586,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Crider KS, et al. Adv Nutr. 2012;3(1):21-28.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22332098",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22332098/"
       }
     ],
     "evidenceSummary": {
@@ -12657,13 +12866,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Bayan L, et al. Avicenna J Phytomed. 2014;4(1):1-12.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25050296",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25050296/"
       },
       {
         "citation": "Stevinson C, et al. Ann Intern Med. 2000;133(6):420-429.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10975959",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10975959/"
       },
       {
         "citation": "Reinhart KM, et al. Ann Pharmacother. 2008;42(12):1766-1771.",
@@ -12953,13 +13166,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Wang X, et al. Evid Based Complement Alternat Med. 2017;2017:9360592.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29456573",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29456573/"
       },
       {
         "citation": "Su CY, et al. Acta Pharmacol Sin. 2015;36(6):670-679.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "26592508",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26592508/"
       },
       {
         "citation": "Zhou L, et al. J Ethnopharmacol. 2011;135(2):345-353.",
@@ -12971,7 +13188,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Cheng TO. Am J Cardiol. 2006;97(5):727-728.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17097412",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17097412/"
       },
       {
         "citation": "Yao Y, et al. Int J Cardiol. 2015;182:46-47.",
@@ -13257,7 +13476,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Pittler MH, et al. Cochrane Database Syst Rev. 2008;(1):CD005312.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18806539",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18806539/"
       },
       {
         "citation": "Eggeling T, et al. Eur J Heart Fail. 2011;13(8):900-907. (SPICE试验)",
@@ -13275,7 +13496,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Chang Q, et al. J Ethnopharmacol. 2002;79(2):205-211.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12065161",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12065161/"
       },
       {
         "citation": "Pittler MH, et al. Am J Med. 2003;114(8):665-674.",
@@ -13605,13 +13828,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Kass L, et al. Eur J Clin Nutr. 2012;66(4):411-418.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22318649",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22318649/"
       },
       {
         "citation": "Del Gobbo LC, et al. Am J Clin Nutr. 2013;98(2):366-375.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24624438",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24624438/"
       },
       {
         "citation": "Liu M, et al. J Am Heart Assoc. 2016;5(12):e004036. (MAGIC试验)",
@@ -13949,7 +14176,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Filippini T, et al. J Am Heart Assoc. 2017;6(10):e006373.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "30526199",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30526199/"
       },
       {
         "citation": "Cappuccio FP, et al. BMJ. 1991;303(6807):899-901.",
@@ -14252,19 +14481,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Bolland MJ, et al. BMJ. 2010;341:c3691.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21081610",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21081610/"
       },
       {
         "citation": "Chung M, et al. Ann Intern Med. 2009;151(5):315-329.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20008771",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20008771/"
       },
       {
         "citation": "Weaver CM, et al. Osteoporos Int. 2016;27(6):1827-1836.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "27401092",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27401092/"
       }
     ],
     "evidenceSummary": {
@@ -14568,7 +14803,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Tashiro T, et al. Biosci Biotechnol Biochem. 2012;76(5):877-883.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22972337",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22972337/"
       },
       {
         "citation": "Sato T, et al. Jpn Pharmacol Ther. 2009;37:251-257.",
@@ -14830,13 +15067,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Meunier PJ, et al. N Engl J Med. 2004;350(5):459-468. (STRATOS试验)",
         "type": "rct",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "14749454",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14749454/"
       },
       {
         "citation": "Reginster JY, et al. J Clin Endocrinol Metab. 2005;90(5):2816-2822. (TROPOS试验)",
         "type": "meta",
         "evidenceLevel": "A",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15728210",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15728210/"
       },
       {
         "citation": "EMA. Protelos EPAR 2017年限制建议.",
@@ -15158,7 +15399,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Scorei R, et al. Biol Trace Elem Res. 2011;143(3):1223-1238.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21274653",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21274653/"
       },
       {
         "citation": "Meacham SL, et al. Am J Clin Nutr. 1995;61(2):341-345.",
@@ -15454,25 +15697,33 @@ export const ingredients: Ingredient[] = [
         "citation": "Jugdaohsingh R. J Nutr Health Aging. 2007;11(2):99-110.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17435952",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17435952/"
       },
       {
         "citation": "Sripanyakorn S, et al. Bone. 2009;44(5 Suppl 1):S202-S203.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19257829",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19257829/"
       },
       {
         "citation": "Martin KR. Nutr Rev. 2007;65(5):227-230.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18290303",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18290303/"
       },
       {
         "citation": "Reffitt DM, et al. Bone. 2003;32(2):127-135.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "12633784",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12633784/"
       },
       {
         "citation": "Spector TD, et al. BMC Musculoskelet Disord. 2008;9:85.",
@@ -15773,13 +16024,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Zhang W, et al. Evid Based Complement Alternat Med. 2017;2017:8963218.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29375638",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29375638/"
       },
       {
         "citation": "Li Y, et al. J Pharmacol Sci. 2018;136(2):85-92.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "30482436",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30482436/"
       },
       {
         "citation": "Wong KC, et al. Br J Nutr. 2013;110(3):475-485.",
@@ -16386,7 +16641,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Uchiyama T, et al. J Dermatol Sci. 2017;88(1):118-125.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28302404",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28302404/"
       },
       {
         "citation": "Takahashi M, et al. Nippon Koshohin Kagakkaishi. 2008;32:65-72.",
@@ -16723,13 +16980,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Pullar JM, et al. Nutrients. 2017;9(8):866.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28805671",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28805671/"
       },
       {
         "citation": "Carr AC, Maggini S. Nutrients. 2017;9(11):1211.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "29099763",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29099763/"
       },
       {
         "citation": "Nussenblatt RB, et al. Am J Clin Nutr. 2002;76(4):806-810.",
@@ -17031,7 +17292,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Mock DM. J Nutr. 2017;147(8):1477-1480.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28701385",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28701385/"
       },
       {
         "citation": "Patel DP, et al. Skin Appendage Disord. 2017;3(3):166-169.",
@@ -17344,13 +17607,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Canter PH, Ernst E. Surv Ophthalmol. 2004;49(1):38-50. (越橘改善视力综述)",
         "type": "review",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "14711439",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14711439/"
       },
       {
         "citation": "Muth ER, et al. Altern Med Rev. 2000;5(2):164-173.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10767671",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10767671/"
       },
       {
         "citation": "Kamiya K, et al. J Nutr Health Aging. 2014;18(7):663-668.",
@@ -17661,7 +17928,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Birch EE, et al. Am J Clin Nutr. 2010;91(4):848-859. (婴幼儿DHA与视觉发育)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20130095",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20130095/"
       },
       {
         "citation": "SanGiovanni JP, et al. Am J Clin Nutr. 2008;88(4):1218-1225. (DHA与AMD)",
@@ -17673,7 +17942,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Hodge WG, et al. Can J Ophthalmol. 2006;41(4):454-461.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16883366",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16883366/"
       },
       {
         "citation": "Bazan NG, et al. Curr Top Med Chem. 2007;7(8):775-782.",
@@ -17995,7 +18266,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Tanumihardjo SA. Am J Clin Nutr. 2011;94(2):672-674.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "21715511",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21715511/"
       },
       {
         "citation": "Glasziou PP, et al. BMJ. 1993;306(6874):366-370.",
@@ -18293,13 +18566,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Kulling SE, Rawel HM. Planta Med. 2008;74(13):1625-1634. (黑果腺肋花楸综述)",
         "type": "review",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18937167",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18937167/"
       },
       {
         "citation": "Kokotkiewicz A, et al. J Med Food. 2010;13(4):783-793.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20170359",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20170359/"
       },
       {
         "citation": "Bell DR, Gochenaur K. J Med Food. 2006;9(2):242-247. (血管舒张)",
@@ -18619,7 +18896,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Yu MS, et al. Exp Neurol. 2005;194(1):130-141.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "15698636",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15698636/"
       },
       {
         "citation": "Li X, et al. Nutrients. 2021;13(12):4409.",
@@ -18909,19 +19188,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Kalt W, et al. J Agric Food Chem. 2014;62(18):4003-4008. (蓝莓花青素与视力)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25335781",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25335781/"
       },
       {
         "citation": "Basu A, et al. J Nutr. 2010;140(9):1582-1587.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "20660279",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20660279/"
       },
       {
         "citation": "Song Y, et al. Food Funct. 2016;7(9):3780-3791.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "27485489",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27485489/"
       },
       {
         "citation": "Miller K, et al. J Med Food. 2019;22(3):257-263.",
@@ -19219,7 +19504,9 @@ export const ingredients: Ingredient[] = [
         "citation": "AREDS2 Research Group. JAMA. 2013;309(19):2005-2015.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24368478",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24368478/"
       },
       {
         "citation": "Chew EY, et al. JAMA Ophthalmol. 2015;133(11):1255-1263. (AREDS2随访)",
@@ -19231,13 +19518,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Nolan JM, et al. Exp Eye Res. 2012;102:71-78. (游离叶黄素vs酯型)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "22652506",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22652506/"
       },
       {
         "citation": "Thürmann PA, et al. Am J Clin Nutr. 2005;82(1):60-67.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "16002805",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16002805/"
       },
       {
         "citation": "Wang WX, et al. J Ophthalmol. 2026;2026:2155378.",
@@ -19526,7 +19817,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Kim HG, et al. J Ginseng Res. 2013;37(1):1-11. (人参抗疲劳综述)",
         "type": "review",
         "evidenceLevel": "B",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "24233159",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24233159/"
       },
       {
         "citation": "Reay JL, et al. Psychopharmacology. 2005;181(4):659-666.",
@@ -19544,7 +19837,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Lee NH, et al. J Ginseng Res. 2012;36(1):14-20.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23717150",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23717150/"
       },
       {
         "citation": "Kim HG, et al. PLoS One. 2013;8(4):e61271.",
@@ -19842,7 +20137,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Stone M, et al. J Ethnopharmacol. 2009;124(2):244-249. (玛咖与运动表现)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19781622",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19781622/"
       },
       {
         "citation": "Gonzales-Arimborgo C, et al. Plant Foods Hum Nutr. 2016;71(3):245-254.",
@@ -19854,7 +20151,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Beharry L, Heinrich M. J Ethnopharmacol. 2018;211:126-135.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "28811221",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28811221/"
       }
     ],
     "evidenceSummary": {
@@ -20135,13 +20434,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Olsson EM, et al. Nord J Psychiatry. 2009;63(1):7-11. (红景天抗疲劳)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "19513932",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19513932/"
       },
       {
         "citation": "Spasov AA, et al. Phytomedicine. 2000;7(2):85-89.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10839209",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10839209/"
       },
       {
         "citation": "Panossian A, Wikman G. J Ethnopharmacol. 2010;128(2):183-193. (适应原机制)",
@@ -20441,19 +20744,25 @@ export const ingredients: Ingredient[] = [
         "citation": "Brekhman II, Dardymov IV. Annu Rev Pharmacol. 1969;9:419-430. (适应原开创性研究)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "4892434",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/4892434/"
       },
       {
         "citation": "Hartz AJ, et al. Psychol Med. 2004;34(1):1-10.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "14971626",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14971626/"
       },
       {
         "citation": "Davydov M, Krikorian AD. J Ethnopharmacol. 2000;72(3):345-393.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "10996277",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10996277/"
       },
       {
         "citation": "Esmaealzadeh N, Iranpanah A, et al. A literature review of the studies concerning selected plant-derived adaptogens including Eleutherococcus senticosus. Phytomedicine. 2022;105:154354.",
@@ -20750,13 +21059,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Ripps H, Shen W. Mol Vis. 2012;18:2673-2686. (牛磺酸与视网膜)",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23170060",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23170060/"
       },
       {
         "citation": "De Luca A, et al. Amino Acids. 2015;47(5):881-895.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "25743164",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25743164/"
       },
       {
         "citation": "Buzdağlı Y, et al. Biol Sport. 2023;40(3):741-751.",
@@ -21062,7 +21375,9 @@ export const ingredients: Ingredient[] = [
         "citation": "Buford TW, et al. J Int Soc Sports Nutr. 2007;4:6.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "17908288",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17908288/"
       },
       {
         "citation": "Avgerinos K, et al. Nutrients. 2018;10(9):1289. (肌酸与认知)",
@@ -21363,13 +21678,17 @@ export const ingredients: Ingredient[] = [
         "citation": "Rathmacher JA, et al. J Int Soc Sports Nutr. 2012;9(1):48.",
         "type": "animal",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "23046855",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23046855/"
       },
       {
         "citation": "Herda TJ, et al. J Strength Cond Res. 2008;22(1):83-90.",
         "type": "other",
         "evidenceLevel": "C",
-        "source": "PubMed"
+        "source": "PubMed",
+        "pmid": "18438236",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18438236/"
       },
       {
         "citation": "Bhatt DP, et al. J Nutr Biochem. 2013;24(6):1107-1112.",
