@@ -56102,7 +56102,6 @@ export const ingredients: Ingredient[] = [
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": "18212259",
         "url": "https://pubmed.ncbi.nlm.nih.gov/18212259/"
       },
       {
