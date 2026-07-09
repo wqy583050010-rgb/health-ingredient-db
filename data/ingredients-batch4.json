@@ -249,6 +249,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Zhang X et al. J Ethnopharmacol. 2026;357:120882.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41224088",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41224088/"
       }
     ],
     "evidenceSummary": {
@@ -505,6 +513,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wang W et al. Food Res Int. 2026;227:118324.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41652717",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41652717/"
       }
     ],
     "evidenceSummary": {
@@ -760,6 +776,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Jo HS et al. Ecotoxicol Environ Saf. 2026;316:120129.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41985279",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41985279/"
       }
     ],
     "evidenceSummary": {
@@ -1016,6 +1040,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ji Y et al. Cells. 2025;14(23):1848.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41369337",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41369337/"
       }
     ],
     "evidenceSummary": {
@@ -1272,6 +1304,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Zheng Y et al. Curr Issues Mol Biol. 2025;47(5):314.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "40699713",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40699713/"
       }
     ],
     "evidenceSummary": {
@@ -1524,10 +1564,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Vermeijden NK et al. Clin Gastroenterol Hepatol. 2026.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41610933",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41610933/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -1777,6 +1825,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hung TH et al. J Sci Food Agric. 2026.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41194623",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41194623/"
       }
     ],
     "evidenceSummary": {
@@ -2033,10 +2089,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Chen J et al. Front Pharmacol. 2020;11:593655.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33324222",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33324222/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -2287,6 +2351,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wu J et al. J Ethnopharmacol. 2026;367:121594.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41967782",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41967782/"
       }
     ],
     "evidenceSummary": {
@@ -2543,6 +2615,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Li F et al. Food Res Int. 2017;100(1):873-884.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "28873762",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28873762/"
       }
     ],
     "evidenceSummary": {
@@ -2799,10 +2879,26 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ha E et al. Efficacy of Polygonatum sibiricum on mild insomnia: a randomized placebo-controlled trial. Nutrients. 2019;11(8):1719.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "31349690",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31349690/"
+      },
+      {
+        "citation": "Cui X et al. A review: the bioactivities and pharmacological applications of Polygonatum sibiricum polysaccharides. Molecules. 2018;23(5):1170.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "29757991",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29757991/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3056,10 +3152,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hao Y et al. Effects of a combination of Poria Cocos, Ziziphus spinose, and gamma-aminobutyric acid (GABA) on sleep quality and skin health: a randomized double-blind placebo-controlled clinical trial. Food Sci Nutr. 2024;12(6):3883-3892.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38873452",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38873452/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3313,10 +3417,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Shergis JL et al. Medicinal seeds Ziziphus spinosa for insomnia: a randomized, placebo-controlled, cross-over, feasibility clinical trial. Complement Ther Med. 2021;57:102657.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33385511",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33385511/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3570,6 +3682,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Chatturong U et al. Vasorelaxant and hypotensive mechanisms of Nelumbo nucifera seed extract: roles of nitric oxide, calcium channel blockade and eNOS interaction with active compounds. Pharmaceuticals (Basel). 2025;18(10):1500.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "41155615",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41155615/"
       }
     ],
     "evidenceSummary": {
@@ -3823,10 +3943,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Vuksan V et al. American ginseng (Panax quinquefolius L) reduces postprandial glycemia in nondiabetic subjects and subjects with type 2 diabetes mellitus. Arch Intern Med. 2000;160(7):1009-1013.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "10761967",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10761967/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4079,10 +4207,26 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Greenway F et al. A clinical trial testing the safety and efficacy of a standardized Eucommia ulmoides Oliver bark extract to treat hypertension. Altern Med Rev. 2011;16(4):338-347.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22214253",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22214253/"
+      },
+      {
+        "citation": "Xu X et al. Quanduzhong capsules for the treatment of grade 1 hypertension patients with low-to-moderate risk: a multicenter, randomized, double-blind, placebo-controlled clinical trial. Front Pharmacol. 2022;13:1014410.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "36703729",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36703729/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4335,10 +4479,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Zhao P et al. The genus Polygonatum: a review of ethnopharmacology, phytochemistry and pharmacology. J Ethnopharmacol. 2018;214:274-291.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "29246502",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29246502/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4592,6 +4744,14 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wang D et al. Pharmacological activity, pharmacokinetics, and clinical research progress of puerarin. Antioxidants (Basel). 2022;11(11):2121.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "36358493",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36358493/"
       }
     ],
     "evidenceSummary": {
@@ -4821,10 +4981,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wang Y et al. Investigation on the efficiency of lentinan for injection combining cisplatin on treating malignant pleural effusion based on systematic review and meta-analysis. Medicine (Baltimore). 2024;103(21):e38032.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "38788041",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38788041/"
+      },
+      {
+        "citation": "Zhao C et al. Lentinan combined with cisplatin for the treatment of non-small cell lung cancer: a systematic review. Medicine (Baltimore). 2021;100(12):e25220.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33761711",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33761711/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -5050,10 +5226,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Mahmood F et al. Agaricus blazei-based mushroom extract supplementation to birch allergic blood donors: a randomized clinical trial. Nutrients. 2019;11(10):2339.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "31581605",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31581605/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -5277,10 +5461,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Pilkington K et al. Coriolus (Trametes) versicolor mushroom to reduce adverse effects from chemotherapy or radiotherapy in people with colorectal cancer. Cochrane Database Syst Rev. 2022;11(11):CD012053.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "36445793",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36445793/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -5514,10 +5706,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Bjelakovic G et al. Antioxidant supplements for prevention of mortality in healthy participants and patients with various diseases. Cochrane Database Syst Rev. 2012;2012(3):CD007176.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "22419320",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22419320/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": [
@@ -5754,10 +5954,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Sani L et al. Impact of tomatoes and tomato-derived products on obesity and cardiometabolic health: a systematic review and meta-analysis. Food Funct. 2026;17(12):5213-5232.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "42300210",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42300210/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": [
@@ -5994,10 +6202,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hsiao YF et al. The effects of carnosine on cognitive function and mental health: a systematic review and meta-analysis. Nutrients. 2026;18(9):1385.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "42123986",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42123986/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -6229,10 +6445,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Jin D et al. Effects of quercetin on metabolic dysfunction-associated steatotic liver disease: a systematic review and meta-analysis. Food Sci Nutr. 2025;13(12):e71358.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "41404533",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41404533/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -6458,10 +6682,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "He H et al. The impact of medium-chain triglycerides on weight loss and metabolic health in individuals with overweight or obesity: a systematic review and meta-analysis. Clin Nutr. 2024;43(8):1755-1768.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "38936302",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38936302/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -6692,10 +6924,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Estrázulas JA et al. Effects of acute ingestion of guarana (Paullinia cupana) on soccer player performance: a randomized, cross-over, placebo-controlled study. J Am Nutr Assoc. 2024;43(8):671-677.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38958672",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38958672/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -6926,10 +7166,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Sung HK et al. Kaempferia parviflora extract (SIRTMAX) reduces body fat in adults who are overweight: a 12-week randomized, double-blind, placebo-controlled trial. Front Nutr. 2025;12:1576024.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40661686",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40661686/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -7161,10 +7409,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ghorbanian K et al. Effects of broccoli sprout supplementation and Pilates training on liver enzymes in women with nonalcoholic fatty liver disease: a double-blind, randomized controlled trial. Plant Foods Hum Nutr. 2026;81(2).",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "42228225",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42228225/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -7391,10 +7647,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Choi SY et al. Randomized, double-blind, placebo-controlled phase II trial of AYP-101 (soybean phosphatidylcholine) for submental fat reduction in Asian adults. Clin Ther. 2025;47(10):889-893.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40850886",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40850886/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -7621,10 +7885,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Naeem H et al. Pak J Pharm Sci. 2020;33(1 Suppl):371-378.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "32122870",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32122870/"
+      },
+      {
+        "citation": "Pekas EJ et al. Br J Nutr. 2021;125(2):161-171.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "32660675",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32660675/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -7856,10 +8136,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Boyapati R et al. Dent Med Probl. 2024;61(2):181-190.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38652926",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38652926/"
+      },
+      {
+        "citation": "Deesricharoenkiat N et al. Int J Oral Maxillofac Surg. 2022;51(4):535-544.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "34429224",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34429224/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -8089,10 +8385,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Mori K et al. Phytother Res. 2009;23(3):367-372.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18844328",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18844328/"
+      },
+      {
+        "citation": "Nagano M et al. Biomed Res. 2010;31(4):231-237.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "20834180",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20834180/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -8322,10 +8634,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hadi A et al. BMC Complement Med Ther. 2021;21(1):179.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "34187442",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34187442/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -8561,10 +8881,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Grönroos R et al. Nutr Metab Cardiovasc Dis. 2024;34(10):2240-2256.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "39069465",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39069465/"
       }
     ],
     "evidenceSummary": {
-      "level": "B",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -8793,10 +9121,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wieland LS et al. Cochrane Database Syst Rev. 2026;2(2):CD013661.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41641880",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41641880/"
+      },
+      {
+        "citation": "Wang K et al. Pharmacology. 2026;1-18.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "42102021",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42102021/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -9028,10 +9372,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Strause L et al. J Nutr. 1994;124(7):1060-1064.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "8027856",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8027856/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -9262,10 +9614,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Senapati S et al. Indian J Dermatol Venereol Leprol. 2008;74(5):368-371.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "19052401",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19052401/"
+      },
+      {
+        "citation": "Anheyer M et al. Dermatitis. 2025;36(3):207-215.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "38963342",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38963342/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -9491,10 +9859,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Amini AM et al. J Nutr. 2025;155(7):2275-2289.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40414296",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40414296/"
+      },
+      {
+        "citation": "do Rosario V et al. Food Funct. 2026;17(7):3400-3414.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41879044",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41879044/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -9723,6 +10107,22 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Duan M et al. Front Endocrinol (Lausanne). 2026;17:1741509.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "41757236",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41757236/"
+      },
+      {
+        "citation": "Tienforti D et al. Clin Endocrinol (Oxf). 2026;105(2):237-244.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "41947399",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41947399/"
       }
     ],
     "evidenceSummary": {
@@ -9955,10 +10355,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Shen H et al. Holist Nurs Pract. 2026;40(2):105-118.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "40600743",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40600743/"
+      },
+      {
+        "citation": "Hu J et al. Eur J Cardiovasc Nurs. 2026;25(3):619-629.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41499426",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41499426/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -10186,10 +10602,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Koetter U et al. Phytother Res. 2007;21(9):847-851.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "17486686",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17486686/"
+      },
+      {
+        "citation": "Dimpfel W et al. Eur J Med Res. 2008;13(5):200-204.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18559301",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18559301/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -10416,10 +10848,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Maldonado-Lobón JA et al. Breastfeed Med. 2015;10(10):473-480.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "26352805",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26352805/"
+      },
+      {
+        "citation": "Zhao Y et al. Nutr J. 2025;24(1):106.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40624535",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40624535/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -10649,10 +11097,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Giorgio V et al. Microorganisms. 2025;13(3):627.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40142519",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40142519/"
+      },
+      {
+        "citation": "Murakami H et al. Nutrients. 2024;16(11):1702.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38892634",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38892634/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -10882,10 +11346,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Kobayashi G et al. Diabetes Obes Metab. 2026;28(7):5952-5967.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "42017290",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42017290/"
+      },
+      {
+        "citation": "Sittiwong S et al. Clin Exp Pediatr. 2025;68(10):763-771.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "40776614",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40776614/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -11116,10 +11596,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wada H et al. Nutrients. 2024;17(1):101.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "39796535",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39796535/"
+      },
+      {
+        "citation": "Romijn AR et al. Aust N Z J Psychiatry. 2017;51(8):810-821.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "28068788",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28068788/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -11352,10 +11848,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wang Y et al. Front Pharmacol. 2025;16:1713957.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41368573",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41368573/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -11825,10 +12329,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Jafari A et al. Nutr Health. 2026;32(3):831-843.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "41637231",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41637231/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -12063,10 +12575,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Geng Y et al. Phytother Res. 2022;36(11):4101-4114.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "36043374",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36043374/"
+      },
+      {
+        "citation": "Larmo P et al. Eur J Clin Nutr. 2008;62(9):1120-1127.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "17593932",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17593932/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []

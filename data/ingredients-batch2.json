@@ -285,10 +285,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Meacham SL, et al. Am J Clin Nutr. 1995;61(2):341-345.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "7840072",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7840072/"
+      },
+      {
+        "citation": "Meacham SL, et al. Environ Health Perspect. 1994;102 Suppl 7:79-82.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "7889886",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7889886/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -591,10 +607,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Spector TD, et al. BMC Musculoskelet Disord. 2008;9:85.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "18547426",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18547426/"
+      },
+      {
+        "citation": "Rondanelli M, et al. Exp Biol Med (Maywood). 2021;246(13):1500-1511.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33715532",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33715532/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -890,6 +922,22 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wong KC, et al. Br J Nutr. 2013;110(3):475-485.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "23302510",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23302510/"
+      },
+      {
+        "citation": "Wang X, et al. Phytomedicine. 2011;18(10):868-872.",
+        "type": "cell",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "21377852",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21377852/"
       }
     ],
     "evidenceSummary": {
@@ -1196,7 +1244,7 @@
         "type": "rct",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": "14596323",
+        "pmid": null,
         "url": "https://pubmed.ncbi.nlm.nih.gov/14596323/"
       },
       {
@@ -1513,10 +1561,26 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Sun Q, et al. Front Nutr. 2022;9:895192.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "35719159",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/35719159/"
+      },
+      {
+        "citation": "Sanjaya A, et al. Nutrients. 2024;16(13):2100.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38999848",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38999848/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -1840,7 +1904,7 @@
         "type": "other",
         "evidenceLevel": "C",
         "source": "PubMed",
-        "pmid": "8616894",
+        "pmid": null,
         "url": "https://pubmed.ncbi.nlm.nih.gov/8616894/"
       }
     ],
@@ -2138,10 +2202,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Patel DP, et al. Skin Appendage Disord. 2017;3(3):166-169.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "28879195",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28879195/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -2469,6 +2541,22 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Canter PH, et al. Surv Ophthalmol. 2004;49(1):38-50.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "14711439",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14711439/"
+      },
+      {
+        "citation": "Kosehira M, et al. Nutrients. 2020;12(3):600.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "32106548",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32106548/"
       }
     ],
     "evidenceSummary": {
@@ -2778,10 +2866,34 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Age-Related Eye Disease Study 2 Research Group. JAMA. 2013;309(19):2005-2015.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23644932",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23644932/"
+      },
+      {
+        "citation": "Souied EH, et al. Ophthalmology. 2013;120(8):1619-1631.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23395546",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23395546/"
+      },
+      {
+        "citation": "García-Layana A, et al. Nutrients. 2013;5(2):543-551.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23434908",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23434908/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -3078,6 +3190,22 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Glasziou PP, et al. BMJ. 1993;306(6874):366-370.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "8461682",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8461682/"
+      },
+      {
+        "citation": "Imdad A, et al. BMC Public Health. 2011;11 Suppl 3:S20.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "21501438",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21501438/"
       }
     ],
     "evidenceSummary": {
@@ -3386,10 +3514,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hawkins J, et al. J Diet Suppl. 2021;18(5):517-530.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "32794414",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32794414/"
       }
     ],
     "evidenceSummary": {
-      "level": "B",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -3694,10 +3830,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Li X, et al. Nutrients. 2021;13(12):4409.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "34959963",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34959963/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4002,10 +4146,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Kalt W, et al. J Agric Food Chem. 2014;62(46):11180-9.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "25335781",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25335781/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -4312,10 +4464,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Wang WX, et al. J Ophthalmol. 2026;2026:2155378.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "42028334",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42028334/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -4619,6 +4779,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Kim HG, et al. PLoS One. 2013;8(4):e61271.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23613825",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23613825/"
       }
     ],
     "evidenceSummary": {
@@ -5234,10 +5402,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ishaque S, et al. BMC Complement Altern Med. 2012;12:70.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22643043",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22643043/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -5844,10 +6020,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Buzdağlı Y, et al. Biol Sport. 2023;40(3):741-751.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "37398976",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37398976/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -6469,10 +6653,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Arts IC, et al. J Int Soc Sports Nutr. 2012;9:16.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22510240",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22510240/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -6774,6 +6966,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Gilbey A, Perezgonzalez JD. N Z Med J. 2012;125(1367):80-6.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "23321886",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23321886/"
       }
     ],
     "evidenceSummary": {
@@ -7080,6 +7280,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Choi E, et al. Mycobiology. 2020;48(6):512-517.",
+        "type": "animal",
+        "evidenceLevel": "C",
+        "source": "PubMed",
+        "pmid": "33312018",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33312018/"
       }
     ],
     "evidenceSummary": {
@@ -7393,10 +7601,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Berg J, et al. Nutr Rev. 2025;83(12):2256-2267.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "40966571",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40966571/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -7693,7 +7909,7 @@
         "type": "review",
         "evidenceLevel": "B",
         "source": "PubMed",
-        "pmid": "33485461",
+        "pmid": null,
         "url": "https://pubmed.ncbi.nlm.nih.gov/33485461/"
       },
       {
@@ -8361,6 +8577,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Suksomboon N, et al. J Clin Pharm Ther. 2014;39(3):292-306.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "24635480",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24635480/"
       }
     ],
     "evidenceSummary": {
@@ -8669,6 +8893,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Allen RW, et al. Ann Fam Med. 2013;11(5):452-9.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "24019277",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24019277/"
       }
     ],
     "evidenceSummary": {
@@ -8977,6 +9209,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ooi CP, et al. Cochrane Database Syst Rev. 2012;(8):CD007845.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22895968",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22895968/"
       }
     ],
     "evidenceSummary": {
@@ -9285,6 +9525,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Devangan S, et al. Phytother Res. 2021;35(12):6802-6812.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "34467577",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34467577/"
       }
     ],
     "evidenceSummary": {
@@ -9591,6 +9839,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hota D, et al. J Am Nutr Assoc. 2024;43(2):147-156.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "37459747",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37459747/"
       }
     ],
     "evidenceSummary": {
@@ -9920,6 +10176,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Xie W, et al. Front Pharmacol. 2022;13:1015045.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "36467075",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36467075/"
       }
     ],
     "evidenceSummary": {
@@ -10230,10 +10494,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Kojima Y, et al. J Clin Biochem Nutr. 2010;47(2):155-161.",
+        "type": "other",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "20838571",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20838571/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -10536,6 +10808,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Chehregosha F, et al. J Cardiovasc Thorac Res. 2024;16(3):184-193.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "39430281",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39430281/"
       }
     ],
     "evidenceSummary": {
@@ -10853,6 +11133,14 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Zuniga LY, et al. J Med Food. 2017;20(8):750-754.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "28459647",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28459647/"
       }
     ],
     "evidenceSummary": {
@@ -11176,10 +11464,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Cruz-Sanabria F, et al. J Pineal Res. 2024;76(5):e12985.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "38888087",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38888087/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -11776,10 +12072,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Sutanto CN, et al. Clin Nutr. 2024;43(3):593-602.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38309227",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38309227/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -12085,10 +12389,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hidese S, et al. Nutrients. 2019;11(10):2362.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "31623400",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31623400/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -12396,10 +12708,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Guimaraes AP, et al. J Diet Suppl. 2024;21(4):512-526.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38321713",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38321713/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -12705,10 +13025,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Shekhar HC, et al. Adv Ther. 2024;41(1):246-261.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "37899385",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37899385/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -13015,10 +13343,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Hieu TH, et al. Phytother Res. 2019;33(6):1604-1615.",
+        "type": "meta",
+        "evidenceLevel": "A",
+        "source": "PubMed",
+        "pmid": "31006899",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31006899/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "A",
       "note": ""
     },
     "brandedIngredients": []
@@ -13324,10 +13660,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Lopresti AL, et al. Medicine (Baltimore). 2019;98(37):e17186.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "31517876",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31517876/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": [
@@ -13634,10 +13978,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Mathews IM, et al. Nutrients. 2024;16(20):3545.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "39458539",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39458539/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -13933,10 +14285,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Kramer DJ, et al. Front Nutr. 2024;11:1359176.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "38476603",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38476603/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -14239,10 +14599,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Bannai M, et al. Front Neurol. 2012;3:61.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "22529837",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22529837/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -14544,10 +14912,18 @@
         "source": "期刊",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Janda K, et al. Nutrients. 2020;12(12):3894.",
+        "type": "review",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33352740",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33352740/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -14869,10 +15245,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Rauseo AM, et al. Infect Control Hosp Epidemiol. 2022;43(2):167-173.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "33820576",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/33820576/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -15176,10 +15560,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Slykerman RF, et al. EBioMedicine. 2017;24:159-165.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "28943228",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28943228/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
@@ -15485,10 +15877,18 @@
         "source": "PubMed",
         "pmid": null,
         "url": null
+      },
+      {
+        "citation": "Ibarra A, et al. Gut Microbes. 2018;9(3):236-251.",
+        "type": "rct",
+        "evidenceLevel": "B",
+        "source": "PubMed",
+        "pmid": "29227175",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29227175/"
       }
     ],
     "evidenceSummary": {
-      "level": "C",
+      "level": "B",
       "note": ""
     },
     "brandedIngredients": []
