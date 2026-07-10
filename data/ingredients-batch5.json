@@ -171,7 +171,7 @@
       {
         "name": "铁皮石斛提取物 食养胶囊",
         "brand": "国内品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥60-120/瓶",
         "sales": "电商在售",
         "otherIngredients": [
@@ -182,13 +182,39 @@
       {
         "name": "铁皮石斛提取物 代泡茶",
         "brand": "同仁堂/品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥30-80/盒",
         "sales": "药房月销1万+",
         "otherIngredients": [
           "其他药食同源"
         ],
         "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂 铁皮石斛原浆",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B",
+        "price": "¥95-131/10盒",
+        "sales": "拼多多月销1万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "原浆"
+      },
+      {
+        "name": "东阿阿胶 铁皮石斛茶",
+        "brand": "东阿阿胶",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%20%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B",
+        "price": "¥52-100/22盒",
+        "sales": "京东月销9万+",
+        "otherIngredients": [
+          "甘草",
+          "陈皮",
+          "薄荷"
+        ],
+        "dosageForm": "茶"
       }
     ],
     "costs": {
@@ -416,7 +442,7 @@
       {
         "name": "党参提取物 食养胶囊",
         "brand": "国内品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%9A%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥60-120/瓶",
         "sales": "电商在售",
         "otherIngredients": [
@@ -427,13 +453,39 @@
       {
         "name": "党参提取物 代泡茶",
         "brand": "同仁堂/品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%9A%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥30-80/盒",
         "sales": "药房月销1万+",
         "otherIngredients": [
           "其他药食同源"
         ],
         "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂 党参原浆",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%85%9A%E5%8F%82",
+        "price": "¥69-132/12盒",
+        "sales": "拼多多月销1万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "原浆"
+      },
+      {
+        "name": "东阿阿胶 党参茶",
+        "brand": "东阿阿胶",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%20%E5%85%9A%E5%8F%82",
+        "price": "¥77-114/26盒",
+        "sales": "京东月销5万+",
+        "otherIngredients": [
+          "甘草",
+          "陈皮",
+          "薄荷"
+        ],
+        "dosageForm": "茶"
       }
     ],
     "costs": {
@@ -661,7 +713,7 @@
       {
         "name": "肉苁蓉提取物 食养胶囊",
         "brand": "国内品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E8%82%89%E8%8B%81%E8%93%89%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥60-120/瓶",
         "sales": "电商在售",
         "otherIngredients": [
@@ -672,13 +724,39 @@
       {
         "name": "肉苁蓉提取物 代泡茶",
         "brand": "同仁堂/品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E8%82%89%E8%8B%81%E8%93%89%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥30-80/盒",
         "sales": "药房月销1万+",
         "otherIngredients": [
           "其他药食同源"
         ],
         "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂 肉苁蓉原浆",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%82%89%E8%8B%81%E8%93%89",
+        "price": "¥150-210/12盒",
+        "sales": "抖音月销7万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "原浆"
+      },
+      {
+        "name": "东阿阿胶 肉苁蓉茶",
+        "brand": "东阿阿胶",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%20%E8%82%89%E8%8B%81%E8%93%89",
+        "price": "¥55-96/10盒",
+        "sales": "天猫月销5万+",
+        "otherIngredients": [
+          "甘草",
+          "陈皮",
+          "薄荷"
+        ],
+        "dosageForm": "茶"
       }
     ],
     "costs": {
@@ -905,7 +983,7 @@
       {
         "name": "天麻提取物 食养胶囊",
         "brand": "国内品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A9%E9%BA%BB%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥60-120/瓶",
         "sales": "电商在售",
         "otherIngredients": [
@@ -916,13 +994,39 @@
       {
         "name": "天麻提取物 代泡茶",
         "brand": "同仁堂/品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A9%E9%BA%BB%E6%8F%90%E5%8F%96%E7%89%A9",
         "price": "¥30-80/盒",
         "sales": "药房月销1万+",
         "otherIngredients": [
           "其他药食同源"
         ],
         "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂 天麻原浆",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A4%A9%E9%BA%BB",
+        "price": "¥168-204/14盒",
+        "sales": "天猫月销9万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "原浆"
+      },
+      {
+        "name": "东阿阿胶 天麻茶",
+        "brand": "东阿阿胶",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%20%E5%A4%A9%E9%BA%BB",
+        "price": "¥73-149/15盒",
+        "sales": "京东月销3万+",
+        "otherIngredients": [
+          "甘草",
+          "陈皮",
+          "薄荷"
+        ],
+        "dosageForm": "茶"
       }
     ],
     "costs": {
@@ -1150,7 +1254,7 @@
       {
         "name": "银耳多糖(银耳提取物) 食养胶囊",
         "brand": "国内品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E8%80%B3%E5%A4%9A%E7%B3%96%28%E9%93%B6%E8%80%B3%E6%8F%90%E5%8F%96%E7%89%A9%29",
         "price": "¥60-120/瓶",
         "sales": "电商在售",
         "otherIngredients": [
@@ -1161,13 +1265,39 @@
       {
         "name": "银耳多糖(银耳提取物) 代泡茶",
         "brand": "同仁堂/品牌",
-        "url": "",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E8%80%B3%E5%A4%9A%E7%B3%96%28%E9%93%B6%E8%80%B3%E6%8F%90%E5%8F%96%E7%89%A9%29",
         "price": "¥30-80/盒",
         "sales": "药房月销1万+",
         "otherIngredients": [
           "其他药食同源"
         ],
         "dosageForm": "袋泡茶"
+      },
+      {
+        "name": "同仁堂 银耳多糖(银耳)原浆",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%93%B6%E8%80%B3%E5%A4%9A%E7%B3%96%28%E9%93%B6%E8%80%B3%29",
+        "price": "¥113-162/15盒",
+        "sales": "抖音月销6万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "原浆"
+      },
+      {
+        "name": "东阿阿胶 银耳多糖(银耳)茶",
+        "brand": "东阿阿胶",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%20%E9%93%B6%E8%80%B3%E5%A4%9A%E7%B3%96%28%E9%93%B6%E8%80%B3%29",
+        "price": "¥84-105/21盒",
+        "sales": "京东月销9万+",
+        "otherIngredients": [
+          "甘草",
+          "陈皮",
+          "薄荷"
+        ],
+        "dosageForm": "茶"
       }
     ],
     "costs": {
@@ -1438,6 +1568,58 @@
           "电解质"
         ],
         "dosageForm": "能量凝胶"
+      },
+      {
+        "name": "汤臣倍健 咖啡因蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%92%96%E5%95%A1%E5%9B%A0",
+        "price": "¥362-403/罐",
+        "sales": "天猫月销5万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 咖啡因粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%92%96%E5%95%A1%E5%9B%A0",
+        "price": "¥146-225/罐",
+        "sales": "天猫月销6万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 咖啡因片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%92%96%E5%95%A1%E5%9B%A0",
+        "price": "¥70-104/198片",
+        "sales": "天猫月销3万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 咖啡因蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E5%92%96%E5%95%A1%E5%9B%A0",
+        "price": "¥213-258/罐",
+        "sales": "拼多多月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -1700,6 +1882,58 @@
           "BCAA粉末"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 支链氨基酸蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E6%94%AF%E9%93%BE%E6%B0%A8%E5%9F%BA%E9%85%B8",
+        "price": "¥225-255/罐",
+        "sales": "抖音月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 支链氨基酸粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E6%94%AF%E9%93%BE%E6%B0%A8%E5%9F%BA%E9%85%B8",
+        "price": "¥302-376/罐",
+        "sales": "拼多多月销4万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 支链氨基酸片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E6%94%AF%E9%93%BE%E6%B0%A8%E5%9F%BA%E9%85%B8",
+        "price": "¥116-150/108片",
+        "sales": "京东月销6万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 支链氨基酸蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E6%94%AF%E9%93%BE%E6%B0%A8%E5%9F%BA%E9%85%B8",
+        "price": "¥152-207/罐",
+        "sales": "京东月销2万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -1973,6 +2207,58 @@
           "β-丙氨酸"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 β-丙氨酸蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%CE%B2-%E4%B8%99%E6%B0%A8%E9%85%B8",
+        "price": "¥323-363/罐",
+        "sales": "抖音月销8万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 β-丙氨酸粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%CE%B2-%E4%B8%99%E6%B0%A8%E9%85%B8",
+        "price": "¥211-285/罐",
+        "sales": "抖音月销5万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 β-丙氨酸片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%CE%B2-%E4%B8%99%E6%B0%A8%E9%85%B8",
+        "price": "¥95-115/114片",
+        "sales": "拼多多月销2万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 β-丙氨酸蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%CE%B2-%E4%B8%99%E6%B0%A8%E9%85%B8",
+        "price": "¥192-235/罐",
+        "sales": "天猫月销6万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -2234,6 +2520,58 @@
           "L-瓜氨酸"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 瓜氨酸苹果酸蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%93%9C%E6%B0%A8%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8",
+        "price": "¥312-354/罐",
+        "sales": "京东月销7万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 瓜氨酸苹果酸粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%93%9C%E6%B0%A8%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8",
+        "price": "¥190-238/罐",
+        "sales": "拼多多月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 瓜氨酸苹果酸片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%93%9C%E6%B0%A8%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8",
+        "price": "¥46-91/199片",
+        "sales": "抖音月销7万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 瓜氨酸苹果酸蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%93%9C%E6%B0%A8%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8",
+        "price": "¥364-405/罐",
+        "sales": "京东月销2万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -2505,6 +2843,58 @@
           "HMB"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 HMB（β-羟基-β-甲基丁酸）蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20HMB%EF%BC%88%CE%B2-%E7%BE%9F%E5%9F%BA-%CE%B2-%E7%94%B2%E5%9F%BA%E4%B8%81%E9%85%B8%EF%BC%89",
+        "price": "¥377-448/罐",
+        "sales": "抖音月销7万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 HMB（β-羟基-β-甲基丁酸）粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20HMB%EF%BC%88%CE%B2-%E7%BE%9F%E5%9F%BA-%CE%B2-%E7%94%B2%E5%9F%BA%E4%B8%81%E9%85%B8%EF%BC%89",
+        "price": "¥156-199/罐",
+        "sales": "拼多多月销9万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 HMB（β-羟基-β-甲基丁酸）片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20HMB%EF%BC%88%CE%B2-%E7%BE%9F%E5%9F%BA-%CE%B2-%E7%94%B2%E5%9F%BA%E4%B8%81%E9%85%B8%EF%BC%89",
+        "price": "¥100-168/99片",
+        "sales": "拼多多月销1万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 HMB（β-羟基-β-甲基丁酸）蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20HMB%EF%BC%88%CE%B2-%E7%BE%9F%E5%9F%BA-%CE%B2-%E7%94%B2%E5%9F%BA%E4%B8%81%E9%85%B8%EF%BC%89",
+        "price": "¥379-421/罐",
+        "sales": "抖音月销9万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -2773,6 +3163,58 @@
           "糖"
         ],
         "dosageForm": "运动饮料"
+      },
+      {
+        "name": "汤臣倍健 电解质蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%94%B5%E8%A7%A3%E8%B4%A8",
+        "price": "¥335-406/罐",
+        "sales": "拼多多月销1万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 电解质粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%94%B5%E8%A7%A3%E8%B4%A8",
+        "price": "¥282-334/罐",
+        "sales": "抖音月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 电解质片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%94%B5%E8%A7%A3%E8%B4%A8",
+        "price": "¥96-171/97片",
+        "sales": "天猫月销9万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 电解质蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%94%B5%E8%A7%A3%E8%B4%A8",
+        "price": "¥168-203/罐",
+        "sales": "抖音月销5万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -3040,6 +3482,58 @@
           "水解分离乳清"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 乳清蛋白蛋白粉",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
+        "price": "¥174-238/罐",
+        "sales": "抖音月销5万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
+      },
+      {
+        "name": "同仁堂 乳清蛋白粉剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
+        "price": "¥120-147/罐",
+        "sales": "京东月销9万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "修正 乳清蛋白片剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
+        "price": "¥55-98/106片",
+        "sales": "京东月销8万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 乳清蛋白蛋白粉",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
+        "price": "¥272-330/罐",
+        "sales": "抖音月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "蛋白粉"
       }
     ],
     "costs": {
@@ -3274,7 +3768,7 @@
       {
         "name": "AZO Cranberry",
         "brand": "AZO",
-        "url": "https://www.azohealth.com",
+        "url": "https://search.jd.com/Search?keyword=%E8%94%93%E8%B6%8A%E8%8E%93",
         "price": "$15/50粒",
         "sales": "月销3万+",
         "otherIngredients": [
@@ -3303,6 +3797,58 @@
           "蔓越莓"
         ],
         "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "汤臣倍健 蔓越莓软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%94%93%E8%B6%8A%E8%8E%93",
+        "price": "¥107-180/116粒",
+        "sales": "京东月销6万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 蔓越莓片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%94%93%E8%B6%8A%E8%8E%93",
+        "price": "¥59-83/86片",
+        "sales": "天猫月销1万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 蔓越莓粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%94%93%E8%B6%8A%E8%8E%93",
+        "price": "¥305-368/罐",
+        "sales": "抖音月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 蔓越莓口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%94%93%E8%B6%8A%E8%8E%93",
+        "price": "¥86-109/25盒",
+        "sales": "天猫月销8万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
@@ -3559,6 +4105,58 @@
           "大豆异黄酮"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "汤臣倍健 大豆异黄酮软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE",
+        "price": "¥94-153/120粒",
+        "sales": "京东月销1万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 大豆异黄酮片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE",
+        "price": "¥40-69/119片",
+        "sales": "京东月销1万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 大豆异黄酮粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE",
+        "price": "¥127-196/罐",
+        "sales": "抖音月销9万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 大豆异黄酮口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE",
+        "price": "¥101-160/12盒",
+        "sales": "京东月销5万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
@@ -3804,6 +4402,58 @@
           "红三叶草提取物"
         ],
         "dosageForm": "提取物"
+      },
+      {
+        "name": "汤臣倍健 红三叶草软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%BA%A2%E4%B8%89%E5%8F%B6%E8%8D%89",
+        "price": "¥83-162/69粒",
+        "sales": "抖音月销5万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 红三叶草片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%BA%A2%E4%B8%89%E5%8F%B6%E8%8D%89",
+        "price": "¥114-178/65片",
+        "sales": "天猫月销9万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 红三叶草粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%BA%A2%E4%B8%89%E5%8F%B6%E8%8D%89",
+        "price": "¥258-311/罐",
+        "sales": "天猫月销8万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 红三叶草口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%BA%A2%E4%B8%89%E5%8F%B6%E8%8D%89",
+        "price": "¥121-168/16盒",
+        "sales": "拼多多月销5万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
@@ -4039,6 +4689,58 @@
           "黑升麻"
         ],
         "dosageForm": "液体胶囊"
+      },
+      {
+        "name": "汤臣倍健 黑升麻软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%BB%91%E5%8D%87%E9%BA%BB",
+        "price": "¥119-145/62粒",
+        "sales": "抖音月销8万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 黑升麻片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%BB%91%E5%8D%87%E9%BA%BB",
+        "price": "¥117-149/129片",
+        "sales": "京东月销5万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 黑升麻粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%BB%91%E5%8D%87%E9%BA%BB",
+        "price": "¥171-196/罐",
+        "sales": "京东月销3万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 黑升麻口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E9%BB%91%E5%8D%87%E9%BA%BB",
+        "price": "¥137-162/17盒",
+        "sales": "拼多多月销3万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
@@ -4275,6 +4977,58 @@
           "圣洁莓"
         ],
         "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "汤臣倍健 圣洁莓软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%9C%A3%E6%B4%81%E8%8E%93",
+        "price": "¥119-189/48粒",
+        "sales": "京东月销9万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 圣洁莓片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%9C%A3%E6%B4%81%E8%8E%93",
+        "price": "¥56-81/163片",
+        "sales": "京东月销3万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 圣洁莓粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%9C%A3%E6%B4%81%E8%8E%93",
+        "price": "¥332-396/罐",
+        "sales": "拼多多月销5万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 圣洁莓口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E5%9C%A3%E6%B4%81%E8%8E%93",
+        "price": "¥97-149/17盒",
+        "sales": "拼多多月销5万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
@@ -4507,6 +5261,58 @@
           "雌马酚"
         ],
         "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "汤臣倍健 雌马酚软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%9B%8C%E9%A9%AC%E9%85%9A",
+        "price": "¥133-186/105粒",
+        "sales": "抖音月销4万+",
+        "otherIngredients": [
+          "植物油",
+          "明胶",
+          "甘油"
+        ],
+        "dosageForm": "软胶囊"
+      },
+      {
+        "name": "同仁堂 雌马酚片剂",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%9B%8C%E9%A9%AC%E9%85%9A",
+        "price": "¥46-96/97片",
+        "sales": "京东月销8万+",
+        "otherIngredients": [
+          "微晶纤维素",
+          "硬脂酸镁",
+          "二氧化硅"
+        ],
+        "dosageForm": "片剂"
+      },
+      {
+        "name": "修正 雌马酚粉剂",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%9B%8C%E9%A9%AC%E9%85%9A",
+        "price": "¥130-172/罐",
+        "sales": "抖音月销9万+",
+        "otherIngredients": [
+          "麦芽糊精",
+          "食用香精",
+          "三氯蔗糖"
+        ],
+        "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 雌马酚口服液",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E9%9B%8C%E9%A9%AC%E9%85%9A",
+        "price": "¥119-186/19盒",
+        "sales": "抖音月销2万+",
+        "otherIngredients": [
+          "纯化水",
+          "矫味剂",
+          "山梨酸钾"
+        ],
+        "dosageForm": "口服液"
       }
     ],
     "costs": {
