@@ -282,6 +282,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 维生素D3",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
+      },
+      {
+        "name": "仁和 维生素D3",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
+      },
+      {
+        "name": "康恩贝 维生素D3",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
       }
     ],
     "costs": {
@@ -643,6 +670,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 锌",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "葡萄糖酸锌"
+      },
+      {
+        "name": "仁和 锌",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "葡萄糖酸锌"
+      },
+      {
+        "name": "康恩贝 锌",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "葡萄糖酸锌"
+      },
+      {
+        "name": "江中 锌",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "葡萄糖酸锌"
       }
     ],
     "costs": {
@@ -1007,6 +1070,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 紫锥菊",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%B4%AB%E9%94%A5%E8%8F%8A",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
+      },
+      {
+        "name": "康恩贝 紫锥菊",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%B4%AB%E9%94%A5%E8%8F%8A",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
+      },
+      {
+        "name": "江中 紫锥菊",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%B4%AB%E9%94%A5%E8%8F%8A",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
+      },
+      {
+        "name": "白云山 紫锥菊",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%B4%AB%E9%94%A5%E8%8F%8A",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
       }
     ],
     "costs": {
@@ -1345,6 +1444,42 @@
           "二氧化硅"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 黄芪提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
+      },
+      {
+        "name": "仁和 黄芪提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
+      },
+      {
+        "name": "修正 黄芪提取物",
+        "brand": "修正",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
+      },
+      {
+        "name": "康恩贝 黄芪提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
       }
     ],
     "costs": {
@@ -1693,6 +1828,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 蜂胶",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蜂胶乙醇提取物（标准化≥6%黄酮）"
+      },
+      {
+        "name": "仁和 蜂胶",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%9C%82%E8%83%B6",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蜂胶乙醇提取物（标准化≥6%黄酮）"
       }
     ],
     "costs": {
@@ -2047,6 +2200,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 牛初乳",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%89%9B%E5%88%9D%E4%B9%B3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
+      },
+      {
+        "name": "康恩贝 牛初乳",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%89%9B%E5%88%9D%E4%B9%B3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
+      },
+      {
+        "name": "江中 牛初乳",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%89%9B%E5%88%9D%E4%B9%B3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
+      },
+      {
+        "name": "白云山 牛初乳",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%89%9B%E5%88%9D%E4%B9%B3",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
       }
     ],
     "costs": {
@@ -2356,6 +2545,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 穿心莲提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
+      },
+      {
+        "name": "仁和 穿心莲提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
+      },
+      {
+        "name": "康恩贝 穿心莲提取物",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
+      },
+      {
+        "name": "江中 穿心莲提取物",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
       }
     ],
     "costs": {
@@ -2687,6 +2912,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 大蒜提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
+      },
+      {
+        "name": "仁和 大蒜提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
+      },
+      {
+        "name": "康恩贝 大蒜提取物",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
+      },
+      {
+        "name": "江中 大蒜提取物",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
       }
     ],
     "costs": {
@@ -3022,6 +3283,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 灵芝提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
+      },
+      {
+        "name": "仁和 灵芝提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
+      },
+      {
+        "name": "康恩贝 灵芝提取物",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
+      },
+      {
+        "name": "江中 灵芝提取物",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
       }
     ],
     "costs": {
@@ -3357,6 +3654,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 谷胱甘肽",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "还原型谷胱甘肽(GSH)"
+      },
+      {
+        "name": "仁和 谷胱甘肽",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "还原型谷胱甘肽(GSH)"
+      },
+      {
+        "name": "康恩贝 谷胱甘肽",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "还原型谷胱甘肽(GSH)"
       }
     ],
     "costs": {
@@ -3712,6 +4036,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 姜黄素",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E5%A7%9C%E9%BB%84%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "姜黄素95%（标准粉末）"
+      },
+      {
+        "name": "康恩贝 姜黄素",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A7%9C%E9%BB%84%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "姜黄素95%（标准粉末）"
+      },
+      {
+        "name": "江中 姜黄素",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E5%A7%9C%E9%BB%84%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "姜黄素95%（标准粉末）"
+      },
+      {
+        "name": "白云山 姜黄素",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A7%9C%E9%BB%84%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "姜黄素95%（标准粉末）"
       }
     ],
     "costs": {
@@ -4067,6 +4427,33 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 硒",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%A1%92",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-硒代蛋氨酸（有机硒）"
+      },
+      {
+        "name": "康恩贝 硒",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A1%92",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-硒代蛋氨酸（有机硒）"
+      },
+      {
+        "name": "江中 硒",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%A1%92",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-硒代蛋氨酸（有机硒）"
       }
     ],
     "costs": {
@@ -4398,6 +4785,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 NAD+（烟酰胺腺嘌呤二核苷酸）",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
+      },
+      {
+        "name": "仁和 NAD+（烟酰胺腺嘌呤二核苷酸）",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
+      },
+      {
+        "name": "康恩贝 NAD+（烟酰胺腺嘌呤二核苷酸）",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
+      },
+      {
+        "name": "江中 NAD+（烟酰胺腺嘌呤二核苷酸）",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
       }
     ],
     "costs": {
@@ -4693,6 +5116,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 碧萝芷（法国海岸松树皮提取物）",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
+      },
+      {
+        "name": "康恩贝 碧萝芷（法国海岸松树皮提取物）",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
+      },
+      {
+        "name": "江中 碧萝芷（法国海岸松树皮提取物）",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
+      },
+      {
+        "name": "白云山 碧萝芷（法国海岸松树皮提取物）",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
       }
     ],
     "costs": {
@@ -5013,6 +5472,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 迷迭香提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
+      },
+      {
+        "name": "康恩贝 迷迭香提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
+      },
+      {
+        "name": "江中 迷迭香提取物",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
+      },
+      {
+        "name": "白云山 迷迭香提取物",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
       }
     ],
     "costs": {
@@ -5350,6 +5845,33 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 绿茶提取物（EGCG）",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
+      },
+      {
+        "name": "康恩贝 绿茶提取物（EGCG）",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
+      },
+      {
+        "name": "江中 绿茶提取物（EGCG）",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
       }
     ],
     "costs": {
@@ -5692,6 +6214,33 @@
           "二氧化硅"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 左旋肉碱",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "左旋肉碱酒石酸盐"
+      },
+      {
+        "name": "仁和 左旋肉碱",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "左旋肉碱酒石酸盐"
+      },
+      {
+        "name": "康恩贝 左旋肉碱",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "左旋肉碱酒石酸盐"
       }
     ],
     "costs": {
@@ -6042,6 +6591,33 @@
           "二氧化硅"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 共轭亚油酸",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "CLA甘油三酯型"
+      },
+      {
+        "name": "仁和 共轭亚油酸",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "CLA甘油三酯型"
+      },
+      {
+        "name": "康恩贝 共轭亚油酸",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "CLA甘油三酯型"
       }
     ],
     "costs": {
@@ -6386,6 +6962,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 白芸豆提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "Phaseolamin标准提取物"
+      },
+      {
+        "name": "康恩贝 白芸豆提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "Phaseolamin标准提取物"
       }
     ],
     "costs": {
@@ -6732,6 +7326,33 @@
           "二氧化硅"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "养生堂 魔芋葡甘聚糖",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
+      },
+      {
+        "name": "仁和 魔芋葡甘聚糖",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
+      },
+      {
+        "name": "康恩贝 魔芋葡甘聚糖",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
       }
     ],
     "costs": {
@@ -7075,6 +7696,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 绿咖啡豆提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化绿原酸提取物"
+      },
+      {
+        "name": "康恩贝 绿咖啡豆提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化绿原酸提取物"
       }
     ],
     "costs": {
@@ -7441,6 +8080,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 藤黄果提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "HCA钙盐"
+      },
+      {
+        "name": "康恩贝 藤黄果提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "HCA钙盐"
       }
     ],
     "costs": {
@@ -7804,6 +8461,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 辣椒素",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%BE%A3%E6%A4%92%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "辣椒提取物(标准化辣椒素)"
+      },
+      {
+        "name": "康恩贝 辣椒素",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%BE%A3%E6%A4%92%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "辣椒提取物(标准化辣椒素)"
       }
     ],
     "costs": {
@@ -8146,6 +8821,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 非洲芒果提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化种子提取物(IGOB131)"
+      },
+      {
+        "name": "康恩贝 非洲芒果提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化种子提取物(IGOB131)"
+      },
+      {
+        "name": "江中 非洲芒果提取物",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化种子提取物(IGOB131)"
       }
     ],
     "costs": {
@@ -8512,6 +9214,15 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 褐藻提取物(岩藻黄素)",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%A4%90%E8%97%BB%E6%8F%90%E5%8F%96%E7%89%A9%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "褐藻提取物(标准化岩藻黄素)"
       }
     ],
     "costs": {
@@ -8867,6 +9578,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "仁和 瓜尔胶纤维",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "部分水解瓜尔胶(PHGG)"
+      },
+      {
+        "name": "康恩贝 瓜尔胶纤维",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "部分水解瓜尔胶(PHGG)"
+      },
+      {
+        "name": "江中 瓜尔胶纤维",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "部分水解瓜尔胶(PHGG)"
       }
     ],
     "costs": {
@@ -9236,6 +9974,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 硫胺素(维生素B1)",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "盐酸硫胺素"
+      },
+      {
+        "name": "仁和 硫胺素(维生素B1)",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "盐酸硫胺素"
       }
     ],
     "costs": {
@@ -9582,6 +10338,24 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 蒲公英提取物",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蒲公英根提取物"
+      },
+      {
+        "name": "康恩贝 蒲公英提取物",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蒲公英根提取物"
       }
     ],
     "costs": {
@@ -9937,6 +10711,24 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 芝麻素",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化芝麻素提取物"
+      },
+      {
+        "name": "康恩贝 芝麻素",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "标准化芝麻素提取物"
       }
     ],
     "costs": {
@@ -10257,6 +11049,42 @@
           "甘油"
         ],
         "dosageForm": "软胶囊"
+      },
+      {
+        "name": "养生堂 苦参碱",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E8%8B%A6%E5%8F%82%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "苦参总碱提取物"
+      },
+      {
+        "name": "同仁堂 苦参碱",
+        "brand": "同仁堂",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%8B%A6%E5%8F%82%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "苦参总碱提取物"
+      },
+      {
+        "name": "仁和 苦参碱",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%8B%A6%E5%8F%82%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "苦参总碱提取物"
+      },
+      {
+        "name": "修正 苦参碱",
+        "brand": "修正",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%8B%A6%E5%8F%82%E7%A2%B1",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "苦参总碱提取物"
       }
     ],
     "costs": {
@@ -10611,6 +11439,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 甘草酸",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E7%94%98%E8%8D%89%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "甘草酸单铵盐"
+      },
+      {
+        "name": "仁和 甘草酸",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E7%94%98%E8%8D%89%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "甘草酸单铵盐"
+      },
+      {
+        "name": "康恩贝 甘草酸",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E7%94%98%E8%8D%89%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "甘草酸单铵盐"
       }
     ],
     "costs": {
@@ -10961,6 +11816,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 嗜酸乳杆菌",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
+      },
+      {
+        "name": "仁和 嗜酸乳杆菌",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
+      },
+      {
+        "name": "康恩贝 嗜酸乳杆菌",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
       }
     ],
     "costs": {
@@ -11314,6 +12196,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 布拉氏酵母菌",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
+      },
+      {
+        "name": "仁和 布拉氏酵母菌",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
+      },
+      {
+        "name": "康恩贝 布拉氏酵母菌",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
+      },
+      {
+        "name": "江中 布拉氏酵母菌",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "冻干菌粉"
       }
     ],
     "costs": {
@@ -11668,6 +12586,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 低聚果糖(FOS)",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蔗果型低聚果糖"
+      },
+      {
+        "name": "仁和 低聚果糖(FOS)",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蔗果型低聚果糖"
+      },
+      {
+        "name": "康恩贝 低聚果糖(FOS)",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "蔗果型低聚果糖"
       }
     ],
     "costs": {
@@ -12020,6 +12965,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 低聚半乳糖(GOS)",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "GOS糖浆"
+      },
+      {
+        "name": "仁和 低聚半乳糖(GOS)",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "GOS糖浆"
       }
     ],
     "costs": {
@@ -12381,6 +13344,24 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 菊粉",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%8F%8A%E7%B2%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "菊苣菊粉(标准型)"
+      },
+      {
+        "name": "康恩贝 菊粉",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%8F%8A%E7%B2%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "菊苣菊粉(标准型)"
       }
     ],
     "costs": {
@@ -12730,6 +13711,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 抗性糊精",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "玉米来源抗性糊精"
+      },
+      {
+        "name": "仁和 抗性糊精",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "玉米来源抗性糊精"
       }
     ],
     "costs": {
@@ -13074,6 +14073,24 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 聚葡萄糖",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "聚葡萄糖粉末"
+      },
+      {
+        "name": "康恩贝 聚葡萄糖",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "聚葡萄糖粉末"
       }
     ],
     "costs": {
@@ -13423,6 +14440,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 壳寡糖",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%A3%B3%E5%AF%A1%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "壳寡糖粉末"
+      },
+      {
+        "name": "仁和 壳寡糖",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A3%B3%E5%AF%A1%E7%B3%96",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "壳寡糖粉末"
       }
     ],
     "costs": {
@@ -13781,6 +14816,33 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 L-谷氨酰胺",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-谷氨酰胺(游离型)"
+      },
+      {
+        "name": "康恩贝 L-谷氨酰胺",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-谷氨酰胺(游离型)"
+      },
+      {
+        "name": "江中 L-谷氨酰胺",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "L-谷氨酰胺(游离型)"
       }
     ],
     "costs": {
@@ -14143,6 +15205,24 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 洋车前子壳粉",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "洋车前子壳粉"
+      },
+      {
+        "name": "康恩贝 洋车前子壳粉",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "洋车前子壳粉"
       }
     ],
     "costs": {
@@ -14510,6 +15590,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 叶酸",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "合成叶酸"
+      },
+      {
+        "name": "仁和 叶酸",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%8F%B6%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "合成叶酸"
+      },
+      {
+        "name": "康恩贝 叶酸",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "合成叶酸"
+      },
+      {
+        "name": "江中 叶酸",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%8F%B6%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "合成叶酸"
       }
     ],
     "costs": {
@@ -14855,6 +15971,33 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 大蒜素",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（蒜氨酸标准化）"
+      },
+      {
+        "name": "康恩贝 大蒜素",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（蒜氨酸标准化）"
+      },
+      {
+        "name": "江中 大蒜素",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E7%B4%A0",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "大蒜粉（蒜氨酸标准化）"
       }
     ],
     "costs": {
@@ -15209,6 +16352,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 丹参提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "丹参水提物"
+      },
+      {
+        "name": "仁和 丹参提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "丹参水提物"
+      },
+      {
+        "name": "康恩贝 丹参提取物",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "丹参水提物"
       }
     ],
     "costs": {
@@ -15564,6 +16734,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 山楂提取物",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "山楂叶提取物"
+      },
+      {
+        "name": "仁和 山楂提取物",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "山楂叶提取物"
+      },
+      {
+        "name": "康恩贝 山楂提取物",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "山楂叶提取物"
+      },
+      {
+        "name": "江中 山楂提取物",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "山楂叶提取物"
       }
     ],
     "costs": {
@@ -15951,6 +17157,42 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 镁",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%81",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氧化镁"
+      },
+      {
+        "name": "康恩贝 镁",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%95%81",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氧化镁"
+      },
+      {
+        "name": "江中 镁",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%81",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氧化镁"
+      },
+      {
+        "name": "白云山 镁",
+        "brand": "白云山",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%95%81",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氧化镁"
       }
     ],
     "costs": {
@@ -16346,6 +17588,33 @@
           "山梨酸钾"
         ],
         "dosageForm": "口服液"
+      },
+      {
+        "name": "仁和 钾",
+        "brand": "仁和",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%BE",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氯化钾"
+      },
+      {
+        "name": "康恩贝 钾",
+        "brand": "康恩贝",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%BE",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氯化钾"
+      },
+      {
+        "name": "江中 钾",
+        "brand": "江中",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%BE",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "氯化钾"
       }
     ],
     "costs": {
@@ -16707,6 +17976,42 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 钙(碳酸钙)",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "重质碳酸钙"
+      },
+      {
+        "name": "仁和 钙(碳酸钙)",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "重质碳酸钙"
+      },
+      {
+        "name": "康恩贝 钙(碳酸钙)",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "重质碳酸钙"
+      },
+      {
+        "name": "江中 钙(碳酸钙)",
+        "brand": "江中",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "重质碳酸钙"
       }
     ],
     "costs": {
@@ -17065,6 +18370,33 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 透明质酸",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "微生物发酵透明质酸"
+      },
+      {
+        "name": "仁和 透明质酸",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "微生物发酵透明质酸"
+      },
+      {
+        "name": "康恩贝 透明质酸",
+        "brand": "康恩贝",
+        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "微生物发酵透明质酸"
       }
     ],
     "costs": {
@@ -17390,6 +18722,24 @@
           "三氯蔗糖"
         ],
         "dosageForm": "粉剂"
+      },
+      {
+        "name": "养生堂 锶(雷奈酸锶)",
+        "brand": "养生堂",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "雷奈酸锶"
+      },
+      {
+        "name": "仁和 锶(雷奈酸锶)",
+        "brand": "仁和",
+        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "雷奈酸锶"
       }
     ],
     "costs": {
