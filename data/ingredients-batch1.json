@@ -218,97 +218,6 @@
           "甘油"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "NOW Foods Vitamin D3 5000 IU",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "$8-12/240粒",
-        "sales": "iHerb月销2万+",
-        "otherIngredients": [
-          "特级初榨橄榄油",
-          "软胶囊（牛明胶、甘油、水）"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "星鲨维生素D滴剂",
-        "brand": "星鲨制药",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "¥29-39/36粒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊滴剂"
-      },
-      {
-        "name": "汤臣倍健 维生素D3软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "¥120-170/79粒",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 维生素D3片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "¥52-115/139片",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 维生素D3粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "¥291-336/罐",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 维生素D3",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
-      },
-      {
-        "name": "仁和 维生素D3",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
-      },
-      {
-        "name": "康恩贝 维生素D3",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "胆钙化醇（D3，羊毛脂来源）"
       }
     ],
     "costs": {
@@ -631,81 +540,6 @@
           "柠檬酸"
         ],
         "dosageForm": "口服液"
-      },
-      {
-        "name": "汤臣倍健 锌软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%94%8C",
-        "price": "¥150-180/50粒",
-        "sales": "京东月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 锌片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%94%8C",
-        "price": "¥47-118/65片",
-        "sales": "京东月销7万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 锌粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%94%8C",
-        "price": "¥340-384/罐",
-        "sales": "拼多多月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 锌",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%94%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "葡萄糖酸锌"
-      },
-      {
-        "name": "仁和 锌",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "葡萄糖酸锌"
-      },
-      {
-        "name": "康恩贝 锌",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E9%94%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "葡萄糖酸锌"
-      },
-      {
-        "name": "江中 锌",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "葡萄糖酸锌"
       }
     ],
     "costs": {
@@ -1018,94 +852,6 @@
           "纤维素"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 紫锥菊软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "¥89-151/77粒",
-        "sales": "京东月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 紫锥菊片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "¥106-183/169片",
-        "sales": "京东月销2万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 紫锥菊粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "¥145-199/罐",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 紫锥菊口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "¥60-81/22盒",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 紫锥菊",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
-      },
-      {
-        "name": "康恩贝 紫锥菊",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
-      },
-      {
-        "name": "江中 紫锥菊",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
-      },
-      {
-        "name": "白云山 紫锥菊",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%B4%AB%E9%94%A5%E8%8F%8A",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "紫锥菊干燥提取物（标准化4%多酚）"
       }
     ],
     "costs": {
@@ -1405,81 +1151,6 @@
           "甜菊糖苷"
         ],
         "dosageForm": "颗粒冲剂"
-      },
-      {
-        "name": "偏桥黄芪精口服液",
-        "brand": "偏桥药业",
-        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "¥48-68/10支",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "黄芪提取物",
-          "纯净水",
-          "蜂蜜"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "汤臣倍健 黄芪软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%BB%84%E8%8A%AA",
-        "price": "¥97-149/54粒",
-        "sales": "抖音月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 黄芪片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%BB%84%E8%8A%AA",
-        "price": "¥105-130/165片",
-        "sales": "抖音月销2万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 黄芪提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
-      },
-      {
-        "name": "仁和 黄芪提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
-      },
-      {
-        "name": "修正 黄芪提取物",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
-      },
-      {
-        "name": "康恩贝 黄芪提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%BB%84%E8%8A%AA%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "黄芪标准化提取物（5:1浓缩）"
       }
     ],
     "costs": {
@@ -1751,19 +1422,6 @@
     },
     "productCases": [
       {
-        "name": "Propolis 2000mg (高浓度)",
-        "brand": "Healthy Care",
-        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6",
-        "price": "AU$15-22/200粒",
-        "sales": "澳洲药房月销5万+",
-        "otherIngredients": [
-          "蜂胶提取物（相当于2000mg蜂胶）",
-          "明胶胶囊",
-          "大豆油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
         "name": "Comvita Propolis Oral Spray",
         "brand": "Comvita（康维他）",
         "url": "https://www.comvita.com",
@@ -1776,76 +1434,6 @@
           "乙醇"
         ],
         "dosageForm": "口腔喷雾"
-      },
-      {
-        "name": "巴西绿蜂胶滴剂（Minas Green）",
-        "brand": "Minas Propolis",
-        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6",
-        "price": "¥100-150/30ml",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "巴西绿蜂胶提取物",
-          "食品级乙醇",
-          "纯净水"
-        ],
-        "dosageForm": "滴剂"
-      },
-      {
-        "name": "汤臣倍健 蜂胶软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%9C%82%E8%83%B6",
-        "price": "¥103-177/119粒",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 蜂胶片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%9C%82%E8%83%B6",
-        "price": "¥91-116/76片",
-        "sales": "拼多多月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 蜂胶粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%9C%82%E8%83%B6",
-        "price": "¥314-379/罐",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 蜂胶",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蜂胶乙醇提取物（标准化≥6%黄酮）"
-      },
-      {
-        "name": "仁和 蜂胶",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%9C%82%E8%83%B6",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蜂胶乙醇提取物（标准化≥6%黄酮）"
       }
     ],
     "costs": {
@@ -2148,94 +1736,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "咀嚼片"
-      },
-      {
-        "name": "汤臣倍健 牛初乳软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "¥85-162/34粒",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 牛初乳片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "¥111-184/143片",
-        "sales": "抖音月销5万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 牛初乳粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "¥166-220/罐",
-        "sales": "拼多多月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 牛初乳口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "¥73-134/11盒",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 牛初乳",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
-      },
-      {
-        "name": "康恩贝 牛初乳",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
-      },
-      {
-        "name": "江中 牛初乳",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
-      },
-      {
-        "name": "白云山 牛初乳",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%89%9B%E5%88%9D%E4%B9%B3",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "牛初乳粉（标准化IgG≥20%）"
       }
     ],
     "costs": {
@@ -2493,94 +1993,6 @@
           "米粉"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "穿心莲内酯软胶囊（消炎利胆片成分）",
-        "brand": "国内多品牌",
-        "url": "https://search.jd.com/Search?keyword=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "¥15-30/24粒",
-        "sales": "国内药店OTC常备",
-        "otherIngredients": [
-          "穿心莲内酯",
-          "植物油",
-          "明胶"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 穿心莲软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%A9%BF%E5%BF%83%E8%8E%B2",
-        "price": "¥149-182/96粒",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 穿心莲片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%A9%BF%E5%BF%83%E8%8E%B2",
-        "price": "¥75-101/132片",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 穿心莲粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%A9%BF%E5%BF%83%E8%8E%B2",
-        "price": "¥201-245/罐",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 穿心莲提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
-      },
-      {
-        "name": "仁和 穿心莲提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
-      },
-      {
-        "name": "康恩贝 穿心莲提取物",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
-      },
-      {
-        "name": "江中 穿心莲提取物",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A9%BF%E5%BF%83%E8%8E%B2%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "穿心莲标准化提取物（≥10%穿心莲内酯）"
       }
     ],
     "costs": {
@@ -2873,81 +2285,6 @@
           "纯化水"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 大蒜软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%A4%A7%E8%92%9C",
-        "price": "¥105-129/107粒",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 大蒜片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A4%A7%E8%92%9C",
-        "price": "¥42-85/134片",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 大蒜粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%A4%A7%E8%92%9C",
-        "price": "¥137-213/罐",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 大蒜提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
-      },
-      {
-        "name": "仁和 大蒜提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
-      },
-      {
-        "name": "康恩贝 大蒜提取物",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
-      },
-      {
-        "name": "江中 大蒜提取物",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（标准化1.3%蒜氨酸）"
       }
     ],
     "costs": {
@@ -3244,81 +2581,6 @@
           "植物纤维素胶囊"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 灵芝软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%81%B5%E8%8A%9D",
-        "price": "¥128-173/64粒",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 灵芝片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%81%B5%E8%8A%9D",
-        "price": "¥99-132/127片",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 灵芝粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%81%B5%E8%8A%9D",
-        "price": "¥254-307/罐",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 灵芝提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
-      },
-      {
-        "name": "仁和 灵芝提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
-      },
-      {
-        "name": "康恩贝 灵芝提取物",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
-      },
-      {
-        "name": "江中 灵芝提取物",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%81%B5%E8%8A%9D%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "灵芝子实体水提取物（标准化多糖≥10%+三萜≥4%）"
       }
     ],
     "costs": {
@@ -3576,20 +2838,6 @@
     },
     "productCases": [
       {
-        "name": "Setria® Glutathione 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "$18-24/60粒",
-        "sales": "iHerb月销5000+",
-        "otherIngredients": [
-          "Setria® L-谷胱甘肽（还原型）",
-          "羟丙甲纤维素胶囊",
-          "米粉",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Liposomal Glutathione",
         "brand": "Quicksilver Scientific",
         "url": "https://www.quicksilverscientific.com",
@@ -3615,72 +2863,6 @@
           "注射用水"
         ],
         "dosageForm": "冻干粉针（注射）"
-      },
-      {
-        "name": "汤臣倍健 谷胱甘肽软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "¥135-174/89粒",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 谷胱甘肽片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "¥59-113/184片",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 谷胱甘肽粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "¥166-242/罐",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 谷胱甘肽",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "还原型谷胱甘肽(GSH)"
-      },
-      {
-        "name": "仁和 谷胱甘肽",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "还原型谷胱甘肽(GSH)"
-      },
-      {
-        "name": "康恩贝 谷胱甘肽",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E8%B0%B7%E8%83%B1%E7%94%98%E8%82%BD",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "还原型谷胱甘肽(GSH)"
       }
     ],
     "costs": {
@@ -3984,94 +3166,6 @@
           "明胶胶囊"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 姜黄素软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "¥72-103/47粒",
-        "sales": "天猫月销8万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 姜黄素片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "¥73-106/162片",
-        "sales": "京东月销4万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 姜黄素粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "¥302-351/罐",
-        "sales": "抖音月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 姜黄素口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "¥89-114/23盒",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 姜黄素",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "姜黄素95%（标准粉末）"
-      },
-      {
-        "name": "康恩贝 姜黄素",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "姜黄素95%（标准粉末）"
-      },
-      {
-        "name": "江中 姜黄素",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "姜黄素95%（标准粉末）"
-      },
-      {
-        "name": "白云山 姜黄素",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A7%9C%E9%BB%84%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "姜黄素95%（标准粉末）"
       }
     ],
     "costs": {
@@ -4335,20 +3429,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Selenium 200mcg (L-Selenomethionine)",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%92",
-        "price": "$6-10/180粒",
-        "sales": "iHerb月销1万+",
-        "otherIngredients": [
-          "L-硒代蛋氨酸（酵母来源）200μg",
-          "米糠",
-          "明胶胶囊",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Life Extension Super Selenium Complex 200mcg",
         "brand": "Life Extension",
         "url": "https://www.lifeextension.com",
@@ -4375,85 +3455,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 硒软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%A1%92",
-        "price": "¥99-129/32粒",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 硒片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%A1%92",
-        "price": "¥107-132/188片",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 硒粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%A1%92",
-        "price": "¥199-248/罐",
-        "sales": "抖音月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 硒口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%A1%92",
-        "price": "¥143-211/21盒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 硒",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%92",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-硒代蛋氨酸（有机硒）"
-      },
-      {
-        "name": "康恩贝 硒",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A1%92",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-硒代蛋氨酸（有机硒）"
-      },
-      {
-        "name": "江中 硒",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%92",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-硒代蛋氨酸（有机硒）"
       }
     ],
     "costs": {
@@ -4746,81 +3747,6 @@
           "蔬菜纤维素胶囊"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 NAD+（烟酰胺腺嘌呤二核苷酸）软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "¥112-188/46粒",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 NAD+（烟酰胺腺嘌呤二核苷酸）片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "¥42-92/151片",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 NAD+（烟酰胺腺嘌呤二核苷酸）粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "¥353-394/罐",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 NAD+（烟酰胺腺嘌呤二核苷酸）",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
-      },
-      {
-        "name": "仁和 NAD+（烟酰胺腺嘌呤二核苷酸）",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
-      },
-      {
-        "name": "康恩贝 NAD+（烟酰胺腺嘌呤二核苷酸）",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
-      },
-      {
-        "name": "江中 NAD+（烟酰胺腺嘌呤二核苷酸）",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=NAD%2B%EF%BC%88%E7%83%9F%E9%85%B0%E8%83%BA%E8%85%BA%E5%98%8C%E5%91%A4%E4%BA%8C%E6%A0%B8%E8%8B%B7%E9%85%B8%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "烟酰胺核苷(NR, Niagen®)"
       }
     ],
     "costs": {
@@ -5064,94 +3990,6 @@
           "明胶胶囊"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 碧萝芷（法国海岸松树皮）软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%EF%BC%89",
-        "price": "¥142-187/66粒",
-        "sales": "拼多多月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 碧萝芷（法国海岸松树皮）片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%EF%BC%89",
-        "price": "¥40-61/152片",
-        "sales": "天猫月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 碧萝芷（法国海岸松树皮）粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%EF%BC%89",
-        "price": "¥330-377/罐",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 碧萝芷（法国海岸松树皮）口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%EF%BC%89",
-        "price": "¥87-151/30盒",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 碧萝芷（法国海岸松树皮提取物）",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
-      },
-      {
-        "name": "康恩贝 碧萝芷（法国海岸松树皮提取物）",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
-      },
-      {
-        "name": "江中 碧萝芷（法国海岸松树皮提取物）",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
-      },
-      {
-        "name": "白云山 碧萝芷（法国海岸松树皮提取物）",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A2%A7%E8%90%9D%E8%8A%B7%EF%BC%88%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%B2%B8%E6%9D%BE%E6%A0%91%E7%9A%AE%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "碧萝芷®标准提取物（OPC 65-75%）"
       }
     ],
     "costs": {
@@ -5420,94 +4258,6 @@
           "胶囊壳"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 迷迭香软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%BF%B7%E8%BF%AD%E9%A6%99",
-        "price": "¥94-164/82粒",
-        "sales": "抖音月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 迷迭香片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%BF%B7%E8%BF%AD%E9%A6%99",
-        "price": "¥95-161/119片",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 迷迭香粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%BF%B7%E8%BF%AD%E9%A6%99",
-        "price": "¥149-196/罐",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 迷迭香口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%BF%B7%E8%BF%AD%E9%A6%99",
-        "price": "¥64-126/27盒",
-        "sales": "京东月销2万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 迷迭香提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
-      },
-      {
-        "name": "康恩贝 迷迭香提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
-      },
-      {
-        "name": "江中 迷迭香提取物",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
-      },
-      {
-        "name": "白云山 迷迭香提取物",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%BF%B7%E8%BF%AD%E9%A6%99%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "迷迭香标准化提取物（鼠尾草酸≥6%）"
       }
     ],
     "costs": {
@@ -5754,20 +4504,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods EGCg Green Tea Extract 400mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
-        "price": "$10-14/90粒",
-        "sales": "iHerb月销2万+",
-        "otherIngredients": [
-          "绿茶提取物（标准化≥80%儿茶素，≥50%EGCG）400mg",
-          "脱咖啡因（咖啡因≤4mg/粒）",
-          "纤维素胶囊",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Life Extension Mega Green Tea Extract (无咖啡因)",
         "brand": "Life Extension",
         "url": "https://www.lifeextension.com",
@@ -5793,85 +4529,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 绿茶（EGCG）软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%BB%BF%E8%8C%B6%EF%BC%88EGCG%EF%BC%89",
-        "price": "¥134-187/50粒",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 绿茶（EGCG）片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%BB%BF%E8%8C%B6%EF%BC%88EGCG%EF%BC%89",
-        "price": "¥102-174/130片",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 绿茶（EGCG）粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%BB%BF%E8%8C%B6%EF%BC%88EGCG%EF%BC%89",
-        "price": "¥207-266/罐",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 绿茶（EGCG）口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%BB%BF%E8%8C%B6%EF%BC%88EGCG%EF%BC%89",
-        "price": "¥150-183/17盒",
-        "sales": "拼多多月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 绿茶提取物（EGCG）",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
-      },
-      {
-        "name": "康恩贝 绿茶提取物（EGCG）",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
-      },
-      {
-        "name": "江中 绿茶提取物（EGCG）",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E8%8C%B6%E6%8F%90%E5%8F%96%E7%89%A9%EF%BC%88EGCG%EF%BC%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "绿茶标准化提取物（总儿茶素≥80%，EGCG≥45-50%）"
       }
     ],
     "costs": {
@@ -6139,18 +4796,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods L-Carnitine 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "$14/60粒",
-        "sales": "Amazon月销3万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "MuscleTech Platinum Carnitine 1500",
         "brand": "MuscleTech",
         "url": "https://www.muscletech.com",
@@ -6162,85 +4807,6 @@
           "甘油"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "康比特 左旋肉碱口服液",
-        "brand": "康比特",
-        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "¥99/10支",
-        "sales": "天猫月销5000+",
-        "otherIngredients": [
-          "纯净水",
-          "柠檬酸",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "汤臣倍健 左旋肉碱粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "¥199-250/罐",
-        "sales": "抖音月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 左旋肉碱胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "¥88-146/102粒",
-        "sales": "抖音月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 左旋肉碱片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "¥71-101/117片",
-        "sales": "抖音月销4万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 左旋肉碱",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "左旋肉碱酒石酸盐"
-      },
-      {
-        "name": "仁和 左旋肉碱",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "左旋肉碱酒石酸盐"
-      },
-      {
-        "name": "康恩贝 左旋肉碱",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "左旋肉碱酒石酸盐"
       }
     ],
     "costs": {
@@ -6516,19 +5082,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods CLA 800mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "$17/180粒",
-        "sales": "Amazon月销2万+",
-        "otherIngredients": [
-          "明胶",
-          "甘油",
-          "水"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
         "name": "MuscleTech Platinum CLA",
         "brand": "MuscleTech",
         "url": "https://www.muscletech.com",
@@ -6552,72 +5105,6 @@
           "纯净水"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 共轭亚油酸粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "¥268-310/罐",
-        "sales": "抖音月销7万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 共轭亚油酸胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "¥148-178/99粒",
-        "sales": "京东月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 共轭亚油酸片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "¥58-84/180片",
-        "sales": "京东月销5万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 共轭亚油酸",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "CLA甘油三酯型"
-      },
-      {
-        "name": "仁和 共轭亚油酸",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "CLA甘油三酯型"
-      },
-      {
-        "name": "康恩贝 共轭亚油酸",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%B1%E8%BD%AD%E4%BA%9A%E6%B2%B9%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "CLA甘油三酯型"
       }
     ],
     "costs": {
@@ -6876,18 +5363,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Phase 2 Carb Controller",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$22/120粒",
-        "sales": "Amazon月销1.8万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Natrol Carb Intercept",
         "brand": "Natrol",
         "url": "https://www.natrol.com",
@@ -6898,88 +5373,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "Swanson White Kidney Bean Extract",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$13/60粒",
-        "sales": "Amazon月销6000+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 白芸豆粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%99%BD%E8%8A%B8%E8%B1%86",
-        "price": "¥150-220/罐",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 白芸豆胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%99%BD%E8%8A%B8%E8%B1%86",
-        "price": "¥122-168/75粒",
-        "sales": "抖音月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 白芸豆片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%99%BD%E8%8A%B8%E8%B1%86",
-        "price": "¥74-129/97片",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 白芸豆粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%99%BD%E8%8A%B8%E8%B1%86",
-        "price": "¥152-206/罐",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 白芸豆提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "Phaseolamin标准提取物"
-      },
-      {
-        "name": "康恩贝 白芸豆提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%99%BD%E8%8A%B8%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "Phaseolamin标准提取物"
       }
     ],
     "costs": {
@@ -7252,18 +5645,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Glucomannan 575mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "$16/180粒",
-        "sales": "Amazon月销1.5万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Nature's Way Glucomannan",
         "brand": "Nature's Way",
         "url": "https://www.naturesway.com",
@@ -7287,72 +5668,6 @@
           "苹果味香精"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "汤臣倍健 魔芋葡甘聚糖粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "¥304-367/罐",
-        "sales": "京东月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 魔芋葡甘聚糖胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "¥112-185/33粒",
-        "sales": "抖音月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 魔芋葡甘聚糖片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "¥66-136/120片",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 魔芋葡甘聚糖",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
-      },
-      {
-        "name": "仁和 魔芋葡甘聚糖",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
-      },
-      {
-        "name": "康恩贝 魔芋葡甘聚糖",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E9%AD%94%E8%8A%8B%E8%91%A1%E7%94%98%E8%81%9A%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "魔芋粉(纯化葡甘聚糖)"
       }
     ],
     "costs": {
@@ -7610,18 +5925,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Green Coffee Bean Extract",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$18/60粒",
-        "sales": "Amazon月销1万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Naturewise Green Coffee Bean Extract",
         "brand": "Naturewise",
         "url": "https://www.naturewise.com",
@@ -7632,88 +5935,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "Swanson Green Coffee Bean",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$16/60粒",
-        "sales": "Amazon月销5000+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 绿咖啡豆粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86",
-        "price": "¥230-264/罐",
-        "sales": "抖音月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 绿咖啡豆胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86",
-        "price": "¥60-105/34粒",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 绿咖啡豆片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86",
-        "price": "¥50-86/94片",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 绿咖啡豆粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86",
-        "price": "¥266-343/罐",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 绿咖啡豆提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化绿原酸提取物"
-      },
-      {
-        "name": "康恩贝 绿咖啡豆提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%BB%BF%E5%92%96%E5%95%A1%E8%B1%86%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化绿原酸提取物"
       }
     ],
     "costs": {
@@ -7992,18 +6213,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Garcinia 1000mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$19/120粒",
-        "sales": "Amazon月销1.2万+",
-        "otherIngredients": [
-          "磷酸氢钙",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
         "name": "Naturewise Garcinia Cambogia",
         "brand": "Naturewise",
         "url": "https://www.naturewise.com",
@@ -8016,88 +6225,6 @@
           "钙"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "Swanson Super CitriMax",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$18/90粒",
-        "sales": "Amazon月销4500+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 藤黄果粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%97%A4%E9%BB%84%E6%9E%9C",
-        "price": "¥265-334/罐",
-        "sales": "拼多多月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 藤黄果胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%97%A4%E9%BB%84%E6%9E%9C",
-        "price": "¥141-189/55粒",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 藤黄果片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%97%A4%E9%BB%84%E6%9E%9C",
-        "price": "¥75-139/131片",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 藤黄果粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%97%A4%E9%BB%84%E6%9E%9C",
-        "price": "¥137-203/罐",
-        "sales": "抖音月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 藤黄果提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "HCA钙盐"
-      },
-      {
-        "name": "康恩贝 藤黄果提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%97%A4%E9%BB%84%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "HCA钙盐"
       }
     ],
     "costs": {
@@ -8375,18 +6502,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Cayenne 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "$8/120粒",
-        "sales": "Amazon月销1.2万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Nature's Way Cayenne Garlic",
         "brand": "Nature's Way",
         "url": "https://www.naturesway.com",
@@ -8397,88 +6512,6 @@
           "大蒜粉"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "Swanson Cayenne 40,000 HU",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "$7/90粒",
-        "sales": "Amazon月销4500+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 辣椒素粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "¥141-172/罐",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 辣椒素胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "¥93-122/71粒",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 辣椒素片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "¥104-180/112片",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 辣椒素粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "¥341-417/罐",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 辣椒素",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "辣椒提取物(标准化辣椒素)"
-      },
-      {
-        "name": "康恩贝 辣椒素",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%BE%A3%E6%A4%92%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "辣椒提取物(标准化辣椒素)"
       }
     ],
     "costs": {
@@ -8734,18 +6767,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods African Mango 150mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$16/120粒",
-        "sales": "Amazon月销8000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Perfect African Mango",
         "brand": "Perfect Supplements",
         "url": "https://www.perfectsupplements.com",
@@ -8769,85 +6790,6 @@
           "甘油"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 非洲芒果粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C",
-        "price": "¥166-236/罐",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 非洲芒果胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C",
-        "price": "¥83-118/58粒",
-        "sales": "天猫月销7万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 非洲芒果片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C",
-        "price": "¥65-105/89片",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 非洲芒果粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C",
-        "price": "¥199-256/罐",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 非洲芒果提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化种子提取物(IGOB131)"
-      },
-      {
-        "name": "康恩贝 非洲芒果提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化种子提取物(IGOB131)"
-      },
-      {
-        "name": "江中 非洲芒果提取物",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E6%B4%B2%E8%8A%92%E6%9E%9C%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化种子提取物(IGOB131)"
       }
     ],
     "costs": {
@@ -9123,108 +7065,7 @@
         "Woo MN, et al. Mol Nutr Food Res. 2009;53(5):600-609."
       ]
     },
-    "productCases": [
-      {
-        "name": "NOW Foods Fucoxanthin 5mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%A4%90%E8%97%BB%E6%8F%90%E5%8F%96%E7%89%A9%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "$25/90粒",
-        "sales": "Amazon月销4000+",
-        "otherIngredients": [
-          "红花油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Garden of Life Fucoxanthin",
-        "brand": "Garden of Life",
-        "url": "https://search.jd.com/Search?keyword=%E8%A4%90%E8%97%BB%E6%8F%90%E5%8F%96%E7%89%A9%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "$35/60粒",
-        "sales": "Amazon月销2500+",
-        "otherIngredients": [
-          "褐藻粉",
-          "橄榄油",
-          "明胶"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Swanson Fucoxanthin",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%A4%90%E8%97%BB%E6%8F%90%E5%8F%96%E7%89%A9%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "$20/60粒",
-        "sales": "Amazon月销3000+",
-        "otherIngredients": [
-          "明胶",
-          "红花油",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 褐藻(岩藻黄素)粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%A4%90%E8%97%BB%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "¥129-155/罐",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 褐藻(岩藻黄素)胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%A4%90%E8%97%BB%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "¥114-149/60粒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 褐藻(岩藻黄素)片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%A4%90%E8%97%BB%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "¥71-146/88片",
-        "sales": "拼多多月销3万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 褐藻(岩藻黄素)粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%A4%90%E8%97%BB%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "¥268-328/罐",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 褐藻提取物(岩藻黄素)",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%A4%90%E8%97%BB%E6%8F%90%E5%8F%96%E7%89%A9%28%E5%B2%A9%E8%97%BB%E9%BB%84%E7%B4%A0%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "褐藻提取物(标准化岩藻黄素)"
-      }
-    ],
+    "productCases": [],
     "costs": {
       "rawMaterial": "约¥3000-8000/kg（5%标准化提取物）",
       "dosageFormCost": [
@@ -9495,17 +7336,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Acacia Fiber + Guar Gum",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "$14/340g",
-        "sales": "Amazon月销6000+",
-        "otherIngredients": [
-          "阿拉伯胶"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
         "name": "Sunfiber (Taiyo)",
         "brand": "Sunfiber",
         "url": "https://www.sunfiber.com",
@@ -9526,85 +7356,6 @@
           "小麦糊精"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "汤臣倍健 瓜尔胶纤维粉剂",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "¥327-385/罐",
-        "sales": "天猫月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "同仁堂 瓜尔胶纤维胶囊",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "¥75-145/116粒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "修正 瓜尔胶纤维片剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "¥96-123/185片",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "养生堂 瓜尔胶纤维粉剂",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "¥268-313/罐",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "仁和 瓜尔胶纤维",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "部分水解瓜尔胶(PHGG)"
-      },
-      {
-        "name": "康恩贝 瓜尔胶纤维",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "部分水解瓜尔胶(PHGG)"
-      },
-      {
-        "name": "江中 瓜尔胶纤维",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E7%93%9C%E5%B0%94%E8%83%B6%E7%BA%A4%E7%BB%B4",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "部分水解瓜尔胶(PHGG)"
       }
     ],
     "costs": {
@@ -9898,30 +7649,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Vitamin B-1 100mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "$7/100片",
-        "sales": "Amazon月销6000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "Solgar Vitamin B1 100mg",
-        "brand": "Solgar",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "$10/100粒",
-        "sales": "Amazon月销4000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
         "name": "汤臣倍健 维生素B族片",
         "brand": "汤臣倍健",
         "url": "https://www.by-health.com",
@@ -9935,63 +7662,6 @@
           "叶酸"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "汤臣倍健 硫胺素(维生素B1)软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "¥123-191/41粒",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 硫胺素(维生素B1)片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "¥107-184/84片",
-        "sales": "京东月销1万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 硫胺素(维生素B1)粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "¥190-210/罐",
-        "sales": "京东月销5万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 硫胺素(维生素B1)",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "盐酸硫胺素"
-      },
-      {
-        "name": "仁和 硫胺素(维生素B1)",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%A1%AB%E8%83%BA%E7%B4%A0%28%E7%BB%B4%E7%94%9F%E7%B4%A0B1%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "盐酸硫胺素"
       }
     ],
     "costs": {
@@ -10252,18 +7922,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Dandelion Root 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$8/100粒",
-        "sales": "Amazon月销8000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Nature's Way Dandelion Root",
         "brand": "Nature's Way",
         "url": "https://www.naturesway.com",
@@ -10274,88 +7932,6 @@
           "纤维素"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "Swanson Dandelion Root",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$7/120粒",
-        "sales": "Amazon月销4000+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 蒲公英软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%92%B2%E5%85%AC%E8%8B%B1",
-        "price": "¥78-149/60粒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 蒲公英片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%92%B2%E5%85%AC%E8%8B%B1",
-        "price": "¥56-81/79片",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 蒲公英粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%92%B2%E5%85%AC%E8%8B%B1",
-        "price": "¥192-234/罐",
-        "sales": "抖音月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 蒲公英口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%92%B2%E5%85%AC%E8%8B%B1",
-        "price": "¥57-95/30盒",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 蒲公英提取物",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蒲公英根提取物"
-      },
-      {
-        "name": "康恩贝 蒲公英提取物",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%92%B2%E5%85%AC%E8%8B%B1%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蒲公英根提取物"
       }
     ],
     "costs": {
@@ -10622,20 +8198,6 @@
     },
     "productCases": [
       {
-        "name": "Suntory 芝麻素EX",
-        "brand": "Suntory",
-        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "¥2500/90粒",
-        "sales": "日本月销5万+",
-        "otherIngredients": [
-          "维生素E",
-          "维生素C",
-          "中链油",
-          "明胶"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
         "name": "Asahi 芝麻素",
         "brand": "Asahi",
         "url": "https://www.asahiinryo.co.jp",
@@ -10647,88 +8209,6 @@
           "明胶"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Swanson Sesame Lignan Complex",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "$15/60粒",
-        "sales": "Amazon月销2500+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 芝麻素软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "¥127-195/77粒",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 芝麻素片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "¥88-161/128片",
-        "sales": "天猫月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 芝麻素粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "¥295-361/罐",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 芝麻素口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "¥90-128/11盒",
-        "sales": "抖音月销7万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 芝麻素",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化芝麻素提取物"
-      },
-      {
-        "name": "康恩贝 芝麻素",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%8A%9D%E9%BA%BB%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "标准化芝麻素提取物"
       }
     ],
     "costs": {
@@ -11024,67 +8504,6 @@
           "注射用水"
         ],
         "dosageForm": "注射液"
-      },
-      {
-        "name": "斯巴特康(苦参碱葡萄糖注射液)",
-        "brand": "广州明兴制药",
-        "url": "https://search.jd.com/Search?keyword=%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "¥60/5支",
-        "sales": "医院处方药",
-        "otherIngredients": [
-          "苦参碱",
-          "葡萄糖"
-        ],
-        "dosageForm": "注射液"
-      },
-      {
-        "name": "汤臣倍健 苦参碱软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "¥130-206/114粒",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "养生堂 苦参碱",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "苦参总碱提取物"
-      },
-      {
-        "name": "同仁堂 苦参碱",
-        "brand": "同仁堂",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "苦参总碱提取物"
-      },
-      {
-        "name": "仁和 苦参碱",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "苦参总碱提取物"
-      },
-      {
-        "name": "修正 苦参碱",
-        "brand": "修正",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%8B%A6%E5%8F%82%E7%A2%B1",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "苦参总碱提取物"
       }
     ],
     "costs": {
@@ -11388,84 +8807,6 @@
           "蛋氨酸"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "NOW Foods Licorice Root 450mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "$9/100粒",
-        "sales": "Amazon月销7000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 甘草酸软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "¥123-158/107粒",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 甘草酸片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "¥89-149/143片",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 甘草酸粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "¥218-241/罐",
-        "sales": "京东月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 甘草酸",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "甘草酸单铵盐"
-      },
-      {
-        "name": "仁和 甘草酸",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "甘草酸单铵盐"
-      },
-      {
-        "name": "康恩贝 甘草酸",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E7%94%98%E8%8D%89%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "甘草酸单铵盐"
       }
     ],
     "costs": {
@@ -11738,20 +9079,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Probiotic-10 25 Billion",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "$26/50粒",
-        "sales": "Amazon月销1.2万+",
-        "otherIngredients": [
-          "嗜酸乳杆菌",
-          "双歧杆菌",
-          "麦芽糊精",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Culturelle Digestive Daily Probiotic",
         "brand": "Culturelle",
         "url": "https://www.culturelle.com",
@@ -11777,72 +9104,6 @@
           "麦芽糊精"
         ],
         "dosageForm": "粉剂"
-      },
-      {
-        "name": "汤臣倍健 嗜酸乳杆菌软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "¥82-150/84粒",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 嗜酸乳杆菌片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "¥79-132/157片",
-        "sales": "拼多多月销4万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 嗜酸乳杆菌粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "¥197-246/罐",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 嗜酸乳杆菌",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
-      },
-      {
-        "name": "仁和 嗜酸乳杆菌",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
-      },
-      {
-        "name": "康恩贝 嗜酸乳杆菌",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%97%9C%E9%85%B8%E4%B9%B3%E6%9D%86%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
       }
     ],
     "costs": {
@@ -12157,81 +9418,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 布拉氏酵母菌软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "¥90-123/58粒",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 布拉氏酵母菌片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "¥95-151/67片",
-        "sales": "天猫月销1万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 布拉氏酵母菌粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "¥215-246/罐",
-        "sales": "拼多多月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 布拉氏酵母菌",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
-      },
-      {
-        "name": "仁和 布拉氏酵母菌",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
-      },
-      {
-        "name": "康恩贝 布拉氏酵母菌",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
-      },
-      {
-        "name": "江中 布拉氏酵母菌",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%B8%83%E6%8B%89%E6%B0%8F%E9%85%B5%E6%AF%8D%E8%8F%8C",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "冻干菌粉"
       }
     ],
     "costs": {
@@ -12510,17 +9696,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods FOS Powder",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "$12/227g",
-        "sales": "Amazon月销5000+",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
         "name": "Jarrow Formulas Prebiotics XOS+GOS",
         "brand": "Jarrow Formulas",
         "url": "https://www.jarrow.com",
@@ -12547,72 +9722,6 @@
           "麦芽糊精"
         ],
         "dosageForm": "粉剂"
-      },
-      {
-        "name": "汤臣倍健 低聚果糖(FOS)软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "¥143-189/107粒",
-        "sales": "抖音月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 低聚果糖(FOS)片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "¥109-157/172片",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 低聚果糖(FOS)粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "¥337-385/罐",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 低聚果糖(FOS)",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蔗果型低聚果糖"
-      },
-      {
-        "name": "仁和 低聚果糖(FOS)",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蔗果型低聚果糖"
-      },
-      {
-        "name": "康恩贝 低聚果糖(FOS)",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E6%9E%9C%E7%B3%96%28FOS%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "蔗果型低聚果糖"
       }
     ],
     "costs": {
@@ -12891,28 +10000,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods GOS Prebiotic",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "$20/100g",
-        "sales": "Amazon月销3000+",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "Vivinal GOS (FrieslandCampina)",
-        "brand": "FrieslandCampina",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "¥300/kg(原料)",
-        "sales": "B2B原料供应",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "糖浆"
-      },
-      {
         "name": "飞鹤 星飞帆婴幼儿配方奶粉(含GOS)",
         "brand": "飞鹤",
         "url": "https://www.feihe.com",
@@ -12926,63 +10013,6 @@
           "胆碱"
         ],
         "dosageForm": "婴幼儿配方奶粉"
-      },
-      {
-        "name": "汤臣倍健 低聚半乳糖(GOS)软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "¥147-186/98粒",
-        "sales": "抖音月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 低聚半乳糖(GOS)片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "¥75-123/85片",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 低聚半乳糖(GOS)粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "¥360-388/罐",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 低聚半乳糖(GOS)",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "GOS糖浆"
-      },
-      {
-        "name": "仁和 低聚半乳糖(GOS)",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E4%BD%8E%E8%81%9A%E5%8D%8A%E4%B9%B3%E7%B3%96%28GOS%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "GOS糖浆"
       }
     ],
     "costs": {
@@ -13260,17 +10290,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Organic Inulin Powder",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%8F%8A%E7%B2%89",
-        "price": "$15/227g",
-        "sales": "Amazon月销8000+",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
         "name": "Beneo Orafti Inulin",
         "brand": "Beneo",
         "url": "https://www.beneo.com",
@@ -13280,88 +10299,6 @@
           "无"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "Swanson Prebiotic Inulin FOS",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%8F%8A%E7%B2%89",
-        "price": "$12/100粒",
-        "sales": "Amazon月销5000+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 菊粉软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%8F%8A%E7%B2%89",
-        "price": "¥100-149/108粒",
-        "sales": "抖音月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 菊粉片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%8F%8A%E7%B2%89",
-        "price": "¥41-90/73片",
-        "sales": "抖音月销3万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 菊粉粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%8F%8A%E7%B2%89",
-        "price": "¥285-326/罐",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 菊粉口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%8F%8A%E7%B2%89",
-        "price": "¥83-131/29盒",
-        "sales": "拼多多月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 菊粉",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%8F%8A%E7%B2%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "菊苣菊粉(标准型)"
-      },
-      {
-        "name": "康恩贝 菊粉",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%8F%8A%E7%B2%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "菊苣菊粉(标准型)"
       }
     ],
     "costs": {
@@ -13637,29 +10574,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Organic Acacia Fiber + Resistant Dextrin",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "$14/340g",
-        "sales": "Amazon月销6000+",
-        "otherIngredients": [
-          "阿拉伯胶",
-          "抗性糊精"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "Fibersol-2 (Matsutani)",
-        "brand": "Matsutani",
-        "url": "https://search.jd.com/Search?keyword=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "¥250/kg(原料)",
-        "sales": "B2B原料供应",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
         "name": "汤臣倍健 膳食纤维粉(含抗性糊精)",
         "brand": "汤臣倍健",
         "url": "https://www.by-health.com",
@@ -13672,63 +10586,6 @@
           "苹果味香精"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "汤臣倍健 抗性糊精软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "¥160-199/46粒",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 抗性糊精片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "¥75-115/129片",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 抗性糊精粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "¥328-400/罐",
-        "sales": "拼多多月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 抗性糊精",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "玉米来源抗性糊精"
-      },
-      {
-        "name": "仁和 抗性糊精",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E6%8A%97%E6%80%A7%E7%B3%8A%E7%B2%BE",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "玉米来源抗性糊精"
       }
     ],
     "costs": {
@@ -13989,17 +10846,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Polydextrose Fiber",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "$12/340g",
-        "sales": "Amazon月销3000+",
-        "otherIngredients": [
-          "无"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
         "name": "Litesse (DuPont)",
         "brand": "DuPont",
         "url": "https://www.dupont.com",
@@ -14009,88 +10855,6 @@
           "无"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "Swanson Polydextrose",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "$14/100粒",
-        "sales": "Amazon月销2500+",
-        "otherIngredients": [
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 聚葡萄糖软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "¥105-165/52粒",
-        "sales": "抖音月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 聚葡萄糖片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "¥40-75/131片",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 聚葡萄糖粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "¥150-194/罐",
-        "sales": "京东月销5万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 聚葡萄糖口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "¥147-214/24盒",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 聚葡萄糖",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "聚葡萄糖粉末"
-      },
-      {
-        "name": "康恩贝 聚葡萄糖",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E8%81%9A%E8%91%A1%E8%90%84%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "聚葡萄糖粉末"
       }
     ],
     "costs": {
@@ -14363,103 +11127,7 @@
         "Kim EK, et al. Biochem Biophys Res Commun. 2005;334(2):426-430."
       ]
     },
-    "productCases": [
-      {
-        "name": "Swanson Chitosan",
-        "brand": "Swanson",
-        "url": "https://search.jd.com/Search?keyword=%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "$12/120粒",
-        "sales": "Amazon月销5000+",
-        "otherIngredients": [
-          "壳聚糖",
-          "明胶",
-          "纤维素"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "NOW Foods Chitosan 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "$14/240粒",
-        "sales": "Amazon月销4000+",
-        "otherIngredients": [
-          "壳聚糖",
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "青岛博智 壳寡糖胶囊",
-        "brand": "博智汇力",
-        "url": "https://search.jd.com/Search?keyword=%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "¥168/60粒",
-        "sales": "天猫月销3000+",
-        "otherIngredients": [
-          "壳寡糖",
-          "淀粉"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 壳寡糖软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "¥111-176/65粒",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 壳寡糖片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "¥76-124/169片",
-        "sales": "拼多多月销7万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 壳寡糖粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "¥199-248/罐",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 壳寡糖",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "壳寡糖粉末"
-      },
-      {
-        "name": "仁和 壳寡糖",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A3%B3%E5%AF%A1%E7%B3%96",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "壳寡糖粉末"
-      }
-    ],
+    "productCases": [],
     "costs": {
       "rawMaterial": "约¥150-400/kg（90%壳寡糖）；壳聚糖约¥50-120/kg",
       "dosageFormCost": [
@@ -14731,18 +11399,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods L-Glutamine 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "$16/120粒",
-        "sales": "Amazon月销1万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Optimum Nutrition Glutamine Powder",
         "brand": "Optimum Nutrition",
         "url": "https://www.optimumnutrition.com",
@@ -14764,85 +11420,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 L-谷氨酰胺软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "¥131-210/90粒",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 L-谷氨酰胺片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "¥107-165/177片",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 L-谷氨酰胺粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "¥220-279/罐",
-        "sales": "京东月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 L-谷氨酰胺口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "¥51-101/27盒",
-        "sales": "天猫月销5万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 L-谷氨酰胺",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-谷氨酰胺(游离型)"
-      },
-      {
-        "name": "康恩贝 L-谷氨酰胺",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-谷氨酰胺(游离型)"
-      },
-      {
-        "name": "江中 L-谷氨酰胺",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=L-%E8%B0%B7%E6%B0%A8%E9%85%B0%E8%83%BA",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "L-谷氨酰胺(游离型)"
       }
     ],
     "costs": {
@@ -15118,31 +11695,6 @@
     },
     "productCases": [
       {
-        "name": "Metamucil Psyllium Fiber",
-        "brand": "Metamucil (P&G)",
-        "url": "https://search.jd.com/Search?keyword=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "$20/300g",
-        "sales": "Amazon月销3万+",
-        "otherIngredients": [
-          "洋车前子壳粉",
-          "蔗糖",
-          "香精"
-        ],
-        "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "NOW Foods Psyllium Husk 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "$14/500粒",
-        "sales": "Amazon月销1.5万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Nature's Way Psyllium Husk",
         "brand": "Nature's Way",
         "url": "https://www.naturesway.com",
@@ -15153,76 +11705,6 @@
           "纤维素"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 洋车前子壳粉软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "¥77-101/37粒",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 洋车前子壳粉片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "¥71-135/129片",
-        "sales": "天猫月销2万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 洋车前子壳粉粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "¥307-384/罐",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 洋车前子壳粉口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "¥100-134/13盒",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 洋车前子壳粉",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "洋车前子壳粉"
-      },
-      {
-        "name": "康恩贝 洋车前子壳粉",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E6%B4%8B%E8%BD%A6%E5%89%8D%E5%AD%90%E5%A3%B3%E7%B2%89",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "洋车前子壳粉"
       }
     ],
     "costs": {
@@ -15551,81 +12033,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "汤臣倍健 叶酸软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%8F%B6%E9%85%B8",
-        "price": "¥103-182/100粒",
-        "sales": "京东月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 叶酸片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%8F%B6%E9%85%B8",
-        "price": "¥79-151/67片",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 叶酸粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%8F%B6%E9%85%B8",
-        "price": "¥277-350/罐",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 叶酸",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "合成叶酸"
-      },
-      {
-        "name": "仁和 叶酸",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%8F%B6%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "合成叶酸"
-      },
-      {
-        "name": "康恩贝 叶酸",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "合成叶酸"
-      },
-      {
-        "name": "江中 叶酸",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%8F%B6%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "合成叶酸"
       }
     ],
     "costs": {
@@ -15906,98 +12313,6 @@
           "甘油"
         ],
         "dosageForm": "软胶囊"
-      },
-      {
-        "name": "Puritan's Pride Odorless Garlic 1000mg",
-        "brand": "Puritan's Pride",
-        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "$12/120粒软胶囊",
-        "sales": "官网月销1万+",
-        "otherIngredients": [
-          "大豆油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "汤臣倍健 大蒜素软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "¥118-140/70粒",
-        "sales": "京东月销9万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 大蒜素片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "¥101-138/175片",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 大蒜素粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "¥256-314/罐",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 大蒜素口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "¥72-142/16盒",
-        "sales": "京东月销2万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 大蒜素",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（蒜氨酸标准化）"
-      },
-      {
-        "name": "康恩贝 大蒜素",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（蒜氨酸标准化）"
-      },
-      {
-        "name": "江中 大蒜素",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%92%9C%E7%B4%A0",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "大蒜粉（蒜氨酸标准化）"
       }
     ],
     "costs": {
@@ -16278,18 +12593,6 @@
     },
     "productCases": [
       {
-        "name": "Now Foods Danshen 500mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "$15/60粒胶囊",
-        "sales": "Amazon月销3000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "复方丹参滴丸",
         "brand": "天士力",
         "url": "https://www.tasly.com",
@@ -16313,72 +12616,6 @@
           "当归"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "汤臣倍健 丹参软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E4%B8%B9%E5%8F%82",
-        "price": "¥88-123/102粒",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 丹参片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E4%B8%B9%E5%8F%82",
-        "price": "¥60-139/171片",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 丹参粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E4%B8%B9%E5%8F%82",
-        "price": "¥196-240/罐",
-        "sales": "抖音月销7万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 丹参提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "丹参水提物"
-      },
-      {
-        "name": "仁和 丹参提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "丹参水提物"
-      },
-      {
-        "name": "康恩贝 丹参提取物",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E4%B8%B9%E5%8F%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "丹参水提物"
       }
     ],
     "costs": {
@@ -16695,81 +12932,6 @@
           "硬脂酸镁"
         ],
         "dosageForm": "胶囊"
-      },
-      {
-        "name": "汤臣倍健 山楂软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E5%B1%B1%E6%A5%82",
-        "price": "¥71-131/57粒",
-        "sales": "抖音月销3万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 山楂片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E5%B1%B1%E6%A5%82",
-        "price": "¥91-163/82片",
-        "sales": "天猫月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 山楂粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E5%B1%B1%E6%A5%82",
-        "price": "¥303-335/罐",
-        "sales": "天猫月销4万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 山楂提取物",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "山楂叶提取物"
-      },
-      {
-        "name": "仁和 山楂提取物",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "山楂叶提取物"
-      },
-      {
-        "name": "康恩贝 山楂提取物",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "山楂叶提取物"
-      },
-      {
-        "name": "江中 山楂提取物",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E5%B1%B1%E6%A5%82%E6%8F%90%E5%8F%96%E7%89%A9",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "山楂叶提取物"
       }
     ],
     "costs": {
@@ -17105,94 +13267,6 @@
           "甜菊糖"
         ],
         "dosageForm": "泡腾粉"
-      },
-      {
-        "name": "汤臣倍健 镁软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%95%81",
-        "price": "¥155-228/33粒",
-        "sales": "抖音月销8万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 镁片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%95%81",
-        "price": "¥115-179/108片",
-        "sales": "天猫月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 镁粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%95%81",
-        "price": "¥323-362/罐",
-        "sales": "抖音月销9万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 镁口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E9%95%81",
-        "price": "¥98-162/30盒",
-        "sales": "抖音月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 镁",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E9%95%81",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氧化镁"
-      },
-      {
-        "name": "康恩贝 镁",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%95%81",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氧化镁"
-      },
-      {
-        "name": "江中 镁",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E9%95%81",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氧化镁"
-      },
-      {
-        "name": "白云山 镁",
-        "brand": "白云山",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%95%81",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氧化镁"
       }
     ],
     "costs": {
@@ -17498,18 +13572,6 @@
     },
     "productCases": [
       {
-        "name": "NOW Foods Potassium Citrate 99mg",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E9%92%BE",
-        "price": "$10/180粒胶囊",
-        "sales": "Amazon月销2万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
         "name": "Nature Made Potassium 550mg",
         "brand": "Nature Made",
         "url": "https://www.naturemade.com",
@@ -17536,85 +13598,6 @@
           "B3/B5/B6"
         ],
         "dosageForm": "冲饮粉"
-      },
-      {
-        "name": "汤臣倍健 钾软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%92%BE",
-        "price": "¥92-122/47粒",
-        "sales": "抖音月销7万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 钾片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%92%BE",
-        "price": "¥65-114/112片",
-        "sales": "天猫月销8万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 钾粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%92%BE",
-        "price": "¥176-238/罐",
-        "sales": "拼多多月销2万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 钾口服液",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%20%E9%92%BE",
-        "price": "¥83-150/14盒",
-        "sales": "京东月销3万+",
-        "otherIngredients": [
-          "纯化水",
-          "矫味剂",
-          "山梨酸钾"
-        ],
-        "dosageForm": "口服液"
-      },
-      {
-        "name": "仁和 钾",
-        "brand": "仁和",
-        "url": "https://search.jd.com/Search?keyword=%E9%92%BE",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氯化钾"
-      },
-      {
-        "name": "康恩贝 钾",
-        "brand": "康恩贝",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%BE",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氯化钾"
-      },
-      {
-        "name": "江中 钾",
-        "brand": "江中",
-        "url": "https://search.jd.com/Search?keyword=%E9%92%BE",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "氯化钾"
       }
     ],
     "costs": {
@@ -17937,81 +13920,6 @@
           "锰"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "汤臣倍健 钙(碳酸钙)软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "¥158-188/120粒",
-        "sales": "拼多多月销1万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 钙(碳酸钙)片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "¥58-105/74片",
-        "sales": "抖音月销4万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 钙(碳酸钙)粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "¥319-365/罐",
-        "sales": "天猫月销3万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 钙(碳酸钙)",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "重质碳酸钙"
-      },
-      {
-        "name": "仁和 钙(碳酸钙)",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "重质碳酸钙"
-      },
-      {
-        "name": "康恩贝 钙(碳酸钙)",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "重质碳酸钙"
-      },
-      {
-        "name": "江中 钙(碳酸钙)",
-        "brand": "江中",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%92%99%28%E7%A2%B3%E9%85%B8%E9%92%99%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "重质碳酸钙"
       }
     ],
     "costs": {
@@ -18304,99 +14212,6 @@
           "硼"
         ],
         "dosageForm": "片剂"
-      },
-      {
-        "name": "Hyaluronic Acid 100mg (NOW Foods)",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "$20/60粒胶囊",
-        "sales": "Amazon月销1万+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "华熙生物 透明质酸软糖",
-        "brand": "华熙生物",
-        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "¥99/30粒",
-        "sales": "天猫月销1.5万+",
-        "otherIngredients": [
-          "胶原蛋白",
-          "维生素C",
-          "果胶",
-          "蔗糖"
-        ],
-        "dosageForm": "软糖"
-      },
-      {
-        "name": "汤臣倍健 透明质酸软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "¥117-162/100粒",
-        "sales": "京东月销6万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 透明质酸片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "¥119-188/84片",
-        "sales": "拼多多月销9万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 透明质酸粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "¥264-296/罐",
-        "sales": "拼多多月销8万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 透明质酸",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "微生物发酵透明质酸"
-      },
-      {
-        "name": "仁和 透明质酸",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "微生物发酵透明质酸"
-      },
-      {
-        "name": "康恩贝 透明质酸",
-        "brand": "康恩贝",
-        "url": "https://search.jd.com/Search?keyword=%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "微生物发酵透明质酸"
       }
     ],
     "costs": {
@@ -18658,88 +14473,6 @@
           "甘露醇"
         ],
         "dosageForm": "颗粒剂"
-      },
-      {
-        "name": "Strontium Bone Maker (Now Foods，柠檬酸锶)",
-        "brand": "NOW Foods",
-        "url": "https://search.jd.com/Search?keyword=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "$25/60粒胶囊",
-        "sales": "Amazon月销3000+",
-        "otherIngredients": [
-          "纤维素",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "胶囊"
-      },
-      {
-        "name": "Strontium Citrate (Solgar)",
-        "brand": "Solgar",
-        "url": "https://search.jd.com/Search?keyword=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "$20/60粒片剂",
-        "sales": "Amazon月销2000+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "交联羧甲基纤维素钠",
-          "硬脂酸镁"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "汤臣倍健 锶(雷奈酸锶)软胶囊",
-        "brand": "汤臣倍健",
-        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%20%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "¥131-154/64粒",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "植物油",
-          "明胶",
-          "甘油"
-        ],
-        "dosageForm": "软胶囊"
-      },
-      {
-        "name": "同仁堂 锶(雷奈酸锶)片剂",
-        "brand": "同仁堂",
-        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%20%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "¥87-140/178片",
-        "sales": "抖音月销2万+",
-        "otherIngredients": [
-          "微晶纤维素",
-          "硬脂酸镁",
-          "二氧化硅"
-        ],
-        "dosageForm": "片剂"
-      },
-      {
-        "name": "修正 锶(雷奈酸锶)粉剂",
-        "brand": "修正",
-        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%20%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "¥226-269/罐",
-        "sales": "拼多多月销5万+",
-        "otherIngredients": [
-          "麦芽糊精",
-          "食用香精",
-          "三氯蔗糖"
-        ],
-        "dosageForm": "粉剂"
-      },
-      {
-        "name": "养生堂 锶(雷奈酸锶)",
-        "brand": "养生堂",
-        "url": "https://search.jd.com/Search?keyword=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "雷奈酸锶"
-      },
-      {
-        "name": "仁和 锶(雷奈酸锶)",
-        "brand": "仁和",
-        "url": "https://list.tmall.com/search_product.htm?q=%E9%94%B6%28%E9%9B%B7%E5%A5%88%E9%85%B8%E9%94%B6%29",
-        "price": "以电商商品页为准",
-        "sales": "多平台在售",
-        "otherIngredients": [],
-        "dosageForm": "雷奈酸锶"
       }
     ],
     "costs": {
