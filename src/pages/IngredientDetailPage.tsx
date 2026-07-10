@@ -448,6 +448,7 @@ export function IngredientDetailPage() {
                 <div>
                   <h3 className="font-semibold text-gray-800">{pc.name}</h3>
                   <p className="text-xs text-teal-600">{pc.brand}</p>
+                  {pc.note && <p className="text-[11px] text-gray-400 mt-0.5">{pc.note}</p>}
                 </div>
                 <span className="text-xs bg-gray-100 text-gray-500 px-2 py-1 rounded-full">{pc.dosageForm}</span>
               </div>

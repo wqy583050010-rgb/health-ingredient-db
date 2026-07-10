@@ -167,7 +167,52 @@
         "J Ethnopharmacol. 2019;231:"
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "同仁堂 铁皮石斛(枫斗)",
+        "brand": "同仁堂",
+        "url": "https://www.taobao.com/chanpin/93177da239cfef6f1e171e45131f19eebcb61a6d109d2d104a677a7207fe51af.html",
+        "price": "以电商商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "铁皮石斛"
+        ],
+        "dosageForm": "枫斗/饮片",
+        "note": "同仁堂铁皮石斛"
+      },
+      {
+        "name": "南京同仁堂 霍山铁皮石斛 60g",
+        "brand": "南京同仁堂",
+        "url": "https://bk.taobao.com/k/%E7%9F%B3%E6%96%9B/bdc025d3a5bb17c05a53e6724dc71646.html",
+        "price": "以商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "铁皮石斛"
+        ],
+        "dosageForm": "枫斗/饮片",
+        "note": "霍山铁皮石斛"
+      },
+      {
+        "name": "石斛/枫斗(京东频道)",
+        "brand": "",
+        "url": "https://www.jd.com/chanpin/1728603.html",
+        "price": "以商品页为准",
+        "sales": "京东在售",
+        "otherIngredients": [],
+        "dosageForm": "枫斗/饮片",
+        "note": "石斛/枫斗品牌频道"
+      },
+      {
+        "name": "铁皮石斛(药食同源滋补)",
+        "brand": "",
+        "url": "https://www.sohu.com/a/961030006_122555288",
+        "price": "以商品页为准",
+        "sales": "多品牌在售",
+        "otherIngredients": [],
+        "dosageForm": "枫斗/粉",
+        "note": "铁皮石斛十大品牌解析"
+      }
+    ],
     "costs": {
       "rawMaterial": "¥80-200/kg(标准化提取物)",
       "dosageFormCost": [
@@ -389,7 +434,67 @@
         "J Ethnopharmacol. 2019;231:"
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "北京同仁堂 当归黄芪铁颗粒(含党参)",
+        "brand": "同仁堂",
+        "url": "https://www.taobao.com/list/item/K1ZVcENlR2FMWGNqRVJkenBKMTBZUT09.htm",
+        "price": "以电商商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "当归",
+          "黄芪",
+          "铁",
+          "党参",
+          "枸杞",
+          "红枣"
+        ],
+        "dosageForm": "颗粒",
+        "note": "补气血"
+      },
+      {
+        "name": "修正 西洋参黄芪党参枸杞饮",
+        "brand": "修正",
+        "url": "https://www.taobao.com/list/item/T1J1ZHFJd3JiQTJUTXVMRytzOHVLZz09.htm",
+        "price": "¥28.78",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "西洋参",
+          "黄芪",
+          "党参",
+          "枸杞"
+        ],
+        "dosageForm": "浓缩饮液",
+        "note": "滋补饮"
+      },
+      {
+        "name": "养庆堂 西洋参黄芪党参饮",
+        "brand": "养庆堂",
+        "url": "https://www.taobao.com/list/item/T1J1ZHFJd3JiQTJUTXVMRytzOHVLZz09.htm",
+        "price": "以商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "西洋参",
+          "黄芪",
+          "党参"
+        ],
+        "dosageForm": "浓缩饮液",
+        "note": "滋补饮"
+      },
+      {
+        "name": "北京同仁堂 黄芪(含党参等)",
+        "brand": "同仁堂",
+        "url": "https://search.jd.com/Search?keyword=%E5%8C%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82%E9%BB%84%E8%8A%AA&enc=utf-8",
+        "price": "以商品页为准",
+        "sales": "京东在售",
+        "otherIngredients": [
+          "黄芪",
+          "党参"
+        ],
+        "dosageForm": "饮片",
+        "note": "同仁堂黄芪频道"
+      }
+    ],
     "costs": {
       "rawMaterial": "¥80-200/kg(标准化提取物)",
       "dosageFormCost": [
@@ -611,7 +716,52 @@
         "J Ethnopharmacol. 2019;231:"
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "肉苁蓉总苷80%(食品级原料)",
+        "brand": "",
+        "url": "https://www.taobao.com/list/item/Skk1cnd5YjBEOHAvRDMvOHlNTktFUT09.htm",
+        "price": "以电商商品页为准",
+        "sales": "淘宝现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "肉苁蓉提取物原料"
+      },
+      {
+        "name": "肉苁蓉(康美药业等网店)",
+        "brand": "康美药业",
+        "url": "https://www.maigoo.com/news/668397.html",
+        "price": "以商品页为准",
+        "sales": "多品牌在售",
+        "otherIngredients": [],
+        "dosageForm": "饮片/提取物",
+        "note": "肉苁蓉热门网店(康美/胡庆余堂/同仁堂/草晶华)"
+      },
+      {
+        "name": "肉苁蓉滋补产品(胡庆余堂)",
+        "brand": "胡庆余堂",
+        "url": "",
+        "price": "以商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "肉苁蓉"
+        ],
+        "dosageForm": "饮片/丸",
+        "note": "传统滋补品牌"
+      },
+      {
+        "name": "草晶华 破壁肉苁蓉",
+        "brand": "草晶华",
+        "url": "",
+        "price": "以商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "肉苁蓉"
+        ],
+        "dosageForm": "破壁粉",
+        "note": "中药破壁饮片品牌"
+      }
+    ],
     "costs": {
       "rawMaterial": "¥80-200/kg(标准化提取物)",
       "dosageFormCost": [
@@ -832,7 +982,56 @@
         "J Ethnopharmacol. 2019;231:"
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "同仁堂 天麻片(蓝帽保健食品)",
+        "brand": "同仁堂",
+        "url": "https://www.ziyimall.com/ask/9495937/",
+        "price": "约¥258/盒",
+        "sales": "在售",
+        "otherIngredients": [
+          "天麻提取物",
+          "红氧化铁"
+        ],
+        "dosageForm": "片剂",
+        "note": "平肝熄风、祛风止痛(蓝帽)"
+      },
+      {
+        "name": "北京同仁堂 天麻片(云南产)",
+        "brand": "同仁堂",
+        "url": "https://jianghu.taobao.com/guanglocal/47992_ac0c7424f8c472dae089e78317635a62",
+        "price": "以商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "天麻"
+        ],
+        "dosageForm": "饮片/片",
+        "note": "天麻片"
+      },
+      {
+        "name": "同仁堂 天麻(朗朗上口牌)",
+        "brand": "同仁堂(朗朗上口牌)",
+        "url": "https://health.baidu.com/m/detail/ar_6608151119200820417",
+        "price": "以商品页为准",
+        "sales": "在售",
+        "otherIngredients": [
+          "天麻",
+          "多种中药材"
+        ],
+        "dosageForm": "片剂",
+        "note": "祛风除湿、舒筋活络"
+      },
+      {
+        "name": "天麻滋补品(多平台)",
+        "brand": "",
+        "url": "",
+        "price": "以商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "饮片",
+        "note": "天麻传统滋补品"
+      }
+    ],
     "costs": {
       "rawMaterial": "¥80-200/kg(标准化提取物)",
       "dosageFormCost": [
@@ -1054,7 +1253,48 @@
         "J Ethnopharmacol. 2019;231:"
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "银耳多糖70%/50% 提取多糖粉(食品级)",
+        "brand": "",
+        "url": "https://www.taobao.com/list/item/814415658310.htm",
+        "price": "以电商商品页为准",
+        "sales": "淘宝现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "银耳多糖原料"
+      },
+      {
+        "name": "银耳多糖80%/90%/98%(西安金硕果业)",
+        "brand": "西安金硕果业",
+        "url": "https://www.1688.com/chanpin/-B1A3BDA1D2F8B6FAB6E0CCC7.html",
+        "price": "¥199.50/袋",
+        "sales": "1688成交",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "银耳提取物原料"
+      },
+      {
+        "name": "银耳多糖(斯诺特生物)",
+        "brand": "斯诺特生物",
+        "url": "https://china.guidechem.com/trade/pdetail14147334.html",
+        "price": "以厂家报价为准",
+        "sales": "厂家现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "银耳粗多糖原料"
+      },
+      {
+        "name": "银耳提取物20%多糖",
+        "brand": "",
+        "url": "https://bk.taobao.com/k/nongsuoliao_13898/46dcf930cda616550a21419be3add8f7.html",
+        "price": "以电商商品页为准",
+        "sales": "淘宝现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "保健品/化妆品原料"
+      }
+    ],
     "costs": {
       "rawMaterial": "¥80-200/kg(标准化提取物)",
       "dosageFormCost": [
@@ -1323,6 +1563,60 @@
           "电解质"
         ],
         "dosageForm": "能量凝胶"
+      },
+      {
+        "name": "红牛 维生素功能饮料",
+        "brand": "红牛 Red Bull",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "牛磺酸",
+          "赖氨酸",
+          "B族维生素"
+        ],
+        "dosageForm": "功能饮料",
+        "note": "国内官方在售"
+      },
+      {
+        "name": "东鹏特饮 维生素功能饮料",
+        "brand": "东鹏饮料",
+        "url": "https://www.szeastroc.com/product/",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "牛磺酸",
+          "赖氨酸",
+          "B族维生素"
+        ],
+        "dosageForm": "功能饮料",
+        "note": "国内官方在售"
+      },
+      {
+        "name": "魔爪 Monster 能量饮料",
+        "brand": "Monster Energy 魔爪",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "牛磺酸",
+          "B族维生素"
+        ],
+        "dosageForm": "功能饮料",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "乐虎 氨基酸维生素功能饮料",
+        "brand": "达利集团 乐虎",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "牛磺酸",
+          "氨基酸"
+        ],
+        "dosageForm": "功能饮料",
+        "note": "国内在售"
       }
     ],
     "costs": {
@@ -1858,6 +2152,51 @@
           "β-丙氨酸"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "Optimum Nutrition β-丙氨酸（无风味 7盎司）",
+        "brand": "Optimum Nutrition",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "组氨酸",
+          "磷酸盐"
+        ],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "ALLMAX Beta-Alanine β丙氨酸 400克",
+        "brand": "ALLMAX",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "NOW Foods Sports Beta-Alanine 750mg 120粒（CarnoSyn®）",
+        "brand": "NOW Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "素食胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "康比特 液体氮泵（含β-丙氨酸、精氨酸）",
+        "brand": "康比特",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "精氨酸"
+        ],
+        "dosageForm": "运动饮料",
+        "note": "国内旗舰店"
       }
     ],
     "costs": {
@@ -2658,6 +2997,66 @@
           "糖"
         ],
         "dosageForm": "运动饮料"
+      },
+      {
+        "name": "蒙牛 迈胜 无糖电解质固体饮料",
+        "brand": "蒙牛 迈胜",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "固体饮料",
+        "note": "国内电商在售"
+      },
+      {
+        "name": "健力宝 电解质水",
+        "brand": "健力宝",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "饮料",
+        "note": "国内商超/电商在售"
+      },
+      {
+        "name": "宝矿力水特 电解质饮料（Pocari Sweat）",
+        "brand": "宝矿力水特",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "饮料",
+        "note": "国内在售"
+      },
+      {
+        "name": "外星人 电解质水",
+        "brand": "元气森林 外星人",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "饮料",
+        "note": "国内电商在售"
+      },
+      {
+        "name": "尖叫 电解质功能饮料（农夫山泉）",
+        "brand": "农夫山泉 尖叫",
+        "url": "https://item.jd.com/10185689211148.html",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "功能饮料",
+        "note": "国内电商在售"
+      },
+      {
+        "name": "佳得乐 电解质饮料（Gatorade）",
+        "brand": "Gatorade 佳得乐",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "饮料",
+        "note": "国内在售"
       }
     ],
     "costs": {
@@ -2925,6 +3324,46 @@
           "水解分离乳清"
         ],
         "dosageForm": "粉末"
+      },
+      {
+        "name": "汤臣倍健 蛋白质粉（乳清蛋白质粉）",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com/",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "国内旗舰店在售"
+      },
+      {
+        "name": "肌肉科技 乳清蛋白粉（MuscleTech）",
+        "brand": "MuscleTech 肌肉科技",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Optimum Nutrition 黄金标准 乳清蛋白粉",
+        "brand": "Optimum Nutrition",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "康比特 乳清蛋白粉",
+        "brand": "康比特",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "国内旗舰店在售"
       }
     ],
     "costs": {
@@ -3177,6 +3616,70 @@
           "蔓越莓"
         ],
         "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "汤臣倍健 Yep 蔓越莓150亿益生菌 30袋",
+        "brand": "汤臣倍健",
+        "url": "https://item.jd.com/100287757572.html",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "益生菌",
+          "膳食纤维"
+        ],
+        "dosageForm": "粉剂（袋装）",
+        "note": "国内旗舰店（京东在售）"
+      },
+      {
+        "name": "汤臣倍健 蔓越莓益生菌粉",
+        "brand": "汤臣倍健",
+        "url": "https://www.taobao.com/list/item/b0Y4N3pscTEwa2NqelViWkh6UURBdz09.htm",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "益生菌",
+          "益生元"
+        ],
+        "dosageForm": "粉剂",
+        "note": "国内旗舰店（天猫/淘宝在售）"
+      },
+      {
+        "name": "Swisse 高浓度蔓越莓胶囊 90粒",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "A型原花青素",
+          "维生素C"
+        ],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Swisse 高强度蔓越莓胶囊 25000mg",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "A型原花青素"
+        ],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Swisse 高浓度蔓越莓胶囊 30粒",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "A型原花青素",
+          "维生素C"
+        ],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
       }
     ],
     "costs": {
@@ -3433,6 +3936,58 @@
           "大豆异黄酮"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "汤臣倍健 大豆异黄酮婷好青春胶囊 60粒",
+        "brand": "汤臣倍健",
+        "url": "https://item.jd.com/10165201035430.html",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店（京东在售）"
+      },
+      {
+        "name": "汤臣倍健 大豆异黄酮胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://www.taobao.com/list/item/K1R6TlVKL09NNFVWU25tZ0gyeXVidz09.htm",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店（天猫/淘宝在售）"
+      },
+      {
+        "name": "北京同仁堂 大豆异黄酮软胶囊",
+        "brand": "同仁堂",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "软胶囊",
+        "note": "多平台在售"
+      },
+      {
+        "name": "康恩贝 大豆异黄酮软胶囊",
+        "brand": "康恩贝",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "软胶囊",
+        "note": "多平台在售"
+      },
+      {
+        "name": "21金维他 大豆异黄酮维E片",
+        "brand": "21金维他",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "维生素E"
+        ],
+        "dosageForm": "片剂",
+        "note": "多平台在售"
       }
     ],
     "costs": {

@@ -1,6 +1,6 @@
 // 保健食品原料数据库主入口
 // 由 build_from_json.py 自动生成
-// 生成时间: 2026-07-10 10:51:23
+// 生成时间: 2026-07-10 11:19:21
 
 import { ingredients } from './ingredients';
 

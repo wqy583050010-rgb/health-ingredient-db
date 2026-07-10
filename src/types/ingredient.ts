@@ -36,6 +36,7 @@ export interface ProductCase {
   sales: string;
   otherIngredients: string[];
   dosageForm: string;
+  note?: string; // 备注：如"跨境直邮（天猫国际在售）"/"国内旗舰店"
 }
 
 export interface CostEstimate {

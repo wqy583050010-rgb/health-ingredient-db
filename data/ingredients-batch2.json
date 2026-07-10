@@ -191,7 +191,41 @@
         "Scorei R, et al. Biol Trace Elem Res. 2011;143(3):1223-1238."
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "NOW Foods Boron 硼 3mg 250粒",
+        "brand": "NOW Foods",
+        "url": "https://www.taobao.com/list/item/631618297166.htm",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（淘宝在售）"
+      },
+      {
+        "name": "Life Extension 柠檬酸硼 Boron 3mg",
+        "brand": "Life Extension",
+        "url": "https://www.taobao.com/list/item/SU5RYldvaE9FV1oyckNzeElUc3NYdz09.htm",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮在售",
+        "otherIngredients": [
+          "天冬氨酸",
+          "甘氨酸"
+        ],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（淘宝在售）"
+      },
+      {
+        "name": "Pure Bio Boron 纯生物硼胶囊",
+        "brand": "Alibaba Supplier",
+        "url": "https://chinese.alibaba.com/product-detail/Pure-Bio-Boron-Capsule-Boron-healthcare-1600424651725.html",
+        "price": "以询盘为准",
+        "sales": "跨境B2B供应",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境B2B保健补充剂"
+      }
+    ],
     "costs": {
       "rawMaterial": "约¥200-600/kg（硼甘氨酸）；果糖硼酸钙约¥300-800/kg",
       "dosageFormCost": [
@@ -3531,7 +3565,66 @@
         "Yu MS, et al. Exp Neurol. 2005;194(1):130-141."
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "九龙星牌海参黄芪枸杞胶囊(蓝帽)",
+        "brand": "九龙星",
+        "url": "http://www.1168.tv/news_307075.html",
+        "price": "以电商商品页为准",
+        "sales": "保健食品(蓝帽)招商在售",
+        "otherIngredients": [
+          "海参",
+          "黄芪",
+          "枸杞子"
+        ],
+        "dosageForm": "胶囊",
+        "note": "蓝帽保健食品，每100g含粗多糖100mg"
+      },
+      {
+        "name": "盈合 食品级枸杞多糖(50% UV)",
+        "brand": "盈合",
+        "url": "https://china.guidechem.com/trade/pdetail24557496.html",
+        "price": "¥218-220/千克",
+        "sales": "厂家现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "枸杞多糖原料供应商"
+      },
+      {
+        "name": "上海钦诚生物 枸杞多糖(标准品)",
+        "brand": "上海钦诚生物",
+        "url": "https://china.guidechem.com/trade/pdetail19996162.html",
+        "price": "¥170/瓶",
+        "sales": "现货供应",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "枸杞多糖标准品/试剂"
+      },
+      {
+        "name": "葡萄籽灵芝枸杞胶囊(蓝帽,男款)",
+        "brand": "",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "淘宝/微博在售保健食品",
+        "otherIngredients": [
+          "葡萄籽",
+          "灵芝",
+          "枸杞"
+        ],
+        "dosageForm": "胶囊",
+        "note": "蓝帽保健食品"
+      },
+      {
+        "name": "枸杞多糖50%/90% 高含量原料",
+        "brand": "",
+        "url": "https://www.taobao.com/list/item/RWI5NUFGMS9XWVJFL1g0M3NGQitnZz09.htm",
+        "price": "以电商商品页为准",
+        "sales": "淘宝现货",
+        "otherIngredients": [],
+        "dosageForm": "粉剂(原料)",
+        "note": "枸杞多糖原料在售"
+      }
+    ],
     "costs": {
       "rawMaterial": "约¥300-600/kg（枸杞多糖40%提取物）",
       "dosageFormCost": [
@@ -3802,7 +3895,74 @@
         "Miller K, et al. J Med Food. 2019;22(3):257-263."
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "同仁堂 蓝莓叶黄素(官方正品)",
+        "brand": "同仁堂",
+        "url": "https://www.taobao.com/list/item/VWVQK05RTXl3bFp1b3A4MldqRTVCQT09.htm",
+        "price": "以电商商品页为准",
+        "sales": "国内旗舰店在售",
+        "otherIngredients": [
+          "叶黄素",
+          "蓝莓/越橘提取物"
+        ],
+        "dosageForm": "颗粒/片剂",
+        "note": "国内旗舰店"
+      },
+      {
+        "name": "蓝莓叶黄素酯压片糖果",
+        "brand": "",
+        "url": "https://www.taobao.com/list/item/VS8yaHNJa0F2ZkxBdXhPNndQTGgrdz09.htm",
+        "price": "以电商商品页为准",
+        "sales": "淘宝在售",
+        "otherIngredients": [
+          "叶黄素酯",
+          "蓝莓提取物",
+          "越橘提取物"
+        ],
+        "dosageForm": "压片糖果",
+        "note": "护眼类压片糖果"
+      },
+      {
+        "name": "汤臣倍健 蓝莓叶黄素酯",
+        "brand": "汤臣倍健",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "国内旗舰店在售",
+        "otherIngredients": [
+          "叶黄素酯",
+          "蓝莓提取物"
+        ],
+        "dosageForm": "片剂",
+        "note": "国内品牌多平台在售"
+      },
+      {
+        "name": "康恩贝 蓝莓叶黄素",
+        "brand": "康恩贝",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "叶黄素",
+          "蓝莓提取物"
+        ],
+        "dosageForm": "片剂",
+        "note": "国内品牌多平台在售"
+      },
+      {
+        "name": "修正 蓝莓叶黄素",
+        "brand": "修正",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "叶黄素",
+          "蓝莓提取物"
+        ],
+        "dosageForm": "片剂",
+        "note": "国内品牌多平台在售"
+      }
+    ],
     "costs": {
       "rawMaterial": "约¥400-700/kg（蓝莓提取物25%花青素）",
       "dosageFormCost": [
@@ -4398,7 +4558,68 @@
         "Lee NH, et al. J Ginseng Res. 2012;36(1):14-20."
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "今幸 人参皂苷Rh2胶囊",
+        "brand": "今幸",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "国内品牌在售",
+        "otherIngredients": [
+          "人参皂苷Rh2"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内人参皂苷品牌(十大品牌网收录)"
+      },
+      {
+        "name": "同仁堂 人参皂苷/人参片",
+        "brand": "同仁堂",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "人参提取物"
+        ],
+        "dosageForm": "片剂/粉剂",
+        "note": "国内品牌多平台在售"
+      },
+      {
+        "name": "康恩贝 人参皂苷",
+        "brand": "康恩贝",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "人参皂苷"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内品牌多平台在售"
+      },
+      {
+        "name": "修正 人参皂苷",
+        "brand": "修正",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "人参皂苷"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内品牌多平台在售"
+      },
+      {
+        "name": "汤臣倍健 人参皂苷",
+        "brand": "汤臣倍健",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "人参皂苷"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内品牌多平台在售"
+      }
+    ],
     "costs": {
       "rawMaterial": "约¥800-2000/kg（人参提取物皂苷≥30%）；红参浓缩物约¥3000-6000/kg",
       "dosageFormCost": [
@@ -4758,7 +4979,7 @@
     "nameEn": "Rhodiola Rosea Extract",
     "category": "抗疲劳/提神",
     "categoryId": "energy",
-    "popularity": 3,
+    "popularity": 4,
     "summary": "景天科红景天（Rhodiola rosea）根提取物，以红景天苷（salidroside）与络塞维（rosavin）为主要活性成分。北欧与西藏传统适应原植物，现代研究证实具有抗疲劳、抗应激、改善认知与神经保护作用。",
     "chemicalStructure": {
       "smiles": "OC[C@H]1O[C@@H](OC2=CC(O)=C(O)C=C2CCO)[C@H](O)[C@@H](O)[C@@H]1O",
@@ -4977,6 +5198,62 @@
           "亮氨酸"
         ],
         "dosageForm": "硬胶囊"
+      },
+      {
+        "name": "北京同仁堂 红景天胶囊 400mg/粒×120粒",
+        "brand": "北京同仁堂",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "京东在售(蓝帽)",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店"
+      },
+      {
+        "name": "北京同仁堂 红景天人参胶囊",
+        "brand": "北京同仁堂",
+        "url": "https://goods.taobao.com/t/hongjingtian_370/d657dc87102dae2aec0f9e59faa6943a.html",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "人参"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店"
+      },
+      {
+        "name": "同仁堂 西洋参黄芪红景天葡萄籽胶囊",
+        "brand": "北京同仁堂",
+        "url": "https://cm.tongrentang.com/cn/menu212/detail/22.html",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "西洋参",
+          "黄芪",
+          "葡萄籽"
+        ],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店(官网)"
+      },
+      {
+        "name": "中科 红景天提取物胶囊",
+        "brand": "中科",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "京东在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店"
+      },
+      {
+        "name": "佳汇泰 红景天胶囊（高原反应常备）",
+        "brand": "佳汇泰",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "京东在售(蓝帽)",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "国内旗舰店"
       }
     ],
     "costs": {
@@ -5518,7 +5795,69 @@
         "De Luca A, et al. Amino Acids. 2015;47(5):881-895."
       ]
     },
-    "productCases": [],
+    "productCases": [
+      {
+        "name": "汤臣倍健 鱼油牛磺酸软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://www.taobao.com/list/item/WDJpUDlrQjlPaEZHRHYxdlBXMi91QT09.htm",
+        "price": "以电商商品页为准",
+        "sales": "国内旗舰店在售",
+        "otherIngredients": [
+          "鱼油",
+          "DHA",
+          "牛磺酸"
+        ],
+        "dosageForm": "软胶囊",
+        "note": "国内旗舰店(国食健字G20090418)"
+      },
+      {
+        "name": "汤臣倍健 鱼油牛磺酸软胶囊 90粒",
+        "brand": "汤臣倍健",
+        "url": "https://my.world.taobao.com/item/a2JCZjF1R3liMzVmOVJRZVRPcHpjUT09.htm",
+        "price": "以电商商品页为准",
+        "sales": "已售/在售",
+        "otherIngredients": [
+          "鱼油",
+          "DHA"
+        ],
+        "dosageForm": "软胶囊",
+        "note": "儿童青少年孕妇适用"
+      },
+      {
+        "name": "汤臣倍健 女士复合维生素牛磺酸片",
+        "brand": "汤臣倍健",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "国内旗舰店在售",
+        "otherIngredients": [
+          "多种维生素",
+          "牛磺酸",
+          "VC"
+        ],
+        "dosageForm": "片剂",
+        "note": "运动营养/复合维生素"
+      },
+      {
+        "name": "NOW Foods Taurine 牛磺酸",
+        "brand": "NOW Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际在售）"
+      },
+      {
+        "name": "Swanson Taurine 牛磺酸",
+        "brand": "Swanson",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际在售）"
+      }
+    ],
     "costs": {
       "rawMaterial": "约¥40-80/kg（牛磺酸≥99%）",
       "dosageFormCost": [
@@ -5836,6 +6175,46 @@
           "Creapure®一水肌酸"
         ],
         "dosageForm": "粉末冲剂"
+      },
+      {
+        "name": "MuscleTech 肌肉科技 白金纯肌酸 400g 一水肌酸",
+        "brand": "MuscleTech",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Optimum Nutrition 微粉化肌酸一水合物粉 Creatine Powder 299g",
+        "brand": "Optimum Nutrition",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "粉剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Optimum Nutrition Creatine 2500 肌酸丸 100粒",
+        "brand": "Optimum Nutrition",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "NOW Foods 诺奥 一水肌酸胶囊 Creatine 120粒",
+        "brand": "NOW Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
       }
     ],
     "costs": {
@@ -7647,6 +8026,53 @@
           "二氧化钛"
         ],
         "dosageForm": "软胶囊"
+      },
+      {
+        "name": "汤臣倍健 辅酶Q10维生素E软胶囊",
+        "brand": "汤臣倍健",
+        "url": "https://www.by-health.com/",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "维生素E"
+        ],
+        "dosageForm": "软胶囊",
+        "note": "国内旗舰店在售"
+      },
+      {
+        "name": "Swisse 斯维诗 辅酶Q10软胶囊",
+        "brand": "Swisse 斯维诗",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "维生素E"
+        ],
+        "dosageForm": "软胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "普丽普莱 辅酶Q10软胶囊（Puritan's Pride）",
+        "brand": "Puritan's Pride 普丽普莱",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "软胶囊",
+        "note": "跨境直邮（天猫国际/京东国际/Amazon在售）"
+      },
+      {
+        "name": "NOW 诺奥 辅酶Q10软胶囊",
+        "brand": "NOW Foods 诺奥",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "维生素E",
+          "卵磷脂"
+        ],
+        "dosageForm": "软胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
       }
     ],
     "costs": {
@@ -10641,6 +11067,58 @@
           "二氧化硅"
         ],
         "dosageForm": "胶囊"
+      },
+      {
+        "name": "汤臣倍健 褪黑素片（牛奶味90片）",
+        "brand": "汤臣倍健",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店"
+      },
+      {
+        "name": "Swisse 斯维诗 褪黑素片",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Natrol 褪黑素片/软糖",
+        "brand": "Natrol",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂/软糖",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "OLLY 褪黑素软糖（含L-茶氨酸）",
+        "brand": "OLLY",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [
+          "L-茶氨酸"
+        ],
+        "dosageForm": "软糖",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "康恩贝 褪黑素片",
+        "brand": "康恩贝",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店"
       }
     ],
     "costs": {
@@ -10952,6 +11430,56 @@
           "硬脂酸镁"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "NOW Foods 甘氨酸镁 Magnesium Glycinate 180片",
+        "brand": "NOW Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Doctor's Best 多特倍斯 高吸收螯合镁（甘氨酸镁）",
+        "brand": "Doctor's Best",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Pure Encapsulations 倍宜 甘氨酸镁",
+        "brand": "Pure Encapsulations",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Sports Research 甘氨酸镁软胶囊",
+        "brand": "Sports Research",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "软胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Nature Made 甘氨酸镁片",
+        "brand": "Nature Made",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
       }
     ],
     "costs": {
@@ -11316,7 +11844,7 @@
     "nameEn": "L-Theanine",
     "category": "改善睡眠",
     "categoryId": "sleep",
-    "popularity": 3,
+    "popularity": 4,
     "summary": "茶叶中特有的氨基酸，可促进α脑波产生、降低焦虑感而不引起嗜睡，与咖啡因协同可提升专注力，单独使用有助睡眠。",
     "chemicalStructure": {
       "smiles": "CCCCC(N)C(=O)O",
@@ -11546,6 +12074,46 @@
           "微粉硅胶"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "NOW Foods L-Theanine 左旋茶氨酸 200mg 胶囊 120粒",
+        "brand": "Now Foods",
+        "url": "https://item.jd.com/10208179600477.html",
+        "price": "以电商商品页为准",
+        "sales": "京东国际在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（京东国际在售）"
+      },
+      {
+        "name": "Doctor's Best 多特倍斯 L-茶氨酸素食胶囊 150mg 90粒",
+        "brand": "Doctor's Best",
+        "url": "https://www.smzdm.com/p/162508942/",
+        "price": "约¥152.68/瓶(京东)",
+        "sales": "京东在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（京东国际在售）"
+      },
+      {
+        "name": "Swisse 斯维诗 L-茶氨酸舒缓胶囊",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮（天猫国际/京东国际在售）",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "汤臣倍健 L-茶氨酸片",
+        "brand": "汤臣倍健 (BYHEALTH)",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店"
       }
     ],
     "costs": {
@@ -11621,7 +12189,7 @@
     "nameEn": "Gamma-Aminobutyric Acid (GABA)",
     "category": "改善睡眠",
     "categoryId": "sleep",
-    "popularity": 3,
+    "popularity": 4,
     "summary": "大脑中最主要的抑制性神经递质，可降低神经兴奋性、促进放松和睡眠。口服GABA已被证明可降低压力感并改善睡眠质量。",
     "chemicalStructure": {
       "smiles": "NCCCC(=O)O",
@@ -11853,6 +12421,60 @@
           "微粉硅胶"
         ],
         "dosageForm": "片剂"
+      },
+      {
+        "name": "汤臣倍健 GABA 闪睡片 氨基丁酸 30粒",
+        "brand": "汤臣倍健 (BYHEALTH)",
+        "url": "https://item.jd.com/10207216308499.html",
+        "price": "以电商商品页为准",
+        "sales": "京东在售",
+        "otherIngredients": [
+          "褪黑素"
+        ],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店(京东)"
+      },
+      {
+        "name": "北京同仁堂 酸枣仁γ-氨基丁酸 GABA",
+        "brand": "北京同仁堂",
+        "url": "https://item.jd.com/100245527625.html",
+        "price": "以电商商品页为准",
+        "sales": "京东在售",
+        "otherIngredients": [
+          "酸枣仁"
+        ],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店(京东)"
+      },
+      {
+        "name": "Swisse 斯维诗 GABA 氨基丁酸舒缓片",
+        "brand": "Swisse",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮（天猫国际/京东国际在售）",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Now Foods GABA 氨基丁酸胶囊",
+        "brand": "Now Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮（天猫国际/京东国际在售）",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "仁和 GABA 氨基丁酸睡眠片",
+        "brand": "仁和",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "多平台在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "国内旗舰店"
       }
     ],
     "costs": {
@@ -12539,7 +13161,7 @@
     "nameEn": "Ashwagandha (Withania somnifera)",
     "category": "改善睡眠",
     "categoryId": "sleep",
-    "popularity": 3,
+    "popularity": 4,
     "summary": "阿育吠陀传统适应原草药，主要活性成分为醉茄内酯，可降低皮质醇、改善压力和焦虑，间接改善睡眠质量和失眠。",
     "chemicalStructure": {
       "smiles": "CC(C)CCCC(C)C1=CC(=O)CC2C1(C)CCCC2(C)C",
@@ -12769,6 +13391,46 @@
           "天然调味"
         ],
         "dosageForm": "软糖"
+      },
+      {
+        "name": "Swisse 斯维诗 南非醉茄镇静减压片 60片",
+        "brand": "Swisse",
+        "url": "https://item.jd.com/10209296104829.html",
+        "price": "以电商商品页为准",
+        "sales": "京东国际在售",
+        "otherIngredients": [],
+        "dosageForm": "片剂",
+        "note": "跨境直邮（京东国际在售）"
+      },
+      {
+        "name": "Pure Encapsulations 倍宜 南非醉茄胶囊 KSM66",
+        "brand": "Pure Encapsulations",
+        "url": "https://item.jd.com/10199972523356.html",
+        "price": "以电商商品页为准",
+        "sales": "京东国际在售",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（京东国际在售）"
+      },
+      {
+        "name": "GNC 南非醉茄胶囊（适应原）",
+        "brand": "GNC",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮（天猫国际/京东国际在售）",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
+      },
+      {
+        "name": "Now Foods 南非醉茄胶囊",
+        "brand": "Now Foods",
+        "url": "",
+        "price": "以电商商品页为准",
+        "sales": "跨境直邮（天猫国际/京东国际在售）",
+        "otherIngredients": [],
+        "dosageForm": "胶囊",
+        "note": "跨境直邮（天猫国际/京东国际在售）"
       }
     ],
     "costs": {
